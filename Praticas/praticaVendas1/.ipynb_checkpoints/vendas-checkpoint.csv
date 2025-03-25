@@ -1,0 +1,21 @@
+id_venda,data,produto,categoria,valor,vendedor
+1,2024-03-01,Notebook,Eletrônicos,4500,Carlos
+2,2024-03-02,Smartphone,Eletrônicos,2500,Ana
+3,2024-03-03,Tablet,Eletrônicos,1200,João
+4,2024-03-04,Headset,Acessórios,350,Mariana
+5,2024-03-05,Monitor,Eletrônicos,1500,Pedro
+6,2024-03-06,Teclado,Periféricos,200,Lucas
+7,2024-03-07,Mouse,Periféricos,150,Fernanda
+8,2024-03-08,Impressora,Impressão,800,Rafael
+9,2024-03-09,Cadeira Gamer,Móveis,900,Beatriz
+10,2024-03-10,Webcam,Acessórios,300,Tiago
+11,2024-03-11,Notebook,Eletrônicos,4800,Carlos
+12,2024-03-12,Smartphone,Eletrônicos,2700,Ana
+13,2024-03-13,Tablet,Eletrônicos,1100,João
+14,2024-03-14,Headset,Acessórios,400,Mariana
+15,2024-03-15,Monitor,Eletrônicos,1600,Pedro
+16,2024-03-16,Teclado,Periféricos,180,Lucas
+17,2024-03-17,Mouse,Periféricos,130,Fernanda
+18,2024-03-18,Impressora,Impressão,850,Rafael
+19,2024-03-19,Cadeira Gamer,Móveis,950,Beatriz
+20,2024-03-20,Webcam,Acessórios,320,Tiago
