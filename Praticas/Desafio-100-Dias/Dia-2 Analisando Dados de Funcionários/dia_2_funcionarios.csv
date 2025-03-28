@@ -1,0 +1,21 @@
+ID_Funcionario,Nome,Idade,Cargo,Salario,Tempo_Empresa (anos)
+1,Funcionario_1,59,Analista,10844,4
+2,Funcionario_2,26,Analista,10251,11
+3,Funcionario_3,27,Coordenador,3294,2
+4,Funcionario_4,59,Técnico,6289,9
+5,Funcionario_5,23,Técnico,6407,3
+6,Funcionario_6,53,Técnico,11445,2
+7,Funcionario_7,31,Técnico,14917,12
+8,Funcionario_8,46,Gerente,9957,4
+9,Funcionario_9,43,Analista,10977,9
+10,Funcionario_10,52,Técnico,4689,7
+11,Funcionario_11,35,Coordenador,14405,7
+12,Funcionario_12,32,Gerente,8407,13
+13,Funcionario_13,31,Gerente,12548,3
+14,Funcionario_14,23,Coordenador,5936,4
+15,Funcionario_15,39,Analista,8916,9
+16,Funcionario_16,26,Técnico,11402,14
+17,Funcionario_17,57,Gerente,8632,1
+18,Funcionario_18,54,Analista,9857,12
+19,Funcionario_19,32,Coordenador,3524,5
+20,Funcionario_20,47,Gerente,7889,5
