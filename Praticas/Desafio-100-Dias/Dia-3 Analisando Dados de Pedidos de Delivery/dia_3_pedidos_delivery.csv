@@ -1,0 +1,21 @@
+ID_Pedido,Restaurante,Valor_Pedido,Tempo_Entrega (min),Avaliacao_Cliente
+1,Pizzaria,77.16,87,3.0
+2,Sushi,21.59,22,1.9
+3,Pizzaria,144.52,62,4.2
+4,Pizzaria,131.74,33,4.0
+5,Sushi,26.99,70,1.5
+6,Comida Árabe,74.91,44,2.2
+7,Sushi,49.12,22,1.7
+8,Comida Árabe,141.51,77,2.5
+9,Pizzaria,85.66,86,2.1
+10,Pizzaria,34.66,64,2.9
+11,Hamburgueria,108.45,61,4.5
+12,Hamburgueria,143.63,37,3.9
+13,Pizzaria,41.69,41,3.6
+14,Sushi,78.33,42,1.3
+15,Pizzaria,39.24,66,3.7
+16,Pizzaria,132.96,36,4.3
+17,Comida Árabe,27.54,31,3.4
+18,Comida Árabe,54.72,48,4.6
+19,Comida Árabe,30.23,57,1.6
+20,Comida Árabe,61.57,33,2.7
