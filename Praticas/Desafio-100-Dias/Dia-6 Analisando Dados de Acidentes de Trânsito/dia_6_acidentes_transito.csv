@@ -1,0 +1,21 @@
+ID_Acidente,Data,Local,Tipo_Acidente,Veiculos_Envolvidos,Gravidade
+1,2024-01-01,Rodovia Central,Colisão,1,Moderado
+2,2024-01-02,Rua Secundária,Colisão,4,Grave
+3,2024-01-03,Rua Secundária,Atropelamento,4,Moderado
+4,2024-01-03,Avenida Principal,Colisão,4,Leve
+5,2024-01-03,Praça da Cidade,Capotamento,4,Leve
+6,2024-01-06,Avenida Principal,Colisão,1,Moderado
+7,2024-01-07,Avenida Principal,Capotamento,4,Grave
+8,2024-02-04,Rua Secundária,Colisão,3,Leve
+9,2024-02-04,Rodovia Central,Capotamento,1,Grave
+10,2024-02-10,Rua Secundária,Atropelamento,2,Leve
+11,2024-02-11,Rua Secundária,Colisão,1,Grave
+12,2024-03-06,Praça da Cidade,Saída de Pista,4,Leve
+13,2024-03-13,Rua Secundária,Colisão,1,Leve
+14,2024-03-14,Rua Secundária,Saída de Pista,2,Grave
+15,2024-03-15,Rua Secundária,Capotamento,2,Moderado
+16,2024-04-16,Rodovia Central,Saída de Pista,3,Moderado
+17,2024-04-17,Praça da Cidade,Colisão,2,Leve
+18,2024-05-18,Rua Secundária,Saída de Pista,1,Moderado
+19,2024-05-19,Avenida Principal,Colisão,2,Leve
+20,2024-05-20,Avenida Principal,Saída de Pista,2,Grave
