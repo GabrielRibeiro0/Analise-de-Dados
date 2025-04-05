@@ -1,0 +1,21 @@
+ID_Doacao,Data,ONG,Valor_Doado,Tipo_Doador,Cidade
+1,2024-03-01,Criança Feliz,1562.11,Pessoa Jurídica,Rio de Janeiro
+2,2024-03-02,Saúde para Todos,806.67,Pessoa Jurídica,Curitiba
+3,2024-03-03,Saúde para Todos,1674.2,Pessoa Física,São Paulo
+4,2024-03-04,Saúde para Todos,1983.82,Pessoa Jurídica,Belo Horizonte
+5,2024-03-05,Criança Feliz,1186.15,Pessoa Física,Belo Horizonte
+6,2024-03-06,Saúde para Todos,1578.34,Pessoa Física,Salvador
+7,2024-03-07,Saúde para Todos,1955.33,Pessoa Jurídica,Rio de Janeiro
+8,2024-03-08,Ajuda Animal,650.42,Pessoa Física,Belo Horizonte
+9,2024-03-09,Verde Esperança,1271.37,Pessoa Física,Salvador
+10,2024-03-10,Verde Esperança,37.99,Pessoa Jurídica,São Paulo
+11,2024-03-11,Educar é Viver,956.75,Pessoa Jurídica,Rio de Janeiro
+12,2024-03-12,Saúde para Todos,1811.49,Pessoa Física,Rio de Janeiro
+13,2024-03-13,Saúde para Todos,1774.8,Pessoa Jurídica,Salvador
+14,2024-03-14,Saúde para Todos,765.37,Pessoa Jurídica,Belo Horizonte
+15,2024-03-15,Educar é Viver,214.77,Pessoa Física,Rio de Janeiro
+16,2024-03-16,Saúde para Todos,1977.97,Pessoa Jurídica,Curitiba
+17,2024-03-17,Educar é Viver,319.84,Pessoa Jurídica,Belo Horizonte
+18,2024-03-18,Criança Feliz,131.33,Pessoa Jurídica,Curitiba
+19,2024-03-19,Educar é Viver,1173.99,Pessoa Jurídica,Curitiba
+20,2024-03-20,Verde Esperança,1942.24,Pessoa Jurídica,São Paulo
