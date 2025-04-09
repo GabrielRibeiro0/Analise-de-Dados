@@ -1,0 +1,41 @@
+Atendente,Tempo_Atendimento_min,Satisfacao_Cliente,Tipo_Problema,Resolvido,Data
+Carla,54,1,Senha esquecida,True,2024-03-07
+Ana,50,3,Atualização,True,2024-03-06
+Carla,12,4,Senha esquecida,True,2024-03-05
+Ana,12,5,Erro no sistema,True,2024-03-07
+Carla,58,3,Erro no sistema,True,2024-03-11
+Elisa,11,2,Senha esquecida,True,2024-03-05
+Bruno,56,5,Conexão,False,2024-03-11
+Elisa,56,4,Atualização,True,2024-03-15
+Carla,20,2,Erro no sistema,True,2024-03-09
+Diego,27,4,Conexão,True,2024-03-01
+Carla,43,2,Atualização,True,2024-03-05
+Elisa,24,3,Erro no sistema,True,2024-03-14
+Carla,53,2,Senha esquecida,True,2024-03-08
+Carla,15,4,Instalação,True,2024-03-08
+Bruno,29,5,Erro no sistema,True,2024-03-01
+Diego,50,1,Conexão,True,2024-03-14
+Elisa,27,5,Atualização,True,2024-03-13
+Carla,41,5,Senha esquecida,True,2024-03-11
+Ana,35,4,Erro no sistema,True,2024-03-02
+Diego,24,5,Erro no sistema,True,2024-03-03
+Diego,10,4,Senha esquecida,True,2024-03-14
+Diego,5,1,Instalação,False,2024-03-05
+Diego,26,4,Senha esquecida,True,2024-03-02
+Bruno,52,4,Instalação,True,2024-03-07
+Carla,30,4,Erro no sistema,True,2024-03-13
+Ana,50,2,Instalação,True,2024-03-15
+Elisa,46,1,Senha esquecida,True,2024-03-02
+Diego,57,5,Instalação,True,2024-03-06
+Ana,40,2,Erro no sistema,True,2024-03-15
+Elisa,7,2,Atualização,True,2024-03-03
+Carla,22,3,Atualização,True,2024-03-11
+Carla,33,1,Atualização,True,2024-03-11
+Elisa,13,3,Conexão,True,2024-03-11
+Diego,42,3,Erro no sistema,True,2024-03-10
+Ana,18,3,Senha esquecida,True,2024-03-08
+Diego,52,2,Conexão,True,2024-03-15
+Carla,10,3,Conexão,True,2024-03-11
+Ana,30,5,Erro no sistema,True,2024-03-02
+Bruno,54,1,Erro no sistema,True,2024-03-08
+Ana,6,3,Instalação,True,2024-03-01
