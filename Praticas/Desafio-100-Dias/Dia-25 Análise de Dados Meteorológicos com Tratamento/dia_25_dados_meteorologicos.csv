@@ -1,0 +1,151 @@
+Cidade,Mês,Temperatura_Média_C,Precipitação_mm
+Belo Horizonte,Set,22.5,115.2
+Salvador,Set,16.8,84.8
+São Paulo,Set,16.6,148.5
+Porto Alegre,Mar,30.6,87.9
+Porto Alegre,Nov,24.1,197.0
+Salvador,Mar,23.1,297.0
+São Paulo,Jan,32.6,236.4
+São Paulo,Out,26.9,0.0
+Belo Horizonte,Set,26.7,130.3
+Rio de Janeiro,Abr,15.0,257.6
+São Paulo,Dez,21.3,109.1
+Salvador,Nov,28.5,215.2
+São Paulo,Fev,17.4,209.1
+São Paulo,Nov,24.3,160.6
+Porto Alegre,Mai,,106.1
+Salvador,Dez,17.6,263.6
+Rio de Janeiro,Ago,29.7,33.3
+Rio de Janeiro,Out,25.3,103.0
+São Paulo,Out,19.8,300.0
+Porto Alegre,Mai,24.9,239.4
+São Paulo,Fev,20.5,133.3
+Salvador,Mai,24.5,278.8
+Rio de Janeiro,Fev,33.0,284.8
+Rio de Janeiro,Jul,25.9,124.2
+Porto Alegre,Mai,27.3,290.9
+Porto Alegre,Nov,22.9,293.9
+Belo Horizonte,Nov,20.3,90.9
+Rio de Janeiro,Jan,26.7,N/A
+Belo Horizonte,Jul,20.5,75.8
+Salvador,Ago,33.4,245.5
+Salvador,Abr,24.5,30.3
+Belo Horizonte,Ago,23.7,100.0
+Belo Horizonte,Jan,25.5,263.6
+Belo Horizonte,Set,25.3,151.5
+Salvador,Mar,18.2,nan
+Salvador,Mai,26.3,9.1
+Rio de Janeiro,Mai,17.8,269.7
+Salvador,Ago,30.8,272.7
+Salvador,Dez,25.1,184.8
+Rio de Janeiro,Jan,16.6,118.2
+Salvador,Mai,22.5,
+São Paulo,Jun,20.5,69.7
+São Paulo,Nov,34.2,230.3
+São Paulo,Jan,23.5,6.1
+Belo Horizonte,Jan,23.3,190.9
+São Paulo,Abr,24.9,233.3
+Rio de Janeiro,Nov,17.6,15.2
+Belo Horizonte,Out,17.8,218.2
+Rio de Janeiro,Jan,22.5,66.7
+São Paulo,Nov,21.7,87.9
+Belo Horizonte,Ago,28.3,112.1
+Salvador,Mar,27.1,48.5
+São Paulo,Abr,28.9,66.7
+Porto Alegre,Out,23.9,278.8
+Belo Horizonte,Nov,22.3,175.8
+São Paulo,Mai,26.9,300.0
+Rio de Janeiro,Abr,31.6,130.3
+Salvador,Dez,32.2,193.9
+Salvador,Mai,31.4,154.5
+Salvador,Jul,23.3,100.0
+Porto Alegre,Jan,17.8,15.2
+Porto Alegre,Mai,33.6,130.3
+Porto Alegre,Jun,29.5,75.8
+Porto Alegre,Mar,20.3,200.0
+Salvador,Set,29.3,12.1
+Porto Alegre,Jan,20.9,293.9
+São Paulo,Mai,23.5,93.9
+Salvador,Mar,29.7,93.9
+Salvador,Nov,21.5,118.2
+Rio de Janeiro,Jul,21.7,100.0
+Salvador,Jul,33.0,190.9
+Rio de Janeiro,Ago,26.3,172.7
+Belo Horizonte,Abr,24.5,236.4
+São Paulo,Ago,33.8,257.6
+São Paulo,Fev,18.4,33.3
+Rio de Janeiro,Fev,20.3,136.4
+Rio de Janeiro,Abr,17.4,142.4
+Salvador,Mar,22.1,151.5
+Belo Horizonte,Jun,17.8,57.6
+Salvador,Ago,32.0,72.7
+Salvador,Set,17.0,221.2
+Porto Alegre,Jun,23.7,90.9
+Belo Horizonte,Mai,34.8,190.9
+São Paulo,Nov,31.2,269.7
+Porto Alegre,Ago,nan,218.2
+São Paulo,Set,24.5,27.3
+Porto Alegre,Mai,25.7,169.7
+Porto Alegre,Ago,23.7,190.9
+São Paulo,Nov,29.7,181.8
+São Paulo,Nov,30.6,287.9
+Porto Alegre,Nov,28.5,175.8
+São Paulo,Jan,22.3,163.6
+São Paulo,Abr,,151.5
+São Paulo,Fev,16.8,54.5
+Porto Alegre,Nov,19.2,187.9
+Rio de Janeiro,Ago,28.9,84.8
+Porto Alegre,Mai,28.3,148.5
+Porto Alegre,Mai,28.7,290.9
+Salvador,Dez,32.8,42.4
+Rio de Janeiro,Nov,19.8,224.2
+Belo Horizonte,Nov,20.3,93.9
+Porto Alegre,Jul,20.7,3.0
+Rio de Janeiro,Nov,18.8,145.5
+Rio de Janeiro,Mar,26.7,263.6
+Porto Alegre,Dez,31.8,97.0
+Porto Alegre,Jul,26.1,15.2
+Salvador,Jul,33.6,33.3
+São Paulo,Fev,16.4,260.6
+Porto Alegre,Mar,17.0,115.2
+São Paulo,Abr,23.5,12.1
+Belo Horizonte,Jul,16.4,109.1
+Porto Alegre,Jan,nan,57.6
+Porto Alegre,Out,15.2,51.5
+Belo Horizonte,Jul,17.4,233.3
+Porto Alegre,Abr,33.0,27.3
+Rio de Janeiro,Dez,21.7,63.6
+Salvador,Jul,20.7,106.1
+São Paulo,Ago,31.8,133.3
+Porto Alegre,Jan,20.7,63.6
+Salvador,Jun,26.9,0.0
+São Paulo,Out,33.2,81.8
+Belo Horizonte,Set,23.9,175.8
+Rio de Janeiro,Fev,19.4,172.7
+Salvador,Out,29.7,139.4
+Porto Alegre,Ago,24.9,51.5
+Porto Alegre,Jan,27.7,227.3
+Salvador,Jul,32.8,130.3
+Porto Alegre,Abr,22.9,184.8
+São Paulo,Mar,28.1,245.5
+Salvador,Dez,20.7,200.0
+Salvador,Nov,17.0,266.7
+Salvador,Jun,27.9,97.0
+Salvador,Fev,32.4,260.6
+Rio de Janeiro,Mar,16.0,63.6
+Salvador,Set,31.2,57.6
+Porto Alegre,Jan,19.0,24.2
+Belo Horizonte,Ago,35.0,272.7
+Rio de Janeiro,Set,16.2,181.8
+São Paulo,Abr,31.8,206.1
+São Paulo,Dez,24.5,142.4
+Salvador,Set,19.0,145.5
+Rio de Janeiro,Jan,27.7,84.8
+Porto Alegre,Out,25.9,93.9
+Porto Alegre,Mai,22.3,93.9
+Rio de Janeiro,Ago,33.6,263.6
+Belo Horizonte,Jun,16.6,124.2
+Porto Alegre,Dez,26.1,118.2
+Porto Alegre,Out,20.7,254.5
+Salvador,Set,29.1,227.3
+Belo Horizonte,Mai,23.5,39.4
