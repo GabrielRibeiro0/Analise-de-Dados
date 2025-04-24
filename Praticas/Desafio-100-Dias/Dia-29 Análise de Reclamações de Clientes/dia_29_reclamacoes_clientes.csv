@@ -1,0 +1,301 @@
+Cliente,Data_Reclamacao,Tipo,Status,Canal
+Cliente_75,2024-11-15,Atendimento ruim,Resolvido,Chat
+Cliente_75,2025-02-26,Outros,Sem resposta,Redes Sociais
+Cliente_33,2024-11-05,Cobrança indevida,Resolvido,E-mail
+Cliente_41,2025-03-20,Atendimento ruim,Em andamento,Redes Sociais
+Cliente_10,2025-01-11,Cobrança indevida,Sem resposta,E-mail
+Cliente_81,2024-11-13,Atraso na entrega,Resolvido,E-mail
+Cliente_69,2024-10-12,Cobrança indevida,Sem resposta,Telefone
+Cliente_13,2024-12-23,Outros,Resolvido,Redes Sociais
+Cliente_8,2025-03-30,Atendimento ruim,Sem resposta,E-mail
+Cliente_62,2025-01-07,Produto com defeito,Resolvido,Chat
+Cliente_78,2024-10-18,Outros,Sem resposta,Telefone
+Cliente_37,2025-01-06,Atendimento ruim,Resolvido,Chat
+Cliente_64,2024-10-08,Outros,Resolvido,Telefone
+Cliente_26,2025-03-12,Atraso na entrega,Em andamento,E-mail
+Cliente_32,2024-11-25,Atraso na entrega,Em andamento,Chat
+Cliente_20,2025-02-19,Cobrança indevida,Em andamento,E-mail
+Cliente_57,2024-12-08,Atendimento ruim,Sem resposta,E-mail
+Cliente_49,2025-02-22,Outros,Em andamento,Chat
+Cliente_41,2025-03-03,Atraso na entrega,Em andamento,Telefone
+Cliente_42,2024-12-24,Produto com defeito,Em andamento,Telefone
+Cliente_76,2024-12-18,Atraso na entrega,Sem resposta,E-mail
+Cliente_52,2025-02-16,Outros,Resolvido,E-mail
+Cliente_64,2024-10-08,Produto com defeito,Sem resposta,Telefone
+Cliente_38,2024-10-07,Produto com defeito,Resolvido,E-mail
+Cliente_13,2025-03-14,Outros,Resolvido,E-mail
+Cliente_14,2024-12-10,Produto com defeito,Sem resposta,Telefone
+Cliente_20,2025-01-22,Produto com defeito,Resolvido,Telefone
+Cliente_4,2025-03-20,Produto com defeito,Sem resposta,Redes Sociais
+Cliente_32,2024-10-03,Cobrança indevida,Resolvido,Telefone
+Cliente_37,2025-01-28,Produto com defeito,Resolvido,Telefone
+Cliente_70,2024-10-15,Outros,Resolvido,Telefone
+Cliente_28,2025-03-07,Atraso na entrega,Em andamento,Telefone
+Cliente_15,2024-12-14,Produto com defeito,Em andamento,Chat
+Cliente_73,2024-11-24,Produto com defeito,Resolvido,E-mail
+Cliente_58,2024-12-14,Outros,Em andamento,Chat
+Cliente_50,2025-02-14,Produto com defeito,Resolvido,Telefone
+Cliente_13,2025-03-04,Atraso na entrega,Sem resposta,Chat
+Cliente_4,2024-10-09,Cobrança indevida,Em andamento,Chat
+Cliente_58,2024-11-20,Produto com defeito,Em andamento,Telefone
+Cliente_6,2025-03-10,Outros,Em andamento,Telefone
+Cliente_5,2024-10-09,Outros,Em andamento,Redes Sociais
+Cliente_45,2024-10-21,Atraso na entrega,Sem resposta,Redes Sociais
+Cliente_23,2025-03-28,Cobrança indevida,Resolvido,Telefone
+Cliente_49,2024-12-16,Outros,Resolvido,Redes Sociais
+Cliente_46,2024-10-10,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_62,2025-02-26,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_33,2024-10-17,Produto com defeito,Sem resposta,Redes Sociais
+Cliente_44,2025-02-06,Outros,Sem resposta,Redes Sociais
+Cliente_58,2024-10-03,Atendimento ruim,Em andamento,Chat
+Cliente_16,2024-10-22,Atraso na entrega,Sem resposta,Telefone
+Cliente_30,2025-01-07,Atendimento ruim,Resolvido,Chat
+Cliente_33,2024-12-06,Atraso na entrega,Sem resposta,Redes Sociais
+Cliente_30,2025-03-15,Cobrança indevida,Resolvido,Telefone
+Cliente_12,2025-01-24,Atendimento ruim,Em andamento,Telefone
+Cliente_37,2024-10-09,Cobrança indevida,Em andamento,Chat
+Cliente_5,2024-10-26,Atendimento ruim,Em andamento,Redes Sociais
+Cliente_39,2024-11-22,Produto com defeito,Em andamento,E-mail
+Cliente_32,2024-12-12,Atendimento ruim,Resolvido,Redes Sociais
+Cliente_31,2025-02-12,Atendimento ruim,Sem resposta,Telefone
+Cliente_24,2025-01-06,Cobrança indevida,Sem resposta,Telefone
+Cliente_55,2024-12-31,Cobrança indevida,Resolvido,Redes Sociais
+Cliente_38,2024-10-17,Atraso na entrega,Sem resposta,Telefone
+Cliente_35,2025-03-23,Atendimento ruim,Em andamento,E-mail
+Cliente_36,2024-12-03,Produto com defeito,Sem resposta,E-mail
+Cliente_71,2024-10-18,Atendimento ruim,Resolvido,Chat
+Cliente_26,2025-02-03,Cobrança indevida,Em andamento,Telefone
+Cliente_25,2025-02-23,Cobrança indevida,Sem resposta,E-mail
+Cliente_43,2024-12-09,Cobrança indevida,Resolvido,Telefone
+Cliente_18,2024-11-20,Atraso na entrega,Sem resposta,E-mail
+Cliente_19,2024-11-10,Atendimento ruim,Em andamento,Chat
+Cliente_73,2024-12-26,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_68,2025-01-04,Atraso na entrega,Sem resposta,Telefone
+Cliente_6,2025-02-27,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_72,2025-01-22,Cobrança indevida,Em andamento,E-mail
+Cliente_62,2025-02-17,Produto com defeito,Em andamento,E-mail
+Cliente_12,2024-10-25,Outros,Em andamento,Chat
+Cliente_55,2024-12-26,Atendimento ruim,Em andamento,E-mail
+Cliente_59,2024-11-09,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_51,2025-02-20,Atraso na entrega,Em andamento,Telefone
+Cliente_37,2024-12-11,Atraso na entrega,Em andamento,Chat
+Cliente_30,2025-02-27,Atraso na entrega,Sem resposta,Telefone
+Cliente_55,2024-10-12,Outros,Resolvido,Chat
+Cliente_72,2024-11-15,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_61,2024-11-21,Outros,Sem resposta,Redes Sociais
+Cliente_34,2025-03-27,Atraso na entrega,Em andamento,Chat
+Cliente_3,2025-01-14,Produto com defeito,Resolvido,Redes Sociais
+Cliente_22,2024-10-30,Atendimento ruim,Resolvido,Telefone
+Cliente_33,2025-01-15,Atendimento ruim,Sem resposta,E-mail
+Cliente_63,2024-11-23,Outros,Sem resposta,E-mail
+Cliente_61,2025-02-02,Atendimento ruim,Resolvido,Telefone
+Cliente_52,2024-10-22,Atraso na entrega,Em andamento,Chat
+Cliente_25,2024-11-08,Atraso na entrega,Em andamento,Telefone
+Cliente_40,2025-02-14,Produto com defeito,Em andamento,E-mail
+Cliente_55,2024-11-05,Outros,Em andamento,E-mail
+Cliente_48,2024-12-17,Outros,Em andamento,Redes Sociais
+Cliente_42,2024-11-14,Outros,Resolvido,Redes Sociais
+Cliente_42,2024-12-21,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_39,2025-02-14,Atraso na entrega,Sem resposta,Redes Sociais
+Cliente_35,2024-12-23,Outros,Resolvido,Telefone
+Cliente_37,2024-12-07,Atendimento ruim,Resolvido,E-mail
+Cliente_63,2025-02-12,Outros,Em andamento,Telefone
+Cliente_78,2025-01-06,Cobrança indevida,Resolvido,Chat
+Cliente_3,2024-10-26,Cobrança indevida,Sem resposta,Telefone
+Cliente_74,2024-11-13,Atendimento ruim,Sem resposta,Chat
+Cliente_52,2024-11-17,Atendimento ruim,Resolvido,Telefone
+Cliente_39,2025-03-03,Produto com defeito,Resolvido,Redes Sociais
+Cliente_45,2024-11-19,Cobrança indevida,Em andamento,E-mail
+Cliente_31,2025-02-15,Atendimento ruim,Em andamento,E-mail
+Cliente_63,2025-03-02,Cobrança indevida,Sem resposta,Telefone
+Cliente_74,2024-12-26,Produto com defeito,Resolvido,Chat
+Cliente_30,2024-11-04,Atraso na entrega,Resolvido,E-mail
+Cliente_52,2025-03-20,Produto com defeito,Em andamento,Redes Sociais
+Cliente_70,2025-01-17,Atendimento ruim,Sem resposta,Telefone
+Cliente_5,2025-03-27,Cobrança indevida,Resolvido,Telefone
+Cliente_15,2025-01-27,Cobrança indevida,Em andamento,Telefone
+Cliente_63,2025-01-17,Cobrança indevida,Resolvido,Telefone
+Cliente_36,2024-11-13,Outros,Resolvido,E-mail
+Cliente_59,2025-03-11,Outros,Sem resposta,Redes Sociais
+Cliente_15,2024-11-25,Outros,Em andamento,E-mail
+Cliente_57,2024-12-12,Atraso na entrega,Sem resposta,E-mail
+Cliente_27,2024-11-23,Cobrança indevida,Sem resposta,E-mail
+Cliente_48,2025-02-16,Atraso na entrega,Sem resposta,Chat
+Cliente_34,2024-10-07,Cobrança indevida,Em andamento,Chat
+Cliente_4,2024-11-17,Atendimento ruim,Em andamento,E-mail
+Cliente_11,2024-12-17,Cobrança indevida,Em andamento,E-mail
+Cliente_57,2024-11-19,Cobrança indevida,Resolvido,Redes Sociais
+Cliente_13,2025-02-15,Outros,Em andamento,Telefone
+Cliente_21,2024-10-08,Outros,Sem resposta,Redes Sociais
+Cliente_7,2025-02-27,Outros,Sem resposta,E-mail
+Cliente_53,2024-12-13,Produto com defeito,Sem resposta,Chat
+Cliente_21,2025-03-15,Cobrança indevida,Em andamento,Telefone
+Cliente_69,2025-02-22,Produto com defeito,Sem resposta,Chat
+Cliente_13,2025-03-26,Atendimento ruim,Resolvido,Chat
+Cliente_58,2025-02-19,Atraso na entrega,Em andamento,E-mail
+Cliente_16,2025-03-27,Atraso na entrega,Sem resposta,Chat
+Cliente_24,2025-01-18,Cobrança indevida,Em andamento,E-mail
+Cliente_78,2024-10-25,Atraso na entrega,Resolvido,Telefone
+Cliente_69,2025-01-05,Outros,Em andamento,E-mail
+Cliente_51,2024-12-01,Atraso na entrega,Resolvido,Telefone
+Cliente_22,2024-10-14,Produto com defeito,Em andamento,Redes Sociais
+Cliente_63,2024-10-23,Atraso na entrega,Resolvido,Redes Sociais
+Cliente_37,2024-10-08,Atraso na entrega,Resolvido,Chat
+Cliente_24,2024-12-29,Cobrança indevida,Em andamento,E-mail
+Cliente_81,2025-03-18,Atendimento ruim,Resolvido,Chat
+Cliente_8,2025-01-06,Atraso na entrega,Resolvido,Redes Sociais
+Cliente_75,2024-11-25,Produto com defeito,Resolvido,E-mail
+Cliente_43,2025-02-17,Atendimento ruim,Em andamento,Redes Sociais
+Cliente_22,2025-03-11,Produto com defeito,Em andamento,Telefone
+Cliente_31,2024-11-05,Outros,Sem resposta,Telefone
+Cliente_39,2025-02-20,Outros,Em andamento,Telefone
+Cliente_39,2024-11-21,Produto com defeito,Resolvido,Chat
+Cliente_31,2025-01-11,Atraso na entrega,Resolvido,E-mail
+Cliente_65,2025-03-30,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_48,2025-03-14,Atraso na entrega,Resolvido,E-mail
+Cliente_7,2025-02-14,Cobrança indevida,Resolvido,Telefone
+Cliente_50,2025-02-08,Produto com defeito,Resolvido,Telefone
+Cliente_59,2024-10-28,Atendimento ruim,Sem resposta,E-mail
+Cliente_57,2024-10-05,Outros,Em andamento,Redes Sociais
+Cliente_27,2024-11-06,Atendimento ruim,Sem resposta,Telefone
+Cliente_25,2025-03-23,Produto com defeito,Sem resposta,E-mail
+Cliente_46,2024-12-03,Cobrança indevida,Em andamento,Telefone
+Cliente_10,2024-11-05,Atraso na entrega,Sem resposta,Chat
+Cliente_24,2025-03-14,Atendimento ruim,Em andamento,Telefone
+Cliente_79,2025-01-04,Produto com defeito,Sem resposta,E-mail
+Cliente_17,2024-10-09,Atendimento ruim,Em andamento,Chat
+Cliente_57,2025-02-18,Cobrança indevida,Em andamento,Telefone
+Cliente_81,2025-01-08,Produto com defeito,Em andamento,Redes Sociais
+Cliente_15,2025-01-12,Outros,Sem resposta,Chat
+Cliente_55,2025-02-25,Atendimento ruim,Sem resposta,Telefone
+Cliente_78,2024-10-16,Atendimento ruim,Em andamento,Chat
+Cliente_58,2025-02-05,Atraso na entrega,Resolvido,Telefone
+Cliente_4,2025-03-21,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_65,2024-11-09,Produto com defeito,Sem resposta,Redes Sociais
+Cliente_60,2024-10-29,Cobrança indevida,Resolvido,E-mail
+Cliente_16,2025-03-03,Cobrança indevida,Em andamento,E-mail
+Cliente_73,2024-12-08,Outros,Resolvido,Telefone
+Cliente_78,2024-12-18,Atendimento ruim,Sem resposta,Telefone
+Cliente_39,2024-10-01,Cobrança indevida,Em andamento,Redes Sociais
+Cliente_52,2024-10-09,Atendimento ruim,Resolvido,E-mail
+Cliente_18,2025-01-16,Outros,Resolvido,Redes Sociais
+Cliente_13,2025-02-07,Produto com defeito,Sem resposta,Chat
+Cliente_4,2025-01-16,Outros,Sem resposta,E-mail
+Cliente_11,2024-11-08,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_17,2025-03-07,Atraso na entrega,Sem resposta,E-mail
+Cliente_25,2024-10-05,Produto com defeito,Resolvido,Chat
+Cliente_42,2025-02-14,Atendimento ruim,Sem resposta,E-mail
+Cliente_2,2024-11-29,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_36,2025-03-14,Atraso na entrega,Resolvido,Telefone
+Cliente_35,2024-11-14,Cobrança indevida,Em andamento,Telefone
+Cliente_46,2024-12-19,Produto com defeito,Resolvido,Redes Sociais
+Cliente_69,2024-11-06,Cobrança indevida,Em andamento,Chat
+Cliente_6,2025-01-30,Atraso na entrega,Resolvido,Chat
+Cliente_77,2025-03-13,Produto com defeito,Em andamento,E-mail
+Cliente_38,2025-03-08,Produto com defeito,Resolvido,Telefone
+Cliente_58,2024-11-18,Atraso na entrega,Sem resposta,Redes Sociais
+Cliente_46,2024-12-22,Atendimento ruim,Resolvido,E-mail
+Cliente_51,2025-03-12,Cobrança indevida,Sem resposta,Chat
+Cliente_2,2024-11-29,Outros,Sem resposta,E-mail
+Cliente_79,2025-01-07,Atendimento ruim,Em andamento,Redes Sociais
+Cliente_80,2024-10-09,Produto com defeito,Em andamento,Chat
+Cliente_36,2024-11-11,Outros,Em andamento,Chat
+Cliente_2,2025-02-04,Produto com defeito,Em andamento,Telefone
+Cliente_11,2025-02-25,Produto com defeito,Resolvido,E-mail
+Cliente_65,2024-12-26,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_25,2024-11-13,Atraso na entrega,Sem resposta,Chat
+Cliente_28,2025-01-03,Produto com defeito,Em andamento,Redes Sociais
+Cliente_54,2024-11-21,Outros,Sem resposta,Telefone
+Cliente_52,2024-10-04,Atraso na entrega,Sem resposta,E-mail
+Cliente_45,2025-03-16,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_29,2024-10-22,Produto com defeito,Em andamento,Telefone
+Cliente_64,2025-02-06,Outros,Em andamento,E-mail
+Cliente_31,2024-12-21,Atendimento ruim,Sem resposta,Chat
+Cliente_41,2024-12-31,Atraso na entrega,Em andamento,E-mail
+Cliente_19,2025-02-12,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_71,2024-10-04,Atendimento ruim,Resolvido,Telefone
+Cliente_49,2024-12-10,Atraso na entrega,Em andamento,Telefone
+Cliente_8,2025-03-09,Produto com defeito,Resolvido,Telefone
+Cliente_72,2025-03-14,Atraso na entrega,Sem resposta,Telefone
+Cliente_40,2025-02-23,Produto com defeito,Sem resposta,Chat
+Cliente_38,2024-10-07,Produto com defeito,Resolvido,E-mail
+Cliente_70,2025-01-27,Produto com defeito,Resolvido,Telefone
+Cliente_26,2024-12-25,Cobrança indevida,Resolvido,Redes Sociais
+Cliente_29,2025-02-01,Atraso na entrega,Sem resposta,E-mail
+Cliente_23,2024-10-09,Produto com defeito,Em andamento,Redes Sociais
+Cliente_27,2024-11-24,Outros,Sem resposta,Redes Sociais
+Cliente_38,2024-11-07,Produto com defeito,Resolvido,Redes Sociais
+Cliente_8,2024-10-11,Atendimento ruim,Resolvido,Telefone
+Cliente_66,2025-01-25,Produto com defeito,Em andamento,Redes Sociais
+Cliente_30,2024-11-25,Outros,Sem resposta,Redes Sociais
+Cliente_11,2024-12-21,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_66,2025-02-12,Atraso na entrega,Sem resposta,Chat
+Cliente_17,2024-12-21,Produto com defeito,Resolvido,E-mail
+Cliente_21,2025-01-16,Atraso na entrega,Resolvido,Telefone
+Cliente_73,2025-01-11,Outros,Sem resposta,Chat
+Cliente_14,2024-12-22,Outros,Em andamento,Telefone
+Cliente_49,2025-01-06,Outros,Em andamento,Chat
+Cliente_15,2025-02-03,Outros,Sem resposta,E-mail
+Cliente_32,2025-03-25,Produto com defeito,Resolvido,Chat
+Cliente_47,2024-11-26,Outros,Sem resposta,Telefone
+Cliente_16,2024-12-17,Produto com defeito,Resolvido,Redes Sociais
+Cliente_41,2024-12-08,Cobrança indevida,Resolvido,Telefone
+Cliente_71,2024-10-17,Atendimento ruim,Em andamento,E-mail
+Cliente_68,2025-03-29,Cobrança indevida,Resolvido,Redes Sociais
+Cliente_4,2024-11-24,Atraso na entrega,Sem resposta,E-mail
+Cliente_41,2024-10-08,Outros,Resolvido,Chat
+Cliente_72,2024-12-20,Outros,Sem resposta,E-mail
+Cliente_6,2025-02-07,Atendimento ruim,Sem resposta,Chat
+Cliente_23,2024-11-28,Atraso na entrega,Em andamento,Telefone
+Cliente_47,2024-10-13,Produto com defeito,Em andamento,Chat
+Cliente_49,2025-03-29,Cobrança indevida,Em andamento,Telefone
+Cliente_75,2024-12-10,Cobrança indevida,Sem resposta,Telefone
+Cliente_2,2024-11-11,Outros,Em andamento,Chat
+Cliente_5,2025-02-24,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_78,2024-10-31,Outros,Resolvido,Redes Sociais
+Cliente_44,2025-01-21,Produto com defeito,Sem resposta,Telefone
+Cliente_32,2025-03-27,Produto com defeito,Em andamento,Chat
+Cliente_8,2024-11-11,Atendimento ruim,Sem resposta,Chat
+Cliente_13,2025-03-19,Cobrança indevida,Em andamento,Redes Sociais
+Cliente_62,2025-01-21,Outros,Resolvido,Chat
+Cliente_11,2025-01-26,Cobrança indevida,Sem resposta,Chat
+Cliente_15,2024-12-12,Atraso na entrega,Sem resposta,Redes Sociais
+Cliente_11,2025-03-25,Atendimento ruim,Em andamento,Redes Sociais
+Cliente_66,2024-12-23,Produto com defeito,Resolvido,Redes Sociais
+Cliente_64,2025-01-29,Atraso na entrega,Em andamento,E-mail
+Cliente_78,2024-11-10,Outros,Sem resposta,Chat
+Cliente_60,2025-01-12,Cobrança indevida,Resolvido,E-mail
+Cliente_49,2025-03-10,Atendimento ruim,Resolvido,E-mail
+Cliente_39,2025-03-16,Cobrança indevida,Resolvido,E-mail
+Cliente_7,2025-02-05,Outros,Sem resposta,Chat
+Cliente_24,2024-12-01,Cobrança indevida,Resolvido,Chat
+Cliente_16,2025-02-15,Outros,Sem resposta,Redes Sociais
+Cliente_9,2025-01-01,Outros,Resolvido,Telefone
+Cliente_81,2025-01-26,Atraso na entrega,Resolvido,Chat
+Cliente_62,2024-12-02,Produto com defeito,Sem resposta,Redes Sociais
+Cliente_59,2025-03-11,Cobrança indevida,Em andamento,E-mail
+Cliente_64,2025-03-31,Produto com defeito,Em andamento,E-mail
+Cliente_10,2025-03-03,Atraso na entrega,Sem resposta,Telefone
+Cliente_41,2024-10-08,Outros,Resolvido,Chat
+Cliente_26,2025-01-07,Produto com defeito,Resolvido,Telefone
+Cliente_27,2025-02-20,Cobrança indevida,Em andamento,E-mail
+Cliente_22,2025-01-16,Outros,Sem resposta,E-mail
+Cliente_27,2025-01-20,Atendimento ruim,Sem resposta,Redes Sociais
+Cliente_27,2024-12-18,Atendimento ruim,Sem resposta,E-mail
+Cliente_30,2025-01-09,Cobrança indevida,Resolvido,E-mail
+Cliente_50,2024-10-19,Atendimento ruim,Sem resposta,Chat
+Cliente_69,2025-03-25,Produto com defeito,Resolvido,Redes Sociais
+Cliente_26,2025-01-23,Atraso na entrega,Resolvido,Redes Sociais
+Cliente_25,2024-10-07,Produto com defeito,Em andamento,Redes Sociais
+Cliente_81,2025-02-23,Produto com defeito,Sem resposta,Redes Sociais
+Cliente_71,2024-11-11,Cobrança indevida,Sem resposta,Chat
+Cliente_52,2025-03-27,Atraso na entrega,Sem resposta,Chat
+Cliente_27,2025-01-21,Atraso na entrega,Em andamento,Redes Sociais
+Cliente_66,2025-03-06,Outros,Em andamento,Redes Sociais
+Cliente_35,2024-11-13,Produto com defeito,Resolvido,Chat
+Cliente_33,2025-02-05,Atraso na entrega,Resolvido,E-mail
+Cliente_23,2024-10-08,Outros,Sem resposta,Telefone
+Cliente_32,2025-03-26,Cobrança indevida,Sem resposta,Chat
+Cliente_18,2025-03-25,Cobrança indevida,Sem resposta,Redes Sociais
+Cliente_2,2025-02-21,Atraso na entrega,Sem resposta,Telefone
+Cliente_27,2024-12-15,Produto com defeito,Sem resposta,Chat
