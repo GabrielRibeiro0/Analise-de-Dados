@@ -1,0 +1,501 @@
+ID,Data,Tipo,Bairro,Status,Envolvidos
+OC0001,2024-02-25,Roubo,Alvorada,Em investigação,5
+OC0002,2024-03-01,Furto,Vila Nova,Encerrado,1
+OC0003,2024-02-29,Agressão,Vila Nova,Em investigação,2
+OC0004,2024-03-07,Violência Doméstica,Centro,Sem solução,3
+OC0005,2024-02-27,Furto,Parque Verde,Em investigação,2
+OC0006,2024-02-28,Homicídio,Jardim das Flores,Sem solução,5
+OC0007,2024-02-26,Agressão,Vila Nova,Em investigação,4
+OC0008,2024-03-16,Furto,São Jorge,Em investigação,3
+OC0009,2024-03-02,Roubo,Alvorada,Encerrado,2
+OC0010,2024-02-06,Tráfico de Drogas,Industrial,Encerrado,4
+OC0011,2024-02-23,Tráfico de Drogas,Alvorada,Em investigação,1
+OC0012,2024-03-13,Homicídio,Vila Nova,Sem solução,2
+OC0013,2024-03-14,Roubo,Vila Nova,Em investigação,5
+OC0014,2024-03-11,Homicídio,Vila Nova,Encerrado,1
+OC0015,2024-01-31,Tráfico de Drogas,Industrial,Em investigação,5
+OC0016,2024-01-05,Homicídio,São Jorge,Encerrado,2
+OC0017,2024-03-26,Furto,Alvorada,Em investigação,1
+OC0018,2024-02-13,Roubo,São Jorge,Sem solução,2
+OC0019,2024-01-09,Violência Doméstica,Industrial,Sem solução,4
+OC0020,2024-03-17,Homicídio,São Jorge,Encerrado,5
+OC0021,2024-03-22,Furto,Centro,Encerrado,4
+OC0022,2024-02-29,Furto,Industrial,Encerrado,5
+OC0023,2024-01-27,Roubo,Alvorada,Sem solução,1
+OC0024,2024-01-27,Tráfico de Drogas,Parque Verde,Encerrado,3
+OC0025,2024-01-30,Furto,Alvorada,Sem solução,5
+OC0026,2024-02-13,Violência Doméstica,Centro,Em investigação,1
+OC0027,2024-02-01,Roubo,São Jorge,Encerrado,5
+OC0028,2024-01-04,Agressão,Alvorada,Sem solução,3
+OC0029,2024-03-21,Violência Doméstica,Industrial,Sem solução,4
+OC0030,2024-03-01,Roubo,São Jorge,Em investigação,4
+OC0031,2024-02-25,Violência Doméstica,Industrial,Sem solução,1
+OC0032,2024-01-06,Roubo,Centro,Sem solução,5
+OC0033,2024-03-24,Homicídio,Alvorada,Sem solução,4
+OC0034,2024-01-03,Agressão,Industrial,Sem solução,1
+OC0035,2024-03-14,Roubo,Centro,Sem solução,1
+OC0036,2024-03-28,Violência Doméstica,São Jorge,Em investigação,5
+OC0037,2024-02-06,Tráfico de Drogas,Industrial,Em investigação,5
+OC0038,2024-01-11,Homicídio,Alvorada,Em investigação,1
+OC0039,2024-03-14,Violência Doméstica,São Jorge,Encerrado,4
+OC0040,2024-01-25,Furto,São Jorge,Em investigação,3
+OC0041,2024-01-15,Violência Doméstica,Alvorada,Encerrado,2
+OC0042,2024-01-18,Furto,São Jorge,Sem solução,5
+OC0043,2024-01-10,Furto,Industrial,Em investigação,3
+OC0044,2024-03-25,Homicídio,Industrial,Em investigação,2
+OC0045,2024-02-03,Tráfico de Drogas,Industrial,Em investigação,2
+OC0046,2024-02-06,Homicídio,Parque Verde,Sem solução,5
+OC0047,2024-03-24,Furto,São Jorge,Encerrado,2
+OC0048,2024-01-15,Tráfico de Drogas,São Jorge,Sem solução,2
+OC0049,2024-02-02,Roubo,São Jorge,Em investigação,5
+OC0050,2024-03-03,Tráfico de Drogas,Alvorada,Encerrado,4
+OC0051,2024-03-19,Violência Doméstica,Parque Verde,Encerrado,3
+OC0052,2024-02-09,Roubo,Centro,Sem solução,4
+OC0053,2024-01-10,Agressão,Centro,Encerrado,3
+OC0054,2024-03-23,Furto,Industrial,Sem solução,4
+OC0055,2024-03-09,Furto,São Jorge,Em investigação,3
+OC0056,2024-03-18,Violência Doméstica,Centro,Encerrado,3
+OC0057,2024-01-31,Agressão,Jardim das Flores,Sem solução,1
+OC0058,2024-02-11,Homicídio,Vila Nova,Sem solução,4
+OC0059,2024-01-31,Furto,Centro,Sem solução,3
+OC0060,2024-01-30,Homicídio,Vila Nova,Sem solução,1
+OC0061,2024-01-27,Roubo,Jardim das Flores,Encerrado,5
+OC0062,2024-03-17,Tráfico de Drogas,Alvorada,Encerrado,2
+OC0063,2024-01-01,Tráfico de Drogas,Vila Nova,Sem solução,3
+OC0064,2024-03-24,Roubo,Jardim das Flores,Sem solução,3
+OC0065,2024-01-22,Agressão,Centro,Em investigação,2
+OC0066,2024-03-28,Tráfico de Drogas,Industrial,Encerrado,5
+OC0067,2024-03-14,Tráfico de Drogas,São Jorge,Encerrado,1
+OC0068,2024-03-11,Furto,Jardim das Flores,Em investigação,5
+OC0069,2024-03-05,Tráfico de Drogas,Alvorada,Encerrado,5
+OC0070,2024-02-23,Homicídio,Industrial,Sem solução,1
+OC0071,2024-03-09,Furto,Alvorada,Em investigação,3
+OC0072,2024-03-13,Tráfico de Drogas,São Jorge,Encerrado,4
+OC0073,2024-01-23,Furto,Centro,Encerrado,5
+OC0074,2024-02-08,Violência Doméstica,Jardim das Flores,Encerrado,1
+OC0075,2024-01-18,Agressão,Centro,Em investigação,5
+OC0076,2024-02-14,Roubo,Centro,Sem solução,5
+OC0077,2024-02-09,Tráfico de Drogas,Jardim das Flores,Sem solução,5
+OC0078,2024-02-29,Furto,Alvorada,Sem solução,5
+OC0079,2024-01-19,Tráfico de Drogas,Jardim das Flores,Sem solução,5
+OC0080,2024-01-27,Agressão,Industrial,Sem solução,5
+OC0081,2024-02-21,Furto,Jardim das Flores,Em investigação,4
+OC0082,2024-02-16,Violência Doméstica,Vila Nova,Encerrado,2
+OC0083,2024-03-01,Furto,Vila Nova,Sem solução,3
+OC0084,2024-02-19,Furto,Alvorada,Sem solução,4
+OC0085,2024-03-20,Agressão,Vila Nova,Em investigação,5
+OC0086,2024-02-17,Furto,Industrial,Encerrado,5
+OC0087,2024-01-19,Agressão,São Jorge,Encerrado,5
+OC0088,2024-02-03,Roubo,São Jorge,Encerrado,3
+OC0089,2024-03-13,fUrTo,São Jorge,Em investigação,1
+OC0090,2024-03-15,Furto,São Jorge,Sem solução,3
+OC0091,2024-01-14,Violência Doméstica,Alvorada,Sem solução,5
+OC0092,2024-02-22,Roubo,Centro,Em investigação,3
+OC0093,2024-02-06,Agressão,São Jorge,Sem solução,4
+OC0094,2024-01-27,Agressão,Parque Verde,Encerrado,4
+OC0095,2024-01-23,Tráfico de Drogas,Jardim das Flores,Em investigação,3
+OC0096,2024-03-01,Furto,Vila Nova,Em investigação,1
+OC0097,2024-02-03,Agressão,Centro,Encerrado,4
+OC0098,2024-03-30,Roubo,Jardim das Flores,Sem solução,1
+OC0099,2024-02-14,Furto,Centro,Em investigação,2
+OC0100,2024-03-03,Violência Doméstica,Jardim das Flores,Sem solução,5
+OC0101,2024-03-15,Roubo,Centro,Em investigação,3
+OC0102,2024-03-30,Violência Doméstica,Industrial,Em investigação,3
+OC0103,2024-03-20,Agressão,Centro,Sem solução,4
+OC0104,2024-02-03,Violência Doméstica,Parque Verde,Em investigação,2
+OC0105,2024-02-09,Violência Doméstica,Vila Nova,Sem solução,4
+OC0106,2024-01-28,Furto,Industrial,Encerrado,3
+OC0107,2024-01-06,Roubo,Vila Nova,Encerrado,2
+OC0108,2024-01-17,Tráfico de Drogas,Parque Verde,Em investigação,5
+OC0109,2024-03-11,Furto,São Jorge,Sem solução,1
+OC0110,2024-02-05,Tráfico de Drogas,Centro,Em investigação,1
+OC0111,2024-01-03,Roubo,Centro,Encerrado,2
+OC0112,2024-03-24,Roubo,Centro,Em investigação,4
+OC0113,2024-03-12,Furto,Parque Verde,Em investigação,5
+OC0114,2024-01-24,Furto,São Jorge,Sem solução,3
+OC0115,2024-01-24,Agressão,Alvorada,Em investigação,1
+OC0116,2024-02-29,Homicídio,Centro,Sem solução,3
+OC0117,2024-03-20,Furto,Parque Verde,Em investigação,2
+OC0118,2024-02-25,Agressão,Alvorada,Em investigação,4
+OC0119,2024-02-21,Roubo,São Jorge,Em investigação,3
+OC0120,2024-01-30,Homicídio,Centro,Encerrado,2
+OC0121,2024-02-13,Roubo,Jardim das Flores,Encerrado,5
+OC0122,2024-02-26,Violência Doméstica,Vila Nova,Encerrado,4
+OC0123,2024-01-09,Roubo,Alvorada,Encerrado,1
+OC0124,2024-03-03,Furto,Vila Nova,Encerrado,1
+OC0125,2024-02-26,Furto,São Jorge,Em investigação,2
+OC0126,2024-03-06,Homicídio,São Jorge,Sem solução,4
+OC0127,2024-01-25,Roubo,Alvorada,Em investigação,3
+OC0128,2024-02-17,Violência Doméstica,Alvorada,Em investigação,2
+OC0129,2024-02-22,Violência Doméstica,Centro,Encerrado,5
+OC0130,2024-03-23,Tráfico de Drogas,São Jorge,Sem solução,3
+OC0131,2024-01-14,Furto,Centro,Sem solução,3
+OC0132,2024-02-19,Agressão,Centro,Sem solução,4
+OC0133,2024-02-19,Homicídio,Jardim das Flores,,4
+OC0134,2024-03-12,Agressão,Alvorada,Em investigação,2
+OC0135,2024-02-25,Agressão,São Jorge,Sem solução,2
+OC0136,2024-03-22,Furto,Parque Verde,Sem solução,2
+OC0137,2024-01-06,Furto,São Jorge,Sem solução,5
+OC0138,2024-01-24,Violência Doméstica,São Jorge,Sem solução,1
+OC0139,2024-01-05,Roubo,Centro,Sem solução,1
+OC0140,2024-02-10,Agressão,Centro,Sem solução,5
+OC0141,2024-01-21,Tráfico de Drogas,Alvorada,Sem solução,4
+OC0142,2024-03-06,Furto,Vila Nova,Sem solução,5
+OC0143,2024-02-05,Violência Doméstica,Vila Nova,Encerrado,5
+OC0144,2024-03-07,Agressão,Alvorada,Em investigação,5
+OC0145,2024-02-24,Furto,Industrial,Encerrado,2
+OC0146,2024-03-23,Furto,Centro,Em investigação,5
+OC0147,2024-02-14,Furto,Vila Nova,Em investigação,2
+OC0148,2024-03-18,Roubo,São Jorge,Encerrado,3
+OC0149,2024-01-29,Roubo,Industrial,Encerrado,3
+OC0150,2024-03-24,Furto,São Jorge,Em investigação,5
+OC0151,2024-03-10,Roubo,Parque Verde,Sem solução,3
+OC0152,2024-03-27,Agressão,Industrial,Encerrado,1
+OC0153,2024-02-29,Agressão,Vila Nova,Encerrado,1
+OC0154,2024-03-19,Furto,São Jorge,Encerrado,5
+OC0155,2024-01-15,Furto,São Jorge,Sem solução,2
+OC0156,2024-03-28,Tráfico de Drogas,Industrial,Sem solução,4
+OC0157,2024-02-05,Homicídio,Industrial,Encerrado,3
+OC0158,2024-03-23,Furto,Industrial,Sem solução,3
+OC0159,2024-01-21,Violência Doméstica,Centro,Encerrado,2
+OC0160,2024-01-07,Homicídio,Vila Nova,Sem solução,2
+OC0161,2024-01-07,Tráfico de Drogas,Jardim das Flores,Em investigação,1
+OC0162,2024-02-12,Homicídio,São Jorge,Encerrado,3
+OC0163,2024-01-03,Violência Doméstica,Industrial,Encerrado,5
+OC0164,2024-02-14,Homicídio,Vila Nova,Sem solução,5
+OC0165,2024-03-29,Roubo,Jardim das Flores,Em investigação,2
+OC0166,2024-03-08,Roubo,Vila Nova,Sem solução,3
+OC0167,2024-02-09,Furto,Jardim das Flores,Sem solução,2
+OC0168,2024-02-12,Furto,São Jorge,Encerrado,4
+OC0169,2024-01-08,Roubo,Jardim das Flores,Encerrado,5
+OC0170,2024-01-19,Tráfico de Drogas,São Jorge,Sem solução,4
+OC0171,2024-02-13,Homicídio,Alvorada,Encerrado,4
+OC0172,2024-02-19,Furto,Centro,Em investigação,3
+OC0173,2024-01-17,Agressão,São Jorge,Sem solução,2
+OC0174,2024-02-11,Roubo,São Jorge,Encerrado,5
+OC0175,2024-03-24,Agressão,Alvorada,Encerrado,5
+OC0176,2024-03-18,Roubo,Alvorada,Sem solução,3
+OC0177,2024-01-11,Tráfico de Drogas,Parque Verde,Sem solução,2
+OC0178,2024-02-11,Violência Doméstica,Alvorada,Sem solução,1
+OC0179,2024-03-27,Homicídio,São Jorge,Sem solução,4
+OC0180,2024-02-28,Tráfico de Drogas,Centro,Encerrado,4
+OC0181,2024-03-09,Agressão,Alvorada,Sem solução,3
+OC0182,2024-01-15,Tráfico de Drogas,Industrial,Em investigação,3
+OC0183,2024-03-22,Roubo,Centro,Em investigação,2
+OC0184,2024-02-26,Agressão,Jardim das Flores,Encerrado,1
+OC0185,2024-01-16,Roubo,Parque Verde,Encerrado,3
+OC0186,2024-03-05,Roubo,Jardim das Flores,Sem solução,4
+OC0187,2024-02-03,Agressão,Vila Nova,Sem solução,5
+OC0188,2024-01-21,Violência Doméstica,São Jorge,Sem solução,2
+OC0189,2024-02-11,Homicídio,São Jorge,Sem solução,5
+OC0190,2024-02-12,Tráfico de Drogas,São Jorge,Encerrado,1
+OC0191,2024-02-20,Homicídio,Centro,Sem solução,5
+OC0192,2024-03-09,Violência Doméstica,São Jorge,Em investigação,5
+OC0193,2024-03-10,Roubo,São Jorge,Sem solução,5
+OC0194,2024-01-05,Furto,Alvorada,Sem solução,1
+OC0195,2024-03-02,Roubo,Parque Verde,Encerrado,4
+OC0196,2024-03-23,Homicídio,Alvorada,Sem solução,1
+OC0197,2024-02-16,Agressão,Parque Verde,Encerrado,1
+OC0198,2024-01-15,Homicídio,Vila Nova,Em investigação,3
+OC0199,2024-02-17,Furto,Jardim das Flores,Em investigação,3
+OC0200,2024-01-08,Homicídio,Vila Nova,Sem solução,2
+OC0201,2024-02-29,Homicídio,Parque Verde,Encerrado,5
+OC0202,2024-01-01,Violência Doméstica,Centro,Sem solução,4
+OC0203,2024-01-11,Roubo,Alvorada,Encerrado,1
+OC0204,2024-01-08,Violência Doméstica,Alvorada,Encerrado,5
+OC0205,2024-01-11,Homicídio,Centro,Em investigação,3
+OC0206,2024-02-21,Violência Doméstica,Industrial,Encerrado,2
+OC0207,2024-03-29,Tráfico de Drogas,Vila Nova,Sem solução,5
+OC0208,2024-02-16,Violência Doméstica,São Jorge,Encerrado,1
+OC0209,2024-01-06,Tráfico de Drogas,Vila Nova,Em investigação,5
+OC0210,2024-03-03,Violência Doméstica,Vila Nova,Encerrado,1
+OC0211,2024-03-16,Furto,Industrial,Em investigação,4
+OC0212,2024-01-01,Roubo,Vila Nova,Em investigação,3
+OC0213,2024-03-24,Violência Doméstica,Parque Verde,Sem solução,5
+OC0214,2024-02-09,Agressão,Industrial,Em investigação,4
+OC0215,2024-03-07,Agressão,Parque Verde,Sem solução,3
+OC0216,2024-02-26,Violência Doméstica,Jardim das Flores,Encerrado,5
+OC0217,2024-01-08,Roubo,Parque Verde,Sem solução,4
+OC0218,2024-02-24,Violência Doméstica,Alvorada,Encerrado,4
+OC0219,2024-01-29,Agressão,São Jorge,Sem solução,3
+OC0220,2024-02-14,Roubo,Parque Verde,Sem solução,2
+OC0221,2024-03-13,Roubo,Jardim das Flores,Sem solução,2
+OC0222,2024-02-02,Homicídio,Centro,Encerrado,5
+OC0223,2024-03-19,Violência Doméstica,Industrial,Sem solução,3
+OC0224,2024-02-12,Violência Doméstica,Vila Nova,Sem solução,4
+OC0225,2024-01-12,Tráfico de Drogas,Parque Verde,Em investigação,3
+OC0226,2024-02-20,Violência Doméstica,Vila Nova,Em investigação,5
+OC0227,2024-02-02,Violência Doméstica,Alvorada,Sem solução,5
+OC0228,2024-02-08,Roubo,São Jorge,Em investigação,3
+OC0229,2024-01-22,Homicídio,São Jorge,Encerrado,3
+OC0230,2024-03-26,Furto,Industrial,Encerrado,3
+OC0231,2024-02-11,Homicídio,São Jorge,Em investigação,1
+OC0232,2024-02-27,Homicídio,Industrial,Sem solução,1
+OC0233,2024-03-01,Tráfico de Drogas,Industrial,Encerrado,1
+OC0234,2024-02-21,Agressão,Vila Nova,Encerrado,3
+OC0235,2024-03-16,Agressão,Centro,Sem solução,3
+OC0236,2024-02-16,Violência Doméstica,São Jorge,Sem solução,3
+OC0237,2024-03-25,Roubo,Centro,Encerrado,2
+OC0238,2024-03-06,Tráfico de Drogas,Industrial,Encerrado,1
+OC0239,2024-01-10,Homicídio,Alvorada,Encerrado,1
+OC0240,2024-02-04,Violência Doméstica,Parque Verde,Encerrado,5
+OC0241,2024-01-28,Roubo,Parque Verde,Em investigação,4
+OC0242,2024-03-13,Roubo,Centro,Encerrado,3
+OC0243,2024-01-22,Furto,São Jorge,Em investigação,2
+OC0244,2024-02-29,Furto,Industrial,Sem solução,2
+OC0245,2024-03-11,Violência Doméstica,Jardim das Flores,Encerrado,1
+OC0246,2024-02-29,Furto,Industrial,Encerrado,1
+OC0247,2024-01-10,Agressão,Centro,Sem solução,4
+OC0248,2024-01-13,Tráfico de Drogas,Industrial,Sem solução,4
+OC0249,2024-01-27,Furto,Centro,Encerrado,1
+OC0250,2024-03-18,Roubo,Parque Verde,Em investigação,1
+OC0251,2024-02-09,Agressão,Centro,Encerrado,5
+OC0252,2024-01-04,Agressão,Parque Verde,Encerrado,3
+OC0253,2024-01-18,Tráfico de Drogas,Industrial,Em investigação,2
+OC0254,2024-02-09,Homicídio,São Jorge,Em investigação,5
+OC0255,2024-01-07,Violência Doméstica,Jardim das Flores,Sem solução,5
+OC0256,2024-01-31,Furto,São Jorge,Em investigação,5
+OC0257,2024-02-10,Agressão,Jardim das Flores,Em investigação,4
+OC0258,2024-02-03,Furto,Alvorada,Sem solução,3
+OC0259,2024-01-20,Furto,São Jorge,Em investigação,4
+OC0260,2024-02-14,Violência Doméstica,São Jorge,Em investigação,5
+OC0261,2024-03-30,Furto,Industrial,Sem solução,5
+OC0262,2024-01-28,Homicídio,Parque Verde,Encerrado,2
+OC0263,2024-01-24,Tráfico de Drogas,Industrial,Sem solução,2
+OC0264,2024-02-13,Agressão,Alvorada,Sem solução,2
+OC0265,2024-01-13,Homicídio,Jardim das Flores,Em investigação,1
+OC0266,2024-01-27,Furto,Industrial,Sem solução,2
+OC0267,2024-01-17,Tráfico de Drogas,Centro,Em investigação,5
+OC0268,2024-01-03,Agressão,Industrial,Encerrado,5
+OC0269,2024-01-24,Homicídio,Industrial,Sem solução,5
+OC0270,2024-02-13,Furto,Vila Nova,Em investigação,5
+OC0271,2024-03-06,Tráfico de Drogas,Centro,Em investigação,2
+OC0272,2024-02-28,Agressão,Vila Nova,Em investigação,1
+OC0273,2024-02-04,Agressão,Jardim das Flores,Sem solução,4
+OC0274,2024-01-31,Violência Doméstica,Industrial,Sem solução,1
+OC0275,2024-02-12,Tráfico de Drogas,Jardim das Flores,Encerrado,1
+OC0276,2024-01-13,Agressão,São Jorge,Em investigação,5
+OC0277,2024-01-21,Violência Doméstica,Jardim das Flores,Encerrado,5
+OC0278,2024-03-30,Homicídio,Vila Nova,Sem solução,2
+OC0279,2024-01-03,Furto,Parque Verde,Em investigação,1
+OC0280,2024-02-20,Tráfico de Drogas,Industrial,Encerrado,2
+OC0281,2024-03-15,Homicídio,Parque Verde,Encerrado,3
+OC0282,2024-02-21,Violência Doméstica,Centro,Em investigação,4
+OC0283,2024-02-13,Furto,Vila Nova,Encerrado,2
+OC0284,2024-02-23,Tráfico de Drogas,São Jorge,Em investigação,4
+OC0285,2024-02-18,Agressão,Centro,Encerrado,1
+OC0286,2024-03-24,Roubo,Jardim das Flores,Sem solução,1
+OC0287,2024-03-22,Violência Doméstica,São Jorge,Em investigação,3
+OC0288,2024-03-15,Homicídio,São Jorge,Encerrado,1
+OC0289,2024-02-12,Violência Doméstica,Vila Nova,Encerrado,1
+OC0290,2024-03-14,Tráfico de Drogas,Centro,Sem solução,1
+OC0291,2024-03-11,Tráfico de Drogas,Vila Nova,Sem solução,1
+OC0292,2024-02-26,Homicídio,São Jorge,Encerrado,1
+OC0293,2024-03-21,Furto,São Jorge,Sem solução,4
+OC0294,2024-02-06,Tráfico de Drogas,Jardim das Flores,Sem solução,3
+OC0295,2024-03-15,Furto,Industrial,Encerrado,1
+OC0296,2024-02-18,Tráfico de Drogas,São Jorge,Sem solução,3
+OC0297,2024-02-18,Homicídio,Alvorada,Encerrado,5
+OC0298,2024-02-09,Furto,Jardim das Flores,Encerrado,3
+OC0299,2024-03-02,Agressão,Parque Verde,Encerrado,4
+OC0300,2024-03-10,Tráfico de Drogas,Vila Nova,Em investigação,5
+OC0301,2024-02-28,Homicídio,Jardim das Flores,Encerrado,2
+OC0302,2024-01-08,Agressão,Jardim das Flores,Encerrado,1
+OC0303,2024-03-11,Violência Doméstica,Jardim das Flores,Encerrado,5
+OC0304,2024-03-30,Furto,Vila Nova,Sem solução,4
+OC0305,2024-02-05,Homicídio,São Jorge,Sem solução,4
+OC0306,2024-03-29,Furto,Industrial,Encerrado,5
+OC0307,2024-02-20,Homicídio,São Jorge,Encerrado,5
+OC0308,2024-03-17,Furto,São Jorge,Em investigação,3
+OC0309,2024-01-19,Homicídio,Industrial,Sem solução,3
+OC0310,2024-01-10,Homicídio,Centro,Sem solução,3
+OC0311,2024-01-15,Violência Doméstica,Alvorada,Sem solução,1
+OC0312,2024-02-14,Homicídio,Industrial,Encerrado,2
+OC0313,2024-03-09,Roubo,Jardim das Flores,Encerrado,1
+OC0314,2024-03-16,Tráfico de Drogas,Industrial,Sem solução,3
+OC0315,2024-01-01,Agressão,Parque Verde,Sem solução,4
+OC0316,2024-03-17,Homicídio,Alvorada,Encerrado,5
+OC0317,2024-03-30,Homicídio,São Jorge,Em investigação,3
+OC0318,2024-02-12,Roubo,Alvorada,Encerrado,3
+OC0319,2024-01-10,Violência Doméstica,Vila Nova,Sem solução,2
+OC0320,2024-01-20,Furto,Alvorada,Em investigação,3
+OC0321,2024-02-26,Tráfico de Drogas,Industrial,Encerrado,5
+OC0322,2024-01-07,Tráfico de Drogas,Industrial,Sem solução,5
+OC0323,2024-01-27,Homicídio,Centro,Sem solução,1
+OC0324,2024-02-17,Violência Doméstica,Alvorada,Sem solução,2
+OC0325,2024-03-24,Violência Doméstica,Centro,Sem solução,3
+OC0326,2024-03-02,Homicídio,Centro,Encerrado,5
+OC0327,2024-03-18,Furto,Industrial,Encerrado,1
+OC0328,2024-02-02,Tráfico de Drogas,Parque Verde,Sem solução,3
+OC0329,2024-02-27,Tráfico de Drogas,Vila Nova,Encerrado,3
+OC0330,2024-03-20,Tráfico de Drogas,Vila Nova,Em investigação,5
+OC0331,2024-03-09,Roubo,Parque Verde,Sem solução,5
+OC0332,2024-01-26,Furto,Parque Verde,Em investigação,4
+OC0333,2024-03-30,Furto,Jardim das Flores,Em investigação,3
+OC0334,2024-03-24,Homicídio,Industrial,Encerrado,5
+OC0335,2024-02-28,Homicídio,Alvorada,Em investigação,2
+OC0336,2024-03-26,Violência Doméstica,Jardim das Flores,Encerrado,1
+OC0337,2024-03-18,Furto,São Jorge,Encerrado,3
+OC0338,2024-02-23,Furto,Industrial,Sem solução,4
+OC0339,2024-01-27,Violência Doméstica,Vila Nova,Sem solução,4
+OC0340,2024-02-26,Violência Doméstica,Alvorada,Encerrado,5
+OC0341,2024-03-24,Roubo,Jardim das Flores,Encerrado,1
+OC0342,2024-01-24,Agressão,Vila Nova,Sem solução,4
+OC0343,2024-01-17,Homicídio,Vila Nova,Sem solução,2
+OC0344,2024-03-14,Roubo,Centro,Em investigação,3
+OC0345,2024-02-09,Roubo,Centro,Sem solução,3
+OC0346,2024-03-05,Tráfico de Drogas,Jardim das Flores,Encerrado,4
+OC0347,2024-02-17,Agressão,Industrial,Encerrado,1
+OC0348,2024-02-28,Tráfico de Drogas,Centro,Em investigação,2
+OC0349,2024-01-20,Homicídio,Vila Nova,Encerrado,2
+OC0350,2024-02-22,Tráfico de Drogas,Parque Verde,Encerrado,1
+OC0351,2024-03-21,Furto,Jardim das Flores,Encerrado,1
+OC0352,2024-01-21,Furto,Alvorada,Sem solução,3
+OC0353,2024-01-25,Tráfico de Drogas,Parque Verde,Encerrado,1
+OC0354,2024-02-16,Roubo,Alvorada,Encerrado,3
+OC0355,2024-01-17,Agressão,Parque Verde,Encerrado,3
+OC0356,2024-02-07,Furto,Parque Verde,Encerrado,2
+OC0357,2024-03-30,Violência Doméstica,Jardim das Flores,Em investigação,2
+OC0358,2024-01-03,Tráfico de Drogas,Industrial,Sem solução,5
+OC0359,2024-03-07,Homicídio,Industrial,Encerrado,2
+OC0360,2024-03-07,Agressão,Jardim das Flores,Em investigação,3
+OC0361,2024-03-22,Violência Doméstica,Alvorada,Sem solução,1
+OC0362,2024-03-14,Homicídio,Jardim das Flores,Em investigação,1
+OC0363,2024-03-01,Tráfico de Drogas,Vila Nova,Sem solução,1
+OC0364,2024-01-26,Tráfico de Drogas,Vila Nova,Sem solução,4
+OC0365,2024-03-12,Tráfico de Drogas,Jardim das Flores,Em investigação,1
+OC0366,2024-03-01,Roubo,Jardim das Flores,Encerrado,2
+OC0367,2024-01-30,Violência Doméstica,Industrial,Sem solução,3
+OC0368,2024-02-09,Homicídio,Vila Nova,Em investigação,4
+OC0369,2024-03-25,Homicídio,Alvorada,Sem solução,4
+OC0370,2024-03-26,Furto,Industrial,Sem solução,4
+OC0371,2024-02-03,Violência Doméstica,Vila Nova,Encerrado,3
+OC0372,2024-03-14,Agressão,Vila Nova,Em investigação,1
+OC0373,2024-01-20,Violência Doméstica,Centro,Encerrado,3
+OC0374,2024-01-02,Tráfico de Drogas,Vila Nova,Em investigação,2
+OC0375,2024-01-03,Tráfico de Drogas,Jardim das Flores,Encerrado,5
+OC0376,2024-02-03,Furto,Alvorada,Em investigação,5
+OC0377,2024-01-12,Violência Doméstica,Alvorada,Sem solução,5
+OC0378,2024-01-21,Roubo,Vila Nova,Sem solução,2
+OC0379,2024-03-24,Furto,Centro,Em investigação,5
+OC0380,2024-03-28,Roubo,Centro,Sem solução,3
+OC0381,2024-03-23,Roubo,Centro,Sem solução,4
+OC0382,2024-03-18,Furto,Jardim das Flores,Em investigação,1
+OC0383,2024-03-07,Violência Doméstica,São Jorge,Encerrado,4
+OC0384,2024-02-06,Agressão,Alvorada,Encerrado,4
+OC0385,2024-01-03,Roubo,São Jorge,Encerrado,2
+OC0386,2024-01-21,Furto,Jardim das Flores,Encerrado,3
+OC0387,2024-01-16,Agressão,Industrial,Sem solução,1
+OC0388,2024-01-27,Violência Doméstica,Vila Nova,Sem solução,1
+OC0389,2024-03-31,Homicídio,Centro,Encerrado,2
+OC0390,2024-02-16,Violência Doméstica,Alvorada,Em investigação,5
+OC0391,2024-01-25,Violência Doméstica,Alvorada,Sem solução,5
+OC0392,2024-01-25,Violência Doméstica,Industrial,Sem solução,3
+OC0393,2024-01-25,Homicídio,Parque Verde,Em investigação,3
+OC0394,2024-03-23,Tráfico de Drogas,Industrial,Em investigação,4
+OC0395,2024-01-10,Agressão,Vila Nova,Encerrado,5
+OC0396,2024-02-03,Agressão,Parque Verde,Em investigação,4
+OC0397,2024-01-22,Agressão,Parque Verde,Em investigação,5
+OC0398,2024-02-24,Roubo,Alvorada,Encerrado,2
+OC0399,2024-03-23,Agressão,São Jorge,Sem solução,1
+OC0400,2024-02-06,Tráfico de Drogas,Parque Verde,Em investigação,4
+OC0401,2024-01-08,Roubo,Vila Nova,Sem solução,2
+OC0402,2024-01-13,Roubo,Jardim das Flores,Sem solução,3
+OC0403,2024-02-01,Tráfico de Drogas,Centro,Em investigação,1
+OC0404,2024-01-31,Tráfico de Drogas,São Jorge,Sem solução,1
+OC0405,2024-02-14,Furto,Industrial,Encerrado,3
+OC0406,2024-03-30,Agressão,Vila Nova,Em investigação,4
+OC0407,2024-01-02,Agressão,Industrial,Sem solução,3
+OC0408,2024-03-25,Agressão,Jardim das Flores,Sem solução,2
+OC0409,2024-01-28,Roubo,São Jorge,Encerrado,2
+OC0410,2024-01-31,Agressão,Centro,Encerrado,5
+OC0411,2024-03-27,Violência Doméstica,Parque Verde,Encerrado,1
+OC0412,2024-01-07,Violência Doméstica,Alvorada,Sem solução,1
+OC0413,2024-01-22,Violência Doméstica,Industrial,Sem solução,4
+OC0414,2024-02-26,Violência Doméstica,Parque Verde,Sem solução,1
+OC0415,2024-03-14,Agressão,Centro,Encerrado,5
+OC0416,2024-02-11,Homicídio,São Jorge,Encerrado,3
+OC0417,2024-03-09,Agressão,São Jorge,Encerrado,1
+OC0418,2024-01-05,Tráfico de Drogas,Vila Nova,Sem solução,3
+OC0419,2024-03-03,Furto,Jardim das Flores,Sem solução,2
+OC0420,2024-02-03,Homicídio,Industrial,Em investigação,5
+OC0421,2024-02-27,Tráfico de Drogas,Parque Verde,Sem solução,4
+OC0422,2024-02-01,Tráfico de Drogas,São Jorge,Sem solução,2
+OC0423,2024-03-18,Agressão,Vila Nova,Em investigação,4
+OC0424,2024-02-08,Furto,São Jorge,Em investigação,3
+OC0425,2024-01-17,Agressão,Centro,Em investigação,2
+OC0426,2024-01-24,Violência Doméstica,Alvorada,Encerrado,1
+OC0427,2024-03-31,Roubo,Jardim das Flores,Encerrado,5
+OC0428,2024-01-31,Violência Doméstica,Industrial,Encerrado,3
+OC0429,2024-01-08,Violência Doméstica,Alvorada,Em investigação,1
+OC0430,2024-01-27,Homicídio,Alvorada,Sem solução,5
+OC0431,2024-02-28,Furto,Centro,Sem solução,4
+OC0432,2024-01-08,Roubo,São Jorge,Em investigação,2
+OC0433,2024-02-12,Homicídio,Centro,Encerrado,3
+OC0434,2024-03-17,Agressão,Alvorada,Em investigação,2
+OC0435,2024-03-01,Furto,Parque Verde,Encerrado,3
+OC0436,2024-02-19,Homicídio,Jardim das Flores,Sem solução,5
+OC0437,2024-02-08,Furto,Alvorada,Em investigação,4
+OC0438,2024-03-07,Furto,Vila Nova,Encerrado,1
+OC0439,2024-02-16,Homicídio,Parque Verde,Encerrado,5
+OC0440,2024-02-03,Violência Doméstica,Vila Nova,Em investigação,3
+OC0441,2024-02-16,Violência Doméstica,Alvorada,Encerrado,3
+OC0442,2024-01-18,Homicídio,Vila Nova,Em investigação,5
+OC0443,2024-01-02,Agressão,Parque Verde,Encerrado,4
+OC0444,2024-02-16,Roubo,Centro,Sem solução,3
+OC0445,2024-01-21,Tráfico de Drogas,Industrial,Encerrado,5
+OC0446,2024-03-27,Homicídio,Industrial,Sem solução,2
+OC0447,2024-01-25,Agressão,Industrial,Sem solução,5
+OC0448,2024-03-16,Homicídio,Industrial,Encerrado,1
+OC0449,2024-03-28,Tráfico de Drogas,Parque Verde,Em investigação,2
+OC0450,2024-01-30,Furto,Industrial,Sem solução,3
+OC0451,2024-02-11,Roubo,Parque Verde,Em investigação,1
+OC0452,2024-02-28,Roubo,Industrial,Sem solução,1
+OC0453,2024-01-16,Homicídio,Parque Verde,Sem solução,3
+OC0454,2024-03-18,Tráfico de Drogas,São Jorge,Sem solução,4
+OC0455,2024-03-21,Roubo,Alvorada,Encerrado,4
+OC0456,2024-01-06,Homicídio,Vila Nova,Encerrado,5
+OC0457,2024-01-13,Furto,Jardim das Flores,Encerrado,1
+OC0458,2024-03-23,Roubo,Industrial,Sem solução,4
+OC0459,2024-03-20,Tráfico de Drogas,São Jorge,Encerrado,3
+OC0460,2024-03-23,Homicídio,Centro,Encerrado,3
+OC0461,2024-01-01,Roubo,Jardim das Flores,Encerrado,5
+OC0462,2024-02-18,Homicídio,Vila Nova,Sem solução,1
+OC0463,2024-01-04,Homicídio,Jardim das Flores,Em investigação,5
+OC0464,2024-02-22,Furto,Vila Nova,Sem solução,4
+OC0465,2024-01-22,Roubo,São Jorge,Sem solução,2
+OC0466,2024-02-18,Tráfico de Drogas,Vila Nova,Em investigação,1
+OC0467,2024-03-15,Agressão,Alvorada,Em investigação,4
+OC0468,2024-02-02,Furto,Centro,Em investigação,2
+OC0469,2024-02-21,Violência Doméstica,Jardim das Flores,Sem solução,2
+OC0470,2024-01-19,Violência Doméstica,Parque Verde,Em investigação,2
+OC0471,2024-01-17,Furto,Jardim das Flores,Sem solução,3
+OC0472,2024-03-10,Agressão,Centro,Sem solução,4
+OC0473,2024-03-08,Homicídio,São Jorge,Sem solução,1
+OC0474,2024-02-07,Violência Doméstica,Centro,Em investigação,2
+OC0475,2024-03-24,Tráfico de Drogas,Jardim das Flores,Encerrado,1
+OC0476,2024-03-27,Roubo,São Jorge,Em investigação,3
+OC0477,2024-01-19,Roubo,Vila Nova,Sem solução,1
+OC0478,2024-03-07,Roubo,Centro,Encerrado,4
+OC0479,2024-03-21,Roubo,Centro,Em investigação,4
+OC0480,2024-02-19,Violência Doméstica,Alvorada,Em investigação,1
+OC0481,2024-03-26,Homicídio,Parque Verde,Em investigação,5
+OC0482,2024-02-05,Roubo,Parque Verde,Encerrado,4
+OC0483,2024-03-26,Roubo,Jardim das Flores,Sem solução,1
+OC0484,2024-02-08,Homicídio,Alvorada,Sem solução,4
+OC0485,2024-02-03,Tráfico de Drogas,São Jorge,Em investigação,5
+OC0486,2024-01-05,Roubo,São Jorge,Sem solução,5
+OC0487,2024-02-12,Roubo,Jardim das Flores,Sem solução,4
+OC0488,2024-02-16,Agressão,Centro,Sem solução,5
+OC0489,2024-03-07,Agressão,Parque Verde,Encerrado,2
+OC0490,2024-03-09,Furto,Jardim das Flores,Encerrado,1
+OC0491,2024-02-27,Homicídio,Jardim das Flores,Sem solução,5
+OC0492,2024-01-25,Roubo,Vila Nova,Sem solução,2
+OC0493,2024-01-20,Agressão,Parque Verde,Em investigação,2
+OC0494,2024-02-06,Tráfico de Drogas,Vila Nova,Encerrado,1
+OC0495,2024-03-05,Violência Doméstica,Industrial,Em investigação,2
+OC0496,2024-03-25,Tráfico de Drogas,Industrial,Em investigação,3
+OC0497,2024-03-21,Furto,Jardim das Flores,Encerrado,4
+OC0498,2024-03-13,Furto,Industrial,Encerrado,1
+OC0499,2024-02-14,Roubo,Centro,Encerrado,4
+OC0500,2024-01-12,Roubo,Industrial,Em investigação,3
