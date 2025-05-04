@@ -1,0 +1,451 @@
+ID,Data,Categoria,Meio_Contato,Tempo_Resposta (dias),Status
+RC0001,2024-01-06,Cobrança Indevida,Telefone,7.0,Não resolvida
+RC0002,2024-01-12,Cobrança Indevida,Chat,9.0,Em andamento
+RC0003,2024-01-26,Entrega,Redes Sociais,21.0,Resolvida
+RC0004,2024-02-22,Produto com Defeito,E-mail,9.0,Não resolvida
+RC0005,2024-03-17,Atendimento,Chat,15.0,Resolvida
+RC0006,2024-03-27,Garantia,Redes Sociais,23.0,Resolvida
+RC0007,2024-03-13,Garantia,E-mail,24.0,Não resolvida
+RC0008,2024-02-08,Produto com Defeito,Chat,24.0,Resolvida
+RC0009,2024-03-13,Atendimento,Telefone,18.0,Em andamento
+RC0010,2024-03-16,Produto com Defeito,E-mail,27.0,Em andamento
+RC0011,2024-02-20,Garantia,Telefone,4.0,Em andamento
+RC0012,2024-02-19,Cobrança Indevida,Telefone,29.0,Resolvida
+RC0013,2024-02-07,Entrega,Redes Sociais,23.0,Em andamento
+RC0014,2024-03-20,Garantia,E-mail,25.0,Em andamento
+RC0015,2024-01-14,Atendimento,E-mail,2.0,Resolvida
+RC0016,2024-03-30,Garantia,Redes Sociais,13.0,Não resolvida
+RC0017,2024-03-06,Garantia,Chat,17.0,Não resolvida
+RC0018,2024-02-26,Entrega,Telefone,22.0,Não resolvida
+RC0019,2024-03-01,Atendimento,E-mail,11.0,Em andamento
+RC0020,2024-03-28,Atendimento,Chat,13.0,Resolvida
+RC0021,2024-01-10,Entrega,Telefone,10.0,Em andamento
+RC0022,2024-02-12,Garantia,Redes Sociais,23.0,Não resolvida
+RC0023,2024-01-13,Garantia,Chat,22.0,Em andamento
+RC0024,2024-01-27,Cobrança Indevida,Redes Sociais,7.0,Em andamento
+RC0025,2024-01-11,Atendimento,Redes Sociais,9.0,Em andamento
+RC0026,2024-03-20,Produto com Defeito,E-mail,22.0,Resolvida
+RC0027,2024-01-21,Cobrança Indevida,Chat,19.0,Resolvida
+RC0028,2024-02-01,Cobrança Indevida,Redes Sociais,8.0,Não resolvida
+RC0029,2024-03-24,Cobrança Indevida,Telefone,15.0,Não resolvida
+RC0030,2024-01-25,Entrega,Chat,12.0,Em andamento
+RC0031,2024-03-13,Entrega,Redes Sociais,10.0,Não resolvida
+RC0032,2024-01-22,Atendimento,E-mail,5.0,Resolvida
+RC0033,2024-01-17,Atendimento,Chat,6.0,Resolvida
+RC0034,2024-02-04,Garantia,Redes Sociais,27.0,Em andamento
+RC0035,2024-03-10,Garantia,Chat,16.0,Resolvida
+RC0036,2024-02-27,Atendimento,Redes Sociais,23.0,Em andamento
+RC0037,2024-03-24,Garantia,E-mail,19.0,Não resolvida
+RC0038,2024-01-11,Atendimento,Telefone,28.0,Resolvida
+RC0039,2024-01-31,Atendimento,Telefone,1.0,Em andamento
+RC0040,2024-01-22,Cobrança Indevida,Telefone,6.0,Resolvida
+RC0041,2024-02-17,Produto com Defeito,Redes Sociais,19.0,Não resolvida
+RC0042,2024-02-23,Entrega,Chat,16.0,Em andamento
+RC0043,2024-01-28,Entrega,E-mail,16.0,Não resolvida
+RC0044,2024-02-05,Produto com Defeito,Chat,20.0,Em andamento
+RC0045,2024-03-21,Entrega,Telefone,21.0,Resolvida
+RC0046,2024-02-14,Produto com Defeito,Chat,5.0,Em andamento
+RC0047,2024-03-18,Cobrança Indevida,Chat,26.0,Em andamento
+RC0048,2024-02-29,Cobrança Indevida,Chat,14.0,Resolvida
+RC0049,2024-02-10,Garantia,Redes Sociais,18.0,Resolvida
+RC0050,2024-01-02,Garantia,Chat,9.0,Em andamento
+RC0051,2024-01-11,Entrega,Telefone,6.0,Resolvida
+RC0052,2024-01-16,Entrega,Telefone,6.0,Resolvida
+RC0053,2024-02-12,Entrega,Redes Sociais,16.0,Em andamento
+RC0054,2024-01-23,Garantia,E-mail,19.0,Resolvida
+RC0055,2024-02-04,Entrega,Telefone,12.0,Não resolvida
+RC0056,2024-03-25,Cobrança Indevida,Redes Sociais,25.0,Em andamento
+RC0057,2024-01-03,Produto com Defeito,Telefone,8.0,Não resolvida
+RC0058,2024-02-09,Cobrança Indevida,Telefone,23.0,Não resolvida
+RC0059,2024-02-02,Cobrança Indevida,Chat,29.0,Resolvida
+RC0060,2024-03-05,Entrega,E-mail,10.0,Resolvida
+RC0061,2024-03-15,Produto com Defeito,Chat,22.0,Resolvida
+RC0062,2024-01-07,Cobrança Indevida,Redes Sociais,30.0,Não resolvida
+RC0063,2024-03-25,Atendimento,E-mail,12.0,Resolvida
+RC0064,2024-01-29,Garantia,Telefone,21.0,Resolvida
+RC0065,2024-01-12,Produto com Defeito,Redes Sociais,11.0,Em andamento
+RC0066,2024-02-02,Garantia,Chat,30.0,Não resolvida
+RC0067,2024-03-01,Entrega,E-mail,18.0,Resolvida
+RC0068,2024-03-17,Garantia,Telefone,28.0,Não resolvida
+RC0069,2024-02-21,Cobrança Indevida,Chat,20.0,Em andamento
+RC0070,2024-01-09,Cobrança Indevida,Telefone,5.0,Em andamento
+RC0071,2024-02-15,Atendimento,Chat,10.0,Em andamento
+RC0072,2024-01-15,Garantia,Telefone,22.0,Não resolvida
+RC0073,2024-02-11,Atendimento,Redes Sociais,18.0,Resolvida
+RC0074,2024-02-02,Garantia,Chat,4.0,Resolvida
+RC0075,2024-01-19,Atendimento,E-mail,13.0,Em andamento
+RC0076,2024-03-27,Garantia,Telefone,21.0,Em andamento
+RC0077,2024-02-22,Produto com Defeito,E-mail,18.0,Em andamento
+RC0078,2024-02-28,Cobrança Indevida,Redes Sociais,25.0,Resolvida
+RC0079,2024-03-11,Entrega,Chat,2.0,Resolvida
+RC0080,2024-01-29,Cobrança Indevida,E-mail,14.0,Em andamento
+RC0081,2024-03-28,Produto com Defeito,Telefone,13.0,Em andamento
+RC0082,2024-01-23,Atendimento,Chat,6.0,Resolvida
+RC0083,2024-02-14,Produto com Defeito,Redes Sociais,16.0,Não resolvida
+RC0084,2024-02-24,Produto com Defeito,Chat,1.0,Não resolvida
+RC0085,2024-01-03,Cobrança Indevida,E-mail,16.0,Não resolvida
+RC0086,2024-03-14,Produto com Defeito,Telefone,28.0,Resolvida
+RC0087,2024-03-12,Cobrança Indevida,E-mail,8.0,Resolvida
+RC0088,2024-01-16,Atendimento,Chat,24.0,Não resolvida
+RC0089,2024-02-28,Atendimento,Chat,7.0,Não resolvida
+RC0090,2024-03-24,Garantia,Chat,4.0,Não resolvida
+RC0091,2024-02-10,Atendimento,E-mail,10.0,Em andamento
+RC0092,2024-02-13,Entrega,Telefone,7.0,Em andamento
+RC0093,2024-01-03,Entrega,E-mail,4.0,Em andamento
+RC0094,2024-01-31,Cobrança Indevida,Telefone,5.0,Em andamento
+RC0095,2024-01-19,Cobrança Indevida,Telefone,29.0,Em andamento
+RC0096,2024-03-04,Cobrança Indevida,Chat,10.0,Não resolvida
+RC0097,2024-01-16,Entrega,E-mail,11.0,Em andamento
+RC0098,2024-02-19,Atendimento,Telefone,28.0,Resolvida
+RC0099,2024-03-27,Cobrança Indevida,E-mail,25.0,Não resolvida
+RC0100,2024-02-09,Atendimento,E-mail,26.0,Não resolvida
+RC0101,2024-02-18,Garantia,Redes Sociais,27.0,Resolvida
+RC0102,2024-02-02,Garantia,Chat,14.0,Não resolvida
+RC0103,2024-03-07,Garantia,Redes Sociais,19.0,Não resolvida
+RC0104,2024-03-14,Atendimento,Redes Sociais,9.0,Resolvida
+RC0105,2024-03-30,Garantia,E-mail,6.0,Em andamento
+RC0106,2024-01-24,Atendimento,E-mail,2.0,Em andamento
+RC0107,2024-01-08,Entrega,Chat,16.0,Em andamento
+RC0108,2024-02-02,Cobrança Indevida,E-mail,4.0,Em andamento
+RC0109,2024-02-07,Produto com Defeito,Chat,17.0,Resolvida
+RC0110,2024-01-29,Atendimento,Redes Sociais,30.0,Em andamento
+RC0111,2024-01-13,entrega,Telefone,3.0,Em andamento
+RC0112,2024-01-11,Produto com Defeito,Telefone,30.0,Não resolvida
+RC0113,2024-02-23,Garantia,Chat,1.0,Resolvida
+RC0114,2024-03-15,Produto com Defeito,Chat,22.0,Não resolvida
+RC0115,2024-02-18,Atendimento,E-mail,26.0,Não resolvida
+RC0116,2024-01-19,Cobrança Indevida,E-mail,29.0,Resolvida
+RC0117,2024-01-05,Entrega,Chat,16.0,Não resolvida
+RC0118,2024-01-03,Entrega,Telefone,4.0,Não resolvida
+RC0119,2024-03-08,Entrega,E-mail,24.0,Resolvida
+RC0120,2024-02-06,Atendimento,Chat,27.0,Resolvida
+RC0121,2024-02-25,Produto com Defeito,Redes Sociais,17.0,Não resolvida
+RC0122,2024-03-25,Garantia,E-mail,24.0,Em andamento
+RC0123,2024-03-18,Entrega,Chat,24.0,Em andamento
+RC0124,2024-03-13,Atendimento,Redes Sociais,18.0,Em andamento
+RC0125,2024-03-27,Produto com Defeito,Chat,7.0,Não resolvida
+RC0126,2024-02-26,Garantia,Chat,14.0,Resolvida
+RC0127,2024-03-31,Produto com Defeito,E-mail,13.0,Não resolvida
+RC0128,2024-01-23,Entrega,Telefone,15.0,Em andamento
+RC0129,2024-02-16,Atendimento,Redes Sociais,23.0,Em andamento
+RC0130,2024-03-11,Cobrança Indevida,Chat,23.0,Em andamento
+RC0131,2024-03-08,Entrega,Telefone,30.0,Resolvida
+RC0132,2024-03-05,Cobrança Indevida,Chat,5.0,Resolvida
+RC0133,2024-01-06,Atendimento,E-mail,21.0,Não resolvida
+RC0134,2024-03-12,Entrega,Redes Sociais,22.0,Não resolvida
+RC0135,2024-01-30,Cobrança Indevida,E-mail,1.0,Em andamento
+RC0136,2024-01-13,Produto com Defeito,Chat,2.0,Não resolvida
+RC0137,2024-02-09,Cobrança Indevida,Redes Sociais,23.0,Resolvida
+RC0138,2024-01-12,Garantia,Chat,13.0,Resolvida
+RC0139,2024-03-28,Entrega,E-mail,17.0,Em andamento
+RC0140,2024-03-07,Atendimento,Telefone,6.0,Resolvida
+RC0141,2024-02-18,Cobrança Indevida,Telefone,19.0,Em andamento
+RC0142,2024-01-20,Atendimento,Telefone,10.0,Não resolvida
+RC0143,2024-01-06,Atendimento,E-mail,10.0,Não resolvida
+RC0144,2024-02-13,Cobrança Indevida,E-mail,4.0,Não resolvida
+RC0145,2024-01-17,Cobrança Indevida,Chat,7.0,Em andamento
+RC0146,2024-03-01,Atendimento,Redes Sociais,11.0,Em andamento
+RC0147,2024-03-22,Produto com Defeito,E-mail,1.0,Em andamento
+RC0148,2024-03-09,Garantia,Redes Sociais,10.0,Não resolvida
+RC0149,2024-03-04,Produto com Defeito,E-mail,14.0,Resolvida
+RC0150,2024-02-26,Entrega,E-mail,24.0,Em andamento
+RC0151,2024-03-21,Produto com Defeito,E-mail,15.0,Não resolvida
+RC0152,2024-03-31,Entrega,Redes Sociais,1.0,Não resolvida
+RC0153,2024-02-07,Entrega,Chat,16.0,Não resolvida
+RC0154,2024-01-19,Entrega,Telefone,28.0,Em andamento
+RC0155,2024-02-17,Produto com Defeito,Redes Sociais,6.0,Resolvida
+RC0156,2024-01-02,Atendimento,E-mail,18.0,Em andamento
+RC0157,2024-01-15,Cobrança Indevida,Chat,15.0,Em andamento
+RC0158,2024-02-21,Garantia,Chat,1.0,Resolvida
+RC0159,2024-03-07,Cobrança Indevida,Redes Sociais,21.0,Em andamento
+RC0160,2024-03-18,Atendimento,Redes Sociais,10.0,Não resolvida
+RC0161,2024-02-03,Cobrança Indevida,Telefone,1.0,Resolvida
+RC0162,2024-03-22,Cobrança Indevida,E-mail,17.0,Resolvida
+RC0163,2024-01-30,Entrega,Chat,13.0,Em andamento
+RC0164,2024-02-22,Entrega,Telefone,6.0,Não resolvida
+RC0165,2024-01-14,Atendimento,Chat,26.0,Em andamento
+RC0166,2024-03-23,Cobrança Indevida,Chat,4.0,Em andamento
+RC0167,2024-03-30,Atendimento,Redes Sociais,14.0,Resolvida
+RC0168,2024-02-14,Produto com Defeito,Redes Sociais,20.0,Em andamento
+RC0169,2024-01-30,Produto com Defeito,Telefone,24.0,Resolvida
+RC0170,2024-02-10,Atendimento,Redes Sociais,2.0,Não resolvida
+RC0171,2024-02-01,Produto com Defeito,Telefone,10.0,Resolvida
+RC0172,2024-03-25,Cobrança Indevida,Redes Sociais,14.0,Resolvida
+RC0173,2024-02-04,Garantia,Telefone,11.0,Resolvida
+RC0174,2024-02-15,Garantia,Chat,28.0,Não resolvida
+RC0175,2024-03-17,Produto com Defeito,E-mail,1.0,Em andamento
+RC0176,2024-01-02,Atendimento,E-mail,7.0,Em andamento
+RC0177,2024-01-20,Produto com Defeito,E-mail,14.0,Em andamento
+RC0178,2024-03-27,Produto com Defeito,E-mail,19.0,Não resolvida
+RC0179,2024-01-22,Cobrança Indevida,Redes Sociais,19.0,Não resolvida
+RC0180,2024-03-25,Garantia,Chat,16.0,Não resolvida
+RC0181,2024-01-18,Garantia,Telefone,19.0,Resolvida
+RC0182,2024-03-10,Atendimento,Chat,6.0,Não resolvida
+RC0183,2024-03-08,Garantia,Redes Sociais,21.0,Em andamento
+RC0184,2024-01-06,Produto com Defeito,Redes Sociais,26.0,Em andamento
+RC0185,2024-01-27,Garantia,Telefone,27.0,Resolvida
+RC0186,2024-02-28,Produto com Defeito,Chat,28.0,Resolvida
+RC0187,2024-02-05,Entrega,Redes Sociais,7.0,Não resolvida
+RC0188,2024-03-14,Produto com Defeito,Chat,17.0,Resolvida
+RC0189,2024-02-07,Entrega,Chat,22.0,Resolvida
+RC0190,2024-01-04,Cobrança Indevida,Redes Sociais,19.0,Não resolvida
+RC0191,2024-03-25,Produto com Defeito,Chat,17.0,Resolvida
+RC0192,2024-02-26,Garantia,Redes Sociais,6.0,Não resolvida
+RC0193,2024-02-10,Cobrança Indevida,Redes Sociais,17.0,Em andamento
+RC0194,2024-02-13,Garantia,E-mail,24.0,Em andamento
+RC0195,2024-02-02,Entrega,Telefone,20.0,Resolvida
+RC0196,2024-01-15,Entrega,E-mail,26.0,Em andamento
+RC0197,2024-01-30,Cobrança Indevida,E-mail,28.0,Resolvida
+RC0198,2024-03-30,Entrega,Telefone,23.0,Resolvida
+RC0199,2024-03-15,Garantia,E-mail,30.0,Resolvida
+RC0200,2024-01-28,Produto com Defeito,Telefone,4.0,Em andamento
+RC0201,2024-03-22,Produto com Defeito,Telefone,16.0,Não resolvida
+RC0202,2024-02-09,Cobrança Indevida,Redes Sociais,30.0,Em andamento
+RC0203,2024-03-14,Cobrança Indevida,Telefone,21.0,Em andamento
+RC0204,2024-01-27,Cobrança Indevida,Telefone,26.0,Resolvida
+RC0205,2024-01-18,Produto com Defeito,E-mail,6.0,Não resolvida
+RC0206,2024-03-23,Entrega,E-mail,11.0,Não resolvida
+RC0207,2024-01-23,Produto com Defeito,Redes Sociais,8.0,Não resolvida
+RC0208,2024-03-14,Entrega,Chat,5.0,Resolvida
+RC0209,2024-01-23,Entrega,Redes Sociais,16.0,Resolvida
+RC0210,2024-02-29,Produto com Defeito,E-mail,12.0,Resolvida
+RC0211,2024-03-02,Entrega,Redes Sociais,,Não resolvida
+RC0212,2024-01-12,Cobrança Indevida,Redes Sociais,4.0,Não resolvida
+RC0213,2024-01-23,Cobrança Indevida,Redes Sociais,30.0,Não resolvida
+RC0214,2024-03-19,Atendimento,Telefone,13.0,Em andamento
+RC0215,2024-03-29,Produto com Defeito,Redes Sociais,5.0,Não resolvida
+RC0216,2024-01-05,Cobrança Indevida,Chat,2.0,Resolvida
+RC0217,2024-03-22,Entrega,E-mail,20.0,Resolvida
+RC0218,2024-03-01,Produto com Defeito,E-mail,19.0,Não resolvida
+RC0219,2024-01-06,Garantia,Telefone,19.0,Resolvida
+RC0220,2024-01-02,Cobrança Indevida,Redes Sociais,24.0,Não resolvida
+RC0221,2024-02-10,Garantia,Chat,23.0,Resolvida
+RC0222,2024-03-17,Cobrança Indevida,E-mail,6.0,Não resolvida
+RC0223,2024-02-05,Cobrança Indevida,Chat,6.0,Em andamento
+RC0224,2024-03-23,Produto com Defeito,Chat,13.0,Resolvida
+RC0225,2024-03-19,Garantia,Telefone,8.0,Em andamento
+RC0226,2024-02-02,Atendimento,Redes Sociais,8.0,Em andamento
+RC0227,2024-01-28,Cobrança Indevida,Telefone,4.0,Não resolvida
+RC0228,2024-02-18,Produto com Defeito,Chat,21.0,Em andamento
+RC0229,2024-03-30,Cobrança Indevida,Redes Sociais,16.0,Em andamento
+RC0230,2024-03-13,Cobrança Indevida,E-mail,9.0,Resolvida
+RC0231,2024-03-06,Atendimento,Redes Sociais,7.0,Resolvida
+RC0232,2024-02-04,Cobrança Indevida,Chat,6.0,Não resolvida
+RC0233,2024-02-15,Produto com Defeito,E-mail,15.0,Resolvida
+RC0234,2024-01-20,Atendimento,Telefone,11.0,Resolvida
+RC0235,2024-01-24,Cobrança Indevida,Chat,26.0,Não resolvida
+RC0236,2024-03-09,Entrega,Redes Sociais,11.0,Não resolvida
+RC0237,2024-01-16,Atendimento,E-mail,9.0,Resolvida
+RC0238,2024-01-09,Entrega,E-mail,20.0,Em andamento
+RC0239,2024-03-06,Cobrança Indevida,Telefone,29.0,Em andamento
+RC0240,2024-01-09,Produto com Defeito,Redes Sociais,3.0,Não resolvida
+RC0241,2024-01-10,Produto com Defeito,Chat,18.0,Em andamento
+RC0242,2024-03-24,Entrega,Redes Sociais,20.0,Em andamento
+RC0243,2024-02-21,Garantia,Telefone,5.0,Em andamento
+RC0244,2024-02-21,Garantia,E-mail,20.0,Em andamento
+RC0245,2024-02-29,Cobrança Indevida,E-mail,26.0,Não resolvida
+RC0246,2024-03-12,Entrega,E-mail,1.0,Em andamento
+RC0247,2024-03-14,Cobrança Indevida,Chat,28.0,Em andamento
+RC0248,2024-03-23,Cobrança Indevida,Chat,4.0,Não resolvida
+RC0249,2024-02-17,Entrega,Telefone,14.0,Em andamento
+RC0250,2024-02-28,Atendimento,E-mail,12.0,Em andamento
+RC0251,2024-02-07,Produto com Defeito,Chat,8.0,Não resolvida
+RC0252,2024-01-30,Atendimento,E-mail,6.0,Em andamento
+RC0253,2024-01-30,Atendimento,Telefone,17.0,Em andamento
+RC0254,2024-03-27,Entrega,E-mail,9.0,Não resolvida
+RC0255,2024-01-15,Atendimento,Redes Sociais,2.0,Não resolvida
+RC0256,2024-02-23,Cobrança Indevida,Telefone,3.0,Não resolvida
+RC0257,2024-02-14,Atendimento,E-mail,28.0,Em andamento
+RC0258,2024-01-01,Garantia,Telefone,24.0,Resolvida
+RC0259,2024-01-26,Produto com Defeito,Redes Sociais,16.0,Resolvida
+RC0260,2024-02-26,Garantia,Chat,29.0,Em andamento
+RC0261,2024-02-15,Atendimento,Chat,26.0,Em andamento
+RC0262,2024-01-07,Entrega,Chat,30.0,Em andamento
+RC0263,2024-03-16,Entrega,Chat,25.0,Não resolvida
+RC0264,2024-02-20,Produto com Defeito,Chat,6.0,Resolvida
+RC0265,2024-03-19,Entrega,E-mail,13.0,Resolvida
+RC0266,2024-03-18,Produto com Defeito,Redes Sociais,1.0,Resolvida
+RC0267,2024-03-19,Produto com Defeito,Chat,27.0,Em andamento
+RC0268,2024-03-24,Produto com Defeito,Redes Sociais,8.0,Não resolvida
+RC0269,2024-02-10,Garantia,E-mail,5.0,Resolvida
+RC0270,2024-01-11,Garantia,E-mail,13.0,Resolvida
+RC0271,2024-02-18,Atendimento,Chat,6.0,Em andamento
+RC0272,2024-01-23,Atendimento,Redes Sociais,17.0,Resolvida
+RC0273,2024-02-21,Entrega,E-mail,5.0,Em andamento
+RC0274,2024-01-06,Garantia,Chat,19.0,Resolvida
+RC0275,2024-03-10,Produto com Defeito,E-mail,27.0,Resolvida
+RC0276,2024-03-21,Atendimento,Telefone,14.0,Em andamento
+RC0277,2024-02-23,Garantia,Telefone,20.0,Em andamento
+RC0278,2024-03-04,Atendimento,Telefone,28.0,Resolvida
+RC0279,2024-03-26,Cobrança Indevida,E-mail,2.0,Em andamento
+RC0280,2024-02-04,Entrega,Telefone,26.0,Em andamento
+RC0281,2024-03-24,Cobrança Indevida,Chat,13.0,Em andamento
+RC0282,2024-02-20,Entrega,Telefone,13.0,Em andamento
+RC0283,2024-01-01,Atendimento,E-mail,19.0,Não resolvida
+RC0284,2024-03-23,Atendimento,Telefone,30.0,Em andamento
+RC0285,2024-02-07,Atendimento,Chat,11.0,Não resolvida
+RC0286,2024-02-13,Entrega,Chat,8.0,Em andamento
+RC0287,2024-03-14,Produto com Defeito,Telefone,3.0,Não resolvida
+RC0288,2024-03-03,Entrega,Telefone,13.0,Resolvida
+RC0289,2024-02-10,Cobrança Indevida,Telefone,20.0,Não resolvida
+RC0290,2024-03-02,Entrega,Telefone,24.0,Em andamento
+RC0291,2024-03-27,Produto com Defeito,Telefone,21.0,Resolvida
+RC0292,2024-01-20,Produto com Defeito,Telefone,4.0,Resolvida
+RC0293,2024-03-09,Cobrança Indevida,Chat,16.0,Em andamento
+RC0294,2024-01-04,Produto com Defeito,E-mail,24.0,Não resolvida
+RC0295,2024-01-04,Cobrança Indevida,Redes Sociais,12.0,Resolvida
+RC0296,2024-02-09,Cobrança Indevida,Chat,27.0,Em andamento
+RC0297,2024-03-08,Atendimento,Redes Sociais,1.0,Resolvida
+RC0298,2024-02-27,Cobrança Indevida,E-mail,26.0,Resolvida
+RC0299,2024-01-25,Entrega,Chat,17.0,Em andamento
+RC0300,2024-01-27,Garantia,E-mail,6.0,Não resolvida
+RC0301,2024-01-19,Entrega,E-mail,15.0,Em andamento
+RC0302,2024-02-22,Entrega,E-mail,3.0,Não resolvida
+RC0303,2024-03-26,Cobrança Indevida,Telefone,26.0,Em andamento
+RC0304,2024-02-27,Entrega,Redes Sociais,20.0,Em andamento
+RC0305,2024-02-20,Produto com Defeito,E-mail,10.0,Resolvida
+RC0306,2024-01-01,Cobrança Indevida,Telefone,20.0,Não resolvida
+RC0307,2024-01-19,Atendimento,Redes Sociais,17.0,Em andamento
+RC0308,2024-01-12,Cobrança Indevida,E-mail,28.0,Resolvida
+RC0309,2024-02-06,Atendimento,Chat,27.0,Em andamento
+RC0310,2024-03-02,Entrega,E-mail,5.0,Não resolvida
+RC0311,2024-02-14,Entrega,Telefone,19.0,Não resolvida
+RC0312,2024-03-25,Garantia,Telefone,28.0,Resolvida
+RC0313,2024-03-16,Garantia,E-mail,2.0,Resolvida
+RC0314,2024-02-28,Entrega,Redes Sociais,15.0,Resolvida
+RC0315,2024-01-01,Cobrança Indevida,E-mail,10.0,Em andamento
+RC0316,2024-03-03,Garantia,Telefone,4.0,Não resolvida
+RC0317,2024-01-12,Cobrança Indevida,E-mail,20.0,Em andamento
+RC0318,2024-02-19,Garantia,Redes Sociais,11.0,Não resolvida
+RC0319,2024-03-16,Atendimento,E-mail,14.0,Resolvida
+RC0320,2024-01-22,Garantia,Redes Sociais,10.0,Não resolvida
+RC0321,2024-03-29,Atendimento,Chat,12.0,Resolvida
+RC0322,2024-03-10,Garantia,Redes Sociais,8.0,Em andamento
+RC0323,2024-03-03,Cobrança Indevida,Redes Sociais,1.0,Em andamento
+RC0324,2024-02-17,Cobrança Indevida,E-mail,4.0,Em andamento
+RC0325,2024-02-15,Produto com Defeito,Chat,20.0,Em andamento
+RC0326,2024-02-19,Atendimento,Redes Sociais,13.0,Resolvida
+RC0327,2024-03-05,Atendimento,E-mail,7.0,Resolvida
+RC0328,2024-03-25,Cobrança Indevida,E-mail,23.0,Em andamento
+RC0329,2024-03-03,Produto com Defeito,E-mail,20.0,Não resolvida
+RC0330,2024-01-21,Garantia,Telefone,23.0,Não resolvida
+RC0331,2024-03-27,Entrega,Chat,9.0,Resolvida
+RC0332,2024-03-26,Garantia,Chat,24.0,Em andamento
+RC0333,2024-02-13,Cobrança Indevida,Chat,1.0,Resolvida
+RC0334,2024-02-02,Garantia,Telefone,5.0,Em andamento
+RC0335,2024-01-22,Atendimento,Redes Sociais,5.0,Em andamento
+RC0336,2024-03-02,Garantia,Redes Sociais,12.0,Não resolvida
+RC0337,2024-03-28,Atendimento,Chat,15.0,Em andamento
+RC0338,2024-01-13,Entrega,E-mail,30.0,Resolvida
+RC0339,2024-01-17,Produto com Defeito,Chat,26.0,Resolvida
+RC0340,2024-01-29,Cobrança Indevida,Telefone,5.0,Resolvida
+RC0341,2024-01-08,Atendimento,Chat,29.0,Resolvida
+RC0342,2024-03-25,Produto com Defeito,Chat,20.0,Em andamento
+RC0343,2024-03-05,Garantia,Redes Sociais,15.0,Resolvida
+RC0344,2024-01-21,Garantia,Redes Sociais,17.0,Em andamento
+RC0345,2024-03-27,Garantia,Chat,3.0,Não resolvida
+RC0346,2024-03-20,Entrega,Redes Sociais,29.0,Resolvida
+RC0347,2024-03-05,Atendimento,Chat,5.0,Resolvida
+RC0348,2024-03-19,Cobrança Indevida,Redes Sociais,13.0,Não resolvida
+RC0349,2024-02-27,Cobrança Indevida,E-mail,30.0,Em andamento
+RC0350,2024-01-20,Atendimento,Redes Sociais,28.0,Resolvida
+RC0351,2024-02-02,Entrega,E-mail,18.0,Resolvida
+RC0352,2024-02-02,Produto com Defeito,Telefone,15.0,Não resolvida
+RC0353,2024-03-19,Atendimento,Redes Sociais,23.0,Resolvida
+RC0354,2024-01-09,Cobrança Indevida,Redes Sociais,21.0,Resolvida
+RC0355,2024-03-18,Garantia,Telefone,3.0,Em andamento
+RC0356,2024-02-10,Atendimento,Redes Sociais,17.0,Em andamento
+RC0357,2024-03-06,Cobrança Indevida,Telefone,24.0,Resolvida
+RC0358,2024-03-08,Cobrança Indevida,Telefone,12.0,Não resolvida
+RC0359,2024-03-25,Entrega,E-mail,11.0,Em andamento
+RC0360,2024-03-05,Cobrança Indevida,Chat,18.0,Não resolvida
+RC0361,2024-02-22,Garantia,Redes Sociais,19.0,Em andamento
+RC0362,2024-03-08,Produto com Defeito,Telefone,7.0,Resolvida
+RC0363,2024-02-25,Cobrança Indevida,Chat,28.0,Não resolvida
+RC0364,2024-02-20,Atendimento,Telefone,1.0,Resolvida
+RC0365,2024-02-05,Atendimento,Telefone,6.0,Resolvida
+RC0366,2024-03-19,Entrega,Redes Sociais,21.0,Em andamento
+RC0367,2024-02-14,Garantia,Chat,18.0,Não resolvida
+RC0368,2024-02-25,Entrega,Redes Sociais,25.0,Resolvida
+RC0369,2024-01-28,Garantia,Telefone,16.0,Resolvida
+RC0370,2024-01-04,Produto com Defeito,Chat,21.0,Não resolvida
+RC0371,2024-03-08,Entrega,Telefone,25.0,Não resolvida
+RC0372,2024-01-02,Cobrança Indevida,E-mail,24.0,Em andamento
+RC0373,2024-03-26,Cobrança Indevida,Chat,25.0,Resolvida
+RC0374,2024-03-13,Garantia,E-mail,21.0,Em andamento
+RC0375,2024-01-10,Entrega,Redes Sociais,1.0,Resolvida
+RC0376,2024-03-17,Garantia,Telefone,13.0,Não resolvida
+RC0377,2024-01-21,Garantia,E-mail,18.0,Não resolvida
+RC0378,2024-03-11,Atendimento,Chat,9.0,Resolvida
+RC0379,2024-02-02,Entrega,E-mail,20.0,Não resolvida
+RC0380,2024-01-28,Entrega,E-mail,29.0,Em andamento
+RC0381,2024-01-06,Garantia,Telefone,15.0,Em andamento
+RC0382,2024-01-11,Produto com Defeito,Telefone,14.0,Em andamento
+RC0383,2024-03-21,Garantia,Redes Sociais,10.0,Não resolvida
+RC0384,2024-02-24,Produto com Defeito,Chat,29.0,Em andamento
+RC0385,2024-01-24,Atendimento,Telefone,23.0,Em andamento
+RC0386,2024-02-19,Produto com Defeito,Telefone,13.0,Não resolvida
+RC0387,2024-01-06,Produto com Defeito,Telefone,13.0,Não resolvida
+RC0388,2024-03-11,Atendimento,Telefone,30.0,Em andamento
+RC0389,2024-01-22,Entrega,Redes Sociais,9.0,Não resolvida
+RC0390,2024-03-20,Cobrança Indevida,E-mail,22.0,Em andamento
+RC0391,2024-01-09,Garantia,Telefone,26.0,Não resolvida
+RC0392,2024-03-30,Atendimento,Chat,15.0,Em andamento
+RC0393,2024-02-10,Garantia,Redes Sociais,5.0,Em andamento
+RC0394,2024-03-27,Garantia,Telefone,26.0,Não resolvida
+RC0395,2024-01-09,Entrega,Redes Sociais,5.0,Resolvida
+RC0396,2024-02-20,Garantia,Chat,6.0,Em andamento
+RC0397,2024-02-28,Atendimento,Telefone,26.0,Não resolvida
+RC0398,2024-02-25,Produto com Defeito,Redes Sociais,22.0,Em andamento
+RC0399,2024-03-13,Entrega,Chat,13.0,Não resolvida
+RC0400,2024-01-24,Garantia,Redes Sociais,1.0,Resolvida
+RC0401,2024-01-01,Garantia,E-mail,13.0,Em andamento
+RC0402,2024-02-19,Garantia,E-mail,10.0,Não resolvida
+RC0403,2024-03-05,Produto com Defeito,Telefone,28.0,Não resolvida
+RC0404,2024-01-14,Garantia,Redes Sociais,10.0,Resolvida
+RC0405,2024-02-03,Produto com Defeito,Chat,1.0,Não resolvida
+RC0406,2024-03-23,Atendimento,Chat,4.0,Em andamento
+RC0407,2024-01-04,Garantia,Redes Sociais,18.0,Resolvida
+RC0408,2024-01-28,Atendimento,Telefone,7.0,Não resolvida
+RC0409,2024-03-03,Produto com Defeito,Chat,10.0,Em andamento
+RC0410,2024-03-10,Entrega,E-mail,13.0,Não resolvida
+RC0411,2024-01-14,Cobrança Indevida,Redes Sociais,4.0,Resolvida
+RC0412,2024-01-07,Produto com Defeito,Telefone,26.0,Não resolvida
+RC0413,2024-03-15,Entrega,Chat,13.0,Em andamento
+RC0414,2024-01-24,Atendimento,Chat,20.0,Resolvida
+RC0415,2024-01-13,Entrega,Telefone,19.0,Resolvida
+RC0416,2024-03-06,Cobrança Indevida,Redes Sociais,10.0,Resolvida
+RC0417,2024-01-12,Cobrança Indevida,Redes Sociais,21.0,Resolvida
+RC0418,2024-03-25,Cobrança Indevida,Redes Sociais,3.0,Resolvida
+RC0419,2024-02-27,Produto com Defeito,E-mail,21.0,Resolvida
+RC0420,2024-01-10,Entrega,Chat,23.0,Não resolvida
+RC0421,2024-02-16,Entrega,Chat,24.0,Resolvida
+RC0422,2024-03-26,Produto com Defeito,Telefone,13.0,Em andamento
+RC0423,2024-01-01,Garantia,Redes Sociais,16.0,Não resolvida
+RC0424,2024-03-09,Atendimento,Redes Sociais,26.0,Resolvida
+RC0425,2024-03-23,Cobrança Indevida,Telefone,4.0,Não resolvida
+RC0426,2024-03-09,Produto com Defeito,Redes Sociais,16.0,Não resolvida
+RC0427,2024-03-19,Atendimento,E-mail,21.0,Resolvida
+RC0428,2024-03-30,Entrega,Chat,28.0,Em andamento
+RC0429,2024-01-14,Atendimento,Telefone,17.0,Em andamento
+RC0430,2024-01-02,Cobrança Indevida,E-mail,17.0,Não resolvida
+RC0431,2024-01-13,Cobrança Indevida,Chat,1.0,Em andamento
+RC0432,2024-01-28,Entrega,Redes Sociais,14.0,Não resolvida
+RC0433,2024-01-14,Atendimento,Redes Sociais,20.0,Resolvida
+RC0434,2024-03-31,Atendimento,Chat,11.0,Em andamento
+RC0435,2024-03-19,Produto com Defeito,E-mail,26.0,Não resolvida
+RC0436,2024-02-19,Produto com Defeito,Telefone,13.0,Resolvida
+RC0437,2024-01-01,Cobrança Indevida,Chat,12.0,Resolvida
+RC0438,2024-01-03,Entrega,Telefone,11.0,Em andamento
+RC0439,2024-01-12,Garantia,Telefone,12.0,Em andamento
+RC0440,2024-02-07,Produto com Defeito,Redes Sociais,11.0,Em andamento
+RC0441,2024-01-21,Produto com Defeito,Telefone,9.0,Não resolvida
+RC0442,2024-03-26,Entrega,E-mail,28.0,Resolvida
+RC0443,2024-03-01,Garantia,Chat,21.0,Resolvida
+RC0444,2024-02-21,Cobrança Indevida,Redes Sociais,2.0,Resolvida
+RC0445,2024-01-22,Garantia,Telefone,1.0,Em andamento
+RC0446,2024-02-21,Garantia,Telefone,30.0,Não resolvida
+RC0447,2024-02-09,Entrega,E-mail,21.0,Resolvida
+RC0448,2024-01-15,Atendimento,Telefone,15.0,Resolvida
+RC0449,2024-01-08,Entrega,E-mail,15.0,Em andamento
+RC0450,2024-01-06,Garantia,Telefone,7.0,Resolvida
