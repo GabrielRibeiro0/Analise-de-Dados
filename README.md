@@ -1,6 +1,6 @@
 # 📊 Repositório de Análise de Dados
 
-Este repositório contém materiais de estudo e práticas relacionadas à **Análise de Dados**, organizados em duas categorias principais: **aulas** e **práticas**.
+Este repositório contém materiais de estudo e práticas relacionadas à **Análise de Dados**, organizados em três categorias principais: **aulas**, **práticas** e **projetos**.
 
 ## 📂 Estrutura do Repositório
 
@@ -10,9 +10,17 @@ Esta pasta contém notebooks e materiais de estudo adquiridos por meio de **aula
 ### 🛠 `praticas/`
 Aqui estão desafios e exercícios resolvidos de forma autônoma, baseados em **desafios solicitados ao ChatGPT** e outras inspirações.
 
+### 📁 `projetos/`
+Projetos completos de Análise de Dados com início, meio e fim. Cada projeto contém:
+- Dataset utilizado
+- Documentação completa da análise
+- Visualizações (em Jupyter ou Power BI)
+- Insights e conclusões
+
 ## 🚀 Tecnologias Utilizadas
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Jupyter Notebook**
+- **Power BI**
 - **Git/GitHub** para versionamento
 
 ## 💡 Contribuição
