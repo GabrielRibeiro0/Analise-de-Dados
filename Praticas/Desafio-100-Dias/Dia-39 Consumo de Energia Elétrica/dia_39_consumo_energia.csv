@@ -1,0 +1,401 @@
+ID,Bairro,Tipo_Consumidor,Consumo_kWh,Mês
+CE0001,Vila Esperança,Comercial,376.72,Março
+CE0002,Vila Esperança,Comercial,475.93,Março
+CE0003,Industrial,Poder Público,437.48,Janeiro
+CE0004,Industrial,Comercial,527.78,Março
+CE0005,Vila Esperança,Industrial,360.19,Janeiro
+CE0006,Industrial,Residencial,140.07,Março
+CE0007,Vila Esperança,Industrial,338.96,Janeiro
+CE0008,Industrial,Comercial,352.34,Janeiro
+CE0009,Boa Vista,Comercial,312.36,Janeiro
+CE0010,Jardim América,Residencial,430.9,Março
+CE0011,Morumbi,Poder Público,560.47,Janeiro
+CE0012,Centro,Industrial,147.43,Março
+CE0013,Vila Esperança,Residencial,319.92,Fevereiro
+CE0014,Industrial,Residencial,318.97,Janeiro
+CE0015,Centro,Residencial,430.53,Fevereiro
+CE0016,Industrial,Comercial,491.94,Janeiro
+CE0017,Centro,Industrial,379.87,Março
+CE0018,Morumbi,Residencial,266.38,Março
+CE0019,Boa Vista,Comercial,472.2,Março
+CE0020,Industrial,Industrial,443.38,Janeiro
+CE0021,Boa Vista,Poder Público,465.86,Fevereiro
+CE0022,Vila Esperança,Industrial,297.89,Janeiro
+CE0023,Jardim América,Poder Público,296.04,Janeiro
+CE0024,Boa Vista,Residencial,284.04,Fevereiro
+CE0025,Morumbi,Residencial,424.09,Março
+CE0026,Centro,Residencial,445.51,Março
+CE0027,Vila Esperança,Poder Público,486.0,Janeiro
+CE0028,Industrial,Poder Público,249.13,Março
+CE0029,Industrial,Residencial,415.37,Março
+CE0030,Jardim América,Residencial,362.84,Janeiro
+CE0031,Morumbi,Poder Público,289.8,Fevereiro
+CE0032,Morumbi,Industrial,348.84,Março
+CE0033,Industrial,Industrial,704.31,Fevereiro
+CE0034,Morumbi,Poder Público,352.5,Fevereiro
+CE0035,Boa Vista,Poder Público,265.06,Janeiro
+CE0036,Boa Vista,Poder Público,358.57,Fevereiro
+CE0037,Vila Esperança,Comercial,422.16,Março
+CE0038,Jardim América,Residencial,189.73,Março
+CE0039,Jardim América,Poder Público,332.57,Março
+CE0040,Jardim América,Comercial,276.83,Março
+CE0041,Boa Vista,Industrial,317.85,Fevereiro
+CE0042,Vila Esperança,Comercial,264.33,Fevereiro
+CE0043,Jardim América,Comercial,475.48,Fevereiro
+CE0044,Boa Vista,Residencial,309.25,Março
+CE0045,Vila Esperança,Comercial,307.74,Fevereiro
+CE0046,Vila Esperança,Residencial,278.32,Janeiro
+CE0047,Industrial,Residencial,268.2,Fevereiro
+CE0048,Morumbi,Industrial,309.94,Março
+CE0049,Centro,Industrial,393.5,Fevereiro
+CE0050,Boa Vista,Poder Público,384.48,Março
+CE0051,Morumbi,Industrial,360.5,Janeiro
+CE0052,Jardim América,Poder Público,459.72,Fevereiro
+CE0053,Vila Esperança,Poder Público,368.25,Março
+CE0054,Centro,Industrial,278.8,Janeiro
+CE0055,Centro,Poder Público,296.89,Fevereiro
+CE0056,Vila Esperança,residencial,352.05,Fevereiro
+CE0057,Industrial,Residencial,363.09,Janeiro
+CE0058,Boa Vista,Industrial,353.53,Fevereiro
+CE0059,Morumbi,Comercial,271.93,Janeiro
+CE0060,Morumbi,Comercial,195.96,Março
+CE0061,Vila Esperança,Comercial,385.45,Março
+CE0062,Boa Vista,Poder Público,201.62,Fevereiro
+CE0063,Industrial,Industrial,266.35,Fevereiro
+CE0064,Morumbi,Comercial,424.54,Março
+CE0065,Vila Esperança,Industrial,326.93,Março
+CE0066,Jardim América,Poder Público,454.9,Março
+CE0067,Boa Vista,Poder Público,380.04,Janeiro
+CE0068,Vila Esperança,Industrial,305.66,Fevereiro
+CE0069,Boa Vista,Residencial,502.7,Março
+CE0070,Jardim América,Poder Público,412.35,Fevereiro
+CE0071,Morumbi,Residencial,351.11,Março
+CE0072,Boa Vista,Industrial,340.62,Fevereiro
+CE0073,Boa Vista,Residencial,349.21,Março
+CE0074,Centro,Comercial,399.91,Março
+CE0075,Industrial,Residencial,223.1,Janeiro
+CE0076,Boa Vista,Residencial,596.72,Março
+CE0077,Vila Esperança,Residencial,256.28,Janeiro
+CE0078,Vila Esperança,Residencial,407.17,Janeiro
+CE0079,Industrial,Poder Público,287.89,Março
+CE0080,Industrial,Comercial,335.68,Março
+CE0081,Vila Esperança,Comercial,354.14,Março
+CE0082,Boa Vista,Residencial,254.46,Fevereiro
+CE0083,Industrial,Residencial,240.69,Fevereiro
+CE0084,Industrial,Industrial,555.37,Janeiro
+CE0085,Centro,Residencial,239.63,Fevereiro
+CE0086,Morumbi,Comercial,454.07,Janeiro
+CE0087,Vila Esperança,Residencial,395.93,Março
+CE0088,Jardim América,Industrial,307.17,Março
+CE0089,Jardim América,Comercial,277.96,Fevereiro
+CE0090,Vila Esperança,Industrial,315.88,Março
+CE0091,Boa Vista,Industrial,296.64,Março
+CE0092,Morumbi,Residencial,150.63,Fevereiro
+CE0093,Vila Esperança,Residencial,392.48,Fevereiro
+CE0094,Vila Esperança,Residencial,510.45,Fevereiro
+CE0095,Centro,Residencial,431.48,Janeiro
+CE0096,Industrial,Poder Público,351.06,Março
+CE0097,Boa Vista,Industrial,265.31,Março
+CE0098,Vila Esperança,Poder Público,430.83,Março
+CE0099,Centro,Poder Público,293.33,Março
+CE0100,Industrial,Residencial,240.97,Janeiro
+CE0101,Boa Vista,Residencial,289.76,Janeiro
+CE0102,Morumbi,Industrial,492.0,Fevereiro
+CE0103,Morumbi,Poder Público,394.39,Março
+CE0104,Morumbi,Residencial,225.12,Janeiro
+CE0105,Centro,Residencial,348.06,Janeiro
+CE0106,Centro,Residencial,495.51,Janeiro
+CE0107,Vila Esperança,Comercial,405.06,Janeiro
+CE0108,Industrial,Residencial,360.6,Janeiro
+CE0109,Industrial,Comercial,333.35,Fevereiro
+CE0110,Vila Esperança,Comercial,194.67,Fevereiro
+CE0111,Morumbi,Poder Público,274.35,Fevereiro
+CE0112,Centro,Industrial,318.55,Março
+CE0113,Boa Vista,Industrial,513.72,Março
+CE0114,Vila Esperança,Comercial,408.27,Março
+CE0115,Industrial,Poder Público,423.85,Fevereiro
+CE0116,Industrial,Poder Público,322.07,Fevereiro
+CE0117,Industrial,Poder Público,324.5,Março
+CE0118,Centro,Residencial,486.15,Março
+CE0119,Boa Vista,Comercial,351.84,Janeiro
+CE0120,Morumbi,Poder Público,231.57,Fevereiro
+CE0121,Industrial,Comercial,,Fevereiro
+CE0122,Industrial,Comercial,589.8,Março
+CE0123,Morumbi,Poder Público,298.06,Março
+CE0124,Vila Esperança,Poder Público,392.23,Março
+CE0125,Jardim América,Poder Público,421.42,Fevereiro
+CE0126,Jardim América,Comercial,144.43,Janeiro
+CE0127,Morumbi,Industrial,320.04,Janeiro
+CE0128,Centro,Industrial,391.87,Fevereiro
+CE0129,Industrial,Poder Público,595.86,Fevereiro
+CE0130,Vila Esperança,Industrial,266.57,Fevereiro
+CE0131,Centro,Comercial,255.5,Fevereiro
+CE0132,Boa Vista,Residencial,293.18,Março
+CE0133,Boa Vista,Comercial,344.16,Março
+CE0134,Boa Vista,Poder Público,462.6,Janeiro
+CE0135,Industrial,Residencial,521.03,Fevereiro
+CE0136,Morumbi,Industrial,443.69,Março
+CE0137,Vila Esperança,Industrial,273.23,Janeiro
+CE0138,Boa Vista,Comercial,164.28,Janeiro
+CE0139,Morumbi,Comercial,378.02,Março
+CE0140,Jardim América,Residencial,269.89,Fevereiro
+CE0141,Jardim América,Industrial,274.51,Fevereiro
+CE0142,Centro,Industrial,272.28,Fevereiro
+CE0143,Jardim América,Comercial,351.61,Janeiro
+CE0144,Centro,Poder Público,334.51,Fevereiro
+CE0145,Vila Esperança,Poder Público,176.17,Janeiro
+CE0146,Morumbi,Poder Público,496.27,Março
+CE0147,Jardim América,Residencial,343.84,Janeiro
+CE0148,Jardim América,Industrial,286.16,Fevereiro
+CE0149,Morumbi,Residencial,328.98,Fevereiro
+CE0150,Vila Esperança,Poder Público,197.91,Janeiro
+CE0151,Boa Vista,Industrial,395.43,Janeiro
+CE0152,Centro,Industrial,498.09,Janeiro
+CE0153,Morumbi,Industrial,357.76,Janeiro
+CE0154,Industrial,Industrial,319.46,Fevereiro
+CE0155,Centro,Comercial,302.14,Fevereiro
+CE0156,Boa Vista,Industrial,212.16,Janeiro
+CE0157,Centro,Industrial,509.48,Janeiro
+CE0158,Vila Esperança,Comercial,419.13,Fevereiro
+CE0159,Morumbi,Comercial,394.05,Janeiro
+CE0160,Vila Esperança,Residencial,345.61,Fevereiro
+CE0161,Morumbi,Comercial,191.41,Março
+CE0162,Jardim América,Residencial,275.69,Março
+CE0163,Vila Esperança,Comercial,440.48,Janeiro
+CE0164,Centro,Poder Público,321.23,Março
+CE0165,Centro,Poder Público,299.42,Fevereiro
+CE0166,Industrial,Residencial,240.89,Janeiro
+CE0167,Centro,Comercial,225.48,Fevereiro
+CE0168,Vila Esperança,Poder Público,405.33,Março
+CE0169,Vila Esperança,Residencial,263.59,Março
+CE0170,Jardim América,Poder Público,554.75,Março
+CE0171,Morumbi,Comercial,305.34,Março
+CE0172,Industrial,Industrial,353.98,Janeiro
+CE0173,Vila Esperança,Poder Público,373.05,Fevereiro
+CE0174,Morumbi,Industrial,354.14,Março
+CE0175,Centro,Poder Público,401.95,Janeiro
+CE0176,Boa Vista,Comercial,316.24,Janeiro
+CE0177,Vila Esperança,Comercial,384.12,Janeiro
+CE0178,Centro,Residencial,313.91,Fevereiro
+CE0179,Boa Vista,Comercial,124.34,Março
+CE0180,Industrial,Comercial,285.69,Janeiro
+CE0181,Industrial,Residencial,476.59,Janeiro
+CE0182,Morumbi,Poder Público,281.25,Fevereiro
+CE0183,Industrial,Poder Público,571.57,Janeiro
+CE0184,Vila Esperança,Comercial,455.48,Fevereiro
+CE0185,Vila Esperança,Poder Público,351.34,Fevereiro
+CE0186,Boa Vista,Industrial,397.46,Março
+CE0187,Industrial,Industrial,482.48,Março
+CE0188,Boa Vista,Residencial,208.62,Janeiro
+CE0189,Morumbi,Industrial,353.03,Janeiro
+CE0190,Industrial,Residencial,482.43,Janeiro
+CE0191,Industrial,Residencial,309.84,Janeiro
+CE0192,Centro,Poder Público,162.58,Janeiro
+CE0193,Centro,Poder Público,493.57,Janeiro
+CE0194,Industrial,Comercial,309.5,Janeiro
+CE0195,Centro,Industrial,452.07,Janeiro
+CE0196,Boa Vista,Comercial,311.71,Janeiro
+CE0197,Centro,Industrial,269.69,Março
+CE0198,Industrial,Residencial,393.75,Fevereiro
+CE0199,Jardim América,Industrial,399.34,Janeiro
+CE0200,Boa Vista,Residencial,427.54,Março
+CE0201,Industrial,Industrial,252.96,Março
+CE0202,Industrial,Industrial,215.59,Março
+CE0203,Boa Vista,Industrial,234.79,Janeiro
+CE0204,Morumbi,Comercial,421.22,Março
+CE0205,Boa Vista,Industrial,307.19,Fevereiro
+CE0206,Boa Vista,Comercial,369.95,Março
+CE0207,Jardim América,Industrial,346.68,Fevereiro
+CE0208,Vila Esperança,Industrial,480.94,Março
+CE0209,Vila Esperança,Comercial,368.54,Janeiro
+CE0210,Morumbi,Industrial,314.53,Fevereiro
+CE0211,Industrial,Comercial,593.25,Fevereiro
+CE0212,Vila Esperança,Industrial,282.39,Janeiro
+CE0213,Morumbi,Poder Público,398.57,Janeiro
+CE0214,Jardim América,Poder Público,353.64,Janeiro
+CE0215,Industrial,Industrial,496.23,Fevereiro
+CE0216,Vila Esperança,Comercial,468.21,Março
+CE0217,Jardim América,Comercial,328.21,Fevereiro
+CE0218,Jardim América,Comercial,419.64,Março
+CE0219,Vila Esperança,Industrial,286.07,Fevereiro
+CE0220,Industrial,Residencial,461.69,Março
+CE0221,Vila Esperança,Residencial,324.65,Janeiro
+CE0222,Morumbi,Poder Público,422.19,Março
+CE0223,Centro,Poder Público,322.07,Março
+CE0224,Vila Esperança,Industrial,295.06,Fevereiro
+CE0225,Morumbi,Comercial,462.76,Fevereiro
+CE0226,Industrial,Comercial,370.76,Fevereiro
+CE0227,Vila Esperança,Comercial,347.57,Março
+CE0228,Industrial,Poder Público,401.83,Janeiro
+CE0229,Jardim América,Industrial,573.31,Março
+CE0230,Industrial,Residencial,351.49,Janeiro
+CE0231,Morumbi,Poder Público,352.0,Fevereiro
+CE0232,Industrial,Poder Público,269.1,Março
+CE0233,Vila Esperança,Industrial,518.91,Fevereiro
+CE0234,Vila Esperança,Residencial,429.91,Janeiro
+CE0235,Boa Vista,Comercial,179.02,Março
+CE0236,Centro,Industrial,434.91,Fevereiro
+CE0237,Centro,Comercial,228.97,Fevereiro
+CE0238,Vila Esperança,Poder Público,384.11,Março
+CE0239,Jardim América,Comercial,245.65,Março
+CE0240,Vila Esperança,Residencial,305.61,Janeiro
+CE0241,Industrial,Industrial,341.54,Março
+CE0242,Centro,Poder Público,294.56,Fevereiro
+CE0243,Industrial,Residencial,347.79,Janeiro
+CE0244,Centro,Poder Público,423.1,Fevereiro
+CE0245,Centro,Comercial,425.17,Fevereiro
+CE0246,Jardim América,Comercial,401.84,Março
+CE0247,Boa Vista,Industrial,318.78,Janeiro
+CE0248,Industrial,Industrial,336.56,Fevereiro
+CE0249,Morumbi,Industrial,296.53,Janeiro
+CE0250,Centro,Poder Público,113.36,Março
+CE0251,Vila Esperança,Industrial,143.28,Janeiro
+CE0252,Boa Vista,Residencial,238.64,Fevereiro
+CE0253,Industrial,Industrial,267.26,Fevereiro
+CE0254,Morumbi,Poder Público,481.41,Fevereiro
+CE0255,Morumbi,Residencial,316.76,Março
+CE0256,Jardim América,Poder Público,489.39,Janeiro
+CE0257,Vila Esperança,Poder Público,420.51,Fevereiro
+CE0258,Vila Esperança,Comercial,325.23,Fevereiro
+CE0259,Industrial,Residencial,492.61,Fevereiro
+CE0260,Jardim América,Residencial,443.52,Março
+CE0261,Boa Vista,Poder Público,428.21,Janeiro
+CE0262,Boa Vista,Poder Público,306.02,Fevereiro
+CE0263,Boa Vista,Industrial,238.26,Fevereiro
+CE0264,Boa Vista,Poder Público,472.49,Janeiro
+CE0265,Vila Esperança,Comercial,459.91,Março
+CE0266,Vila Esperança,Poder Público,286.18,Janeiro
+CE0267,Morumbi,Residencial,358.02,Março
+CE0268,Boa Vista,Poder Público,317.98,Fevereiro
+CE0269,Morumbi,Comercial,303.63,Fevereiro
+CE0270,Boa Vista,Comercial,332.59,Março
+CE0271,Vila Esperança,Industrial,349.89,Fevereiro
+CE0272,Morumbi,Poder Público,290.39,Fevereiro
+CE0273,Boa Vista,Poder Público,376.07,Fevereiro
+CE0274,Centro,Poder Público,326.96,Janeiro
+CE0275,Boa Vista,Comercial,295.72,Março
+CE0276,Industrial,Residencial,306.73,Março
+CE0277,Industrial,Industrial,347.89,Março
+CE0278,Industrial,Residencial,508.27,Fevereiro
+CE0279,Boa Vista,Residencial,289.83,Março
+CE0280,Morumbi,Poder Público,489.8,Janeiro
+CE0281,Jardim América,Industrial,386.28,Março
+CE0282,Vila Esperança,Residencial,335.45,Março
+CE0283,Morumbi,Industrial,281.89,Janeiro
+CE0284,Centro,Comercial,454.37,Janeiro
+CE0285,Boa Vista,Poder Público,261.45,Janeiro
+CE0286,Morumbi,Residencial,198.47,Março
+CE0287,Morumbi,Comercial,135.49,Fevereiro
+CE0288,Morumbi,Comercial,410.86,Março
+CE0289,Industrial,Residencial,211.58,Janeiro
+CE0290,Morumbi,Industrial,277.63,Fevereiro
+CE0291,Vila Esperança,Residencial,310.81,Janeiro
+CE0292,Jardim América,Residencial,292.08,Janeiro
+CE0293,Centro,Industrial,353.24,Março
+CE0294,Centro,Poder Público,274.84,Fevereiro
+CE0295,Jardim América,Industrial,282.21,Fevereiro
+CE0296,Industrial,Industrial,315.63,Março
+CE0297,Centro,Comercial,248.21,Janeiro
+CE0298,Morumbi,Industrial,421.81,Fevereiro
+CE0299,Boa Vista,Industrial,372.61,Janeiro
+CE0300,Vila Esperança,Residencial,340.99,Fevereiro
+CE0301,Industrial,Poder Público,291.47,Março
+CE0302,Vila Esperança,Comercial,532.87,Fevereiro
+CE0303,Boa Vista,Industrial,414.25,Março
+CE0304,Industrial,Residencial,348.88,Janeiro
+CE0305,Industrial,Residencial,361.77,Fevereiro
+CE0306,Industrial,Residencial,417.95,Março
+CE0307,Industrial,Comercial,288.27,Março
+CE0308,Morumbi,Industrial,355.28,Janeiro
+CE0309,Vila Esperança,Residencial,367.84,Janeiro
+CE0310,Vila Esperança,Industrial,379.97,Fevereiro
+CE0311,Boa Vista,Residencial,206.26,Fevereiro
+CE0312,Jardim América,Comercial,277.45,Janeiro
+CE0313,Vila Esperança,Comercial,519.76,Março
+CE0314,Jardim América,Comercial,386.4,Março
+CE0315,Morumbi,Residencial,332.1,Março
+CE0316,Boa Vista,Industrial,336.28,Março
+CE0317,Industrial,Residencial,350.1,Janeiro
+CE0318,Vila Esperança,Residencial,329.78,Março
+CE0319,Industrial,Industrial,413.46,Janeiro
+CE0320,Centro,Residencial,345.6,Março
+CE0321,Jardim América,Comercial,382.94,Fevereiro
+CE0322,Industrial,Industrial,232.28,Março
+CE0323,Centro,Residencial,279.52,Janeiro
+CE0324,Morumbi,Poder Público,390.92,Março
+CE0325,Vila Esperança,Industrial,256.0,Março
+CE0326,Centro,Poder Público,349.79,Fevereiro
+CE0327,Boa Vista,Poder Público,411.19,Janeiro
+CE0328,Boa Vista,Poder Público,360.89,Janeiro
+CE0329,Vila Esperança,Comercial,163.53,Março
+CE0330,Jardim América,Poder Público,497.21,Fevereiro
+CE0331,Boa Vista,Residencial,201.85,Março
+CE0332,Boa Vista,Residencial,640.32,Fevereiro
+CE0333,Morumbi,Residencial,249.18,Janeiro
+CE0334,Jardim América,Industrial,422.36,Março
+CE0335,Morumbi,Industrial,291.11,Fevereiro
+CE0336,Jardim América,Residencial,248.45,Fevereiro
+CE0337,Industrial,Comercial,310.68,Janeiro
+CE0338,Centro,Industrial,290.63,Fevereiro
+CE0339,Vila Esperança,Industrial,379.09,Fevereiro
+CE0340,Centro,Poder Público,366.43,Março
+CE0341,Boa Vista,Comercial,389.57,Março
+CE0342,Industrial,Poder Público,338.05,Janeiro
+CE0343,Centro,Poder Público,446.4,Janeiro
+CE0344,Jardim América,Comercial,420.96,Janeiro
+CE0345,Centro,Poder Público,567.6,Janeiro
+CE0346,Morumbi,Residencial,197.0,Março
+CE0347,Industrial,Industrial,302.07,Janeiro
+CE0348,Morumbi,Industrial,105.4,Janeiro
+CE0349,Centro,Industrial,146.38,Fevereiro
+CE0350,Boa Vista,Industrial,394.53,Janeiro
+CE0351,Vila Esperança,Poder Público,305.05,Fevereiro
+CE0352,Centro,Residencial,473.83,Janeiro
+CE0353,Industrial,Poder Público,352.16,Fevereiro
+CE0354,Jardim América,Residencial,151.3,Março
+CE0355,Industrial,Residencial,504.92,Março
+CE0356,Vila Esperança,Residencial,347.64,Janeiro
+CE0357,Jardim América,Comercial,405.18,Fevereiro
+CE0358,Morumbi,Comercial,419.07,Fevereiro
+CE0359,Vila Esperança,Poder Público,375.34,Fevereiro
+CE0360,Vila Esperança,Comercial,511.65,Janeiro
+CE0361,Vila Esperança,Comercial,336.23,Março
+CE0362,Jardim América,Residencial,440.39,Março
+CE0363,Vila Esperança,Comercial,386.25,Fevereiro
+CE0364,Industrial,Comercial,148.67,Janeiro
+CE0365,Centro,Comercial,462.95,Janeiro
+CE0366,Jardim América,Residencial,460.32,Fevereiro
+CE0367,Jardim América,Residencial,386.22,Janeiro
+CE0368,Jardim América,Residencial,378.01,Março
+CE0369,Centro,Residencial,331.05,Fevereiro
+CE0370,Industrial,Industrial,500.3,Fevereiro
+CE0371,Industrial,Comercial,451.08,Fevereiro
+CE0372,Boa Vista,Industrial,347.83,Janeiro
+CE0373,Industrial,Poder Público,175.59,Março
+CE0374,Morumbi,Industrial,295.24,Fevereiro
+CE0375,Vila Esperança,Comercial,499.0,Março
+CE0376,Jardim América,Residencial,230.43,Fevereiro
+CE0377,Industrial,Poder Público,241.84,Janeiro
+CE0378,Vila Esperança,Residencial,259.06,Março
+CE0379,Vila Esperança,Comercial,500.4,Janeiro
+CE0380,Centro,Industrial,315.69,Fevereiro
+CE0381,Industrial,Poder Público,384.97,Fevereiro
+CE0382,Jardim América,Residencial,265.9,Março
+CE0383,Centro,Comercial,365.13,Fevereiro
+CE0384,Centro,Residencial,249.33,Janeiro
+CE0385,Industrial,Residencial,338.41,Março
+CE0386,Boa Vista,Industrial,233.17,Fevereiro
+CE0387,Centro,Comercial,363.87,Janeiro
+CE0388,Boa Vista,Poder Público,389.1,Março
+CE0389,Centro,Residencial,280.66,Janeiro
+CE0390,Industrial,Industrial,493.49,Fevereiro
+CE0391,Industrial,Comercial,314.84,Fevereiro
+CE0392,Boa Vista,Industrial,425.46,Fevereiro
+CE0393,Industrial,Residencial,344.37,Janeiro
+CE0394,Centro,Poder Público,343.84,Março
+CE0395,Jardim América,Poder Público,394.29,Março
+CE0396,Vila Esperança,Industrial,337.84,Janeiro
+CE0397,Boa Vista,Residencial,476.53,Janeiro
+CE0398,Jardim América,Industrial,286.67,Janeiro
+CE0399,Vila Esperança,Comercial,400.98,Fevereiro
+CE0400,Vila Esperança,Industrial,475.5,Janeiro
