@@ -1,0 +1,411 @@
+id_venda,categoria,valor,forma_pagamento,tempo_entrega_dias,status_entrega,reclamacao
+9151,Eletrônicos,295.57,Pix,7.0,Entregue,Não
+5360,Esportes,184.91,Boleto,8.0,Em trânsito,Não
+6965,Esportes,248.98,Transferência,16.0,,Sim
+4972,Roupas,323.1,Transferência,,Entregue,Não
+8752,Esportes,79.98,Transferência,6.0,Em trânsito,Não
+6407,Livros,197.67,Pix,,Cancelado,Não
+2395,Casa,283.84,Cartão,3.0,Entregue,Não
+9822,Livros,359.89,Cartão,1.0,,Sim
+6199,Roupas,9.69,Cartão,,Cancelado,Não
+4676,Esportes,141.27,Boleto,4.0,Em trânsito,Sim
+2396,Esportes,345.77,Boleto,17.0,,Não
+3511,Livros,159.23,Pix,16.0,Em trânsito,Sim
+6688,Casa,109.52,Pix,9.0,Entregue,Sim
+2613,Roupas,74.12,Cartão,16.0,Em trânsito,Não
+6693,Livros,186.37,Cartão,10.0,Cancelado,Não
+6232,Livros,130.62,Transferência,15.0,,Não
+4643,Roupas,59.61,Pix,14.0,Entregue,Não
+4096,Esportes,176.82,Boleto,16.0,,Não
+2126,Casa,251.99,Pix,20.0,Entregue,Não
+6389,Esportes,179.14,Cartão,17.0,Cancelado,Não
+8026,Esportes,133.96,Pix,14.0,,Não
+2457,Esportes,153.14,Pix,3.0,Cancelado,Não
+2048,Casa,360.53,Pix,14.0,Entregue,Não
+6476,Livros,249.81,Pix,6.0,Cancelado,Não
+8049,Esportes,73.64,Transferência,16.0,Em trânsito,Não
+1093,Casa,206.65,Transferência,2.0,,Sim
+4722,Roupas,162.75,Transferência,15.0,Em trânsito,Não
+6528,Casa,325.5,Transferência,9.0,,Não
+5361,Livros,131.07,Pix,7.0,Entregue,Não
+8117,Roupas,27.02,Boleto,11.0,Em trânsito,Não
+2733,Roupas,305.02,Transferência,17.0,Em trânsito,Não
+4294,Eletrônicos,181.21,Pix,1.0,,Não
+8253,Roupas,154.24,Boleto,7.0,Entregue,Sim
+5441,Eletrônicos,269.35,Boleto,5.0,Entregue,Não
+8536,Roupas,291.6,Pix,12.0,,Não
+3074,Casa,149.86,Pix,14.0,Cancelado,Não
+5418,Casa,336.83,Transferência,,Cancelado,Não
+4428,Eletrônicos,69.01,Pix,10.0,Em trânsito,Não
+9750,Casa,32.22,Cartão,9.0,Em trânsito,Sim
+3012,Livros,2100.9,Transferência,1.0,Entregue,Não
+7746,Esportes,223.08,Boleto,2.0,Em trânsito,Não
+2925,Livros,167.07,Boleto,18.0,Cancelado,Não
+9909,Esportes,51.66,Transferência,20.0,Em trânsito,Sim
+9128,Eletrônicos,117.76,Boleto,3.0,Entregue,Não
+7994,Casa,181.92,Pix,15.0,,Não
+9479,Eletrônicos,179.14,Pix,12.0,Cancelado,Sim
+9713,Esportes,28.73,Pix,3.0,Entregue,Não
+3049,Eletrônicos,141.13,Boleto,9.0,Entregue,Não
+9182,Esportes,150.03,Transferência,3.0,Em trânsito,Não
+9463,Esportes,36.13,Boleto,18.0,Cancelado,Não
+5923,Roupas,235.81,Boleto,10.0,Entregue,Não
+2526,Esportes,290.59,Pix,13.0,,Não
+7025,Eletrônicos,312.64,Cartão,7.0,Cancelado,Não
+9466,Casa,394.47,Transferência,11.0,Cancelado,Não
+3461,Esportes,39.92,Transferência,12.0,,Não
+1110,Livros,237.99,Cartão,8.0,Em trânsito,Não
+6871,Livros,320.26,Boleto,16.0,,Não
+1147,Casa,88.93,Boleto,15.0,Entregue,Não
+7733,Casa,233.73,Boleto,4.0,Entregue,Não
+8745,Casa,331.73,Boleto,20.0,Entregue,Não
+9823,Roupas,157.71,Boleto,1.0,Em trânsito,Não
+4673,Roupas,147.61,Boleto,17.0,Entregue,Sim
+3658,Casa,113.03,Transferência,20.0,Cancelado,Não
+2604,Eletrônicos,370.05,Transferência,20.0,,Não
+3242,Eletrônicos,116.79,Cartão,,Cancelado,Não
+5196,Roupas,281.57,Pix,20.0,Entregue,Sim
+7161,Eletrônicos,197.76,Transferência,,Em trânsito,Não
+5026,Eletrônicos,108.69,Boleto,12.0,,Não
+6504,Esportes,211.95,Pix,12.0,Cancelado,Sim
+1548,Roupas,205.44,Pix,3.0,Em trânsito,Não
+9484,Casa,258.24,Pix,1.0,Em trânsito,Não
+1772,Casa,119.54,Cartão,,,Não
+2290,Eletrônicos,161.97,Boleto,3.0,,Não
+4884,Casa,196.16,Boleto,8.0,Em trânsito,Não
+5293,Roupas,146.83,Boleto,16.0,Em trânsito,Não
+9656,Casa,157.45,Cartão,10.0,Entregue,Não
+7900,Esportes,267.33,Boleto,19.0,,Não
+8619,Roupas,54.64,Transferência,11.0,Cancelado,Não
+7852,Livros,2.79,Transferência,3.0,Em trânsito,Sim
+7402,Livros,181.02,Pix,11.0,,Não
+8703,Eletrônicos,340.88,Pix,17.0,,Não
+2458,Eletrônicos,26.23,Cartão,15.0,Entregue,Não
+7604,Roupas,280.27,Transferência,16.0,,Sim
+2984,Esportes,263.85,Boleto,15.0,Entregue,Não
+6939,Esportes,219.47,Cartão,10.0,Cancelado,Não
+1845,Roupas,35.6,Pix,7.0,,Não
+1314,Esportes,278.08,Pix,18.0,Em trânsito,Sim
+2106,Roupas,52.3,Cartão,18.0,Em trânsito,Não
+8267,Livros,219.34,Pix,9.0,Cancelado,Não
+1144,Roupas,110.07,Pix,2.0,,Sim
+6037,Roupas,342.44,Cartão,14.0,Cancelado,Não
+6190,Casa,114.67,Transferência,10.0,Cancelado,Não
+6681,Casa,95.28,Boleto,17.0,Cancelado,Não
+9839,Roupas,260.61,Cartão,8.0,,Sim
+9510,Casa,272.58,Cartão,11.0,Entregue,Não
+9156,Casa,9.34,Pix,2.0,,Não
+2455,Eletrônicos,356.31,Pix,3.0,Entregue,Não
+5939,Livros,188.53,Pix,9.0,Em trânsito,Não
+3620,Roupas,230.86,Pix,12.0,,Não
+8041,Casa,317.97,Cartão,3.0,Em trânsito,Não
+4216,Roupas,250.84,Pix,6.0,Cancelado,Não
+2839,Roupas,207.15,Cartão,16.0,,Sim
+2440,Casa,353.76,Boleto,6.0,Cancelado,Não
+1183,Roupas,214.0,Boleto,19.0,Entregue,Não
+3615,Esportes,187.15,Pix,10.0,Em trânsito,Não
+3165,Esportes,281.73,Boleto,20.0,Cancelado,Não
+1821,Casa,275.04,Transferência,,Entregue,Não
+3343,Casa,182.75,Transferência,20.0,Em trânsito,Sim
+1481,Roupas,286.59,Cartão,9.0,,Não
+6095,Esportes,139.89,Transferência,4.0,,Não
+6824,Eletrônicos,74.42,Boleto,20.0,Em trânsito,Não
+1259,Eletrônicos,387.89,Transferência,20.0,Cancelado,Não
+3930,Eletrônicos,51.49,Pix,4.0,Em trânsito,Sim
+9194,Eletrônicos,143.42,Cartão,2.0,Cancelado,Não
+1865,Esportes,274.29,Pix,3.0,Cancelado,Não
+4948,Livros,122.1,Transferência,2.0,,Não
+6045,Casa,261.19,Boleto,14.0,Cancelado,Não
+1435,Eletrônicos,47.29,Pix,9.0,,Não
+3437,Casa,127.54,Cartão,9.0,Em trânsito,Não
+9094,Esportes,238.32,Boleto,10.0,Em trânsito,Não
+7621,Livros,163.69,Pix,9.0,Cancelado,Não
+8079,Livros,264.86,Pix,8.0,Em trânsito,Não
+6699,Casa,132.66,Boleto,2.0,Cancelado,Não
+9844,Eletrônicos,193.19,Pix,20.0,Cancelado,Não
+3509,Esportes,170.13,Pix,2.0,Entregue,Não
+4663,Casa,66.07,Boleto,3.0,Cancelado,Não
+1438,Livros,211.13,Boleto,18.0,,Não
+9560,Livros,133.53,Boleto,2.0,Em trânsito,Não
+5639,Livros,146.74,Transferência,7.0,Em trânsito,Sim
+6494,Livros,134.86,Boleto,17.0,Cancelado,Não
+7193,Eletrônicos,34.77,Boleto,7.0,Cancelado,Sim
+6341,Casa,287.24,Cartão,19.0,Cancelado,Não
+1728,Eletrônicos,267.8,Cartão,10.0,Entregue,Não
+3381,Roupas,82.81,Pix,17.0,Entregue,Não
+9735,Livros,262.68,Pix,1.0,Em trânsito,Não
+8870,Livros,135.6,Cartão,5.0,Em trânsito,Sim
+5662,Esportes,160.56,Pix,6.0,Cancelado,Sim
+3064,Livros,92.64,Boleto,14.0,Em trânsito,Não
+2866,Esportes,213.06,Pix,19.0,Cancelado,Não
+6158,Esportes,69.65,Cartão,,,Não
+7216,Livros,535.04,Boleto,11.0,Cancelado,Sim
+5184,Roupas,247.93,Pix,19.0,Em trânsito,Não
+9430,Livros,137.5,Transferência,7.0,Entregue,Não
+9938,Casa,94.74,Cartão,9.0,Cancelado,Não
+3009,Eletrônicos,225.48,Boleto,3.0,Em trânsito,Não
+2629,Casa,162.85,Boleto,10.0,Cancelado,Não
+2118,Esportes,75.76,Boleto,8.0,Entregue,Sim
+1458,Esportes,228.41,Boleto,1.0,Em trânsito,Não
+2744,Esportes,31.85,Boleto,13.0,Entregue,Não
+5920,Casa,213.62,Boleto,2.0,Entregue,Não
+8941,Roupas,66.25,Cartão,19.0,Em trânsito,Não
+8628,Roupas,11.37,Transferência,18.0,Entregue,Não
+5099,Esportes,200.81,Boleto,16.0,Cancelado,Não
+5827,Roupas,227.74,Pix,6.0,,Não
+5068,Livros,163.65,Transferência,4.0,Cancelado,Não
+5324,Eletrônicos,295.72,Boleto,2.0,Em trânsito,Não
+4679,Eletrônicos,249.24,Transferência,7.0,Em trânsito,Não
+4259,Esportes,234.04,Pix,8.0,,Sim
+5080,Casa,270.39,Pix,,Em trânsito,Não
+5883,Roupas,337.02,Transferência,8.0,Entregue,Não
+5050,Casa,175.01,Transferência,15.0,,Não
+1807,Livros,299.73,Transferência,12.0,,Não
+9161,Eletrônicos,28.53,Pix,16.0,,Sim
+4027,Casa,77.26,Pix,20.0,Em trânsito,Não
+4959,Esportes,318.26,Boleto,7.0,Cancelado,Não
+2882,Livros,51.42,Transferência,15.0,Entregue,Não
+5530,Casa,419.86,Boleto,12.0,Cancelado,Não
+7224,Roupas,184.95,Transferência,14.0,Entregue,Não
+1026,Eletrônicos,329.99,Pix,3.0,Entregue,Não
+5619,Roupas,165.61,Cartão,13.0,,Não
+2644,Casa,102.34,Cartão,4.0,Cancelado,Não
+3576,Esportes,187.03,Boleto,19.0,,Não
+8145,Roupas,298.9,Boleto,5.0,Cancelado,Não
+4732,Esportes,274.21,Pix,3.0,,Sim
+8952,Esportes,82.72,Cartão,13.0,Cancelado,Não
+7403,Eletrônicos,337.38,Transferência,6.0,Entregue,Não
+9897,Eletrônicos,129.54,Pix,6.0,Em trânsito,Não
+1799,Eletrônicos,252.99,Cartão,3.0,Em trânsito,Não
+9599,Esportes,273.64,Boleto,5.0,Cancelado,Não
+6017,Eletrônicos,90.58,Pix,5.0,Entregue,Não
+9103,Livros,235.66,Transferência,8.0,,Sim
+2926,Roupas,233.58,Pix,12.0,Cancelado,Não
+3576,Eletrônicos,239.93,Boleto,19.0,,Não
+3749,Casa,215.1,Pix,3.0,Entregue,Não
+6483,Esportes,149.64,Transferência,4.0,Entregue,Não
+9308,Casa,299.51,Cartão,18.0,,Não
+4228,Esportes,307.22,Boleto,18.0,Entregue,Não
+1501,Roupas,294.43,Cartão,12.0,,Não
+4785,Casa,349.68,Pix,10.0,Cancelado,Não
+4150,Eletrônicos,149.22,Pix,8.0,Em trânsito,Sim
+9065,Livros,145.64,Boleto,5.0,Em trânsito,Sim
+5728,Livros,137.8,Boleto,2.0,Em trânsito,Sim
+8676,Casa,219.42,Pix,17.0,Entregue,Não
+9779,Livros,189.0,Pix,18.0,Cancelado,Sim
+2893,Eletrônicos,200.84,Boleto,19.0,Entregue,Não
+4542,Esportes,4.78,Transferência,9.0,Em trânsito,Sim
+1626,Casa,121.07,Pix,12.0,Entregue,Não
+6832,Casa,229.25,Boleto,4.0,,Não
+1492,Roupas,212.4,Transferência,12.0,Entregue,Não
+4198,Casa,258.05,Transferência,6.0,Em trânsito,Não
+2431,Esportes,428.78,Boleto,20.0,Cancelado,Não
+4677,Esportes,350.85,Transferência,1.0,,Não
+3388,Roupas,208.14,Cartão,14.0,Cancelado,Não
+2757,Eletrônicos,317.77,Pix,7.0,Entregue,Não
+8210,Esportes,131.8,Boleto,15.0,,Não
+2970,Roupas,256.57,Pix,10.0,Em trânsito,Não
+5216,Livros,284.63,Boleto,2.0,,Não
+9165,Casa,175.18,Transferência,7.0,Entregue,Não
+4464,Esportes,131.14,Pix,1.0,Entregue,Não
+3801,Eletrônicos,117.94,Transferência,17.0,Entregue,Não
+6914,Roupas,195.06,Pix,17.0,Cancelado,Não
+7355,Esportes,69.42,Pix,,Cancelado,Não
+1939,Eletrônicos,362.5,Transferência,11.0,,Sim
+2691,Casa,94.28,Cartão,2.0,,Não
+2381,Livros,422.32,Boleto,2.0,Entregue,Sim
+6901,Livros,151.05,Transferência,9.0,Cancelado,Sim
+7653,Livros,344.84,Cartão,10.0,,Não
+1391,Roupas,296.62,Transferência,19.0,,Não
+1705,Livros,254.72,Transferência,10.0,Em trânsito,Não
+7185,Roupas,249.42,Pix,20.0,,Não
+8803,Esportes,177.11,Cartão,14.0,Em trânsito,Não
+6127,Casa,242.41,Cartão,,Em trânsito,Sim
+7936,Casa,240.3,Boleto,1.0,,Não
+2923,Roupas,7.92,Cartão,13.0,Entregue,Não
+9611,Livros,299.56,Transferência,17.0,Cancelado,Não
+8876,Casa,291.68,Transferência,3.0,Cancelado,Não
+8555,Casa,61.67,Cartão,5.0,Em trânsito,Não
+5036,Roupas,152.52,Cartão,12.0,Em trânsito,Não
+8460,Roupas,307.66,Boleto,12.0,Em trânsito,Sim
+9999,Eletrônicos,311.21,Pix,11.0,Cancelado,Não
+9676,Eletrônicos,285.95,Boleto,4.0,,Sim
+2983,Casa,158.25,Transferência,2.0,,Não
+2990,Esportes,227.53,Boleto,18.0,,Não
+4979,Livros,157.96,Boleto,4.0,Entregue,Não
+3552,Livros,148.87,Transferência,,,Não
+9740,Roupas,177.46,Transferência,14.0,,Não
+1143,Roupas,322.57,Boleto,15.0,Entregue,Não
+8760,Casa,59.91,Pix,13.0,Entregue,Não
+5748,Esportes,249.72,Cartão,1.0,,Sim
+5903,Eletrônicos,311.21,Cartão,3.0,Em trânsito,Sim
+9674,Livros,222.94,Transferência,13.0,,Não
+7336,Roupas,172.31,Cartão,17.0,,Não
+7189,Casa,151.64,Pix,17.0,,Não
+9655,Eletrônicos,123.95,Pix,19.0,Em trânsito,Não
+3509,Eletrônicos,138.07,Transferência,3.0,Entregue,Não
+3247,Roupas,105.08,Transferência,13.0,Em trânsito,Não
+1619,Livros,128.37,Boleto,17.0,Em trânsito,Não
+9677,Roupas,237.14,Cartão,3.0,Em trânsito,Sim
+4562,Livros,219.85,Boleto,,Cancelado,Não
+7452,Casa,1422.6,Boleto,8.0,,Sim
+7291,Casa,92.88,Cartão,7.0,Cancelado,Não
+5480,Eletrônicos,138.07,Boleto,18.0,,Não
+6530,Casa,304.92,Pix,15.0,Entregue,Não
+7111,Casa,201.35,Pix,1.0,Cancelado,Não
+6546,Eletrônicos,249.58,Transferência,19.0,Cancelado,Sim
+6093,Casa,149.89,Pix,4.0,,Não
+6652,Eletrônicos,51.88,Pix,,,Não
+6036,Livros,341.78,Boleto,6.0,Cancelado,Não
+8769,Livros,142.28,Cartão,12.0,,Não
+3534,Eletrônicos,287.23,Transferência,6.0,Em trânsito,Não
+2757,Livros,136.59,Boleto,14.0,,Não
+2155,Roupas,68.36,Boleto,17.0,Cancelado,Não
+9734,Livros,152.52,Pix,11.0,Entregue,Não
+9734,Eletrônicos,2046.2,Pix,20.0,Cancelado,Não
+6489,Casa,107.93,Pix,15.0,Em trânsito,Sim
+9950,Eletrônicos,315.76,Boleto,16.0,,Sim
+8053,Casa,218.5,Boleto,18.0,Entregue,Não
+7687,Eletrônicos,149.43,Boleto,7.0,Em trânsito,Não
+8762,Livros,2300.4,Cartão,3.0,Cancelado,Não
+9893,Livros,146.42,Pix,11.0,Em trânsito,Sim
+1361,Esportes,312.48,Boleto,2.0,Cancelado,Não
+8010,Esportes,138.11,Transferência,12.0,Cancelado,Não
+4451,Roupas,252.21,Transferência,2.0,Em trânsito,Não
+3330,Casa,235.01,Cartão,10.0,Em trânsito,Não
+6006,Roupas,217.19,Boleto,15.0,Cancelado,Sim
+8447,Roupas,235.62,Cartão,14.0,,Não
+6436,Roupas,195.63,Pix,2.0,Cancelado,Não
+1516,Esportes,404.11,Transferência,17.0,Entregue,Não
+6468,Esportes,182.19,Cartão,19.0,,Não
+5022,Eletrônicos,234.24,Transferência,,Entregue,Sim
+3602,Casa,42.65,Cartão,9.0,Cancelado,Não
+5016,Roupas,257.86,Transferência,4.0,Cancelado,Não
+9525,Roupas,206.02,Boleto,12.0,Em trânsito,Não
+6786,Livros,178.56,Cartão,3.0,Cancelado,Não
+1032,Roupas,309.41,Pix,,Em trânsito,Sim
+7058,Esportes,130.68,Boleto,20.0,,Não
+5056,Casa,267.01,Boleto,10.0,Cancelado,Sim
+2593,Casa,232.1,Pix,8.0,Entregue,Não
+9197,Roupas,265.63,Transferência,13.0,Em trânsito,Não
+7575,Esportes,242.32,Boleto,17.0,Em trânsito,Sim
+8013,Roupas,124.34,Cartão,17.0,Entregue,Não
+6503,Eletrônicos,168.67,Boleto,,Entregue,Não
+9635,Eletrônicos,276.48,Cartão,2.0,,Não
+6608,Esportes,192.16,Transferência,12.0,Em trânsito,Não
+8418,Eletrônicos,89.05,Cartão,11.0,Entregue,Não
+5630,Casa,186.9,Boleto,3.0,Em trânsito,Não
+8309,Casa,264.3,Transferência,12.0,Em trânsito,Não
+4189,Roupas,198.04,Transferência,8.0,,Não
+3939,Roupas,21.52,Transferência,7.0,Em trânsito,Não
+8022,Livros,247.71,Pix,14.0,Em trânsito,Não
+7418,Esportes,343.88,Cartão,18.0,Cancelado,Não
+8540,Casa,205.65,Transferência,1.0,Em trânsito,Não
+6386,Eletrônicos,98.39,Boleto,8.0,,Não
+5562,Livros,152.16,Pix,3.0,,Não
+7131,Roupas,240.14,Transferência,10.0,,Não
+7990,Casa,274.51,Pix,,Cancelado,Sim
+1897,Livros,164.88,Boleto,15.0,Cancelado,Não
+7713,Eletrônicos,311.08,Pix,1.0,Cancelado,Não
+6621,Eletrônicos,242.77,Boleto,,Cancelado,Não
+5007,Casa,349.08,Boleto,5.0,Cancelado,Não
+2621,Livros,132.36,Transferência,,Cancelado,Sim
+1703,Esportes,263.6,Pix,16.0,Cancelado,Não
+9829,Livros,257.68,Cartão,4.0,Entregue,Não
+6713,Livros,270.42,Pix,3.0,Cancelado,Sim
+8475,Livros,150.41,Transferência,18.0,Em trânsito,Não
+1975,Eletrônicos,264.49,Cartão,6.0,Em trânsito,Não
+6735,Esportes,356.36,Boleto,2.0,Entregue,Não
+9863,Esportes,203.33,Transferência,6.0,Em trânsito,Não
+8865,Livros,16.1,Pix,12.0,,Não
+3886,Eletrônicos,296.2,Pix,17.0,Entregue,Não
+5477,Casa,310.92,Cartão,17.0,Entregue,Não
+7660,Eletrônicos,184.44,Boleto,9.0,Entregue,Não
+9118,Roupas,108.52,Transferência,20.0,Cancelado,Não
+5317,Casa,30.63,Cartão,7.0,Entregue,Sim
+4265,Esportes,139.6,Pix,19.0,Cancelado,Não
+1500,Roupas,43.54,Boleto,9.0,Entregue,Não
+6066,Roupas,303.8,Pix,9.0,Em trânsito,Não
+2431,Eletrônicos,102.39,Pix,13.0,,Sim
+6587,Roupas,233.2,Transferência,15.0,Cancelado,Não
+2153,Casa,236.9,Pix,11.0,Cancelado,Não
+7038,Esportes,256.8,Pix,4.0,Entregue,Não
+7015,Roupas,15.47,Transferência,15.0,Em trânsito,Não
+1926,Esportes,211.12,Cartão,11.0,,Não
+7014,Eletrônicos,428.0,Cartão,6.0,Cancelado,Não
+2178,Casa,112.54,Cartão,6.0,Cancelado,Não
+1217,Eletrônicos,205.73,Transferência,5.0,Em trânsito,Não
+8178,Eletrônicos,197.31,Boleto,5.0,Entregue,Não
+2049,Casa,123.87,Boleto,19.0,Em trânsito,Não
+5786,Eletrônicos,194.34,Transferência,,Em trânsito,Não
+7478,Livros,2612.6,Cartão,9.0,Em trânsito,Sim
+2902,Casa,331.04,Transferência,5.0,,Não
+3090,Livros,215.39,Transferência,5.0,Entregue,Não
+9155,Casa,95.28,Transferência,3.0,Em trânsito,Não
+7859,Esportes,241.91,Transferência,1.0,,Não
+3696,Casa,348.28,Boleto,15.0,,Não
+9942,Eletrônicos,353.34,Boleto,14.0,,Sim
+9523,Eletrônicos,343.5,Cartão,4.0,Entregue,Não
+3178,Roupas,115.52,Pix,6.0,,Não
+4769,Eletrônicos,159.0,Cartão,18.0,Cancelado,Não
+5646,Esportes,252.0,Pix,16.0,,Não
+1276,Roupas,290.18,Boleto,10.0,Entregue,Não
+1783,Eletrônicos,63.77,Cartão,3.0,Cancelado,Não
+5103,Livros,205.7,Transferência,19.0,Em trânsito,Não
+7998,Livros,419.66,Pix,2.0,Cancelado,Não
+7957,Livros,2.2,Transferência,18.0,Cancelado,Não
+9538,Casa,183.37,Pix,18.0,Entregue,Não
+8385,Roupas,297.79,Transferência,13.0,Entregue,Sim
+9793,Roupas,130.79,Boleto,14.0,,Não
+4775,Roupas,180.41,Transferência,9.0,Entregue,Sim
+1453,Livros,208.42,Boleto,19.0,,Não
+3978,Esportes,209.93,Transferência,11.0,Em trânsito,Sim
+4673,Esportes,148.18,Boleto,15.0,Entregue,Não
+5819,Roupas,194.24,Boleto,13.0,Cancelado,Não
+5267,Eletrônicos,114.35,Boleto,17.0,Cancelado,Não
+6825,Casa,173.32,Boleto,5.0,Cancelado,Não
+6945,Esportes,224.41,Transferência,19.0,Entregue,Não
+4752,Livros,146.54,Transferência,14.0,,Sim
+8584,Roupas,320.48,Pix,1.0,Entregue,Não
+9189,Eletrônicos,203.72,Pix,7.0,Em trânsito,Não
+7364,Eletrônicos,43.77,Transferência,5.0,Cancelado,Não
+4721,Esportes,185.97,Cartão,14.0,Entregue,Não
+8578,Eletrônicos,282.41,Cartão,20.0,Em trânsito,Não
+5578,Casa,305.98,Cartão,1.0,,Não
+7423,Casa,333.37,Transferência,8.0,Cancelado,Sim
+6758,Eletrônicos,252.76,Boleto,19.0,Cancelado,Não
+4899,Esportes,183.47,Boleto,2.0,Cancelado,Não
+3963,Roupas,270.4,Cartão,7.0,,Sim
+9394,Esportes,117.62,Pix,6.0,Em trânsito,Não
+8791,Roupas,184.66,Pix,12.0,Cancelado,Não
+9581,Eletrônicos,321.42,Transferência,,Entregue,Sim
+9527,Casa,271.67,Boleto,19.0,,Sim
+5590,Casa,131.87,Transferência,16.0,Cancelado,Não
+4638,Esportes,163.96,Pix,,Em trânsito,Não
+2538,Eletrônicos,134.93,Transferência,15.0,Cancelado,Sim
+3307,Roupas,302.98,Boleto,,Entregue,Não
+7069,Livros,201.15,Cartão,18.0,Em trânsito,Não
+9944,Livros,212.41,Transferência,15.0,Em trânsito,Não
+2575,Casa,214.89,Pix,17.0,Cancelado,Não
+5590,Roupas,374.13,Pix,1.0,Entregue,Não
+2743,Eletrônicos,412.75,Boleto,,,Sim
+7503,Esportes,40.93,Transferência,5.0,,Não
+9569,Livros,38.04,Pix,19.0,,Sim
+7471,Esportes,283.42,Cartão,8.0,Entregue,Não
+5059,Eletrônicos,179.25,Cartão,10.0,Em trânsito,Não
+5723,Eletrônicos,285.49,Cartão,12.0,Entregue,Não
+3040,Eletrônicos,204.88,Cartão,5.0,Cancelado,Não
+6138,Casa,98.94,Boleto,20.0,Em trânsito,Não
+2968,Eletrônicos,96.9,Cartão,5.0,Entregue,Não
+6644,Livros,96.03,Transferência,,Entregue,Não
+9132,Casa,168.98,Cartão,4.0,Cancelado,Não
+4722,Roupas,162.75,Transferência,15.0,Em trânsito,Não
+6045,Casa,261.19,Boleto,14.0,Cancelado,Não
+2106,Roupas,52.3,Cartão,18.0,Em trânsito,Não
+2049,Casa,123.87,Boleto,19.0,Em trânsito,Não
+5059,Eletrônicos,179.25,Cartão,10.0,Em trânsito,Não
+5293,Roupas,146.83,Boleto,16.0,Em trânsito,Não
+5786,Eletrônicos,194.34,Transferência,,Em trânsito,Não
+7621,Livros,163.69,Pix,9.0,Cancelado,Não
+4542,Esportes,4.78,Transferência,9.0,Em trânsito,Sim
+7423,Casa,333.37,Transferência,8.0,Cancelado,Sim
