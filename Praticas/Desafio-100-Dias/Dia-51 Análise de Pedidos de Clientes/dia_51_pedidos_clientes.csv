@@ -1,0 +1,301 @@
+cliente_id,data_pedido,valor_total,frete,categoria,forma_pagamento
+C0019,2023-09-23,742.84,33.36,Casa,Transferência
+C0026,2022-03-23,122.14,33.11,Beleza,Transferência
+C0032,2023-07-23,764.05,12.05,Esportes,Transferência
+C0041,2022-01-27,690.67,46.17,Eletrônicos,Pix
+C0009,2023-12-27,883.77,10.11,Beleza,Transferência
+C0019,2022-01-04,365.76,9.83,Beleza,Transferência
+C0014,2023-08-02,744.46,10.89,Beleza,Pix
+C0002,2022-10-14,531.73,19.63,Esportes,Pix
+C0017,2022-02-24,642.11,49.87,Eletrônicos,Pix
+C0044,2023-12-29,991.15,40.3,Beleza,Boleto
+C0015,2022-12-11,752.93,5.98,Esportes,Transferência
+C0031,2022-03-14,259.8,11.52,Eletrônicos,Pix
+C0018,2022-07-18,574.54,17.48,Eletrônicos,Pix
+C0011,2022-08-07,279.43,2.6,Roupas,Pix
+C0047,2023-05-06,842.17,29.57,Eletrônicos,Transferência
+C0045,2022-12-29,192.87,42.82,Eletrônicos,Pix
+C0012,2022-02-27,588.89,43.23,Roupas,Transferência
+C0037,2022-07-17,328.84,46.71,Esportes,Pix
+C0041,2022-01-27,218.26,23.01,Eletrônicos,Transferência
+C0010,2023-08-24,683.85,24.46,Casa,Cartão de Crédito
+C0017,2022-10-22,734.36,7.12,Eletrônicos,Transferência
+C0023,2023-10-03,635.38,35.44,Esportes,Pix
+C0047,2023-04-11,556.01,40.19,Roupas,Pix
+C0024,2023-10-11,611.52,13.22,Roupas,Pix
+C0043,2023-02-26,182.33,43.3,Casa,Cartão de Crédito
+C0047,2023-08-17,193.84,8.42,Esportes,Boleto
+C0003,2022-12-24,682.4,41.88,Casa,Pix
+C0025,2023-01-10,901.77,44.4,Roupas,Pix
+C0011,2023-08-31,360.06,19.92,Casa,Transferência
+C0015,2023-12-18,535.83,46.38,Casa,Cartão de Crédito
+C0008,2023-06-30,494.93,27.3,Eletrônicos,Cartão de Crédito
+C0045,2022-08-07,564.5,19.42,Eletrônicos,Pix
+C0013,2023-04-03,723.47,1.74,Eletrônicos,Boleto
+C0025,2022-06-17,844.22,45.9,Esportes,Boleto
+C0028,2023-03-05,306.7,1.28,Eletrônicos,Boleto
+C0049,2022-04-24,507.46,5.92,Esportes,Boleto
+C0032,2022-10-23,389.51,16.3,Beleza,Pix
+C0030,2022-08-02,738.85,42.08,Beleza,Transferência
+C0032,2023-01-05,508.94,45.75,Casa,Transferência
+C0003,2023-03-24,213.86,14.4,Casa,Pix
+C0006,2023-06-25,503.82,12.4,Esportes,Pix
+C0004,2022-04-25,120.21,6.98,Roupas,Pix
+C0039,2022-06-04,108.47,21.03,Esportes,Boleto
+C0045,2022-12-13,507.26,14.63,Esportes,Transferência
+C0035,2023-05-04,168.32,11.56,Roupas,Pix
+C0035,2022-09-21,261.52,48.67,Roupas,Boleto
+C0028,2022-05-01,495.4,27.07,Esportes,Pix
+C0037,2022-02-11,154.35,46.31,Beleza,Pix
+C0022,2022-12-22,940.05,15.45,Roupas,Cartão de Crédito
+C0033,2023-12-26,817.86,32.07,Roupas,Boleto
+C0011,2023-10-26,471.57,31.39,Roupas,Boleto
+C0033,2023-04-21,56.57,7.62,Eletrônicos,Boleto
+C0043,2022-07-30,833.38,42.76,Esportes,Cartão de Crédito
+C0033,2022-06-24,888.0,19.68,Roupas,Transferência
+C0005,2022-02-22,531.15,12.48,Roupas,Boleto
+C0040,2022-09-03,237.27,2.04,Casa,Cartão de Crédito
+C0029,2022-05-13,852.19,46.7,Casa,Transferência
+C0040,2022-05-15,656.34,26.8,Roupas,Boleto
+C0021,2022-03-02,623.23,27.25,Roupas,Pix
+C0036,2022-01-27,447.33,3.56,Esportes,Boleto
+C0013,2022-04-14,806.77,49.96,Beleza,Transferência
+C0020,2022-11-14,478.79,37.7,Esportes,Boleto
+C0034,2022-08-13,634.46,43.71,Esportes,Cartão de Crédito
+C0050,2023-08-07,364.4,17.72,Esportes,Pix
+C0032,2023-04-19,661.89,46.89,Esportes,Transferência
+C0011,2023-12-05,609.96,6.51,Esportes,Cartão de Crédito
+C0012,2022-06-16,962.06,42.36,Casa,Pix
+C0038,2023-07-08,308.84,28.29,Roupas,Boleto
+C0021,2022-04-23,905.38,32.38,Casa,Pix
+C0017,2023-10-16,845.23,4.5,Eletrônicos,Cartão de Crédito
+C0025,2023-06-03,166.77,3.83,Eletrônicos,Cartão de Crédito
+C0006,2023-01-03,380.85,32.05,Casa,Boleto
+C0014,2023-04-27,305.51,28.52,Eletrônicos,Pix
+C0022,2022-08-19,594.19,1.81,Beleza,Cartão de Crédito
+C0031,2023-03-16,216.68,10.77,Casa,Transferência
+C0023,2023-03-14,555.64,44.64,Eletrônicos,Pix
+C0008,2022-01-22,748.29,44.52,Roupas,Pix
+C0010,2022-10-11,904.43,40.51,Casa,Boleto
+C0026,2023-10-17,310.21,42.35,Roupas,Boleto
+C0026,2023-06-06,966.98,33.38,Roupas,Boleto
+C0022,2023-12-10,779.38,26.81,Beleza,Pix
+C0039,2023-07-31,54.76,7.44,Beleza,Boleto
+C0028,2022-06-04,478.13,7.86,Casa,Boleto
+C0009,2022-05-23,944.87,20.89,Roupas,Transferência
+C0001,2022-11-17,568.46,37.27,Casa,Pix
+C0025,2022-04-14,473.3,39.82,Roupas,Cartão de Crédito
+C0049,2022-03-23,780.44,22.9,Casa,Pix
+C0041,2023-08-03,252.59,25.33,Roupas,Pix
+C0019,2023-02-02,887.84,4.56,Casa,Cartão de Crédito
+C0035,2023-12-20,791.79,12.3,Eletrônicos,Pix
+C0048,2022-12-23,320.36,24.42,Eletrônicos,Transferência
+C0028,2022-01-03,150.12,13.39,Roupas,Transferência
+C0044,2023-02-15,419.5,25.91,Beleza,Boleto
+C0004,2022-04-24,893.95,43.4,Casa,Pix
+C0006,2022-05-30,421.08,45.39,Casa,Cartão de Crédito
+C0027,2022-06-24,171.5,38.43,Roupas,Boleto
+C0041,2023-01-31,115.24,10.77,Beleza,Boleto
+C0028,2023-02-12,998.77,16.43,Beleza,Boleto
+C0002,2022-10-12,482.09,48.44,Roupas,Transferência
+C0029,2023-08-24,373.21,31.3,Esportes,Boleto
+C0015,2023-05-02,351.49,25.3,Esportes,Transferência
+C0036,2023-02-25,403.56,26.27,Beleza,Transferência
+C0033,2023-11-08,510.94,11.68,Beleza,Boleto
+C0043,2023-06-21,366.28,7.74,Casa,Transferência
+C0013,2022-09-25,331.86,49.94,Beleza,Boleto
+C0032,2023-04-09,714.92,33.78,Eletrônicos,Cartão de Crédito
+C0009,2022-11-15,138.22,31.85,Casa,Pix
+C0034,2023-05-31,333.32,11.23,Eletrônicos,Transferência
+C0013,2023-03-14,526.53,22.89,Eletrônicos,Pix
+C0028,2023-03-09,673.37,25.83,Casa,Transferência
+C0044,2022-03-26,660.85,44.69,Esportes,Transferência
+C0036,2022-05-13,674.3,6.57,Roupas,Transferência
+C0019,2022-03-06,644.31,16.79,Eletrônicos,Cartão de Crédito
+C0011,2023-11-22,777.15,27.13,Eletrônicos,Transferência
+C0012,2023-10-05,388.2,45.68,Eletrônicos,Cartão de Crédito
+C0006,2022-09-02,728.86,18.62,Eletrônicos,Boleto
+C0033,2023-07-23,786.41,19.89,Eletrônicos,Pix
+C0009,2023-06-22,280.61,40.59,Beleza,Cartão de Crédito
+C0040,2023-09-11,99.86,39.11,Eletrônicos,Boleto
+C0041,2022-07-13,605.99,43.94,Esportes,Pix
+C0007,2023-05-11,907.98,45.85,Casa,Pix
+C0011,2022-05-09,901.33,39.95,Beleza,Cartão de Crédito
+C0004,2022-01-20,154.11,13.84,Roupas,Boleto
+C0042,2022-01-01,276.59,10.13,Casa,Cartão de Crédito
+C0006,2023-10-08,304.01,16.13,Esportes,Cartão de Crédito
+C0040,2022-11-23,626.77,37.84,Roupas,Pix
+C0048,2022-08-27,825.25,25.18,Roupas,Pix
+C0030,2023-05-05,73.06,6.59,Eletrônicos,Cartão de Crédito
+C0001,2022-06-06,329.95,49.5,Casa,Transferência
+C0006,2023-09-30,258.69,46.33,Roupas,Transferência
+C0029,2022-12-15,548.34,26.2,Esportes,Pix
+C0044,2022-07-21,565.55,25.21,Beleza,Pix
+C0038,2022-02-01,144.3,26.38,Roupas,Pix
+C0047,2023-04-15,670.75,26.68,Eletrônicos,Boleto
+C0006,2023-01-27,855.59,29.67,Casa,Boleto
+C0014,2022-10-29,998.83,2.12,Roupas,Cartão de Crédito
+C0026,2022-02-27,512.12,42.9,Eletrônicos,Cartão de Crédito
+C0032,2023-12-02,766.07,17.37,Esportes,Transferência
+C0008,2023-02-24,492.38,27.66,Roupas,Transferência
+C0013,2023-12-11,147.7,16.68,Casa,Cartão de Crédito
+C0024,2023-10-19,273.47,8.37,Eletrônicos,Transferência
+C0034,2023-04-19,109.97,7.95,Roupas,Cartão de Crédito
+C0031,2022-03-25,805.64,44.09,Roupas,Pix
+C0038,2023-01-01,940.98,13.25,Eletrônicos,Cartão de Crédito
+C0033,2023-08-28,602.61,18.64,Beleza,Pix
+C0036,2022-04-08,157.17,23.2,Beleza,Transferência
+C0031,2022-05-31,57.58,16.37,Eletrônicos,Boleto
+C0023,2023-06-29,856.4,25.89,Roupas,Pix
+C0036,2022-12-03,255.2,14.84,Esportes,Cartão de Crédito
+C0026,2023-08-05,226.98,35.2,Roupas,Boleto
+C0041,2022-08-19,239.51,18.57,Esportes,Pix
+C0031,2022-03-10,831.31,2.33,Beleza,Cartão de Crédito
+C0046,2022-04-02,298.48,25.86,Casa,Transferência
+C0041,2022-09-05,348.85,29.94,Beleza,Cartão de Crédito
+C0033,2023-08-27,603.08,23.11,Beleza,Transferência
+C0019,2022-12-24,381.47,31.69,Casa,Pix
+C0024,2023-05-01,979.19,32.06,Casa,Boleto
+C0020,2022-01-25,659.15,35.79,Esportes,Transferência
+C0024,2022-05-08,687.19,34.27,Beleza,Cartão de Crédito
+C0017,2022-10-29,196.34,6.1,Casa,Boleto
+C0045,2022-08-03,787.78,28.92,Roupas,Boleto
+C0005,2022-03-26,246.17,11.05,Roupas,Pix
+C0030,2023-06-11,916.09,6.3,Esportes,Transferência
+C0016,2023-01-22,601.27,39.22,Roupas,Transferência
+C0042,2023-07-07,154.14,48.12,Beleza,Boleto
+C0022,2023-11-26,897.86,48.06,Esportes,Transferência
+C0006,2023-10-02,854.26,46.28,Beleza,Transferência
+C0049,2022-12-23,255.13,35.07,Roupas,Pix
+C0048,2023-11-04,376.39,46.54,Eletrônicos,Pix
+C0015,2022-04-05,529.54,2.52,Casa,Pix
+C0013,2023-09-15,957.6,35.08,Esportes,Transferência
+C0016,2023-03-15,683.27,37.76,Roupas,Cartão de Crédito
+C0026,2023-07-23,915.85,15.02,Beleza,Pix
+C0031,2023-05-20,497.54,27.31,Casa,Pix
+C0007,2022-07-30,56.54,36.23,Casa,Cartão de Crédito
+C0041,2022-08-12,862.51,21.79,Beleza,Transferência
+C0040,2022-09-10,807.26,41.83,Esportes,Transferência
+C0006,2023-08-20,812.12,12.12,Casa,Cartão de Crédito
+C0047,2023-03-12,771.35,9.44,Esportes,Pix
+C0034,2023-03-01,505.19,36.23,Esportes,Pix
+C0004,2023-02-26,781.43,12.73,Esportes,Cartão de Crédito
+C0011,2023-05-30,647.12,17.58,Casa,Boleto
+C0012,2022-07-11,893.36,13.08,Roupas,Pix
+C0031,2022-06-24,512.37,19.44,Roupas,Transferência
+C0049,2023-12-11,418.22,15.49,Beleza,Cartão de Crédito
+C0020,2022-09-18,123.82,10.7,Casa,Transferência
+C0034,2023-05-25,613.48,8.21,Eletrônicos,Transferência
+C0042,2022-08-25,488.51,7.13,Roupas,Cartão de Crédito
+C0021,2023-07-18,760.08,2.46,Eletrônicos,Boleto
+C0030,2023-04-23,654.81,12.4,Eletrônicos,Boleto
+C0031,2022-03-30,487.72,17.1,Esportes,Boleto
+C0033,2023-09-17,563.1,19.12,Beleza,Pix
+C0020,2023-10-30,147.95,27.2,Esportes,Transferência
+C0014,2022-09-08,681.99,36.28,Beleza,Cartão de Crédito
+C0038,2022-10-03,216.18,3.67,Beleza,Transferência
+C0010,2023-10-03,737.17,0.53,Roupas,Cartão de Crédito
+C0011,2022-06-30,759.19,41.69,Eletrônicos,Transferência
+C0027,2022-12-13,461.52,41.29,Eletrônicos,Boleto
+C0042,2022-02-23,686.31,0.35,Beleza,Pix
+C0034,2022-03-27,95.16,8.0,Esportes,Boleto
+C0026,2022-10-31,734.49,32.39,Casa,Boleto
+C0046,2022-08-05,156.42,34.17,Esportes,Transferência
+C0029,2022-12-03,293.07,8.98,Beleza,Pix
+C0015,2022-12-13,251.38,34.12,Esportes,Transferência
+C0031,2023-08-10,275.04,39.62,Roupas,Transferência
+C0038,2022-01-30,620.74,1.33,Beleza,Pix
+C0032,2023-07-21,882.94,44.25,Eletrônicos,Boleto
+C0001,2022-06-14,536.26,31.88,Beleza,Boleto
+C0029,2023-11-24,533.52,31.03,Roupas,Pix
+C0009,2023-01-24,746.83,16.03,Casa,Boleto
+C0006,2022-04-16,984.19,4.24,Beleza,Cartão de Crédito
+C0018,2022-01-29,684.69,40.32,Beleza,Cartão de Crédito
+C0002,2022-01-28,89.44,27.3,Esportes,Boleto
+C0035,2023-04-16,728.09,35.09,Beleza,Cartão de Crédito
+C0037,2023-10-21,406.44,35.21,Roupas,Pix
+C0018,2023-04-30,613.14,37.44,Casa,Cartão de Crédito
+C0030,2022-09-20,523.5,19.76,Casa,Transferência
+C0029,2023-08-15,65.47,34.91,Roupas,Pix
+C0046,2023-09-14,839.7,36.72,Beleza,Boleto
+C0003,2022-03-04,323.44,43.69,Casa,Boleto
+C0029,2022-08-27,974.11,20.65,Casa,Transferência
+C0006,2023-03-24,999.99,0.64,Eletrônicos,Transferência
+C0023,2022-04-21,128.93,14.1,Eletrônicos,Cartão de Crédito
+C0029,2022-07-16,490.96,40.6,Esportes,Transferência
+C0014,2022-03-15,537.31,18.3,Esportes,Boleto
+C0027,2023-12-06,714.07,45.45,Roupas,Cartão de Crédito
+C0027,2023-02-06,696.25,44.8,Esportes,Transferência
+C0008,2022-04-23,672.99,9.67,Beleza,Cartão de Crédito
+C0048,2022-09-20,455.06,21.46,Roupas,Cartão de Crédito
+C0006,2022-10-11,873.93,43.91,Eletrônicos,Cartão de Crédito
+C0026,2023-07-03,290.24,19.82,Esportes,Transferência
+C0005,2023-07-23,700.83,39.53,Roupas,Transferência
+C0003,2023-02-26,282.25,26.91,Beleza,Cartão de Crédito
+C0045,2023-12-22,859.68,47.88,Esportes,Transferência
+C0050,2022-06-04,423.55,7.8,Casa,Cartão de Crédito
+C0040,2022-10-09,591.93,28.54,Esportes,Boleto
+C0026,2023-03-27,223.88,33.52,Esportes,Pix
+C0020,2023-10-01,558.56,4.28,Roupas,Cartão de Crédito
+C0041,2023-02-08,613.28,5.94,Casa,Boleto
+C0028,2022-10-13,357.43,46.88,Esportes,Transferência
+C0045,2022-08-16,859.37,8.04,Esportes,Transferência
+C0014,2023-12-06,792.8,22.0,Eletrônicos,Transferência
+C0036,2023-07-20,525.83,24.22,Esportes,Cartão de Crédito
+C0016,2023-07-03,754.82,41.64,Casa,Pix
+C0001,2023-03-11,578.77,12.92,Esportes,Cartão de Crédito
+C0024,2022-07-01,600.36,33.69,Beleza,Pix
+C0004,2023-11-16,795.64,12.63,Roupas,Transferência
+C0013,2023-08-09,883.08,21.91,Eletrônicos,Boleto
+C0007,2023-09-13,260.58,3.01,Roupas,Cartão de Crédito
+C0036,2022-01-07,68.66,22.71,Eletrônicos,Cartão de Crédito
+C0006,2022-04-26,100.18,11.97,Beleza,Boleto
+C0007,2023-10-31,399.91,13.63,Beleza,Pix
+C0027,2022-04-14,228.13,34.19,Casa,Cartão de Crédito
+C0021,2022-11-23,56.95,41.44,Roupas,Boleto
+C0035,2022-03-27,817.59,7.7,Beleza,Transferência
+C0026,2022-05-01,904.77,11.14,Beleza,Cartão de Crédito
+C0022,2022-07-16,208.78,2.72,Roupas,Cartão de Crédito
+C0012,2022-11-04,196.75,13.25,Esportes,Cartão de Crédito
+C0048,2023-11-28,992.41,8.79,Eletrônicos,Transferência
+C0005,2023-09-15,382.88,29.22,Roupas,Transferência
+C0026,2023-07-05,679.81,28.7,Eletrônicos,Transferência
+C0027,2023-01-09,963.44,49.35,Esportes,Transferência
+C0047,2022-01-27,77.89,2.68,Eletrônicos,Pix
+C0008,2023-10-19,874.34,46.8,Eletrônicos,Cartão de Crédito
+C0029,2023-11-05,59.6,8.74,Eletrônicos,Cartão de Crédito
+C0027,2023-04-15,575.86,34.19,Eletrônicos,Cartão de Crédito
+C0015,2023-02-01,144.87,4.09,Beleza,Cartão de Crédito
+C0022,2022-07-22,954.31,15.83,Eletrônicos,Pix
+C0013,2023-05-23,219.16,33.43,Roupas,Boleto
+C0040,2022-03-04,66.65,21.56,Roupas,Cartão de Crédito
+C0026,2023-08-12,752.4,3.92,Eletrônicos,Cartão de Crédito
+C0009,2022-10-05,220.9,27.79,Esportes,Pix
+C0046,2023-11-25,973.59,30.49,Casa,Cartão de Crédito
+C0036,2022-12-17,213.04,1.57,Casa,Transferência
+C0011,2023-06-15,744.04,25.64,Esportes,Boleto
+C0019,2022-02-17,903.01,1.78,Esportes,Cartão de Crédito
+C0025,2022-10-18,94.41,40.32,Casa,Cartão de Crédito
+C0032,2023-04-05,341.9,41.72,Eletrônicos,Pix
+C0007,2023-11-24,130.21,4.13,Eletrônicos,Cartão de Crédito
+C0045,2022-01-27,756.22,20.86,Esportes,Boleto
+C0030,2022-06-12,84.04,28.15,Roupas,Boleto
+C0004,2022-08-16,372.15,26.17,Esportes,Pix
+C0015,2022-12-02,244.81,25.25,Roupas,Pix
+C0011,2022-11-03,138.19,36.4,Beleza,Pix
+C0007,2023-08-17,137.25,15.16,Roupas,Cartão de Crédito
+C0036,2023-06-16,874.79,40.85,Esportes,Transferência
+C0010,2023-02-12,535.04,31.13,Esportes,Boleto
+C0030,2023-10-14,495.4,35.63,Casa,Transferência
+C0046,2023-08-24,57.82,4.74,Esportes,Pix
+C0012,2022-03-10,730.2,32.03,Beleza,Pix
+C0041,2022-12-02,105.24,2.29,Eletrônicos,Pix
+C0007,2023-03-02,883.76,43.22,Roupas,Transferência
+C0015,2023-08-02,55.88,11.3,Eletrônicos,Transferência
+C0027,2023-12-05,559.6,19.89,Roupas,Cartão de Crédito
+C0045,2023-08-05,808.79,9.11,Eletrônicos,Transferência
+C0013,2022-04-10,792.89,28.17,Beleza,Cartão de Crédito
+C0016,2022-01-07,352.32,30.34,Beleza,Pix
+C0026,2022-10-25,372.7,43.1,Esportes,Transferência
+C0016,2022-08-17,684.18,23.98,Roupas,Pix
+C0050,2022-03-04,747.58,5.23,Esportes,Pix
