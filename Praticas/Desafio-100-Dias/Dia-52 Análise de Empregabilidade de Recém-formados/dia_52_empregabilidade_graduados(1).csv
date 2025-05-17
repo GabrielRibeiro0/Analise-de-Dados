@@ -1,0 +1,301 @@
+curso,universidade,media_final,fez_estagio,cidade,empregado
+Engenharia,UNB,9.4,0,Belo Horizonte,0
+Engenharia,UFSP,7.39,0,Salvador,0
+Direito,UNB,6.34,0,Belo Horizonte,1
+Administração,UFSP,7.38,1,São Paulo,1
+Administração,UFMG,6.91,1,Salvador,0
+Administração,UNB,8.28,1,Brasília,0
+Engenharia,UNB,8.91,1,Salvador,0
+Ciência da Computação,UNB,8.55,0,Salvador,1
+Engenharia,UFBA,9.12,1,São Paulo,0
+Ciência da Computação,UFBA,9.51,1,Brasília,1
+Psicologia,UFRJ,9.81,1,Brasília,1
+Engenharia,UFBA,7.62,0,Rio de Janeiro,0
+Engenharia,UFRJ,9.44,1,Rio de Janeiro,0
+Engenharia,UFBA,7.9,1,Belo Horizonte,1
+Administração,UFMG,8.25,1,Rio de Janeiro,1
+Administração,UFRJ,5.41,1,São Paulo,1
+Ciência da Computação,UFBA,7.1,1,Salvador,1
+Ciência da Computação,UFMG,9.25,1,Brasília,1
+Engenharia,UFBA,5.89,1,Salvador,0
+Ciência da Computação,UFSP,6.27,0,São Paulo,1
+Administração,UFSP,6.6,0,Salvador,0
+Ciência da Computação,UFMG,7.23,1,Brasília,1
+Psicologia,UNB,6.65,0,Rio de Janeiro,0
+Administração,UNB,9.31,1,Belo Horizonte,0
+Psicologia,UFSP,6.36,0,Brasília,0
+Ciência da Computação,UFSP,9.66,1,Brasília,1
+Direito,UNB,7.07,1,Brasília,1
+Engenharia,UFRJ,9.09,1,Brasília,1
+Administração,UNB,7.3,1,São Paulo,1
+Psicologia,UFBA,8.67,0,Brasília,0
+Direito,UFRJ,5.26,1,Salvador,0
+Direito,UFBA,9.66,0,São Paulo,1
+Administração,UFSP,6.1,0,Rio de Janeiro,0
+Administração,UFRJ,5.34,1,Salvador,0
+Direito,UFBA,9.69,0,Salvador,0
+Engenharia,UFBA,5.2,1,Salvador,0
+Engenharia,UFRJ,5.15,0,Salvador,0
+Psicologia,UFMG,6.21,1,São Paulo,1
+Engenharia,UNB,9.11,0,Rio de Janeiro,1
+Direito,UFBA,8.04,0,Rio de Janeiro,1
+Direito,UNB,6.17,1,Brasília,1
+Ciência da Computação,UNB,7.32,0,Belo Horizonte,1
+Direito,UFSP,5.56,0,São Paulo,0
+Engenharia,UNB,9.64,1,Rio de Janeiro,1
+Psicologia,UFBA,7.28,1,São Paulo,0
+Ciência da Computação,UFSP,6.26,1,São Paulo,1
+Engenharia,UFRJ,6.81,1,Brasília,1
+Psicologia,UFBA,7.97,0,Rio de Janeiro,1
+Engenharia,UFSP,9.72,1,Belo Horizonte,0
+Ciência da Computação,UFSP,8.52,1,Belo Horizonte,1
+Direito,UNB,8.81,1,Belo Horizonte,0
+Ciência da Computação,UFRJ,5.8,1,Salvador,0
+Direito,UFBA,6.52,0,Rio de Janeiro,0
+Ciência da Computação,UFBA,7.84,0,Salvador,0
+Administração,UNB,9.55,0,Salvador,0
+Engenharia,UFRJ,7.82,1,Salvador,1
+Engenharia,UFBA,9.45,0,Brasília,1
+Administração,UFRJ,6.84,0,Brasília,1
+Direito,UFBA,9.61,1,São Paulo,0
+Engenharia,UNB,5.97,0,São Paulo,0
+Administração,UFMG,7.9,0,Rio de Janeiro,0
+Engenharia,UFBA,9.07,1,Rio de Janeiro,0
+Psicologia,UFSP,6.19,0,Brasília,1
+Direito,UFSP,8.42,1,São Paulo,1
+Psicologia,UFMG,6.48,0,São Paulo,1
+Direito,UFBA,8.35,0,Salvador,0
+Administração,UFSP,8.95,1,Belo Horizonte,1
+Direito,UFSP,8.9,0,Belo Horizonte,1
+Direito,UFBA,7.77,1,Belo Horizonte,0
+Administração,UFRJ,5.2,1,Brasília,0
+Direito,UFBA,7.61,1,Belo Horizonte,1
+Engenharia,UFRJ,8.24,1,Belo Horizonte,0
+Ciência da Computação,UFMG,5.34,0,Salvador,0
+Administração,UNB,8.17,0,Rio de Janeiro,0
+Ciência da Computação,UFMG,5.06,1,Brasília,1
+Administração,UNB,7.06,0,São Paulo,1
+Administração,UFSP,7.4,0,Salvador,1
+Psicologia,UFSP,7.12,0,Belo Horizonte,0
+Psicologia,UFSP,6.77,0,São Paulo,1
+Direito,UFRJ,9.37,1,Salvador,1
+Ciência da Computação,UNB,7.25,0,Brasília,0
+Administração,UFSP,5.75,1,Belo Horizonte,1
+Direito,UFBA,5.86,0,Brasília,0
+Engenharia,UNB,7.56,0,Salvador,0
+Administração,UNB,8.19,1,São Paulo,0
+Engenharia,UFRJ,8.02,1,Rio de Janeiro,1
+Direito,UFMG,9.51,1,Belo Horizonte,1
+Psicologia,UFRJ,8.8,1,Brasília,0
+Direito,UFSP,7.28,0,São Paulo,1
+Engenharia,UFBA,9.05,1,São Paulo,1
+Administração,UFBA,7.9,1,Rio de Janeiro,1
+Ciência da Computação,UFSP,6.58,0,Salvador,0
+Direito,UFBA,6.2,0,Rio de Janeiro,0
+Administração,UFRJ,9.58,1,Rio de Janeiro,1
+Psicologia,UFRJ,6.37,1,Salvador,1
+Psicologia,UFSP,7.21,1,Salvador,0
+Psicologia,UFBA,8.68,1,Salvador,1
+Administração,UNB,7.79,1,São Paulo,1
+Direito,UFMG,8.27,1,São Paulo,0
+Administração,UNB,6.65,1,Belo Horizonte,1
+Administração,UFRJ,7.42,0,Belo Horizonte,1
+Ciência da Computação,UFRJ,6.59,1,Rio de Janeiro,1
+Ciência da Computação,UFRJ,7.39,1,Rio de Janeiro,0
+Direito,UFRJ,6.74,0,Belo Horizonte,0
+Ciência da Computação,UFMG,6.27,0,Brasília,0
+Psicologia,UFSP,6.37,1,Rio de Janeiro,0
+Ciência da Computação,UFRJ,7.92,1,Brasília,1
+Psicologia,UFBA,9.31,1,Brasília,1
+Direito,UFMG,7.72,1,Salvador,1
+Administração,UFRJ,7.53,0,São Paulo,0
+Administração,UFBA,5.94,1,Belo Horizonte,0
+Ciência da Computação,UFRJ,6.18,1,São Paulo,1
+Psicologia,UFSP,6.99,0,Belo Horizonte,1
+Engenharia,UFMG,7.72,0,São Paulo,0
+Engenharia,UFSP,6.18,1,Belo Horizonte,0
+Engenharia,UFMG,7.33,1,São Paulo,1
+Administração,UFRJ,8.49,0,Salvador,1
+Administração,UFRJ,7.2,1,Brasília,1
+Psicologia,UFMG,5.08,0,Belo Horizonte,0
+Ciência da Computação,UFBA,6.44,0,Brasília,0
+Engenharia,UFBA,6.98,1,Belo Horizonte,1
+Psicologia,UFRJ,6.19,0,Belo Horizonte,0
+Psicologia,UFRJ,8.25,0,Salvador,1
+Ciência da Computação,UFSP,6.81,0,São Paulo,0
+Psicologia,UFRJ,7.71,1,Belo Horizonte,1
+Ciência da Computação,UFMG,6.68,1,São Paulo,0
+Direito,UFBA,9.88,0,Salvador,1
+Ciência da Computação,UFBA,7.7,1,Rio de Janeiro,0
+Engenharia,UFSP,6.72,0,Brasília,0
+Engenharia,UFBA,7.22,0,Belo Horizonte,0
+Ciência da Computação,UFBA,6.5,1,Salvador,1
+Direito,UNB,6.13,1,São Paulo,0
+Direito,UFMG,8.53,1,Belo Horizonte,1
+Engenharia,UNB,6.55,0,São Paulo,1
+Direito,UFBA,8.64,0,Rio de Janeiro,0
+Psicologia,UFSP,9.66,0,Belo Horizonte,1
+Administração,UFSP,8.38,1,Brasília,0
+Psicologia,UFBA,5.94,1,Belo Horizonte,1
+Engenharia,UFRJ,8.62,0,Brasília,1
+Direito,UNB,6.35,1,São Paulo,1
+Ciência da Computação,UFBA,7.89,1,Belo Horizonte,1
+Administração,UFSP,8.73,1,Salvador,0
+Ciência da Computação,UFSP,7.92,1,Salvador,1
+Engenharia,UNB,9.8,0,Rio de Janeiro,1
+Direito,UFMG,9.08,1,Salvador,1
+Ciência da Computação,UFBA,6.45,0,Rio de Janeiro,0
+Ciência da Computação,UFBA,6.77,0,São Paulo,1
+Administração,UFMG,6.48,0,Brasília,0
+Administração,UNB,8.47,1,São Paulo,0
+Direito,UNB,5.62,1,Brasília,1
+Administração,UFSP,5.22,0,Brasília,0
+Ciência da Computação,UFMG,5.27,1,Rio de Janeiro,1
+Ciência da Computação,UNB,6.43,0,Salvador,0
+Engenharia,UFRJ,9.63,1,Salvador,0
+Ciência da Computação,UFBA,8.13,0,Rio de Janeiro,0
+Direito,UFSP,8.69,1,Rio de Janeiro,1
+Psicologia,UFMG,5.5,1,São Paulo,0
+Engenharia,UFSP,5.06,1,Rio de Janeiro,0
+Engenharia,UNB,6.39,1,Salvador,1
+Direito,UNB,7.35,1,Rio de Janeiro,0
+Direito,UFRJ,6.67,0,Rio de Janeiro,0
+Administração,UFBA,9.73,0,Brasília,0
+Engenharia,UFMG,6.24,1,Rio de Janeiro,0
+Administração,UFSP,9.22,0,São Paulo,1
+Ciência da Computação,UFBA,5.56,1,Rio de Janeiro,1
+Engenharia,UNB,5.32,0,Belo Horizonte,0
+Engenharia,UFBA,7.41,0,Belo Horizonte,0
+Psicologia,UFSP,7.83,1,Brasília,1
+Engenharia,UFBA,8.36,1,Brasília,1
+Ciência da Computação,UNB,5.74,1,Belo Horizonte,1
+Administração,UFBA,8.97,0,Brasília,0
+Administração,UFMG,9.65,0,Brasília,1
+Psicologia,UFBA,5.42,0,Salvador,0
+Ciência da Computação,UFMG,6.22,0,Salvador,1
+Administração,UFBA,7.73,1,Rio de Janeiro,1
+Direito,UNB,7.04,1,Belo Horizonte,1
+Ciência da Computação,UFRJ,7.92,0,São Paulo,1
+Ciência da Computação,UFRJ,8.03,0,Belo Horizonte,0
+Psicologia,UFMG,8.8,0,Belo Horizonte,1
+Administração,UFMG,6.86,0,Salvador,1
+Ciência da Computação,UFRJ,9.45,1,Salvador,1
+Administração,UNB,6.46,1,Brasília,1
+Direito,UNB,7.88,1,São Paulo,1
+Psicologia,UFBA,7.1,1,Salvador,0
+Direito,UFMG,7.79,0,Brasília,1
+Psicologia,UNB,5.3,1,São Paulo,1
+Ciência da Computação,UFSP,9.7,0,Salvador,0
+Psicologia,UFBA,5.49,1,Belo Horizonte,0
+Engenharia,UFBA,8.74,1,Belo Horizonte,1
+Administração,UFRJ,8.07,1,São Paulo,0
+Administração,UFMG,6.3,0,São Paulo,0
+Engenharia,UNB,5.4,1,Salvador,1
+Direito,UNB,6.18,0,Salvador,0
+Engenharia,UFBA,7.7,1,São Paulo,0
+Ciência da Computação,UFMG,5.77,1,São Paulo,0
+Ciência da Computação,UFMG,7.0,0,Brasília,1
+Administração,UFMG,8.38,1,Brasília,1
+Ciência da Computação,UFRJ,7.3,0,Brasília,1
+Administração,UNB,5.16,1,Belo Horizonte,1
+Engenharia,UFMG,6.41,1,Belo Horizonte,0
+Engenharia,UFRJ,6.39,0,Brasília,0
+Engenharia,UFSP,9.21,1,Brasília,0
+Administração,UFBA,5.35,1,São Paulo,0
+Engenharia,UNB,6.14,0,Belo Horizonte,0
+Engenharia,UNB,6.3,0,Brasília,0
+Direito,UFBA,8.88,1,Rio de Janeiro,0
+Engenharia,UFSP,7.89,0,Salvador,0
+Ciência da Computação,UFRJ,8.94,0,Brasília,1
+Administração,UFBA,5.97,0,Belo Horizonte,0
+Direito,UFRJ,5.56,0,Brasília,1
+Psicologia,UFRJ,6.1,1,Rio de Janeiro,0
+Administração,UFRJ,5.73,0,São Paulo,0
+Ciência da Computação,UFSP,6.3,0,Belo Horizonte,1
+Administração,UFSP,5.7,0,São Paulo,0
+Ciência da Computação,UFRJ,5.29,0,Salvador,1
+Ciência da Computação,UFMG,8.88,0,São Paulo,0
+Psicologia,UNB,7.92,0,Brasília,0
+Administração,UFSP,9.04,0,Rio de Janeiro,1
+Psicologia,UFMG,9.51,1,São Paulo,1
+Psicologia,UFMG,7.15,0,Rio de Janeiro,0
+Administração,UNB,7.3,0,Belo Horizonte,0
+Engenharia,UFRJ,6.49,1,Belo Horizonte,1
+Engenharia,UFMG,6.97,0,Brasília,0
+Psicologia,UFMG,6.33,0,Brasília,1
+Direito,UFMG,7.65,1,Brasília,0
+Psicologia,UFRJ,7.15,0,Rio de Janeiro,1
+Psicologia,UFRJ,7.93,0,Salvador,0
+Psicologia,UFSP,9.36,0,Salvador,0
+Engenharia,UFSP,8.6,0,Salvador,0
+Engenharia,UFMG,7.96,0,Belo Horizonte,0
+Engenharia,UFRJ,5.13,1,Belo Horizonte,1
+Psicologia,UFRJ,6.12,0,Salvador,0
+Direito,UNB,8.3,1,Brasília,1
+Engenharia,UFMG,9.22,0,São Paulo,1
+Administração,UFSP,7.88,0,Salvador,1
+Administração,UNB,5.1,1,São Paulo,0
+Administração,UFRJ,8.75,0,Salvador,0
+Ciência da Computação,UFSP,9.02,0,São Paulo,1
+Psicologia,UFMG,7.82,1,Brasília,0
+Administração,UFRJ,8.74,0,Belo Horizonte,0
+Psicologia,UFMG,5.86,0,Salvador,0
+Administração,UNB,7.54,1,Salvador,0
+Direito,UNB,7.17,1,Brasília,1
+Psicologia,UNB,6.36,1,Rio de Janeiro,1
+Administração,UFBA,9.89,0,Salvador,0
+Engenharia,UFMG,7.14,1,São Paulo,0
+Psicologia,UNB,8.99,0,Brasília,0
+Ciência da Computação,UNB,9.75,0,Rio de Janeiro,1
+Engenharia,UFMG,7.3,1,Salvador,1
+Engenharia,UNB,7.0,1,Salvador,0
+Ciência da Computação,UFMG,6.57,0,Belo Horizonte,1
+Engenharia,UFRJ,5.51,0,Rio de Janeiro,0
+Engenharia,UFMG,5.79,1,Brasília,0
+Administração,UFMG,7.02,1,São Paulo,1
+Administração,UFBA,7.43,1,Salvador,1
+Psicologia,UFRJ,8.25,0,Brasília,1
+Psicologia,UFBA,6.96,1,Belo Horizonte,0
+Psicologia,UNB,8.73,1,Salvador,1
+Administração,UFMG,5.18,0,Rio de Janeiro,0
+Psicologia,UFRJ,5.43,0,Brasília,0
+Engenharia,UFBA,6.24,1,São Paulo,1
+Administração,UFMG,5.57,0,Belo Horizonte,0
+Psicologia,UFSP,8.79,0,Brasília,0
+Engenharia,UFBA,9.24,0,Salvador,0
+Psicologia,UFRJ,9.04,1,São Paulo,1
+Direito,UFBA,5.01,1,Salvador,0
+Psicologia,UFBA,9.26,1,Salvador,0
+Direito,UFBA,7.26,1,Rio de Janeiro,1
+Psicologia,UNB,5.27,1,Rio de Janeiro,0
+Ciência da Computação,UFSP,7.54,1,Salvador,1
+Psicologia,UFRJ,8.05,0,Belo Horizonte,0
+Administração,UFRJ,7.44,0,Rio de Janeiro,1
+Administração,UFRJ,7.17,0,Rio de Janeiro,0
+Direito,UFMG,5.25,1,Rio de Janeiro,0
+Administração,UFRJ,6.31,1,Rio de Janeiro,1
+Engenharia,UFRJ,5.64,0,São Paulo,1
+Ciência da Computação,UFSP,6.41,1,Salvador,0
+Ciência da Computação,UFMG,9.32,1,São Paulo,1
+Engenharia,UFMG,7.38,1,Brasília,1
+Direito,UFBA,5.14,1,Brasília,0
+Engenharia,UNB,8.09,1,Brasília,1
+Engenharia,UFMG,8.92,0,São Paulo,0
+Ciência da Computação,UFMG,8.48,1,Salvador,1
+Psicologia,UFSP,6.52,1,Brasília,1
+Ciência da Computação,UFRJ,5.07,1,Rio de Janeiro,0
+Ciência da Computação,UFMG,7.0,1,Brasília,1
+Administração,UFMG,6.1,1,Belo Horizonte,1
+Engenharia,UNB,9.12,0,Rio de Janeiro,0
+Ciência da Computação,UFSP,5.56,1,Rio de Janeiro,1
+Engenharia,UNB,9.64,0,Rio de Janeiro,1
+Administração,UFMG,8.17,0,Brasília,0
+Engenharia,UFMG,5.75,0,Rio de Janeiro,0
+Ciência da Computação,UFSP,9.57,0,Belo Horizonte,1
+Engenharia,UFBA,6.43,1,São Paulo,0
+Administração,UFBA,8.46,0,Belo Horizonte,1
+Psicologia,UFMG,7.04,1,Salvador,0
+Engenharia,UFMG,7.36,0,Rio de Janeiro,1
+Ciência da Computação,UNB,7.31,0,Belo Horizonte,0
+Administração,UNB,7.24,1,Brasília,0
+Ciência da Computação,UNB,5.71,0,Salvador,0
