@@ -1,0 +1,101 @@
+data,dia_semana,local,tipo_acidente,numero_vitimas,condicao_climatica,com_vitima
+2023-01-01,Segunda,Centro,Colisão,0,Sol,Não
+2023-01-02,Terça,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-01-03,Quarta,Zona Sul,Capotamento,2,Nublado,Sim
+2023-01-04,Quinta,Zona Leste,Queda,3,Chuva,Sim
+2023-01-05,Sexta,Zona Oeste,Incêndio,0,Sol,Não
+2023-01-06,Sábado,Centro,Colisão,1,Sol,Sim
+2023-01-07,Domingo,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-01-08,Segunda,Zona Sul,Capotamento,0,Nublado,Não
+2023-01-09,Terça,Zona Leste,Queda,2,Chuva,Sim
+2023-01-10,Quarta,Zona Oeste,Incêndio,1,Sol,Sim
+2023-01-11,Quinta,Centro,Colisão,0,Sol,Não
+2023-01-12,Sexta,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-01-13,Sábado,Zona Sul,Capotamento,2,Nublado,Sim
+2023-01-14,Domingo,Zona Leste,Queda,3,Chuva,Sim
+2023-01-15,Segunda,Zona Oeste,Incêndio,0,Sol,Não
+2023-01-16,Terça,Centro,Colisão,1,Sol,Sim
+2023-01-17,Quarta,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-01-18,Quinta,Zona Sul,Capotamento,0,Nublado,Não
+2023-01-19,Sexta,Zona Leste,Queda,2,Chuva,Sim
+2023-01-20,Sábado,Zona Oeste,Incêndio,1,Sol,Sim
+2023-01-21,Domingo,Centro,Colisão,0,Sol,Não
+2023-01-22,Segunda,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-01-23,Terça,Zona Sul,Capotamento,2,Nublado,Sim
+2023-01-24,Quarta,Zona Leste,Queda,3,Chuva,Sim
+2023-01-25,Quinta,Zona Oeste,Incêndio,0,Sol,Não
+2023-01-26,Sexta,Centro,Colisão,1,Sol,Sim
+2023-01-27,Sábado,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-01-28,Domingo,Zona Sul,Capotamento,0,Nublado,Não
+2023-01-29,Segunda,Zona Leste,Queda,2,Chuva,Sim
+2023-01-30,Terça,Zona Oeste,Incêndio,1,Sol,Sim
+2023-01-31,Quarta,Centro,Colisão,0,Sol,Não
+2023-02-01,Quinta,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-02-02,Sexta,Zona Sul,Capotamento,2,Nublado,Sim
+2023-02-03,Sábado,Zona Leste,Queda,3,Chuva,Sim
+2023-02-04,Domingo,Zona Oeste,Incêndio,0,Sol,Não
+2023-02-05,Segunda,Centro,Colisão,1,Sol,Sim
+2023-02-06,Terça,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-02-07,Quarta,Zona Sul,Capotamento,0,Nublado,Não
+2023-02-08,Quinta,Zona Leste,Queda,2,Chuva,Sim
+2023-02-09,Sexta,Zona Oeste,Incêndio,1,Sol,Sim
+2023-02-10,Sábado,Centro,Colisão,0,Sol,Não
+2023-02-11,Domingo,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-02-12,Segunda,Zona Sul,Capotamento,2,Nublado,Sim
+2023-02-13,Terça,Zona Leste,Queda,3,Chuva,Sim
+2023-02-14,Quarta,Zona Oeste,Incêndio,0,Sol,Não
+2023-02-15,Quinta,Centro,Colisão,1,Sol,Sim
+2023-02-16,Sexta,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-02-17,Sábado,Zona Sul,Capotamento,0,Nublado,Não
+2023-02-18,Domingo,Zona Leste,Queda,2,Chuva,Sim
+2023-02-19,Segunda,Zona Oeste,Incêndio,1,Sol,Sim
+2023-02-20,Terça,Centro,Colisão,0,Sol,Não
+2023-02-21,Quarta,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-02-22,Quinta,Zona Sul,Capotamento,2,Nublado,Sim
+2023-02-23,Sexta,Zona Leste,Queda,3,Chuva,Sim
+2023-02-24,Sábado,Zona Oeste,Incêndio,0,Sol,Não
+2023-02-25,Domingo,Centro,Colisão,1,Sol,Sim
+2023-02-26,Segunda,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-02-27,Terça,Zona Sul,Capotamento,0,Nublado,Não
+2023-02-28,Quarta,Zona Leste,Queda,2,Chuva,Sim
+2023-03-01,Quinta,Zona Oeste,Incêndio,1,Sol,Sim
+2023-03-02,Sexta,Centro,Colisão,0,Sol,Não
+2023-03-03,Sábado,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-03-04,Domingo,Zona Sul,Capotamento,2,Nublado,Sim
+2023-03-05,Segunda,Zona Leste,Queda,3,Chuva,Sim
+2023-03-06,Terça,Zona Oeste,Incêndio,0,Sol,Não
+2023-03-07,Quarta,Centro,Colisão,1,Sol,Sim
+2023-03-08,Quinta,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-03-09,Sexta,Zona Sul,Capotamento,0,Nublado,Não
+2023-03-10,Sábado,Zona Leste,Queda,2,Chuva,Sim
+2023-03-11,Domingo,Zona Oeste,Incêndio,1,Sol,Sim
+2023-03-12,Segunda,Centro,Colisão,0,Sol,Não
+2023-03-13,Terça,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-03-14,Quarta,Zona Sul,Capotamento,2,Nublado,Sim
+2023-03-15,Quinta,Zona Leste,Queda,3,Chuva,Sim
+2023-03-16,Sexta,Zona Oeste,Incêndio,0,Sol,Não
+2023-03-17,Sábado,Centro,Colisão,1,Sol,Sim
+2023-03-18,Domingo,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-03-19,Segunda,Zona Sul,Capotamento,0,Nublado,Não
+2023-03-20,Terça,Zona Leste,Queda,2,Chuva,Sim
+2023-03-21,Quarta,Zona Oeste,Incêndio,1,Sol,Sim
+2023-03-22,Quinta,Centro,Colisão,0,Sol,Não
+2023-03-23,Sexta,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-03-24,Sábado,Zona Sul,Capotamento,2,Nublado,Sim
+2023-03-25,Domingo,Zona Leste,Queda,3,Chuva,Sim
+2023-03-26,Segunda,Zona Oeste,Incêndio,0,Sol,Não
+2023-03-27,Terça,Centro,Colisão,1,Sol,Sim
+2023-03-28,Quarta,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-03-29,Quinta,Zona Sul,Capotamento,0,Nublado,Não
+2023-03-30,Sexta,Zona Leste,Queda,2,Chuva,Sim
+2023-03-31,Sábado,Zona Oeste,Incêndio,1,Sol,Sim
+2023-04-01,Domingo,Centro,Colisão,0,Sol,Não
+2023-04-02,Segunda,Zona Norte,Atropelamento,1,Chuva,Sim
+2023-04-03,Terça,Zona Sul,Capotamento,2,Nublado,Sim
+2023-04-04,Quarta,Zona Leste,Queda,3,Chuva,Sim
+2023-04-05,Quinta,Zona Oeste,Incêndio,0,Sol,Não
+2023-04-06,Sexta,Centro,Colisão,1,Sol,Sim
+2023-04-07,Sábado,Zona Norte,Atropelamento,4,Chuva,Sim
+2023-04-08,Domingo,Zona Sul,Capotamento,0,Nublado,Não
+2023-04-09,Segunda,Zona Leste,Queda,2,Chuva,Sim
+2023-04-10,Terça,Zona Oeste,Incêndio,1,Sol,Sim
