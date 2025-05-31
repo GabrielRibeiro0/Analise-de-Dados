@@ -1,0 +1,301 @@
+data_reclamacao,operadora,tipo_problema,tempo_resposta_dias,status
+2025-03-24,ConectaJá,Cobrança Indevida,10,Resolvido
+2025-01-26,VeloxMax,Queda Frequente,15,Resolvido
+2024-11-01,UltraFibra,Queda Frequente,29,Resolvido
+2025-03-09,ConectaJá,Cobrança Indevida,7,Resolvido
+2024-08-20,NetMais,Cobrança Indevida,4,Resolvido
+2024-06-01,VeloxMax,Conexão Lenta,5,Resolvido
+2025-05-05,UltraFibra,Atendimento Ruim,21,Resolvido
+2025-02-28,VeloxMax,Sem Sinal,13,Resolvido
+2024-08-03,NetMais,Sem Sinal,25,Resolvido
+2025-01-17,UltraFibra,Cobrança Indevida,11,Não Resolvido
+2025-01-18,UltraFibra,Conexão Lenta,6,Não Resolvido
+2024-09-01,NetMais,Cobrança Indevida,29,Resolvido
+2024-08-30,VeloxMax,Sem Sinal,19,Não Resolvido
+2025-04-29,ConectaJá,Queda Frequente,5,Resolvido
+2024-11-06,ConectaJá,Cobrança Indevida,8,Resolvido
+2024-12-20,UltraFibra,Sem Sinal,12,Resolvido
+2025-02-11,NetMais,Cobrança Indevida,22,Resolvido
+2025-02-10,UltraFibra,Queda Frequente,26,Não Resolvido
+2025-01-19,VeloxMax,Sem Sinal,3,Resolvido
+2025-03-28,ConectaJá,Atendimento Ruim,23,Resolvido
+2024-09-08,UltraFibra,Atendimento Ruim,28,Resolvido
+2024-07-11,ConectaJá,Sem Sinal,6,Não Resolvido
+2025-01-21,ConectaJá,Queda Frequente,21,Resolvido
+2025-03-01,UltraFibra,Atendimento Ruim,27,Resolvido
+2025-05-23,UltraFibra,Sem Sinal,27,Resolvido
+2025-05-03,NetMais,Conexão Lenta,6,Resolvido
+2024-11-03,UltraFibra,Atendimento Ruim,23,Resolvido
+2025-03-31,VeloxMax,Cobrança Indevida,24,Resolvido
+2025-02-27,VeloxMax,Sem Sinal,9,Resolvido
+2025-02-02,UltraFibra,Sem Sinal,10,Não Resolvido
+2024-10-21,VeloxMax,Queda Frequente,5,Resolvido
+2024-12-08,UltraFibra,Conexão Lenta,19,Não Resolvido
+2024-05-29,ConectaJá,Cobrança Indevida,8,Resolvido
+2025-05-14,ConectaJá,Cobrança Indevida,9,Resolvido
+2024-09-13,UltraFibra,Conexão Lenta,10,Resolvido
+2025-03-23,VeloxMax,Queda Frequente,24,Resolvido
+2024-08-12,NetMais,Cobrança Indevida,3,Resolvido
+2025-01-19,VeloxMax,Queda Frequente,1,Resolvido
+2025-05-29,UltraFibra,Atendimento Ruim,7,Não Resolvido
+2024-09-25,UltraFibra,Cobrança Indevida,2,Resolvido
+2024-10-23,ConectaJá,Sem Sinal,14,Não Resolvido
+2024-09-09,ConectaJá,Cobrança Indevida,29,Não Resolvido
+2024-10-30,ConectaJá,Cobrança Indevida,30,Não Resolvido
+2024-11-13,VeloxMax,Sem Sinal,21,Resolvido
+2024-10-10,VeloxMax,Queda Frequente,21,Resolvido
+2024-11-05,VeloxMax,Atendimento Ruim,16,Resolvido
+2025-05-17,VeloxMax,Conexão Lenta,9,Resolvido
+2024-06-20,VeloxMax,Atendimento Ruim,21,Resolvido
+2024-08-02,NetMais,Conexão Lenta,24,Resolvido
+2024-12-27,UltraFibra,Conexão Lenta,23,Não Resolvido
+2025-01-27,NetMais,Atendimento Ruim,2,Não Resolvido
+2024-10-22,NetMais,Conexão Lenta,21,Resolvido
+2024-08-11,UltraFibra,Queda Frequente,10,Resolvido
+2025-05-18,NetMais,Sem Sinal,15,Resolvido
+2024-10-05,VeloxMax,Atendimento Ruim,20,Resolvido
+2025-01-04,NetMais,Atendimento Ruim,23,Resolvido
+2025-04-19,ConectaJá,Atendimento Ruim,16,Não Resolvido
+2024-08-31,NetMais,Conexão Lenta,4,Resolvido
+2024-11-29,NetMais,Conexão Lenta,9,Resolvido
+2024-06-19,NetMais,Cobrança Indevida,13,Resolvido
+2024-08-12,UltraFibra,Atendimento Ruim,27,Resolvido
+2024-06-08,UltraFibra,Atendimento Ruim,19,Resolvido
+2025-04-03,NetMais,Queda Frequente,7,Resolvido
+2025-02-15,NetMais,Cobrança Indevida,30,Não Resolvido
+2025-03-19,UltraFibra,Queda Frequente,10,Não Resolvido
+2024-10-13,ConectaJá,Conexão Lenta,12,Resolvido
+2025-05-09,NetMais,Atendimento Ruim,24,Resolvido
+2024-11-07,VeloxMax,Conexão Lenta,7,Resolvido
+2025-03-17,VeloxMax,Sem Sinal,28,Não Resolvido
+2024-06-20,VeloxMax,Cobrança Indevida,19,Resolvido
+2024-07-12,ConectaJá,Cobrança Indevida,15,Resolvido
+2024-08-06,VeloxMax,Cobrança Indevida,15,Resolvido
+2025-02-19,UltraFibra,Conexão Lenta,3,Resolvido
+2024-11-07,ConectaJá,Queda Frequente,14,Resolvido
+2024-12-08,UltraFibra,Atendimento Ruim,11,Resolvido
+2025-01-01,NetMais,Queda Frequente,6,Resolvido
+2025-02-22,UltraFibra,Sem Sinal,21,Resolvido
+2024-09-06,VeloxMax,Queda Frequente,20,Não Resolvido
+2024-12-05,NetMais,Sem Sinal,17,Resolvido
+2024-11-08,VeloxMax,Cobrança Indevida,6,Não Resolvido
+2024-10-29,UltraFibra,Conexão Lenta,21,Resolvido
+2024-08-04,VeloxMax,Conexão Lenta,8,Resolvido
+2024-10-28,NetMais,Sem Sinal,13,Resolvido
+2024-08-21,VeloxMax,Cobrança Indevida,18,Não Resolvido
+2024-06-05,ConectaJá,Conexão Lenta,22,Resolvido
+2025-04-03,NetMais,Conexão Lenta,21,Resolvido
+2025-05-03,ConectaJá,Sem Sinal,19,Não Resolvido
+2025-05-23,ConectaJá,Conexão Lenta,11,Resolvido
+2025-04-07,UltraFibra,Atendimento Ruim,9,Não Resolvido
+2025-03-22,NetMais,Atendimento Ruim,15,Resolvido
+2024-11-27,ConectaJá,Atendimento Ruim,22,Resolvido
+2025-01-12,ConectaJá,Conexão Lenta,10,Resolvido
+2024-10-24,NetMais,Queda Frequente,15,Resolvido
+2024-06-24,UltraFibra,Sem Sinal,9,Não Resolvido
+2025-05-29,ConectaJá,Queda Frequente,18,Não Resolvido
+2025-01-08,VeloxMax,Queda Frequente,13,Resolvido
+2024-12-17,ConectaJá,Cobrança Indevida,14,Resolvido
+2024-06-23,UltraFibra,Atendimento Ruim,28,Não Resolvido
+2024-10-07,VeloxMax,Cobrança Indevida,30,Não Resolvido
+2024-08-04,NetMais,Queda Frequente,21,Não Resolvido
+2024-10-16,UltraFibra,Sem Sinal,6,Resolvido
+2024-05-31,NetMais,Cobrança Indevida,2,Resolvido
+2024-09-02,UltraFibra,Conexão Lenta,20,Não Resolvido
+2025-04-20,UltraFibra,Queda Frequente,22,Não Resolvido
+2025-02-06,NetMais,Cobrança Indevida,2,Resolvido
+2025-04-13,ConectaJá,Cobrança Indevida,3,Resolvido
+2024-09-14,UltraFibra,Conexão Lenta,15,Resolvido
+2024-11-29,NetMais,Atendimento Ruim,23,Resolvido
+2024-06-27,VeloxMax,Atendimento Ruim,14,Não Resolvido
+2025-05-03,NetMais,Sem Sinal,1,Resolvido
+2025-05-16,UltraFibra,Queda Frequente,17,Resolvido
+2024-09-19,ConectaJá,Sem Sinal,8,Resolvido
+2025-05-17,VeloxMax,Atendimento Ruim,29,Não Resolvido
+2025-04-08,ConectaJá,Conexão Lenta,11,Resolvido
+2025-04-02,VeloxMax,Sem Sinal,2,Resolvido
+2025-02-05,ConectaJá,Atendimento Ruim,15,Resolvido
+2025-01-19,UltraFibra,Queda Frequente,22,Resolvido
+2024-12-14,UltraFibra,Conexão Lenta,20,Não Resolvido
+2025-01-06,NetMais,Atendimento Ruim,2,Resolvido
+2025-02-08,VeloxMax,Conexão Lenta,22,Não Resolvido
+2024-11-07,VeloxMax,Queda Frequente,11,Não Resolvido
+2024-11-07,NetMais,Cobrança Indevida,8,Resolvido
+2025-04-26,VeloxMax,Conexão Lenta,20,Resolvido
+2024-11-25,VeloxMax,Atendimento Ruim,19,Não Resolvido
+2025-03-15,UltraFibra,Atendimento Ruim,8,Resolvido
+2024-12-18,VeloxMax,Conexão Lenta,3,Não Resolvido
+2025-05-27,VeloxMax,Sem Sinal,18,Resolvido
+2025-01-24,UltraFibra,Queda Frequente,19,Resolvido
+2024-09-18,VeloxMax,Sem Sinal,4,Resolvido
+2024-12-16,UltraFibra,Conexão Lenta,3,Não Resolvido
+2024-11-09,VeloxMax,Sem Sinal,24,Resolvido
+2024-07-14,VeloxMax,Queda Frequente,29,Não Resolvido
+2024-07-20,UltraFibra,Queda Frequente,1,Resolvido
+2024-06-05,NetMais,Sem Sinal,5,Não Resolvido
+2024-06-30,VeloxMax,Atendimento Ruim,21,Não Resolvido
+2024-08-04,NetMais,Atendimento Ruim,7,Resolvido
+2025-04-20,ConectaJá,Conexão Lenta,21,Resolvido
+2024-10-11,VeloxMax,Queda Frequente,30,Resolvido
+2025-05-20,VeloxMax,Atendimento Ruim,10,Não Resolvido
+2025-04-16,ConectaJá,Cobrança Indevida,24,Não Resolvido
+2025-01-06,NetMais,Atendimento Ruim,26,Não Resolvido
+2024-10-26,UltraFibra,Sem Sinal,5,Resolvido
+2024-10-19,NetMais,Sem Sinal,6,Resolvido
+2025-03-25,NetMais,Atendimento Ruim,14,Não Resolvido
+2025-02-15,NetMais,Cobrança Indevida,7,Resolvido
+2025-05-04,ConectaJá,Conexão Lenta,8,Resolvido
+2025-04-12,NetMais,Conexão Lenta,18,Não Resolvido
+2025-01-27,VeloxMax,Sem Sinal,27,Resolvido
+2025-01-24,VeloxMax,Sem Sinal,21,Resolvido
+2024-12-10,ConectaJá,Conexão Lenta,3,Resolvido
+2024-08-26,VeloxMax,Queda Frequente,21,Resolvido
+2025-04-11,VeloxMax,Atendimento Ruim,9,Resolvido
+2024-12-19,UltraFibra,Conexão Lenta,19,Resolvido
+2024-06-03,NetMais,Sem Sinal,27,Resolvido
+2024-08-13,NetMais,Conexão Lenta,23,Resolvido
+2025-01-04,VeloxMax,Queda Frequente,22,Resolvido
+2025-03-26,UltraFibra,Queda Frequente,19,Não Resolvido
+2024-07-05,UltraFibra,Queda Frequente,11,Não Resolvido
+2025-01-23,NetMais,Cobrança Indevida,27,Não Resolvido
+2024-07-28,UltraFibra,Sem Sinal,27,Resolvido
+2024-11-09,UltraFibra,Cobrança Indevida,12,Resolvido
+2024-11-03,UltraFibra,Conexão Lenta,24,Não Resolvido
+2024-08-04,NetMais,Conexão Lenta,17,Não Resolvido
+2025-01-08,UltraFibra,Queda Frequente,16,Não Resolvido
+2025-05-08,ConectaJá,Cobrança Indevida,20,Resolvido
+2024-11-02,UltraFibra,Atendimento Ruim,1,Resolvido
+2025-01-16,UltraFibra,Atendimento Ruim,10,Resolvido
+2025-04-24,VeloxMax,Atendimento Ruim,25,Resolvido
+2024-12-15,UltraFibra,Queda Frequente,17,Resolvido
+2024-08-07,VeloxMax,Atendimento Ruim,5,Não Resolvido
+2025-02-18,ConectaJá,Cobrança Indevida,7,Resolvido
+2024-12-04,VeloxMax,Queda Frequente,14,Não Resolvido
+2024-10-29,ConectaJá,Conexão Lenta,25,Resolvido
+2024-11-20,VeloxMax,Conexão Lenta,23,Resolvido
+2024-08-05,ConectaJá,Conexão Lenta,16,Não Resolvido
+2024-09-30,UltraFibra,Atendimento Ruim,10,Resolvido
+2024-11-17,UltraFibra,Conexão Lenta,21,Resolvido
+2025-03-01,UltraFibra,Conexão Lenta,22,Resolvido
+2025-03-27,ConectaJá,Conexão Lenta,21,Não Resolvido
+2025-02-11,VeloxMax,Atendimento Ruim,1,Resolvido
+2024-09-30,VeloxMax,Atendimento Ruim,20,Resolvido
+2025-01-02,VeloxMax,Atendimento Ruim,14,Resolvido
+2024-12-26,VeloxMax,Queda Frequente,28,Resolvido
+2024-12-03,UltraFibra,Atendimento Ruim,10,Resolvido
+2024-11-22,NetMais,Sem Sinal,15,Não Resolvido
+2024-11-24,VeloxMax,Conexão Lenta,7,Resolvido
+2024-08-25,ConectaJá,Cobrança Indevida,13,Resolvido
+2025-01-01,ConectaJá,Cobrança Indevida,30,Não Resolvido
+2024-08-18,ConectaJá,Conexão Lenta,2,Resolvido
+2024-08-14,UltraFibra,Queda Frequente,4,Resolvido
+2024-08-10,NetMais,Atendimento Ruim,17,Resolvido
+2024-10-21,VeloxMax,Queda Frequente,9,Resolvido
+2025-05-14,VeloxMax,Conexão Lenta,1,Não Resolvido
+2024-12-08,ConectaJá,Queda Frequente,9,Não Resolvido
+2024-10-27,VeloxMax,Queda Frequente,28,Resolvido
+2024-09-22,UltraFibra,Conexão Lenta,18,Resolvido
+2024-12-25,NetMais,Sem Sinal,13,Resolvido
+2025-04-12,UltraFibra,Cobrança Indevida,4,Resolvido
+2024-09-30,UltraFibra,Conexão Lenta,30,Resolvido
+2024-12-16,ConectaJá,Conexão Lenta,21,Resolvido
+2024-10-13,VeloxMax,Sem Sinal,5,Não Resolvido
+2025-01-12,ConectaJá,Atendimento Ruim,2,Resolvido
+2024-07-31,VeloxMax,Sem Sinal,23,Resolvido
+2024-07-24,VeloxMax,Conexão Lenta,20,Resolvido
+2024-08-06,NetMais,Atendimento Ruim,25,Não Resolvido
+2025-04-28,UltraFibra,Sem Sinal,19,Não Resolvido
+2024-07-30,NetMais,Cobrança Indevida,18,Resolvido
+2025-04-21,UltraFibra,Conexão Lenta,17,Resolvido
+2024-12-17,UltraFibra,Conexão Lenta,21,Não Resolvido
+2024-09-28,UltraFibra,Sem Sinal,21,Resolvido
+2025-05-18,VeloxMax,Cobrança Indevida,14,Resolvido
+2024-08-23,UltraFibra,Cobrança Indevida,4,Resolvido
+2024-11-20,UltraFibra,Cobrança Indevida,16,Resolvido
+2024-06-02,VeloxMax,Queda Frequente,24,Resolvido
+2024-07-26,NetMais,Conexão Lenta,25,Resolvido
+2024-05-29,UltraFibra,Cobrança Indevida,10,Não Resolvido
+2025-04-29,NetMais,Conexão Lenta,2,Resolvido
+2024-08-31,VeloxMax,Atendimento Ruim,16,Não Resolvido
+2025-01-12,NetMais,Conexão Lenta,18,Resolvido
+2024-10-18,VeloxMax,Cobrança Indevida,27,Resolvido
+2025-02-10,NetMais,Atendimento Ruim,17,Resolvido
+2024-10-06,NetMais,Queda Frequente,9,Resolvido
+2025-04-27,UltraFibra,Queda Frequente,16,Resolvido
+2025-03-15,VeloxMax,Conexão Lenta,27,Resolvido
+2025-01-07,NetMais,Conexão Lenta,2,Resolvido
+2024-06-29,VeloxMax,Cobrança Indevida,29,Resolvido
+2025-04-02,ConectaJá,Conexão Lenta,12,Resolvido
+2025-03-20,NetMais,Conexão Lenta,13,Resolvido
+2024-08-23,UltraFibra,Conexão Lenta,24,Resolvido
+2024-05-29,UltraFibra,Sem Sinal,28,Resolvido
+2024-09-17,ConectaJá,Queda Frequente,30,Resolvido
+2024-09-06,VeloxMax,Conexão Lenta,29,Resolvido
+2025-02-19,UltraFibra,Cobrança Indevida,25,Resolvido
+2024-10-02,ConectaJá,Conexão Lenta,12,Resolvido
+2024-09-20,NetMais,Queda Frequente,21,Não Resolvido
+2024-06-08,NetMais,Sem Sinal,12,Resolvido
+2024-11-25,ConectaJá,Sem Sinal,16,Resolvido
+2025-01-18,ConectaJá,Conexão Lenta,25,Resolvido
+2024-11-16,UltraFibra,Cobrança Indevida,5,Não Resolvido
+2025-05-16,VeloxMax,Queda Frequente,25,Resolvido
+2025-04-01,NetMais,Queda Frequente,7,Resolvido
+2025-05-01,ConectaJá,Conexão Lenta,13,Resolvido
+2024-06-09,VeloxMax,Cobrança Indevida,30,Não Resolvido
+2025-01-24,VeloxMax,Conexão Lenta,22,Não Resolvido
+2024-12-06,VeloxMax,Cobrança Indevida,22,Não Resolvido
+2024-06-15,VeloxMax,Atendimento Ruim,26,Resolvido
+2024-12-01,VeloxMax,Conexão Lenta,1,Resolvido
+2024-12-18,ConectaJá,Conexão Lenta,26,Resolvido
+2025-02-06,ConectaJá,Cobrança Indevida,10,Resolvido
+2024-11-24,NetMais,Queda Frequente,6,Não Resolvido
+2024-09-24,UltraFibra,Conexão Lenta,21,Resolvido
+2024-10-09,UltraFibra,Cobrança Indevida,22,Resolvido
+2024-11-21,ConectaJá,Conexão Lenta,19,Resolvido
+2024-06-23,ConectaJá,Queda Frequente,1,Resolvido
+2025-01-22,NetMais,Conexão Lenta,13,Não Resolvido
+2024-11-08,UltraFibra,Queda Frequente,28,Resolvido
+2025-02-07,ConectaJá,Conexão Lenta,7,Resolvido
+2024-11-24,VeloxMax,Cobrança Indevida,2,Não Resolvido
+2024-08-28,UltraFibra,Conexão Lenta,5,Não Resolvido
+2024-09-10,VeloxMax,Conexão Lenta,7,Resolvido
+2024-08-31,VeloxMax,Atendimento Ruim,12,Resolvido
+2024-11-04,UltraFibra,Conexão Lenta,3,Resolvido
+2025-03-18,NetMais,Conexão Lenta,11,Resolvido
+2025-05-22,ConectaJá,Cobrança Indevida,14,Resolvido
+2024-08-23,UltraFibra,Conexão Lenta,4,Resolvido
+2024-11-13,ConectaJá,Atendimento Ruim,25,Resolvido
+2025-04-28,VeloxMax,Conexão Lenta,3,Resolvido
+2024-08-21,NetMais,Sem Sinal,3,Resolvido
+2024-06-22,UltraFibra,Conexão Lenta,18,Resolvido
+2024-11-28,VeloxMax,Conexão Lenta,27,Resolvido
+2024-05-30,VeloxMax,Queda Frequente,16,Resolvido
+2025-04-08,NetMais,Cobrança Indevida,25,Resolvido
+2024-11-17,NetMais,Atendimento Ruim,2,Resolvido
+2024-07-22,NetMais,Cobrança Indevida,17,Não Resolvido
+2024-08-05,NetMais,Conexão Lenta,10,Resolvido
+2024-10-02,VeloxMax,Conexão Lenta,21,Resolvido
+2024-06-19,UltraFibra,Cobrança Indevida,1,Resolvido
+2024-12-03,UltraFibra,Cobrança Indevida,23,Resolvido
+2025-02-12,VeloxMax,Sem Sinal,28,Não Resolvido
+2024-08-28,UltraFibra,Queda Frequente,27,Resolvido
+2024-12-28,VeloxMax,Queda Frequente,1,Não Resolvido
+2024-12-28,ConectaJá,Sem Sinal,17,Resolvido
+2024-11-15,VeloxMax,Queda Frequente,29,Não Resolvido
+2024-07-18,UltraFibra,Cobrança Indevida,25,Resolvido
+2024-11-28,ConectaJá,Conexão Lenta,8,Não Resolvido
+2025-01-17,UltraFibra,Queda Frequente,13,Não Resolvido
+2024-12-26,UltraFibra,Cobrança Indevida,18,Não Resolvido
+2025-03-10,VeloxMax,Cobrança Indevida,14,Não Resolvido
+2024-12-14,NetMais,Atendimento Ruim,23,Resolvido
+2025-02-15,ConectaJá,Queda Frequente,17,Resolvido
+2024-08-16,UltraFibra,Sem Sinal,18,Resolvido
+2024-07-15,VeloxMax,Cobrança Indevida,8,Resolvido
+2024-12-27,VeloxMax,Conexão Lenta,15,Não Resolvido
+2025-04-02,UltraFibra,Sem Sinal,16,Não Resolvido
+2025-03-23,NetMais,Queda Frequente,14,Não Resolvido
+2024-09-04,UltraFibra,Conexão Lenta,19,Resolvido
+2024-12-15,ConectaJá,Cobrança Indevida,22,Resolvido
+2025-02-12,NetMais,Atendimento Ruim,11,Resolvido
+2025-02-11,ConectaJá,Sem Sinal,13,Não Resolvido
+2024-11-06,ConectaJá,Queda Frequente,3,Não Resolvido
