@@ -1,0 +1,471 @@
+id_pedido,cidade,categoria_comida,valor_pedido,tempo_entrega_min,faixa_horaria,avaliacao_cliente
+1,Curitiba,Salada,18.14,35.6,Jantar,3
+2,Curitiba,Lanches,40.42,45.9,Madrugada,1
+3,São Paulo,Brasileira,66.32,10.0,Almoço,1
+4,São Paulo,Brasileira,30.14,,Almoço,1
+5,Belo Horizonte,Brasileira,18.1,35.8,Almoço,5
+6,Rio de Janeiro,Sushi,41.0,39.7,Madrugada,2
+7,São Paulo,Salada,41.63,46.3,Jantar,4
+8,Belo Horizonte,Pizza,58.27,24.8,Madrugada,3
+9,Rio de Janeiro,Lanches,64.86,36.7,Jantar,1
+10,Curitiba,Brasileira,18.52,46.5,Almoço,4
+11,Rio de Janeiro,Pizza,51.76,26.2,Almoço,1
+12,São Paulo,Sushi,74.55,32.3,Almoço,1
+13,São Paulo,Pizza,64.42,25.4,Almoço,3
+14,Curitiba,Pizza,77.43,55.6,Almoço,5
+15,São Paulo,Lanches,97.96,37.8,Almoço,5
+16,São Paulo,Sushi,64.16,50.5,Almoço,1
+17,Rio de Janeiro,Pizza,69.26,30.4,Madrugada,4
+18,São Paulo,Pizza,44.84,27.4,Jantar,4
+19,Porto Alegre,Sushi,65.75,32.3,Almoço,4
+20,São Paulo,Lanches,43.95,45.6,Jantar,5
+21,Belo Horizonte,Salada,50.83,20.1,Jantar,2
+22,Rio de Janeiro,Brasileira,64.12,27.2,Almoço,5
+23,Curitiba,Pizza,53.32,33.5,Almoço,2
+24,Belo Horizonte,Salada,20.96,42.7,Jantar,5
+25,Belo Horizonte,Sushi,37.09,39.6,Almoço,5
+26,Curitiba,Sushi,39.25,40.0,Jantar,3
+27,Belo Horizonte,Sushi,47.86,27.5,Almoço,5
+28,Belo Horizonte,Brasileira,51.84,47.6,Almoço,5
+29,Porto Alegre,Brasileira,51.07,35.1,Madrugada,4
+30,Rio de Janeiro,Brasileira,62.13,63.0,Almoço,2
+31,Belo Horizonte,Sushi,54.37,42.1,Madrugada,3
+32,Curitiba,Sushi,45.75,43.3,Jantar,1
+33,São Paulo,Sushi,52.88,32.5,Almoço,1
+34,São Paulo,Lanches,41.76,38.8,Madrugada,2
+35,Rio de Janeiro,Sushi,54.13,22.0,Almoço,4
+36,São Paulo,Lanches,80.04,43.9,Madrugada,4
+37,Curitiba,Lanches,53.88,39.7,Madrugada,2
+38,São Paulo,Sushi,38.66,24.2,Almoço,1
+39,São Paulo,Salada,46.77,39.0,Jantar,1
+40,São Paulo,Pizza,36.99,45.2,Almoço,3
+41,São Paulo,Salada,,11.2,Almoço,2
+42,São Paulo,Salada,10.0,23.1,Madrugada,2
+43,Belo Horizonte,Brasileira,67.31,26.8,Almoço,3
+44,Curitiba,Sushi,92.85,29.7,Jantar,2
+45,Porto Alegre,Pizza,49.88,45.1,Madrugada,1
+46,Rio de Janeiro,Pizza,31.7,26.0,Almoço,5
+47,São Paulo,Sushi,63.13,31.9,Madrugada,4
+48,Curitiba,Sushi,32.5,40.1,Almoço,5
+49,Belo Horizonte,Pizza,30.92,41.6,Almoço,5
+50,Belo Horizonte,Pizza,83.97,35.6,Almoço,5
+51,Curitiba,Lanches,48.52,13.8,Jantar,2
+52,São Paulo,Brasileira,54.57,58.5,Madrugada,2
+53,Belo Horizonte,Brasileira,33.19,43.8,Almoço,4
+54,São Paulo,Pizza,47.36,25.7,Almoço,3
+55,Belo Horizonte,Lanches,48.8,39.7,Almoço,4
+56,São Paulo,Sushi,70.05,34.8,Madrugada,1
+57,Curitiba,Salada,78.97,38.5,Jantar,5
+58,Curitiba,Salada,37.66,35.8,Jantar,5
+59,Porto Alegre,Pizza,67.27,47.0,Almoço,3
+60,Curitiba,Brasileira,49.27,29.6,Madrugada,5
+61,Curitiba,Sushi,,47.7,Almoço,1
+62,Porto Alegre,Lanches,77.37,,Almoço,4
+63,Porto Alegre,Salada,38.93,33.8,Almoço,4
+64,São Paulo,Lanches,61.54,32.9,Almoço,3
+65,Rio de Janeiro,Pizza,23.26,45.2,Almoço,4
+66,Rio de Janeiro,Brasileira,56.77,37.9,Madrugada,2
+67,Porto Alegre,Lanches,53.99,,Almoço,5
+68,Porto Alegre,Brasileira,60.01,25.4,Jantar,5
+69,São Paulo,Pizza,22.96,35.4,Madrugada,1
+70,Curitiba,Salada,45.5,38.8,Madrugada,3
+71,Porto Alegre,Lanches,53.83,30.4,Almoço,4
+72,Curitiba,Sushi,,43.3,Jantar,2
+73,Rio de Janeiro,Salada,76.39,41.4,Almoço,2
+74,Belo Horizonte,Sushi,49.98,19.6,Jantar,4
+75,São Paulo,Brasileira,41.37,50.3,Madrugada,1
+76,Porto Alegre,Salada,58.72,19.2,Madrugada,1
+77,Belo Horizonte,Brasileira,71.92,45.0,Almoço,4
+78,São Paulo,Lanches,38.55,33.7,Almoço,3
+79,São Paulo,Brasileira,31.74,21.4,Almoço,3
+80,Curitiba,Brasileira,41.12,26.8,Jantar,3
+81,São Paulo,Sushi,44.11,38.5,Jantar,1
+82,Curitiba,Sushi,53.76,20.7,Jantar,4
+83,Belo Horizonte,Lanches,52.15,43.3,Jantar,4
+84,Rio de Janeiro,Lanches,57.4,33.2,Almoço,4
+85,São Paulo,Lanches,24.8,46.4,Madrugada,3
+86,Belo Horizonte,Brasileira,17.33,32.4,Almoço,4
+87,Rio de Janeiro,Lanches,45.68,23.4,Almoço,1
+88,Belo Horizonte,Sushi,34.58,48.2,Madrugada,5
+89,São Paulo,Salada,83.29,46.8,Jantar,2
+90,São Paulo,Brasileira,18.07,42.2,Madrugada,5
+91,Curitiba,Salada,53.11,34.0,Madrugada,3
+92,Rio de Janeiro,Sushi,67.48,28.6,Jantar,1
+93,Curitiba,Brasileira,96.87,49.2,Madrugada,5
+94,Belo Horizonte,Salada,41.95,26.3,Jantar,2
+95,Rio de Janeiro,Salada,69.24,36.4,Jantar,1
+96,Rio de Janeiro,Lanches,49.11,28.1,Almoço,1
+97,Belo Horizonte,Sushi,22.96,39.3,Almoço,2
+98,Porto Alegre,Lanches,50.64,45.5,Madrugada,5
+99,Curitiba,Salada,69.44,25.2,Jantar,3
+100,São Paulo,Salada,58.32,42.0,Jantar,3
+101,Curitiba,Brasileira,46.33,38.3,Jantar,2
+102,Curitiba,Salada,43.12,23.4,Almoço,2
+103,Rio de Janeiro,Pizza,60.16,40.8,Jantar,3
+104,Porto Alegre,Sushi,57.81,40.7,Madrugada,2
+105,São Paulo,Brasileira,18.97,67.3,Almoço,4
+106,Porto Alegre,Salada,64.52,23.1,Jantar,4
+107,São Paulo,Salada,70.97,,Jantar,5
+108,Porto Alegre,Brasileira,96.64,,Almoço,5
+109,Belo Horizonte,Salada,51.69,31.9,Jantar,3
+110,São Paulo,Brasileira,45.89,22.8,Jantar,5
+111,Curitiba,Sushi,42.93,35.2,Almoço,3
+112,Belo Horizonte,Salada,54.59,46.1,Almoço,5
+113,São Paulo,Sushi,73.57,61.4,Jantar,4
+114,São Paulo,Sushi,43.02,51.7,Almoço,5
+115,Curitiba,Salada,11.04,27.7,Madrugada,3
+116,Porto Alegre,Salada,37.51,34.7,Almoço,4
+117,Porto Alegre,Sushi,35.87,38.0,Madrugada,5
+118,Curitiba,Pizza,36.68,28.2,Almoço,5
+119,Belo Horizonte,Sushi,63.93,32.3,Madrugada,1
+120,Belo Horizonte,Lanches,31.37,,Jantar,2
+121,Rio de Janeiro,Brasileira,71.41,33.0,Almoço,5
+122,São Paulo,Lanches,73.95,22.1,Jantar,4
+123,Porto Alegre,Pizza,53.55,20.2,Jantar,5
+124,Rio de Janeiro,Lanches,48.23,27.3,Madrugada,1
+125,Rio de Janeiro,Salada,27.75,28.8,Almoço,4
+126,Curitiba,Salada,19.58,29.8,Jantar,4
+127,Curitiba,Brasileira,53.0,50.8,Jantar,1
+128,Porto Alegre,Brasileira,41.75,32.0,Madrugada,1
+129,Porto Alegre,Lanches,19.86,11.7,Almoço,2
+130,Belo Horizonte,Salada,58.5,37.2,Jantar,5
+131,Curitiba,Brasileira,29.42,41.5,Jantar,1
+132,Porto Alegre,Brasileira,52.48,38.3,Almoço,2
+133,Curitiba,Salada,,32.0,Jantar,2
+134,Curitiba,Sushi,66.81,43.6,Jantar,1
+135,Rio de Janeiro,Pizza,23.71,44.9,Jantar,1
+136,Porto Alegre,Lanches,57.8,37.1,Almoço,3
+137,Porto Alegre,Salada,73.48,10.2,Jantar,4
+138,São Paulo,Sushi,84.23,21.3,Almoço,3
+139,Rio de Janeiro,Salada,31.69,43.0,Jantar,5
+140,Curitiba,Brasileira,69.73,39.8,Madrugada,2
+141,Curitiba,Sushi,34.68,,Madrugada,4
+142,Porto Alegre,Salada,38.34,23.5,Madrugada,3
+143,São Paulo,Salada,40.71,10.0,Almoço,4
+144,Rio de Janeiro,Brasileira,,23.5,Almoço,1
+145,Porto Alegre,Lanches,31.1,44.5,Madrugada,3
+146,Curitiba,Lanches,54.61,19.8,Almoço,3
+147,Rio de Janeiro,Salada,78.76,38.9,Madrugada,1
+148,Rio de Janeiro,Sushi,60.02,37.3,Madrugada,3
+149,Belo Horizonte,Sushi,39.25,38.9,Almoço,4
+150,Rio de Janeiro,Pizza,69.15,37.7,Jantar,5
+151,Porto Alegre,Sushi,73.0,37.2,Jantar,1
+152,Belo Horizonte,Brasileira,59.95,34.4,Jantar,1
+153,Porto Alegre,Brasileira,51.35,10.0,Almoço,2
+154,Belo Horizonte,Brasileira,42.99,37.1,Madrugada,3
+155,Curitiba,Pizza,57.15,39.3,Almoço,2
+156,Curitiba,Brasileira,48.81,36.5,Madrugada,3
+157,Rio de Janeiro,Salada,64.69,31.0,Madrugada,5
+158,Curitiba,Brasileira,59.5,30.0,Jantar,5
+159,São Paulo,Sushi,92.55,33.4,Almoço,3
+160,Porto Alegre,Lanches,47.02,38.0,Madrugada,4
+161,Rio de Janeiro,Brasileira,51.15,30.7,Almoço,1
+162,Curitiba,Lanches,72.05,29.6,Jantar,2
+163,São Paulo,Salada,50.08,38.0,Almoço,3
+164,Curitiba,Salada,44.35,38.3,Madrugada,1
+165,Curitiba,Pizza,10.0,35.2,Jantar,3
+166,Porto Alegre,Salada,84.59,39.2,Almoço,1
+167,São Paulo,Lanches,65.41,52.0,Jantar,2
+168,São Paulo,Sushi,23.71,58.1,Jantar,5
+169,São Paulo,Pizza,79.61,34.6,Madrugada,3
+170,Rio de Janeiro,Brasileira,41.29,37.3,Jantar,1
+171,Rio de Janeiro,Sushi,20.58,40.6,Almoço,1
+172,Curitiba,Pizza,64.72,38.6,Madrugada,5
+173,São Paulo,Salada,54.73,,Madrugada,3
+174,São Paulo,Sushi,49.37,38.7,Madrugada,3
+175,Belo Horizonte,Brasileira,,25.1,Jantar,3
+176,Curitiba,Salada,28.13,34.9,Madrugada,2
+177,São Paulo,Sushi,27.13,22.9,Jantar,4
+178,Rio de Janeiro,Brasileira,31.86,25.7,Almoço,1
+179,Curitiba,Salada,21.82,53.0,Jantar,4
+180,Rio de Janeiro,Lanches,88.78,30.3,Madrugada,1
+181,Curitiba,Salada,57.55,24.6,Madrugada,5
+182,Rio de Janeiro,Brasileira,55.38,31.0,Jantar,2
+183,Belo Horizonte,Lanches,54.8,24.0,Almoço,2
+184,Porto Alegre,Sushi,17.3,31.6,Madrugada,1
+185,Curitiba,Salada,51.78,39.6,Madrugada,5
+186,São Paulo,Sushi,24.29,22.8,Almoço,2
+187,Porto Alegre,Brasileira,45.15,54.9,Almoço,3
+188,Belo Horizonte,Brasileira,48.11,38.2,Madrugada,5
+189,Curitiba,Salada,64.47,37.1,Jantar,4
+190,Curitiba,Sushi,30.65,43.7,Jantar,1
+191,Rio de Janeiro,Sushi,68.19,31.6,Jantar,4
+192,Belo Horizonte,Salada,64.0,34.0,Madrugada,2
+193,São Paulo,Sushi,36.2,29.4,Almoço,2
+194,Belo Horizonte,Lanches,47.6,18.1,Jantar,1
+195,São Paulo,Sushi,78.46,23.5,Madrugada,2
+196,Belo Horizonte,Pizza,49.16,46.6,Jantar,3
+197,Rio de Janeiro,Sushi,75.44,47.7,Madrugada,4
+198,Rio de Janeiro,Salada,10.0,47.1,Jantar,1
+199,São Paulo,Pizza,36.79,,Madrugada,5
+200,Rio de Janeiro,Brasileira,63.94,33.0,Jantar,2
+201,Belo Horizonte,Lanches,48.08,27.2,Jantar,2
+202,São Paulo,Brasileira,27.81,32.2,Almoço,4
+203,Belo Horizonte,Lanches,10.0,,Jantar,1
+204,Belo Horizonte,Salada,69.35,43.4,Jantar,2
+205,Rio de Janeiro,Pizza,51.39,44.4,Almoço,4
+206,Rio de Janeiro,Pizza,73.53,38.0,Almoço,1
+207,Porto Alegre,Lanches,42.27,44.8,Jantar,5
+208,Porto Alegre,Pizza,22.43,15.2,Almoço,2
+209,Porto Alegre,Salada,35.78,39.4,Jantar,2
+210,Rio de Janeiro,Salada,,,Jantar,3
+211,Porto Alegre,Pizza,70.18,30.0,Madrugada,3
+212,Rio de Janeiro,Brasileira,41.79,37.8,Madrugada,5
+213,Curitiba,Brasileira,10.0,35.4,Madrugada,2
+214,Belo Horizonte,Lanches,70.73,25.1,Jantar,2
+215,Rio de Janeiro,Salada,39.63,33.6,Madrugada,3
+216,Porto Alegre,Sushi,29.72,37.3,Almoço,5
+217,Curitiba,Salada,54.62,15.7,Almoço,3
+218,São Paulo,Lanches,26.58,39.7,Madrugada,2
+219,São Paulo,Salada,53.68,24.8,Madrugada,4
+220,Rio de Janeiro,Brasileira,,35.3,Almoço,2
+221,Rio de Janeiro,Lanches,54.75,43.3,Almoço,3
+222,Rio de Janeiro,Lanches,46.69,51.7,Madrugada,3
+223,Curitiba,Pizza,38.74,33.0,Almoço,4
+224,Porto Alegre,Sushi,31.21,52.1,Jantar,5
+225,Curitiba,Sushi,38.07,,Almoço,3
+226,Rio de Janeiro,Pizza,13.73,46.9,Almoço,2
+227,Porto Alegre,Lanches,33.36,39.5,Jantar,5
+228,Belo Horizonte,Sushi,36.99,33.2,Jantar,1
+229,Rio de Janeiro,Sushi,32.65,40.0,Almoço,5
+230,Porto Alegre,Salada,57.56,48.1,Madrugada,4
+231,Curitiba,Lanches,81.11,34.4,Jantar,2
+232,Curitiba,Sushi,43.22,35.1,Almoço,2
+233,Rio de Janeiro,Brasileira,86.54,33.7,Madrugada,1
+234,Curitiba,Pizza,55.87,35.1,Madrugada,1
+235,Curitiba,Pizza,,24.6,Almoço,3
+236,São Paulo,Salada,63.21,38.2,Jantar,3
+237,Curitiba,Sushi,46.09,35.5,Madrugada,1
+238,Rio de Janeiro,Pizza,36.4,29.6,Jantar,2
+239,Curitiba,Salada,54.21,31.8,Madrugada,5
+240,Porto Alegre,Lanches,10.0,39.2,Jantar,1
+241,Porto Alegre,Pizza,42.37,28.9,Madrugada,3
+242,Belo Horizonte,Brasileira,30.8,16.5,Madrugada,3
+243,Porto Alegre,Sushi,45.51,42.3,Almoço,4
+244,Rio de Janeiro,Sushi,10.0,18.5,Almoço,4
+245,Belo Horizonte,Sushi,36.21,48.6,Madrugada,5
+246,Porto Alegre,Lanches,54.48,18.3,Madrugada,2
+247,Curitiba,Salada,81.93,33.3,Madrugada,1
+248,Curitiba,Pizza,37.53,36.6,Almoço,2
+249,Porto Alegre,Pizza,46.95,15.2,Almoço,2
+250,Rio de Janeiro,Sushi,60.2,29.6,Madrugada,3
+251,Rio de Janeiro,Salada,45.97,45.7,Almoço,4
+252,Curitiba,Pizza,28.26,31.1,Almoço,2
+253,São Paulo,Sushi,43.03,32.0,Madrugada,4
+254,Porto Alegre,Lanches,51.18,38.8,Jantar,1
+255,Belo Horizonte,Sushi,12.81,44.4,Almoço,5
+256,Curitiba,Salada,33.61,36.9,Madrugada,1
+257,Belo Horizonte,Lanches,51.7,37.8,Madrugada,4
+258,Belo Horizonte,Brasileira,32.19,18.4,Jantar,1
+259,Belo Horizonte,Pizza,48.38,39.0,Madrugada,5
+260,Curitiba,Salada,,11.0,Jantar,4
+261,Belo Horizonte,Brasileira,49.0,35.6,Almoço,3
+262,Curitiba,Salada,,17.6,Madrugada,5
+263,Belo Horizonte,Salada,77.58,33.0,Jantar,3
+264,Rio de Janeiro,Salada,10.0,,Jantar,1
+265,São Paulo,Salada,,26.7,Madrugada,4
+266,Belo Horizonte,Pizza,71.97,39.4,Madrugada,1
+267,São Paulo,Sushi,60.42,42.7,Madrugada,2
+268,Belo Horizonte,Pizza,79.74,31.5,Jantar,2
+269,Belo Horizonte,Salada,45.52,50.5,Almoço,2
+270,São Paulo,Brasileira,39.33,35.6,Madrugada,2
+271,Belo Horizonte,Sushi,39.81,12.5,Almoço,1
+272,Porto Alegre,Salada,18.09,21.4,Jantar,3
+273,Rio de Janeiro,Pizza,61.02,37.0,Almoço,4
+274,Porto Alegre,Brasileira,30.93,36.2,Almoço,1
+275,São Paulo,Salada,34.93,48.9,Jantar,5
+276,Porto Alegre,Salada,64.07,20.3,Madrugada,1
+277,Curitiba,Sushi,37.63,34.9,Madrugada,3
+278,Porto Alegre,Lanches,63.19,36.3,Almoço,5
+279,Belo Horizonte,Lanches,55.15,31.9,Jantar,5
+280,Rio de Janeiro,Pizza,44.31,39.1,Jantar,3
+281,Porto Alegre,Lanches,67.08,42.9,Jantar,3
+282,Curitiba,Sushi,71.19,28.0,Almoço,2
+283,Porto Alegre,Sushi,37.96,32.6,Jantar,5
+284,Porto Alegre,Lanches,10.0,29.4,Jantar,3
+285,São Paulo,Lanches,63.45,33.1,Jantar,1
+286,São Paulo,Lanches,75.84,22.2,Madrugada,5
+287,São Paulo,Lanches,38.17,18.5,Almoço,1
+288,Porto Alegre,Pizza,37.63,45.5,Almoço,3
+289,São Paulo,Brasileira,53.81,32.1,Jantar,1
+290,Curitiba,Sushi,77.47,23.9,Jantar,2
+291,Porto Alegre,Lanches,23.58,38.8,Jantar,5
+292,São Paulo,Brasileira,78.66,27.6,Almoço,5
+293,Belo Horizonte,Salada,47.46,10.4,Jantar,1
+294,Curitiba,Sushi,26.08,27.3,Almoço,2
+295,Porto Alegre,Lanches,73.25,38.1,Madrugada,5
+296,Rio de Janeiro,Pizza,47.88,49.3,Madrugada,2
+297,Belo Horizonte,Brasileira,43.22,44.8,Almoço,2
+298,Belo Horizonte,Brasileira,54.14,34.7,Jantar,2
+299,São Paulo,Pizza,38.89,32.2,Jantar,3
+300,Porto Alegre,Lanches,43.98,17.9,Madrugada,4
+301,Porto Alegre,Lanches,31.53,30.1,Madrugada,3
+302,Belo Horizonte,Pizza,49.3,40.8,Jantar,4
+303,Curitiba,Lanches,44.57,28.6,Almoço,5
+304,São Paulo,Salada,,50.6,Madrugada,1
+305,Rio de Janeiro,Sushi,13.4,25.1,Jantar,2
+306,São Paulo,Lanches,52.69,31.5,Madrugada,1
+307,Rio de Janeiro,Brasileira,48.68,51.0,Madrugada,3
+308,Porto Alegre,Pizza,20.36,56.2,Jantar,5
+309,Curitiba,Sushi,36.57,17.8,Jantar,2
+310,Porto Alegre,Pizza,63.28,42.0,Madrugada,5
+311,São Paulo,Pizza,62.64,19.6,Madrugada,4
+312,Porto Alegre,Brasileira,42.82,33.6,Jantar,3
+313,Curitiba,Brasileira,24.61,43.9,Madrugada,4
+314,Rio de Janeiro,Pizza,72.42,42.3,Madrugada,3
+315,Rio de Janeiro,Brasileira,40.21,29.0,Almoço,3
+316,Porto Alegre,Brasileira,17.42,50.9,Madrugada,5
+317,Rio de Janeiro,Salada,73.45,35.9,Madrugada,2
+318,Rio de Janeiro,Salada,61.35,,Almoço,5
+319,Belo Horizonte,Brasileira,16.37,,Madrugada,4
+320,Porto Alegre,Salada,27.64,42.5,Madrugada,4
+321,Rio de Janeiro,Brasileira,47.44,32.9,Almoço,5
+322,Porto Alegre,Brasileira,10.0,38.0,Jantar,4
+323,Belo Horizonte,Sushi,46.39,31.3,Jantar,4
+324,Porto Alegre,Sushi,15.1,10.0,Almoço,2
+325,Curitiba,Sushi,49.87,34.7,Almoço,3
+326,Belo Horizonte,Pizza,62.16,42.0,Almoço,5
+327,Curitiba,Lanches,28.88,39.3,Jantar,3
+328,Belo Horizonte,Brasileira,64.09,15.9,Madrugada,4
+329,Porto Alegre,Salada,47.48,36.5,Almoço,4
+330,Curitiba,Sushi,54.04,15.9,Madrugada,1
+331,Rio de Janeiro,Lanches,35.91,48.1,Almoço,5
+332,Curitiba,Lanches,,46.2,Almoço,1
+333,Curitiba,Brasileira,57.41,18.1,Madrugada,2
+334,Belo Horizonte,Lanches,71.05,,Almoço,2
+335,São Paulo,Sushi,38.25,51.5,Madrugada,1
+336,Porto Alegre,Sushi,47.35,38.3,Almoço,5
+337,Porto Alegre,Sushi,83.27,31.2,Madrugada,1
+338,Curitiba,Sushi,10.0,49.0,Jantar,4
+339,Belo Horizonte,Lanches,47.01,25.8,Madrugada,1
+340,Porto Alegre,Sushi,67.01,34.9,Jantar,2
+341,Porto Alegre,Brasileira,43.26,24.0,Jantar,4
+342,Porto Alegre,Lanches,61.59,31.2,Madrugada,4
+343,São Paulo,Sushi,73.38,37.1,Madrugada,4
+344,São Paulo,Sushi,49.54,31.6,Jantar,1
+345,Rio de Janeiro,Brasileira,34.01,37.3,Jantar,5
+346,Rio de Janeiro,Salada,27.23,38.0,Madrugada,3
+347,Rio de Janeiro,Pizza,63.25,39.4,Almoço,5
+348,Curitiba,Pizza,51.59,46.0,Madrugada,2
+349,Rio de Janeiro,Lanches,69.82,28.5,Jantar,1
+350,Curitiba,Salada,77.93,42.3,Jantar,3
+351,São Paulo,Brasileira,48.61,37.6,Jantar,2
+352,Porto Alegre,Brasileira,59.01,41.1,Almoço,3
+353,São Paulo,Sushi,71.34,36.3,Madrugada,2
+354,Belo Horizonte,Salada,40.35,44.9,Madrugada,5
+355,Belo Horizonte,Brasileira,41.79,31.5,Almoço,1
+356,Curitiba,Brasileira,28.36,47.2,Jantar,4
+357,Rio de Janeiro,Lanches,83.1,34.1,Jantar,4
+358,Porto Alegre,Sushi,42.72,32.5,Madrugada,4
+359,Belo Horizonte,Salada,28.85,46.3,Madrugada,2
+360,Porto Alegre,Salada,47.04,32.0,Madrugada,2
+361,Rio de Janeiro,Lanches,46.98,20.8,Almoço,4
+362,Curitiba,Salada,62.54,32.9,Almoço,2
+363,São Paulo,Salada,,20.6,Almoço,3
+364,Porto Alegre,Pizza,58.01,38.3,Almoço,2
+365,Curitiba,Sushi,47.04,28.5,Almoço,4
+366,Curitiba,Brasileira,,24.5,Madrugada,5
+367,Belo Horizonte,Lanches,43.7,31.6,Jantar,2
+368,Porto Alegre,Lanches,67.04,43.9,Almoço,4
+369,Porto Alegre,Lanches,48.95,35.6,Almoço,1
+370,Porto Alegre,Lanches,78.53,42.3,Jantar,1
+371,Porto Alegre,Salada,52.2,47.4,Jantar,2
+372,Rio de Janeiro,Lanches,33.45,28.3,Almoço,4
+373,Porto Alegre,Salada,60.82,48.8,Almoço,4
+374,Curitiba,Brasileira,67.09,36.5,Madrugada,4
+375,Porto Alegre,Brasileira,50.02,32.3,Jantar,4
+376,Curitiba,Pizza,19.8,23.2,Jantar,3
+377,Curitiba,Salada,43.47,39.5,Almoço,2
+378,São Paulo,Sushi,53.23,50.9,Almoço,3
+379,Belo Horizonte,Sushi,29.93,39.5,Almoço,4
+380,São Paulo,Brasileira,16.35,33.6,Almoço,1
+381,Belo Horizonte,Sushi,43.44,24.1,Jantar,3
+382,Curitiba,Salada,53.34,53.0,Almoço,3
+383,Curitiba,Sushi,26.56,46.0,Jantar,3
+384,São Paulo,Pizza,48.24,22.1,Madrugada,3
+385,Porto Alegre,Salada,66.42,,Almoço,5
+386,Belo Horizonte,Brasileira,36.87,44.9,Almoço,4
+387,Curitiba,Sushi,92.09,28.2,Jantar,4
+388,Curitiba,Salada,,38.6,Madrugada,2
+389,São Paulo,Salada,12.35,52.1,Jantar,4
+390,Belo Horizonte,Lanches,45.49,34.4,Almoço,4
+391,Belo Horizonte,Sushi,66.4,10.0,Jantar,5
+392,Belo Horizonte,Brasileira,34.03,26.2,Madrugada,4
+393,Curitiba,Brasileira,47.11,33.9,Jantar,2
+394,São Paulo,Lanches,74.15,46.5,Almoço,4
+395,São Paulo,Pizza,55.91,49.0,Madrugada,1
+396,Porto Alegre,Lanches,43.44,22.0,Almoço,5
+397,Porto Alegre,Brasileira,47.3,51.8,Jantar,4
+398,São Paulo,Brasileira,24.89,30.1,Jantar,2
+399,Belo Horizonte,Lanches,38.29,35.0,Jantar,4
+400,Rio de Janeiro,Sushi,34.67,25.7,Almoço,4
+401,Belo Horizonte,Sushi,61.68,26.7,Jantar,2
+402,Belo Horizonte,Lanches,59.73,27.1,Jantar,1
+403,Porto Alegre,Pizza,44.0,57.2,Jantar,5
+404,Rio de Janeiro,Brasileira,63.1,30.8,Madrugada,1
+405,Rio de Janeiro,Sushi,64.84,29.5,Almoço,5
+406,Porto Alegre,Lanches,51.41,51.1,Almoço,2
+407,Belo Horizonte,Lanches,48.99,41.8,Almoço,1
+408,Porto Alegre,Pizza,34.13,23.1,Jantar,2
+409,Rio de Janeiro,Lanches,,29.3,Jantar,1
+410,Rio de Janeiro,Sushi,48.58,59.6,Madrugada,2
+411,Curitiba,Salada,42.47,39.4,Jantar,3
+412,Porto Alegre,Salada,67.93,25.1,Almoço,4
+413,Rio de Janeiro,Sushi,44.28,46.0,Jantar,3
+414,Porto Alegre,Pizza,82.25,35.6,Madrugada,3
+415,Rio de Janeiro,Lanches,33.8,38.0,Almoço,3
+416,Curitiba,Salada,13.07,24.4,Jantar,3
+417,São Paulo,Salada,16.66,36.1,Madrugada,5
+418,Curitiba,Pizza,59.42,34.8,Madrugada,1
+419,Rio de Janeiro,Salada,21.31,34.2,Madrugada,3
+420,Belo Horizonte,Salada,63.89,,Jantar,5
+421,Porto Alegre,Lanches,38.53,30.8,Jantar,5
+422,Curitiba,Sushi,67.99,18.8,Almoço,3
+423,Curitiba,Sushi,32.8,47.1,Almoço,3
+424,Belo Horizonte,Brasileira,59.59,35.1,Jantar,1
+425,Porto Alegre,Pizza,24.41,45.5,Jantar,5
+426,Curitiba,Salada,47.49,26.7,Madrugada,1
+427,Belo Horizonte,Brasileira,24.77,39.2,Madrugada,2
+428,Porto Alegre,Sushi,83.09,18.8,Almoço,1
+429,São Paulo,Lanches,57.74,36.1,Almoço,2
+430,Curitiba,Pizza,67.84,35.0,Almoço,1
+431,Rio de Janeiro,Sushi,30.66,45.5,Almoço,4
+432,Porto Alegre,Salada,73.11,28.5,Madrugada,3
+433,Rio de Janeiro,Sushi,,36.2,Almoço,2
+434,Porto Alegre,Brasileira,44.76,44.9,Almoço,5
+435,Curitiba,Sushi,34.18,33.7,Jantar,1
+436,Belo Horizonte,Sushi,55.94,35.8,Almoço,2
+437,Rio de Janeiro,Lanches,37.52,53.0,Almoço,3
+438,Porto Alegre,Salada,62.12,45.3,Almoço,3
+439,Porto Alegre,Salada,78.56,40.1,Almoço,4
+440,Belo Horizonte,Sushi,64.57,,Madrugada,4
+441,Porto Alegre,Lanches,13.65,43.3,Almoço,3
+442,Rio de Janeiro,Brasileira,57.42,23.6,Jantar,1
+443,Porto Alegre,Lanches,54.28,47.7,Jantar,1
+444,Curitiba,Lanches,85.78,44.6,Almoço,2
+445,Curitiba,Sushi,65.44,24.6,Madrugada,4
+446,Porto Alegre,Sushi,87.78,38.0,Madrugada,4
+447,Porto Alegre,Lanches,49.99,53.8,Jantar,1
+448,Porto Alegre,Salada,71.1,35.2,Jantar,4
+449,Rio de Janeiro,Pizza,36.23,30.5,Madrugada,3
+450,Porto Alegre,Brasileira,45.93,41.5,Jantar,2
+451,Curitiba,Pizza,74.39,30.6,Jantar,5
+452,Porto Alegre,Pizza,47.95,40.7,Almoço,5
+453,Curitiba,Salada,21.71,47.7,Madrugada,3
+454,São Paulo,Salada,25.44,38.1,Jantar,1
+455,São Paulo,Brasileira,76.66,41.6,Jantar,1
+456,São Paulo,Salada,54.08,37.3,Almoço,4
+457,Belo Horizonte,Pizza,44.06,39.2,Jantar,3
+458,Curitiba,Brasileira,68.52,23.3,Almoço,4
+459,Curitiba,Pizza,39.66,38.2,Almoço,4
+460,Curitiba,Pizza,83.58,,Almoço,4
+461,Rio de Janeiro,Brasileira,40.93,37.2,Madrugada,1
+462,Curitiba,Sushi,46.5,16.3,Jantar,3
+463,Curitiba,Pizza,72.15,44.3,Jantar,4
+464,Belo Horizonte,Lanches,,53.4,Almoço,4
+465,Belo Horizonte,Sushi,49.51,16.6,Madrugada,4
+466,Porto Alegre,Lanches,29.24,35.2,Jantar,4
+467,Belo Horizonte,Lanches,10.0,35.8,Almoço,5
+468,São Paulo,Lanches,63.8,55.1,Madrugada,1
+469,São Paulo,Salada,72.76,27.8,Jantar,1
+470,Belo Horizonte,Pizza,39.03,19.7,Almoço,3
