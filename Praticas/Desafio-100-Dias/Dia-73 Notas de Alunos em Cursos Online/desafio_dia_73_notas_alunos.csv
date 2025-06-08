@@ -1,0 +1,491 @@
+id_aluno,curso,sexo,estado,nota_1,nota_2,concluiu
+1001,Power BI,Feminino,MG,8.2,6.2,Sim
+1002,Power BI,Feminino,RS,7.8,6.9,Sim
+1003,Python,Feminino,PR,5.3,7.3,Sim
+1004,Python,Masculino,RS,6.5,8.2,Não
+1005,SQL,Feminino,MG,6.5,,Sim
+1006,Excel,Masculino,SP,6.7,5.8,Sim
+1007,Power BI,Masculino,RJ,7.9,8.1,Não
+1008,Excel,Feminino,RS,6.4,6.6,Sim
+1009,Machine Learning,Feminino,RJ,7.0,7.5,Sim
+1010,Machine Learning,Masculino,RJ,6.4,8.3,Sim
+1011,SQL,Masculino,RJ,7.7,9.5,Sim
+1012,Excel,Masculino,RS,8.6,7.6,Sim
+1013,SQL,Feminino,RS,8.0,4.4,Não
+1014,Power BI,Feminino,RS,8.0,8.3,Sim
+1015,Machine Learning,Masculino,PR,6.5,7.8,Não
+1016,Machine Learning,Feminino,RS,5.1,6.0,Sim
+1017,SQL,Feminino,SP,7.3,8.5,Sim
+1018,Excel,Masculino,RJ,7.9,7.9,Sim
+1019,Python,Feminino,RJ,5.0,10.0,Sim
+1020,SQL,Feminino,RJ,7.7,8.3,Não
+1021,Excel,Feminino,RJ,6.7,7.6,Sim
+1022,SQL,Feminino,MG,6.3,6.2,Sim
+1023,Excel,Masculino,PR,7.3,8.0,Sim
+1024,Machine Learning,Feminino,RJ,8.6,7.1,Sim
+1025,Machine Learning,Masculino,SP,5.9,8.2,Sim
+1026,Excel,Masculino,PR,7.6,7.7,Sim
+1027,Power BI,Feminino,RJ,9.3,10.0,Sim
+1028,Machine Learning,Masculino,SP,9.5,7.2,Não
+1029,SQL,Feminino,RS,9.8,7.0,Sim
+1030,Power BI,Masculino,RJ,5.6,3.3,Não
+1031,Excel,Masculino,SP,9.1,7.6,Sim
+1032,SQL,Feminino,PR,9.4,6.7,Sim
+1033,Machine Learning,Masculino,MG,,4.7,Não
+1034,Excel,Masculino,RS,7.9,6.8,Sim
+1035,Python,Feminino,RJ,8.9,6.1,Não
+1036,Python,Masculino,SP,5.8,6.3,Sim
+1037,Machine Learning,Feminino,RS,6.1,8.7,Sim
+1038,SQL,Masculino,PR,8.8,6.1,Sim
+1039,Python,Masculino,PR,7.5,3.8,Não
+1040,Python,Masculino,MG,7.4,6.1,Sim
+1041,SQL,Feminino,PR,7.1,6.0,Não
+1042,Power BI,Masculino,SP,9.1,6.7,Sim
+1043,Python,Feminino,PR,5.8,7.6,Sim
+1044,Excel,Feminino,RS,9.5,6.4,Sim
+1045,SQL,Masculino,RJ,7.3,5.7,Sim
+1046,Power BI,Masculino,RJ,7.3,6.9,Sim
+1047,SQL,Masculino,PR,3.6,6.3,Sim
+1048,Python,Feminino,SP,6.9,7.1,Sim
+1049,SQL,Masculino,RS,7.7,7.6,Sim
+1050,SQL,Feminino,RS,,5.5,Não
+1051,Power BI,Feminino,PR,4.1,7.7,Sim
+1052,Excel,Feminino,SP,6.2,7.5,Sim
+1053,Python,Feminino,RS,9.6,5.0,Sim
+1054,Python,Masculino,RS,,7.8,Sim
+1055,Python,Feminino,RJ,6.2,7.6,Sim
+1056,Power BI,Feminino,PR,5.4,8.1,Sim
+1057,Power BI,Masculino,RJ,6.2,9.5,Sim
+1058,Machine Learning,Feminino,PR,5.1,6.7,Sim
+1059,Excel,Masculino,SP,7.2,,Sim
+1060,SQL,Masculino,MG,6.3,6.8,Não
+1061,Excel,Masculino,PR,8.8,7.9,Sim
+1062,SQL,Feminino,MG,4.7,6.1,Sim
+1063,Excel,Masculino,PR,7.2,7.1,Sim
+1064,SQL,Feminino,MG,6.7,7.2,Não
+1065,Excel,Masculino,MG,9.3,6.5,Sim
+1066,Excel,Feminino,SP,8.2,4.0,Sim
+1067,Python,Feminino,MG,6.6,8.4,Sim
+1068,Excel,Masculino,MG,10.0,5.0,Sim
+1069,Power BI,Masculino,PR,7.3,7.0,Sim
+1070,SQL,Masculino,RJ,7.5,7.3,Sim
+1071,Machine Learning,Feminino,MG,3.8,6.6,Sim
+1072,Machine Learning,Feminino,PR,5.8,7.4,Sim
+1073,Excel,Masculino,RJ,6.0,7.2,Sim
+1074,Machine Learning,Feminino,MG,6.0,,Sim
+1075,Machine Learning,Feminino,SP,8.3,6.6,Sim
+1076,SQL,Feminino,MG,6.8,7.9,Sim
+1077,Power BI,Masculino,RS,4.7,7.7,Sim
+1078,Machine Learning,Feminino,SP,6.4,9.5,Sim
+1079,Machine Learning,Feminino,PR,5.9,8.1,Sim
+1080,Power BI,Feminino,SP,6.7,7.3,Sim
+1081,Power BI,Feminino,MG,6.8,6.7,Sim
+1082,Excel,Feminino,SP,8.9,8.7,Não
+1083,Power BI,Feminino,RS,5.7,7.2,Não
+1084,Excel,Feminino,SP,6.7,6.3,Sim
+1085,Excel,Feminino,RS,5.9,8.8,Não
+1086,Excel,Masculino,RS,5.9,10.0,Sim
+1087,Machine Learning,Feminino,RJ,7.0,10.0,Sim
+1088,Power BI,Feminino,RS,7.8,8.4,Sim
+1089,SQL,Masculino,PR,6.0,5.2,Sim
+1090,Excel,Feminino,RS,8.2,,Sim
+1091,Power BI,Feminino,SP,8.1,6.3,Sim
+1092,SQL,Masculino,MG,8.2,6.3,Não
+1093,Python,Feminino,MG,8.1,6.8,Sim
+1094,Excel,Masculino,RS,9.6,6.9,Não
+1095,Python,Feminino,PR,8.8,6.6,Sim
+1096,Machine Learning,Feminino,RJ,8.5,4.7,Sim
+1097,SQL,Feminino,RJ,5.8,5.2,Não
+1098,Machine Learning,Feminino,RS,4.8,6.5,Não
+1099,Power BI,Masculino,MG,7.8,7.5,Não
+1100,Machine Learning,Feminino,PR,7.4,7.2,Sim
+1101,Power BI,Masculino,PR,9.0,9.0,Não
+1102,Machine Learning,Feminino,RS,8.1,6.3,Não
+1103,SQL,Masculino,RJ,7.2,8.5,Sim
+1104,SQL,Masculino,RJ,6.6,7.5,Sim
+1105,SQL,Feminino,PR,5.7,6.5,Não
+1106,Machine Learning,Masculino,RJ,7.2,9.2,Sim
+1107,SQL,Feminino,MG,,8.8,Sim
+1108,Python,Masculino,RJ,7.3,5.7,Sim
+1109,Python,Masculino,PR,6.0,,Sim
+1110,SQL,Feminino,MG,9.3,8.0,Não
+1111,Python,Masculino,PR,10.0,5.9,Sim
+1112,SQL,Feminino,RS,,7.4,Não
+1113,Power BI,Masculino,SP,6.8,7.5,Sim
+1114,Excel,Feminino,MG,6.4,7.6,Não
+1115,Python,Masculino,PR,,4.6,Não
+1116,SQL,Masculino,MG,,7.9,Sim
+1117,SQL,Masculino,PR,6.0,5.1,Sim
+1118,Machine Learning,Masculino,PR,6.1,10.0,Sim
+1119,Excel,Feminino,RS,8.8,7.8,Sim
+1120,Power BI,Feminino,RS,2.9,6.4,Sim
+1121,Power BI,Feminino,MG,7.0,4.9,Sim
+1122,Machine Learning,Feminino,PR,4.7,7.0,Não
+1123,Power BI,Feminino,SP,6.2,6.7,Sim
+1124,Excel,Masculino,SP,6.4,6.3,Sim
+1125,Python,Masculino,RS,7.8,4.9,Sim
+1126,Python,Feminino,PR,8.5,8.4,Sim
+1127,Excel,Masculino,MG,7.8,9.6,Sim
+1128,Machine Learning,Masculino,MG,5.7,7.8,Sim
+1129,Machine Learning,Masculino,SP,6.8,8.8,Sim
+1130,Machine Learning,Masculino,RS,6.3,8.2,Sim
+1131,Machine Learning,Feminino,RJ,7.9,6.0,Sim
+1132,SQL,Feminino,RS,6.9,9.6,Sim
+1133,Python,Feminino,RJ,7.6,5.7,Não
+1134,Machine Learning,Masculino,RJ,10.0,6.5,Sim
+1135,Machine Learning,Feminino,RS,8.5,7.1,Sim
+1136,Machine Learning,Feminino,PR,7.4,4.5,Sim
+1137,Python,Masculino,RJ,3.9,7.8,Sim
+1138,Machine Learning,Feminino,RS,6.3,8.5,Não
+1139,Excel,Feminino,MG,7.0,6.6,Sim
+1140,Machine Learning,Feminino,SP,9.1,8.4,Sim
+1141,Python,Masculino,SP,8.8,7.5,Sim
+1142,Power BI,Masculino,MG,7.3,7.1,Sim
+1143,Power BI,Feminino,MG,8.2,10.0,Sim
+1144,Python,Feminino,RJ,8.6,6.3,Não
+1145,Machine Learning,Feminino,MG,6.7,6.0,Sim
+1146,Machine Learning,Masculino,RJ,10.0,8.1,Não
+1147,SQL,Masculino,SP,5.8,9.7,Sim
+1148,Power BI,Masculino,RJ,9.2,6.5,Sim
+1149,Python,Masculino,PR,6.5,8.1,Sim
+1150,Machine Learning,Masculino,RS,7.4,6.6,Sim
+1151,Excel,Masculino,RJ,8.9,6.6,Sim
+1152,SQL,Feminino,SP,9.0,8.7,Não
+1153,SQL,Feminino,RS,,7.5,Não
+1154,Excel,Masculino,RJ,4.4,6.0,Sim
+1155,Power BI,Feminino,SP,6.1,9.7,Sim
+1156,SQL,Feminino,RS,6.4,4.3,Sim
+1157,Power BI,Feminino,MG,7.3,8.2,Não
+1158,Machine Learning,Feminino,RJ,7.5,7.4,Sim
+1159,SQL,Masculino,SP,7.2,7.5,Não
+1160,Python,Masculino,MG,5.4,6.0,Sim
+1161,Machine Learning,Masculino,PR,6.3,5.5,Sim
+1162,Excel,Feminino,RJ,8.7,7.0,Sim
+1163,Power BI,Masculino,RS,8.5,7.8,Sim
+1164,Excel,Feminino,PR,10.0,7.8,Não
+1165,Excel,Feminino,PR,7.3,6.9,Não
+1166,Excel,Masculino,RS,6.2,6.9,Sim
+1167,Python,Feminino,PR,8.8,9.6,Sim
+1168,Machine Learning,Feminino,RS,7.0,4.4,Sim
+1169,Machine Learning,Masculino,SP,4.3,7.1,Sim
+1170,Power BI,Masculino,PR,6.7,7.8,Sim
+1171,Excel,Masculino,MG,9.1,7.5,Sim
+1172,Power BI,Masculino,RJ,6.4,7.1,Sim
+1173,Machine Learning,Masculino,SP,6.8,5.3,Sim
+1174,Excel,Masculino,MG,7.7,,Sim
+1175,Power BI,Feminino,SP,8.6,7.2,Não
+1176,Power BI,Feminino,RS,7.0,5.3,Sim
+1177,Python,Feminino,RS,6.4,7.1,Não
+1178,Excel,Masculino,RJ,6.6,5.8,Sim
+1179,Power BI,Feminino,RJ,5.2,5.5,Sim
+1180,SQL,Masculino,SP,5.3,7.3,Não
+1181,Machine Learning,Feminino,PR,8.3,4.2,Não
+1182,Python,Feminino,MG,4.1,4.5,Sim
+1183,Excel,Feminino,PR,8.5,5.8,Não
+1184,Python,Feminino,RS,9.0,8.0,Sim
+1185,Power BI,Masculino,SP,4.5,5.9,Sim
+1186,Python,Feminino,MG,4.8,7.6,Sim
+1187,Python,Masculino,RJ,4.9,7.4,Sim
+1188,SQL,Masculino,RJ,5.7,8.8,Não
+1189,Power BI,Feminino,MG,8.8,7.0,Não
+1190,Machine Learning,Masculino,MG,9.2,10.0,Não
+1191,SQL,Feminino,RJ,6.3,6.3,Sim
+1192,Python,Masculino,SP,7.1,7.8,Sim
+1193,Excel,Masculino,MG,2.7,8.7,Não
+1194,SQL,Masculino,MG,8.3,7.4,Não
+1195,Excel,Feminino,PR,5.5,7.8,Sim
+1196,Machine Learning,Feminino,SP,3.8,5.6,Sim
+1197,Python,Masculino,PR,7.7,5.7,Sim
+1198,Python,Feminino,PR,7.2,7.5,Sim
+1199,Python,Masculino,MG,8.8,7.0,Sim
+1200,Power BI,Feminino,MG,8.2,6.1,Sim
+1201,Python,Masculino,RJ,4.9,7.0,Sim
+1202,SQL,Masculino,MG,10.0,7.0,Sim
+1203,Excel,Masculino,SP,,6.5,Sim
+1204,Excel,Feminino,SP,6.9,6.6,Não
+1205,Excel,Masculino,MG,6.1,3.0,Sim
+1206,Python,Feminino,SP,7.2,7.7,Não
+1207,Python,Masculino,SP,8.6,6.1,Não
+1208,Python,Masculino,SP,6.5,10.0,Não
+1209,Python,Feminino,RS,10.0,8.1,Sim
+1210,Power BI,Masculino,RS,,4.3,Não
+1211,Machine Learning,Masculino,PR,7.1,9.1,Sim
+1212,Python,Feminino,SP,4.4,7.4,Não
+1213,Python,Feminino,RJ,6.4,7.2,Não
+1214,Power BI,Feminino,MG,6.3,4.0,Não
+1215,Excel,Feminino,PR,6.4,6.3,Sim
+1216,Machine Learning,Feminino,MG,6.5,6.3,Não
+1217,Excel,Masculino,SP,7.4,5.6,Sim
+1218,Excel,Masculino,RS,9.4,8.2,Sim
+1219,Excel,Masculino,SP,6.4,6.8,Sim
+1220,Python,Feminino,RJ,7.7,4.5,Sim
+1221,Excel,Feminino,SP,5.7,6.2,Sim
+1222,Python,Masculino,PR,6.2,9.6,Sim
+1223,Excel,Feminino,PR,7.5,5.3,Sim
+1224,SQL,Feminino,PR,5.6,8.5,Não
+1225,Python,Feminino,MG,6.4,5.5,Não
+1226,Machine Learning,Masculino,MG,7.5,7.9,Sim
+1227,SQL,Feminino,RJ,6.4,7.5,Sim
+1228,Power BI,Feminino,RJ,8.7,7.1,Sim
+1229,Power BI,Masculino,RS,,6.1,Sim
+1230,Power BI,Feminino,PR,7.3,4.9,Não
+1231,Power BI,Masculino,RS,8.0,8.8,Sim
+1232,Python,Masculino,RS,6.9,5.5,Não
+1233,Excel,Feminino,RS,8.4,8.1,Sim
+1234,Machine Learning,Feminino,PR,5.4,6.9,Sim
+1235,Python,Masculino,PR,4.2,8.4,Não
+1236,Excel,Masculino,PR,7.9,4.0,Não
+1237,Power BI,Masculino,RS,7.0,8.7,Sim
+1238,Machine Learning,Feminino,MG,7.1,7.1,Não
+1239,Machine Learning,Feminino,RS,8.7,4.8,Sim
+1240,Python,Feminino,SP,4.3,7.9,Sim
+1241,Python,Masculino,MG,7.3,6.5,Sim
+1242,Python,Masculino,MG,4.8,6.3,Não
+1243,SQL,Masculino,RS,8.1,8.8,Não
+1244,SQL,Feminino,RJ,10.0,6.8,Sim
+1245,Python,Masculino,RJ,8.6,6.9,Sim
+1246,Power BI,Feminino,SP,4.1,9.1,Não
+1247,Power BI,Feminino,RS,8.1,6.3,Sim
+1248,SQL,Masculino,MG,9.4,6.0,Não
+1249,Power BI,Feminino,MG,6.1,6.8,Sim
+1250,Python,Feminino,MG,5.8,10.0,Não
+1251,Python,Feminino,RJ,3.5,7.4,Sim
+1252,Machine Learning,Masculino,MG,7.5,,Sim
+1253,SQL,Masculino,RS,7.1,8.2,Não
+1254,Machine Learning,Masculino,RJ,5.5,5.7,Sim
+1255,Power BI,Masculino,MG,8.8,8.5,Sim
+1256,Power BI,Feminino,MG,6.6,6.7,Não
+1257,Python,Masculino,MG,6.1,8.1,Sim
+1258,Excel,Feminino,MG,8.6,7.5,Sim
+1259,Power BI,Masculino,PR,5.2,6.5,Não
+1260,Machine Learning,Feminino,RS,,5.2,Sim
+1261,SQL,Feminino,PR,7.1,8.0,Não
+1262,SQL,Feminino,RS,6.4,6.9,Sim
+1263,Machine Learning,Masculino,PR,6.7,8.6,Não
+1264,Python,Feminino,RJ,7.6,6.3,Sim
+1265,SQL,Feminino,SP,4.0,7.5,Sim
+1266,Power BI,Masculino,RS,6.7,,Sim
+1267,Excel,Feminino,SP,5.3,6.0,Sim
+1268,Excel,Masculino,RS,7.6,6.4,Não
+1269,Machine Learning,Feminino,RS,5.5,8.2,Sim
+1270,Excel,Masculino,SP,6.6,7.0,Sim
+1271,Excel,Masculino,PR,5.8,6.1,Não
+1272,Excel,Feminino,MG,,6.7,Sim
+1273,SQL,Masculino,MG,7.3,5.7,Sim
+1274,Machine Learning,Feminino,RJ,8.4,9.0,Sim
+1275,Python,Masculino,MG,8.9,7.9,Sim
+1276,Power BI,Masculino,MG,5.7,9.3,Sim
+1277,SQL,Feminino,RJ,5.7,6.9,Sim
+1278,Excel,Feminino,RS,5.5,4.9,Sim
+1279,Power BI,Feminino,RJ,,7.0,Sim
+1280,SQL,Masculino,RS,6.8,6.9,Não
+1281,Python,Feminino,RJ,6.6,,Sim
+1282,Python,Feminino,SP,6.0,5.5,Sim
+1283,Excel,Masculino,SP,7.9,9.8,Sim
+1284,Power BI,Masculino,PR,5.2,8.8,Não
+1285,Power BI,Masculino,MG,6.3,,Sim
+1286,Power BI,Feminino,RJ,5.4,6.2,Sim
+1287,Machine Learning,Feminino,RS,9.0,7.7,Sim
+1288,Excel,Masculino,RS,9.4,5.2,Sim
+1289,Excel,Feminino,SP,3.8,7.6,Não
+1290,Power BI,Feminino,PR,7.3,10.0,Sim
+1291,Python,Masculino,MG,6.3,9.0,Não
+1292,SQL,Masculino,SP,6.0,7.0,Sim
+1293,Machine Learning,Feminino,SP,7.8,10.0,Sim
+1294,Excel,Masculino,MG,,8.8,Sim
+1295,Python,Masculino,RS,7.0,6.2,Não
+1296,SQL,Masculino,PR,7.9,8.3,Não
+1297,SQL,Masculino,RJ,4.8,10.0,Não
+1298,Python,Masculino,RJ,7.6,6.8,Sim
+1299,Python,Feminino,PR,8.2,6.2,Sim
+1300,Power BI,Feminino,SP,8.6,7.5,Sim
+1301,Power BI,Feminino,PR,4.6,,Sim
+1302,Excel,Feminino,SP,7.0,9.2,Não
+1303,Machine Learning,Feminino,SP,6.4,7.1,Sim
+1304,Excel,Masculino,RJ,7.2,,Sim
+1305,Power BI,Masculino,MG,7.5,8.5,Sim
+1306,Machine Learning,Feminino,RS,7.9,6.3,Sim
+1307,Python,Masculino,RJ,7.2,9.4,Sim
+1308,Power BI,Masculino,MG,6.1,9.0,Sim
+1309,Excel,Feminino,MG,7.1,8.3,Sim
+1310,Machine Learning,Masculino,RS,9.0,9.6,Sim
+1311,Excel,Feminino,RJ,7.8,6.3,Não
+1312,Python,Feminino,PR,8.5,8.3,Sim
+1313,Power BI,Feminino,RJ,10.0,5.3,Sim
+1314,Python,Masculino,MG,8.9,7.0,Sim
+1315,Machine Learning,Masculino,RS,10.0,7.1,Não
+1316,Python,Masculino,RJ,8.6,6.9,Sim
+1317,SQL,Feminino,MG,7.2,9.1,Sim
+1318,Excel,Masculino,RS,5.9,3.5,Não
+1319,Excel,Masculino,SP,7.0,5.6,Sim
+1320,Power BI,Masculino,MG,6.2,7.2,Sim
+1321,SQL,Feminino,RS,7.0,7.4,Não
+1322,Excel,Masculino,SP,,8.5,Não
+1323,SQL,Masculino,RJ,8.5,8.6,Sim
+1324,SQL,Masculino,MG,9.7,4.5,Sim
+1325,Machine Learning,Masculino,SP,7.1,,Sim
+1326,Excel,Masculino,MG,9.4,5.3,Sim
+1327,Machine Learning,Feminino,RJ,8.8,10.0,Sim
+1328,Machine Learning,Feminino,SP,6.2,7.6,Não
+1329,Excel,Feminino,RJ,6.3,5.8,Não
+1330,Machine Learning,Masculino,RS,4.9,8.8,Sim
+1331,Power BI,Masculino,RS,4.5,6.3,Não
+1332,SQL,Masculino,MG,6.0,9.1,Sim
+1333,Python,Masculino,PR,5.0,7.8,Não
+1334,Power BI,Feminino,RJ,8.9,8.7,Sim
+1335,Python,Masculino,RS,8.1,6.8,Não
+1336,Machine Learning,Masculino,RJ,6.0,6.9,Sim
+1337,Python,Feminino,RS,6.4,7.7,Sim
+1338,Machine Learning,Masculino,PR,8.3,5.4,Sim
+1339,Python,Masculino,PR,6.6,10.0,Não
+1340,SQL,Feminino,RS,7.3,7.6,Sim
+1341,Machine Learning,Feminino,MG,6.4,6.6,Sim
+1342,Python,Masculino,RJ,6.0,5.8,Sim
+1343,Python,Feminino,RS,6.7,7.9,Sim
+1344,Machine Learning,Masculino,RJ,4.2,7.0,Não
+1345,Machine Learning,Feminino,RJ,7.1,7.2,Sim
+1346,Python,Masculino,RJ,9.8,8.3,Sim
+1347,Machine Learning,Feminino,RS,10.0,6.5,Sim
+1348,Power BI,Feminino,RS,4.1,8.7,Sim
+1349,Power BI,Feminino,RJ,7.4,5.6,Sim
+1350,Python,Masculino,RJ,4.7,7.0,Não
+1351,Power BI,Masculino,MG,7.4,9.9,Não
+1352,SQL,Masculino,MG,7.5,7.1,Sim
+1353,Power BI,Masculino,SP,6.5,7.4,Sim
+1354,Excel,Masculino,SP,5.5,10.0,Sim
+1355,Excel,Masculino,MG,5.6,7.9,Sim
+1356,Power BI,Masculino,RJ,7.8,7.9,Sim
+1357,SQL,Feminino,MG,7.1,6.1,Não
+1358,SQL,Masculino,PR,8.0,8.9,Sim
+1359,Python,Feminino,RJ,8.4,9.5,Sim
+1360,Power BI,Feminino,MG,6.8,6.8,Sim
+1361,Power BI,Masculino,RJ,4.6,6.7,Sim
+1362,Power BI,Masculino,MG,7.3,8.1,Não
+1363,Excel,Masculino,RJ,7.6,,Sim
+1364,Power BI,Feminino,RS,8.1,6.7,Sim
+1365,Excel,Masculino,RS,6.1,6.0,Não
+1366,Machine Learning,Feminino,RJ,7.7,6.8,Sim
+1367,Power BI,Feminino,RJ,5.6,6.4,Sim
+1368,Excel,Feminino,PR,,6.7,Não
+1369,SQL,Feminino,RJ,7.1,9.0,Sim
+1370,Excel,Masculino,RJ,4.4,8.1,Sim
+1371,Python,Feminino,PR,6.0,8.9,Sim
+1372,Machine Learning,Feminino,SP,6.1,6.1,Sim
+1373,Machine Learning,Masculino,PR,6.8,9.7,Sim
+1374,SQL,Masculino,SP,7.9,2.4,Não
+1375,Python,Masculino,RJ,10.0,4.2,Sim
+1376,Machine Learning,Masculino,RS,8.0,,Sim
+1377,Excel,Masculino,RJ,8.1,5.2,Não
+1378,SQL,Masculino,SP,7.0,9.0,Sim
+1379,Excel,Feminino,PR,7.6,6.3,Sim
+1380,Machine Learning,Feminino,RS,5.4,7.7,Não
+1381,SQL,Feminino,PR,6.3,8.5,Sim
+1382,Python,Masculino,SP,5.1,6.5,Sim
+1383,Machine Learning,Masculino,SP,8.5,7.0,Sim
+1384,Python,Feminino,MG,7.6,4.9,Não
+1385,Power BI,Masculino,PR,8.0,,Sim
+1386,SQL,Feminino,MG,4.5,7.2,Sim
+1387,Power BI,Feminino,MG,,7.4,Sim
+1388,Python,Masculino,RS,9.1,,Sim
+1389,Excel,Feminino,MG,8.0,8.8,Não
+1390,Machine Learning,Masculino,MG,5.6,8.9,Sim
+1391,Machine Learning,Feminino,RS,5.9,7.2,Sim
+1392,Power BI,Masculino,SP,8.2,7.1,Sim
+1393,Python,Feminino,MG,7.4,9.0,Sim
+1394,Machine Learning,Masculino,PR,8.9,3.6,Não
+1395,Python,Feminino,RS,7.8,8.5,Não
+1396,Power BI,Feminino,PR,6.7,7.9,Não
+1397,SQL,Feminino,RS,6.5,8.4,Sim
+1398,Power BI,Masculino,RJ,7.0,9.4,Não
+1399,Excel,Feminino,MG,7.7,6.5,Sim
+1400,Machine Learning,Masculino,PR,7.3,6.0,Sim
+1401,Power BI,Feminino,MG,6.0,8.7,Sim
+1402,Excel,Feminino,PR,8.2,6.2,Sim
+1403,Excel,Feminino,SP,9.3,8.9,Não
+1404,Machine Learning,Masculino,SP,9.5,6.9,Sim
+1405,Power BI,Masculino,MG,5.8,9.2,Sim
+1406,Excel,Feminino,SP,7.5,5.6,Não
+1407,Power BI,Feminino,SP,5.6,5.6,Não
+1408,Python,Masculino,PR,6.9,6.0,Sim
+1409,SQL,Feminino,SP,7.1,7.9,Sim
+1410,Excel,Masculino,PR,7.3,9.6,Não
+1411,Machine Learning,Masculino,PR,3.9,7.2,Sim
+1412,Excel,Masculino,PR,6.8,6.6,Não
+1413,Excel,Masculino,PR,6.0,,Sim
+1414,Excel,Feminino,PR,6.2,9.0,Não
+1415,Python,Masculino,MG,7.9,8.9,Sim
+1416,Python,Feminino,SP,9.8,6.2,Não
+1417,Excel,Masculino,PR,6.4,7.2,Não
+1418,Python,Masculino,RS,6.3,6.6,Não
+1419,Machine Learning,Masculino,RJ,5.5,6.7,Sim
+1420,Machine Learning,Feminino,SP,7.4,9.7,Sim
+1421,SQL,Masculino,SP,6.0,8.0,Não
+1422,Python,Feminino,RJ,7.0,9.4,Sim
+1423,Power BI,Masculino,SP,9.4,7.9,Sim
+1424,Power BI,Masculino,MG,7.6,6.8,Sim
+1425,Power BI,Feminino,MG,4.7,7.9,Sim
+1426,Machine Learning,Feminino,MG,8.2,9.4,Sim
+1427,Excel,Feminino,RS,5.8,8.7,Sim
+1428,SQL,Feminino,RJ,7.6,7.0,Sim
+1429,Machine Learning,Feminino,PR,8.0,7.5,Sim
+1430,Power BI,Feminino,MG,10.0,7.7,Sim
+1431,Power BI,Feminino,RS,7.6,4.7,Não
+1432,Machine Learning,Masculino,MG,10.0,5.9,Sim
+1433,SQL,Masculino,RS,5.2,5.7,Sim
+1434,Excel,Masculino,PR,3.7,6.9,Sim
+1435,Python,Masculino,SP,7.7,8.6,Sim
+1436,Machine Learning,Feminino,MG,8.8,6.4,Não
+1437,Power BI,Masculino,SP,4.7,7.3,Não
+1438,Machine Learning,Feminino,SP,5.7,6.1,Não
+1439,SQL,Masculino,SP,3.8,8.2,Sim
+1440,Power BI,Feminino,SP,8.4,3.9,Sim
+1441,SQL,Feminino,RJ,5.5,5.5,Não
+1442,Machine Learning,Feminino,RJ,8.5,5.2,Sim
+1443,Excel,Masculino,SP,3.6,6.9,Sim
+1444,Power BI,Masculino,SP,3.0,8.1,Não
+1445,SQL,Masculino,MG,4.3,9.0,Não
+1446,Machine Learning,Feminino,RS,,8.8,Não
+1447,Python,Feminino,RS,9.0,10.0,Sim
+1448,Excel,Masculino,RJ,6.1,4.1,Sim
+1449,Excel,Masculino,MG,7.2,7.5,Sim
+1450,SQL,Feminino,MG,8.1,5.3,Não
+1451,Power BI,Feminino,PR,6.8,9.4,Sim
+1452,Python,Masculino,PR,8.3,6.9,Sim
+1453,Machine Learning,Feminino,RJ,9.1,5.4,Sim
+1454,Power BI,Feminino,MG,7.9,5.8,Sim
+1455,Power BI,Masculino,RS,4.7,7.5,Sim
+1456,SQL,Feminino,SP,7.3,6.6,Sim
+1457,Excel,Masculino,SP,6.1,6.9,Sim
+1458,Power BI,Masculino,RJ,5.5,7.6,Sim
+1459,Python,Masculino,RS,5.8,9.2,Não
+1460,Python,Feminino,RS,10.0,6.7,Não
+1461,Excel,Masculino,SP,8.5,8.0,Sim
+1462,Power BI,Masculino,PR,2.7,7.6,Não
+1463,Python,Masculino,SP,,8.3,Sim
+1464,Power BI,Masculino,PR,6.1,6.0,Sim
+1465,Power BI,Feminino,MG,8.9,8.2,Sim
+1466,SQL,Masculino,RS,7.3,9.4,Sim
+1467,Excel,Feminino,RJ,9.5,9.9,Sim
+1468,SQL,Feminino,RS,7.0,5.9,Não
+1469,Excel,Feminino,SP,4.9,8.7,Não
+1470,Python,Masculino,MG,7.1,9.2,Não
+1471,SQL,Feminino,SP,5.0,7.0,Sim
+1472,Python,Feminino,RJ,5.9,5.6,Não
+1473,Power BI,Masculino,PR,7.2,7.8,Não
+1474,Power BI,Masculino,PR,8.2,8.2,Sim
+1475,Excel,Feminino,PR,7.1,7.0,Sim
+1476,SQL,Feminino,RS,3.3,7.1,Não
+1477,Power BI,Feminino,SP,9.0,6.8,Não
+1478,Machine Learning,Feminino,PR,3.8,8.3,Sim
+1479,Power BI,Feminino,PR,6.2,9.1,Não
+1480,Excel,Feminino,RS,7.7,6.8,Não
+1481,SQL,Masculino,SP,6.4,8.0,Sim
+1482,SQL,Masculino,SP,6.1,5.5,Sim
+1483,Python,Feminino,RS,7.3,5.5,Sim
+1484,SQL,Feminino,RJ,7.4,9.1,Não
+1485,Power BI,Feminino,RJ,5.2,7.8,Não
+1486,Excel,Masculino,PR,9.0,7.5,Sim
+1487,Machine Learning,Feminino,MG,5.3,,Não
+1488,Excel,Feminino,MG,7.1,8.9,Sim
+1489,Power BI,Masculino,RJ,6.2,7.3,Não
+1490,SQL,Masculino,PR,8.6,,Sim
