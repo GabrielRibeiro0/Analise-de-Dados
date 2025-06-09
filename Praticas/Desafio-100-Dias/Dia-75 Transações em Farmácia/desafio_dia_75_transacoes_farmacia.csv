@@ -1,0 +1,461 @@
+id_transacao,produto,categoria,preco_unitario,quantidade,forma_pagamento,valor_total
+3001,Paracetamol,Analgésico,68.39,1,Dinheiro,68.39
+3002,Paracetamol,Antibiótico,16.24,4,Cartão Débito,64.96
+3003,Vitamina C,Vitamina,8.64,3,Pix,25.92
+3004,Dipirona,Vitamina,63.28,3,Cartão Débito,189.84
+3005,Paracetamol,Antibiótico,75.35,4,Cartão Crédito,301.4
+3006,Paracetamol,Outros,14.78,1,Cartão Crédito,14.78
+3007,Ibuprofeno,Outros,53.29,2,Cartão Crédito,106.58
+3008,Ibuprofeno,Analgésico,70.91,3,Cartão Débito,212.73
+3009,Dipirona,Vitamina,16.09,4,Cartão Crédito,64.36
+3010,Paracetamol,Analgésico,56.68,1,Cartão Débito,56.68
+3011,Vitamina C,Vitamina,55.6,1,Pix,55.6
+3012,Antialérgico,Antibiótico,42.26,2,Cartão Crédito,84.52
+3013,Vitamina C,Outros,,1,Pix,24.33
+3014,Dipirona,Vitamina,33.4,2,Dinheiro,66.8
+3015,Antialérgico,Antialérgico,75.11,1,Cartão Débito,75.11
+3016,Ibuprofeno,Antibiótico,63.72,4,Cartão Crédito,254.88
+3017,Xarope,Antibiótico,50.33,2,Dinheiro,100.66
+3018,Xarope,Antialérgico,43.03,3,Cartão Débito,129.09
+3019,Paracetamol,Antialérgico,73.11,1,Dinheiro,73.11
+3020,Paracetamol,Vitamina,70.7,2,Cartão Crédito,141.4
+3021,Paracetamol,Antialérgico,10.85,2,Pix,21.7
+3022,Xarope,Vitamina,15.29,2,Cartão Débito,30.58
+3023,Xarope,Analgésico,60.53,3,Dinheiro,181.59
+3024,Paracetamol,Analgésico,7.26,4,Pix,29.04
+3025,Xarope,Antibiótico,48.6,4,Pix,194.4
+3026,Xarope,Antialérgico,31.76,3,Dinheiro,95.28
+3027,Ibuprofeno,Analgésico,31.19,2,Dinheiro,62.38
+3028,Dipirona,Antibiótico,23.82,1,Cartão Crédito,23.82
+3029,Vitamina C,Outros,,3,Dinheiro,91.32000000000001
+3030,Dipirona,Outros,28.1,4,Pix,112.4
+3031,Ibuprofeno,Antialérgico,27.58,1,Pix,27.58
+3032,Vitamina C,Antibiótico,54.55,2,Cartão Crédito,109.1
+3033,Ibuprofeno,Analgésico,58.87,1,Pix,58.87
+3034,Ibuprofeno,Outros,15.6,2,Pix,31.2
+3035,Dipirona,Antibiótico,8.26,3,Pix,24.78
+3036,Vitamina C,Outros,25.7,1,Cartão Crédito,25.7
+3037,Antialérgico,Antialérgico,65.85,1,Pix,65.85
+3038,Paracetamol,Outros,69.4,3,Cartão Crédito,208.20000000000002
+3039,Vitamina C,Antibiótico,37.39,1,Dinheiro,37.39
+3040,Xarope,Analgésico,53.13,4,Pix,212.52
+3041,Dipirona,Vitamina,27.89,2,Cartão Crédito,55.78
+3042,Dipirona,Antibiótico,66.88,1,Cartão Débito,66.88
+3043,Ibuprofeno,Antialérgico,79.08,3,Cartão Débito,237.24
+3044,Paracetamol,Analgésico,,2,Pix,116.54
+3045,Paracetamol,Vitamina,25.34,1,Pix,25.34
+3046,Paracetamol,Outros,43.12,3,Pix,129.35999999999999
+3047,Dipirona,Vitamina,71.82,1,Cartão Crédito,71.82
+3048,Dipirona,Analgésico,23.06,1,Pix,23.06
+3049,Dipirona,Outros,49.1,2,Pix,98.2
+3050,Paracetamol,Analgésico,28.55,3,Dinheiro,85.65
+3051,Xarope,Vitamina,41.59,2,Cartão Débito,83.18
+3052,Xarope,Analgésico,5.53,2,Dinheiro,11.06
+3053,Antialérgico,Analgésico,58.62,3,Cartão Crédito,175.85999999999999
+3054,Vitamina C,Antibiótico,71.68,4,Pix,286.72
+3055,Paracetamol,Vitamina,73.04,3,,219.12
+3056,Dipirona,Analgésico,77.66,3,Pix,232.98
+3057,Xarope,Vitamina,77.83,2,Dinheiro,155.66
+3058,Ibuprofeno,Antibiótico,46.42,4,Cartão Débito,185.68
+3059,Dipirona,Analgésico,55.11,3,Pix,165.32999999999998
+3060,Vitamina C,Outros,41.89,2,Dinheiro,83.78
+3061,Xarope,Outros,14.79,4,Cartão Débito,59.16
+3062,Dipirona,Antibiótico,51.86,2,Cartão Crédito,103.72
+3063,Vitamina C,Antibiótico,18.01,3,Cartão Débito,54.03
+3064,Xarope,Outros,11.95,4,Cartão Débito,47.8
+3065,Ibuprofeno,Outros,18.77,2,Dinheiro,37.54
+3066,Antialérgico,Analgésico,57.05,4,Cartão Débito,228.2
+3067,Dipirona,Outros,57.11,4,Cartão Crédito,228.44
+3068,Vitamina C,Antibiótico,28.42,3,Dinheiro,85.26
+3069,Ibuprofeno,Antibiótico,45.98,3,Cartão Débito,137.94
+3070,Xarope,Antialérgico,59.92,1,Cartão Crédito,59.92
+3071,Ibuprofeno,Antialérgico,5.07,2,Cartão Débito,10.14
+3072,Xarope,Vitamina,9.18,2,Cartão Débito,18.36
+3073,Xarope,Vitamina,77.56,3,Dinheiro,232.68
+3074,Xarope,Antialérgico,26.58,3,Cartão Crédito,79.74
+3075,Paracetamol,Vitamina,,1,Cartão Débito,73.21
+3076,Xarope,Analgésico,75.6,4,Dinheiro,302.4
+3077,Vitamina C,Analgésico,48.84,4,Dinheiro,195.36
+3078,Antialérgico,Outros,24.25,2,Cartão Crédito,48.5
+3079,Ibuprofeno,Antialérgico,75.3,1,Pix,75.3
+3080,Antialérgico,Outros,5.09,4,Cartão Crédito,20.36
+3081,Antialérgico,Antialérgico,16.36,3,Pix,49.08
+3082,Dipirona,Analgésico,45.5,2,Pix,91.0
+3083,Xarope,Analgésico,17.11,4,Cartão Crédito,68.44
+3084,Xarope,Antialérgico,35.28,4,Dinheiro,141.12
+3085,Xarope,Antibiótico,43.64,1,Cartão Débito,43.64
+3086,Antialérgico,Outros,34.21,1,Cartão Crédito,34.21
+3087,Antialérgico,Antibiótico,70.69,1,Cartão Débito,70.69
+3088,Paracetamol,Analgésico,57.12,3,Cartão Crédito,171.35999999999999
+3089,Paracetamol,Outros,71.28,2,Pix,142.56
+3090,Paracetamol,Antibiótico,22.22,2,Cartão Débito,44.44
+3091,Antialérgico,Analgésico,65.6,1,Cartão Crédito,65.6
+3092,Dipirona,Analgésico,20.02,3,Dinheiro,60.06
+3093,Dipirona,Outros,14.86,4,Dinheiro,59.44
+3094,Vitamina C,Antibiótico,47.51,3,Pix,142.53
+3095,Antialérgico,Outros,57.97,4,Cartão Débito,231.88
+3096,Antialérgico,Vitamina,5.29,3,Pix,15.870000000000001
+3097,Ibuprofeno,Vitamina,56.3,2,Cartão Débito,112.6
+3098,Ibuprofeno,Antialérgico,43.67,2,Cartão Débito,87.34
+3099,Antialérgico,Vitamina,59.95,1,Cartão Crédito,59.95
+3100,Xarope,Antialérgico,55.98,4,Dinheiro,223.92
+3101,Dipirona,Outros,67.7,3,Pix,203.10000000000002
+3102,Paracetamol,Outros,30.81,2,Cartão Débito,61.62
+3103,Xarope,Vitamina,47.31,1,Dinheiro,47.31
+3104,Dipirona,Analgésico,34.67,4,Pix,138.68
+3105,Ibuprofeno,Antialérgico,38.55,1,Pix,38.55
+3106,Paracetamol,Antialérgico,31.06,1,Cartão Crédito,31.06
+3107,Antialérgico,Outros,69.14,3,Cartão Crédito,207.42000000000002
+3108,Xarope,Antialérgico,60.15,1,Cartão Crédito,60.15
+3109,Dipirona,Outros,6.98,3,Cartão Débito,20.94
+3110,Paracetamol,Outros,47.8,2,Dinheiro,95.6
+3111,Paracetamol,Antialérgico,12.83,2,,25.66
+3112,Antialérgico,Outros,62.06,2,Cartão Crédito,124.12
+3113,Vitamina C,Vitamina,13.24,4,Pix,52.96
+3114,Vitamina C,Antibiótico,5.83,1,Cartão Débito,5.83
+3115,Dipirona,Vitamina,46.88,3,Cartão Crédito,140.64000000000001
+3116,Vitamina C,Antialérgico,30.36,3,Pix,91.08
+3117,Ibuprofeno,Antialérgico,5.24,1,Dinheiro,5.24
+3118,Ibuprofeno,Analgésico,16.8,4,Cartão Crédito,67.2
+3119,Antialérgico,Outros,12.73,1,Cartão Crédito,12.73
+3120,Ibuprofeno,Analgésico,52.6,3,Cartão Crédito,157.8
+3121,Ibuprofeno,Antibiótico,20.87,4,Cartão Crédito,83.48
+3122,Paracetamol,Analgésico,6.73,2,Cartão Débito,13.46
+3123,Dipirona,Antialérgico,53.87,2,Cartão Crédito,107.74
+3124,Dipirona,Antialérgico,15.13,2,Pix,30.26
+3125,Antialérgico,Antialérgico,75.92,1,Cartão Crédito,75.92
+3126,Antialérgico,Analgésico,60.51,1,Cartão Crédito,60.51
+3127,Vitamina C,Outros,55.46,2,Dinheiro,110.92
+3128,Dipirona,Outros,60.95,2,Cartão Débito,121.9
+3129,Xarope,Antialérgico,69.39,4,Cartão Crédito,277.56
+3130,Paracetamol,Outros,49.14,4,Pix,196.56
+3131,Paracetamol,Antialérgico,58.04,3,Dinheiro,174.12
+3132,Antialérgico,Outros,56.08,4,Dinheiro,224.32
+3133,Ibuprofeno,Outros,30.99,3,Cartão Débito,92.97
+3134,Paracetamol,Analgésico,44.68,4,Cartão Débito,178.72
+3135,Xarope,Analgésico,76.79,1,Dinheiro,76.79
+3136,Dipirona,Antialérgico,45.11,2,Cartão Débito,90.22
+3137,Paracetamol,Antialérgico,73.76,4,Cartão Débito,295.04
+3138,Antialérgico,Antibiótico,53.37,1,Cartão Débito,53.37
+3139,Antialérgico,Vitamina,26.44,1,Cartão Crédito,26.44
+3140,Paracetamol,Antialérgico,31.34,2,,62.68
+3141,Dipirona,Vitamina,79.47,1,Cartão Débito,79.47
+3142,Vitamina C,Vitamina,32.53,4,Dinheiro,130.12
+3143,Dipirona,Antibiótico,62.66,1,Dinheiro,62.66
+3144,Xarope,Vitamina,40.73,3,Cartão Crédito,122.19
+3145,Antialérgico,Analgésico,61.45,2,Cartão Débito,122.9
+3146,Xarope,Outros,23.11,4,Dinheiro,92.44
+3147,Dipirona,Vitamina,71.6,2,Cartão Crédito,143.2
+3148,Paracetamol,Outros,43.1,1,Cartão Crédito,43.1
+3149,Paracetamol,Antibiótico,65.92,4,Pix,263.68
+3150,Ibuprofeno,Vitamina,52.56,1,Cartão Crédito,52.56
+3151,Vitamina C,Antialérgico,19.41,3,Pix,58.230000000000004
+3152,Vitamina C,Outros,,4,Pix,110.72
+3153,Ibuprofeno,Antibiótico,63.25,2,Cartão Crédito,126.5
+3154,Ibuprofeno,Outros,42.23,4,Dinheiro,168.92
+3155,Vitamina C,Analgésico,53.49,4,Dinheiro,213.96
+3156,Vitamina C,Antialérgico,6.17,1,Cartão Crédito,6.17
+3157,Vitamina C,Vitamina,71.44,2,Dinheiro,142.88
+3158,Vitamina C,Antibiótico,36.78,4,Cartão Crédito,147.12
+3159,Antialérgico,Outros,21.27,3,Dinheiro,63.81
+3160,Ibuprofeno,Vitamina,27.8,1,Dinheiro,27.8
+3161,Antialérgico,Vitamina,41.65,3,Cartão Crédito,124.94999999999999
+3162,Ibuprofeno,Antialérgico,38.38,4,Dinheiro,153.52
+3163,Ibuprofeno,Vitamina,72.86,4,Pix,291.44
+3164,Vitamina C,Antialérgico,30.03,4,Cartão Débito,120.12
+3165,Vitamina C,Antibiótico,75.6,4,Dinheiro,302.4
+3166,Antialérgico,Analgésico,22.86,1,Dinheiro,22.86
+3167,Dipirona,Outros,46.58,1,Cartão Crédito,46.58
+3168,Ibuprofeno,Antibiótico,8.07,2,Cartão Crédito,16.14
+3169,Dipirona,Antialérgico,37.41,3,Pix,112.22999999999999
+3170,Paracetamol,Outros,50.03,1,Pix,50.03
+3171,Ibuprofeno,Outros,77.57,1,Cartão Débito,77.57
+3172,Paracetamol,Analgésico,16.56,2,Cartão Débito,33.12
+3173,Vitamina C,Outros,76.29,1,Cartão Crédito,76.29
+3174,Paracetamol,Antibiótico,27.2,1,Cartão Débito,27.2
+3175,Dipirona,Antialérgico,34.97,4,Cartão Crédito,139.88
+3176,Paracetamol,Antialérgico,18.25,2,Cartão Débito,36.5
+3177,Dipirona,Antibiótico,66.67,1,Dinheiro,66.67
+3178,Ibuprofeno,Antibiótico,69.11,2,Cartão Crédito,138.22
+3179,Dipirona,Vitamina,70.5,2,Cartão Crédito,141.0
+3180,Antialérgico,Vitamina,,3,Pix,29.339999999999996
+3181,Antialérgico,Analgésico,79.88,3,Pix,239.64
+3182,Antialérgico,Outros,45.31,2,Cartão Crédito,90.62
+3183,Vitamina C,Outros,31.06,1,Cartão Crédito,31.06
+3184,Paracetamol,Antibiótico,50.4,2,Dinheiro,100.8
+3185,Vitamina C,Analgésico,27.58,4,Dinheiro,110.32
+3186,Xarope,Antibiótico,50.95,3,Pix,152.85000000000002
+3187,Antialérgico,Vitamina,68.86,4,Pix,275.44
+3188,Dipirona,Antibiótico,19.52,4,Cartão Débito,78.08
+3189,Paracetamol,Antibiótico,39.3,4,Pix,157.2
+3190,Vitamina C,Vitamina,66.45,4,Dinheiro,265.8
+3191,Antialérgico,Antialérgico,64.81,4,,259.24
+3192,Dipirona,Analgésico,64.33,4,Cartão Débito,257.32
+3193,Vitamina C,Antialérgico,29.36,3,Pix,88.08
+3194,Ibuprofeno,Antibiótico,57.63,3,Cartão Crédito,172.89000000000001
+3195,Dipirona,Analgésico,52.29,1,Cartão Crédito,52.29
+3196,Vitamina C,Analgésico,51.0,3,Pix,153.0
+3197,Antialérgico,Antialérgico,49.98,1,Cartão Crédito,49.98
+3198,Paracetamol,Antialérgico,43.85,4,Dinheiro,175.4
+3199,Paracetamol,Analgésico,63.01,4,Pix,252.04
+3200,Antialérgico,Outros,19.56,3,Pix,58.67999999999999
+3201,Dipirona,Antialérgico,55.2,1,,55.2
+3202,Dipirona,Antialérgico,34.76,3,Cartão Débito,104.28
+3203,Xarope,Analgésico,33.76,3,Dinheiro,101.28
+3204,Xarope,Analgésico,36.61,4,Cartão Crédito,146.44
+3205,Ibuprofeno,Analgésico,,1,Cartão Débito,32.12
+3206,Vitamina C,Outros,58.25,4,Cartão Débito,233.0
+3207,Xarope,Antialérgico,55.23,2,Cartão Crédito,110.46
+3208,Antialérgico,Outros,17.13,3,Dinheiro,51.39
+3209,Antialérgico,Antibiótico,44.23,1,Cartão Débito,44.23
+3210,Paracetamol,Antialérgico,11.26,1,Cartão Crédito,11.26
+3211,Paracetamol,Antibiótico,78.27,1,Cartão Débito,78.27
+3212,Paracetamol,Antialérgico,48.86,4,,195.44
+3213,Vitamina C,Vitamina,17.57,2,Cartão Crédito,35.14
+3214,Dipirona,Vitamina,,4,Dinheiro,220.68
+3215,Vitamina C,Vitamina,67.45,4,Dinheiro,269.8
+3216,Antialérgico,Outros,5.8,4,Dinheiro,23.2
+3217,Ibuprofeno,Antialérgico,19.97,2,Cartão Crédito,39.94
+3218,Paracetamol,Vitamina,6.86,2,,13.72
+3219,Dipirona,Antibiótico,44.53,3,Cartão Débito,133.59
+3220,Vitamina C,Antibiótico,74.83,1,Cartão Crédito,74.83
+3221,Xarope,Outros,77.06,2,Pix,154.12
+3222,Vitamina C,Antialérgico,61.79,4,Cartão Débito,247.16
+3223,Vitamina C,Antibiótico,62.05,2,Pix,124.1
+3224,Antialérgico,Outros,20.41,4,Pix,81.64
+3225,Ibuprofeno,Analgésico,71.58,2,Cartão Crédito,143.16
+3226,Xarope,Antialérgico,72.67,4,Pix,290.68
+3227,Paracetamol,Outros,29.81,1,Cartão Débito,29.81
+3228,Ibuprofeno,Antibiótico,14.12,1,Cartão Crédito,14.12
+3229,Xarope,Vitamina,64.66,2,Pix,129.32
+3230,Paracetamol,Outros,15.73,4,Pix,62.92
+3231,Dipirona,Antibiótico,15.92,2,Pix,31.84
+3232,Ibuprofeno,Vitamina,63.13,4,Cartão Débito,252.52
+3233,Antialérgico,Antialérgico,40.52,3,Cartão Débito,121.56
+3234,Paracetamol,Analgésico,42.26,2,Cartão Débito,84.52
+3235,Xarope,Analgésico,47.61,1,Cartão Débito,47.61
+3236,Dipirona,Analgésico,74.08,1,Cartão Crédito,74.08
+3237,Antialérgico,Vitamina,6.65,3,Dinheiro,19.950000000000003
+3238,Antialérgico,Vitamina,47.25,2,,94.5
+3239,Xarope,Antibiótico,9.63,2,Cartão Crédito,19.26
+3240,Dipirona,Antibiótico,59.91,1,Cartão Crédito,59.91
+3241,Ibuprofeno,Outros,38.03,3,Cartão Crédito,114.09
+3242,Xarope,Analgésico,17.5,2,Dinheiro,35.0
+3243,Paracetamol,Outros,52.16,1,Pix,52.16
+3244,Vitamina C,Analgésico,31.19,1,Pix,31.19
+3245,Antialérgico,Antibiótico,71.78,3,Dinheiro,215.34
+3246,Paracetamol,Outros,46.53,3,Dinheiro,139.59
+3247,Vitamina C,Vitamina,7.48,3,Cartão Crédito,22.44
+3248,Ibuprofeno,Vitamina,72.11,2,Cartão Débito,144.22
+3249,Dipirona,Antialérgico,56.34,1,Cartão Crédito,56.34
+3250,Ibuprofeno,Analgésico,32.55,2,Pix,65.1
+3251,Antialérgico,Antialérgico,46.82,2,Dinheiro,93.64
+3252,Ibuprofeno,Outros,46.65,4,,186.6
+3253,Antialérgico,Outros,64.75,3,Cartão Crédito,194.25
+3254,Antialérgico,Outros,68.47,1,Dinheiro,68.47
+3255,Dipirona,Analgésico,70.28,4,Pix,281.12
+3256,Ibuprofeno,Analgésico,78.17,2,Cartão Débito,156.34
+3257,Ibuprofeno,Outros,43.22,3,Cartão Débito,129.66
+3258,Paracetamol,Antialérgico,69.72,4,Dinheiro,278.88
+3259,Antialérgico,Analgésico,37.84,2,Dinheiro,75.68
+3260,Paracetamol,Analgésico,11.47,4,Dinheiro,45.88
+3261,Ibuprofeno,Antialérgico,15.61,4,Cartão Crédito,62.44
+3262,Dipirona,Outros,8.21,1,Cartão Débito,8.21
+3263,Paracetamol,Outros,44.25,4,Dinheiro,177.0
+3264,Dipirona,Vitamina,62.51,3,Cartão Crédito,187.53
+3265,Vitamina C,Antialérgico,45.41,3,Pix,136.23
+3266,Xarope,Analgésico,65.7,1,Cartão Débito,65.7
+3267,Xarope,Antialérgico,55.09,2,Cartão Crédito,110.18
+3268,Paracetamol,Vitamina,46.35,2,Cartão Débito,92.7
+3269,Ibuprofeno,Vitamina,31.22,2,Dinheiro,62.44
+3270,Vitamina C,Antialérgico,15.33,2,Cartão Débito,30.66
+3271,Xarope,Antibiótico,70.05,1,Cartão Débito,70.05
+3272,Vitamina C,Antialérgico,33.26,4,Pix,133.04
+3273,Dipirona,Antibiótico,43.82,3,Dinheiro,131.46
+3274,Xarope,Antibiótico,58.2,3,Cartão Crédito,174.60000000000002
+3275,Vitamina C,Analgésico,16.71,1,Cartão Crédito,16.71
+3276,Ibuprofeno,Outros,59.83,1,Pix,59.83
+3277,Vitamina C,Antialérgico,37.94,3,Cartão Crédito,113.82
+3278,Paracetamol,Antialérgico,43.84,3,Pix,131.52
+3279,Vitamina C,Antialérgico,53.29,1,Cartão Crédito,53.29
+3280,Vitamina C,Outros,58.82,2,Cartão Débito,117.64
+3281,Vitamina C,Antialérgico,41.72,2,Cartão Crédito,83.44
+3282,Ibuprofeno,Vitamina,11.46,4,Cartão Débito,45.84
+3283,Ibuprofeno,Analgésico,54.06,4,,216.24
+3284,Paracetamol,Antialérgico,57.27,3,Pix,171.81
+3285,Antialérgico,Vitamina,,2,Dinheiro,128.98
+3286,Xarope,Antialérgico,61.36,3,Pix,184.07999999999998
+3287,Ibuprofeno,Vitamina,64.3,1,Cartão Débito,64.3
+3288,Ibuprofeno,Antibiótico,9.07,3,Cartão Crédito,27.21
+3289,Antialérgico,Outros,27.21,1,Cartão Débito,27.21
+3290,Dipirona,Antibiótico,79.81,3,Pix,239.43
+3291,Vitamina C,Antialérgico,5.65,1,Dinheiro,5.65
+3292,Dipirona,Analgésico,18.08,2,Cartão Crédito,36.16
+3293,Antialérgico,Antibiótico,10.56,4,Cartão Crédito,42.24
+3294,Vitamina C,Antialérgico,16.82,3,Dinheiro,50.46
+3295,Xarope,Antialérgico,9.63,3,Dinheiro,28.89
+3296,Paracetamol,Vitamina,18.83,3,Cartão Débito,56.489999999999995
+3297,Vitamina C,Outros,61.0,3,Dinheiro,183.0
+3298,Ibuprofeno,Antibiótico,56.27,1,Dinheiro,56.27
+3299,Paracetamol,Antibiótico,10.69,1,Cartão Débito,10.69
+3300,Antialérgico,Vitamina,8.1,2,Cartão Crédito,16.2
+3301,Antialérgico,Analgésico,39.97,1,Pix,39.97
+3302,Antialérgico,Antialérgico,52.82,3,Cartão Crédito,158.46
+3303,Xarope,Vitamina,41.39,2,,82.78
+3304,Paracetamol,Antibiótico,28.53,1,Cartão Débito,28.53
+3305,Vitamina C,Antibiótico,8.34,4,Cartão Crédito,33.36
+3306,Vitamina C,Outros,46.72,3,Dinheiro,140.16
+3307,Paracetamol,Analgésico,24.23,4,Cartão Débito,96.92
+3308,Antialérgico,Antialérgico,56.26,4,Cartão Crédito,225.04
+3309,Dipirona,Antibiótico,29.04,3,Pix,87.12
+3310,Antialérgico,Analgésico,21.28,1,Cartão Débito,21.28
+3311,Paracetamol,Vitamina,18.25,2,Cartão Crédito,36.5
+3312,Dipirona,Antibiótico,29.95,3,Cartão Crédito,89.85
+3313,Paracetamol,Vitamina,13.62,1,Dinheiro,13.62
+3314,Vitamina C,Analgésico,61.35,4,Pix,245.4
+3315,Vitamina C,Analgésico,,4,Pix,94.08
+3316,Vitamina C,Vitamina,15.99,3,Cartão Crédito,47.97
+3317,Vitamina C,Antibiótico,39.64,4,Pix,158.56
+3318,Dipirona,Antialérgico,7.17,2,Cartão Débito,14.34
+3319,Xarope,Vitamina,33.9,1,Cartão Crédito,33.9
+3320,Antialérgico,Antibiótico,38.04,1,Pix,38.04
+3321,Vitamina C,Analgésico,74.65,3,Dinheiro,223.95000000000002
+3322,Xarope,Antialérgico,7.04,3,Dinheiro,21.12
+3323,Xarope,Antialérgico,16.54,3,Cartão Crédito,49.62
+3324,Paracetamol,Vitamina,,2,Cartão Débito,12.08
+3325,Xarope,Antibiótico,59.51,3,Cartão Crédito,178.53
+3326,Ibuprofeno,Vitamina,44.03,3,Cartão Débito,132.09
+3327,Vitamina C,Antibiótico,22.68,4,Dinheiro,90.72
+3328,Xarope,Vitamina,40.62,2,Pix,81.24
+3329,Xarope,Outros,24.88,1,Dinheiro,24.88
+3330,Antialérgico,Vitamina,72.69,1,Cartão Débito,72.69
+3331,Antialérgico,Antibiótico,7.07,4,Cartão Crédito,28.28
+3332,Antialérgico,Outros,21.18,1,Cartão Débito,21.18
+3333,Dipirona,Antialérgico,15.85,4,Cartão Crédito,63.4
+3334,Dipirona,Antialérgico,39.45,2,Cartão Crédito,78.9
+3335,Antialérgico,Analgésico,49.49,4,Cartão Débito,197.96
+3336,Paracetamol,Antialérgico,33.08,4,Cartão Crédito,132.32
+3337,Paracetamol,Antibiótico,24.2,3,Dinheiro,72.6
+3338,Ibuprofeno,Antibiótico,78.45,2,Dinheiro,156.9
+3339,Vitamina C,Outros,48.77,2,Dinheiro,97.54
+3340,Vitamina C,Antialérgico,64.56,4,Cartão Crédito,258.24
+3341,Xarope,Outros,65.55,2,Cartão Débito,131.1
+3342,Xarope,Vitamina,33.93,2,Cartão Crédito,67.86
+3343,Ibuprofeno,Antialérgico,36.98,3,Cartão Débito,110.94
+3344,Paracetamol,Outros,5.68,4,Dinheiro,22.72
+3345,Paracetamol,Antialérgico,73.36,2,Dinheiro,146.72
+3346,Antialérgico,Analgésico,41.44,1,Cartão Crédito,41.44
+3347,Vitamina C,Outros,12.86,2,Cartão Crédito,25.72
+3348,Dipirona,Outros,45.82,4,Dinheiro,183.28
+3349,Dipirona,Outros,57.82,2,Pix,115.64
+3350,Dipirona,Analgésico,52.46,3,Cartão Crédito,157.38
+3351,Paracetamol,Antialérgico,7.05,2,Cartão Débito,14.1
+3352,Antialérgico,Antibiótico,30.84,2,Cartão Crédito,61.68
+3353,Xarope,Vitamina,57.34,4,Pix,229.36
+3354,Ibuprofeno,Antialérgico,73.34,1,Pix,73.34
+3355,Vitamina C,Vitamina,36.05,3,Dinheiro,108.14999999999999
+3356,Vitamina C,Antialérgico,75.92,1,Cartão Débito,75.92
+3357,Antialérgico,Analgésico,48.06,1,Dinheiro,48.06
+3358,Ibuprofeno,Antialérgico,78.32,3,Pix,234.95999999999998
+3359,Paracetamol,Analgésico,67.17,3,Cartão Crédito,201.51
+3360,Ibuprofeno,Antibiótico,13.18,4,Cartão Crédito,52.72
+3361,Vitamina C,Antibiótico,41.07,4,Pix,164.28
+3362,Ibuprofeno,Analgésico,34.59,4,Cartão Crédito,138.36
+3363,Vitamina C,Analgésico,49.73,4,,198.92
+3364,Vitamina C,Outros,32.82,3,Cartão Débito,98.46000000000001
+3365,Antialérgico,Vitamina,16.93,4,Cartão Débito,67.72
+3366,Vitamina C,Vitamina,70.31,2,Pix,140.62
+3367,Xarope,Antialérgico,32.41,2,Cartão Crédito,64.82
+3368,Ibuprofeno,Antibiótico,57.31,2,Cartão Débito,114.62
+3369,Paracetamol,Antibiótico,73.02,3,Cartão Débito,219.06
+3370,Ibuprofeno,Vitamina,74.83,4,Dinheiro,299.32
+3371,Xarope,Antialérgico,64.63,2,Cartão Débito,129.26
+3372,Antialérgico,Outros,72.27,3,Cartão Crédito,216.81
+3373,Xarope,Outros,29.14,4,Cartão Crédito,116.56
+3374,Paracetamol,Antibiótico,28.44,4,Cartão Débito,113.76
+3375,Paracetamol,Antibiótico,77.13,4,Cartão Débito,308.52
+3376,Vitamina C,Analgésico,13.42,3,Cartão Crédito,40.26
+3377,Ibuprofeno,Antibiótico,78.72,4,Pix,314.88
+3378,Dipirona,Outros,19.49,1,Dinheiro,19.49
+3379,Ibuprofeno,Outros,25.13,3,Cartão Crédito,75.39
+3380,Dipirona,Outros,68.44,3,Cartão Débito,205.32
+3381,Xarope,Antibiótico,5.7,2,Dinheiro,11.4
+3382,Antialérgico,Outros,24.55,2,Cartão Débito,49.1
+3383,Dipirona,Vitamina,75.23,3,Pix,225.69
+3384,Ibuprofeno,Vitamina,44.93,1,Dinheiro,44.93
+3385,Vitamina C,Antibiótico,50.93,2,Cartão Crédito,101.86
+3386,Antialérgico,Antibiótico,51.96,3,Dinheiro,155.88
+3387,Xarope,Vitamina,35.8,2,Cartão Débito,71.6
+3388,Ibuprofeno,Antibiótico,54.82,4,Cartão Crédito,219.28
+3389,Dipirona,Antialérgico,15.78,4,,63.12
+3390,Vitamina C,Vitamina,37.05,3,,111.14999999999999
+3391,Paracetamol,Antibiótico,57.5,1,Cartão Crédito,57.5
+3392,Xarope,Outros,25.34,2,Cartão Crédito,50.68
+3393,Vitamina C,Vitamina,64.25,4,Cartão Débito,257.0
+3394,Xarope,Outros,8.17,1,Pix,8.17
+3395,Vitamina C,Vitamina,36.99,3,Cartão Débito,110.97
+3396,Xarope,Antibiótico,34.16,1,Cartão Crédito,34.16
+3397,Antialérgico,Vitamina,17.86,2,Dinheiro,35.72
+3398,Antialérgico,Vitamina,43.93,1,Cartão Crédito,43.93
+3399,Dipirona,Outros,34.14,4,Cartão Crédito,136.56
+3400,Vitamina C,Vitamina,53.62,1,Cartão Crédito,53.62
+3401,Vitamina C,Outros,64.5,3,Dinheiro,193.5
+3402,Dipirona,Antialérgico,,4,Pix,141.04
+3403,Antialérgico,Outros,61.01,1,Cartão Crédito,61.01
+3404,Xarope,Analgésico,53.26,3,Dinheiro,159.78
+3405,Vitamina C,Antibiótico,,2,Cartão Crédito,149.02
+3406,Dipirona,Antibiótico,18.35,1,Dinheiro,18.35
+3407,Antialérgico,Analgésico,9.53,4,Cartão Crédito,38.12
+3408,Antialérgico,Vitamina,67.56,4,Cartão Débito,270.24
+3409,Ibuprofeno,Antialérgico,66.1,2,Cartão Débito,132.2
+3410,Xarope,Outros,13.75,2,,27.5
+3411,Dipirona,Vitamina,50.32,1,Dinheiro,50.32
+3412,Xarope,Antialérgico,7.99,1,Cartão Crédito,7.99
+3413,Ibuprofeno,Antialérgico,6.68,1,Cartão Débito,6.68
+3414,Dipirona,Antibiótico,20.11,1,Cartão Crédito,20.11
+3415,Paracetamol,Vitamina,16.78,1,Dinheiro,16.78
+3416,Xarope,Analgésico,44.53,4,Cartão Crédito,178.12
+3417,Paracetamol,Antialérgico,58.41,3,Cartão Crédito,175.23
+3418,Paracetamol,Analgésico,56.91,3,Cartão Débito,170.73
+3419,Antialérgico,Antibiótico,60.21,3,Cartão Débito,180.63
+3420,Ibuprofeno,Outros,26.96,3,Pix,80.88
+3421,Ibuprofeno,Vitamina,21.5,1,Dinheiro,21.5
+3422,Vitamina C,Vitamina,39.95,4,Dinheiro,159.8
+3423,Dipirona,Analgésico,57.29,1,Cartão Débito,57.29
+3424,Antialérgico,Outros,21.63,2,Cartão Débito,43.26
+3425,Paracetamol,Antialérgico,50.1,2,Cartão Crédito,100.2
+3426,Vitamina C,Antialérgico,15.85,1,Cartão Crédito,15.85
+3427,Xarope,Antibiótico,23.62,2,Dinheiro,47.24
+3428,Antialérgico,Outros,50.14,2,Pix,100.28
+3429,Antialérgico,Vitamina,17.27,2,Pix,34.54
+3430,Vitamina C,Vitamina,37.34,1,Cartão Crédito,37.34
+3431,Vitamina C,Vitamina,50.52,2,Pix,101.04
+3432,Antialérgico,Outros,26.36,2,Cartão Débito,52.72
+3433,Antialérgico,Antibiótico,13.58,3,Dinheiro,40.74
+3434,Paracetamol,Antibiótico,54.3,3,Pix,162.89999999999998
+3435,Dipirona,Analgésico,74.66,2,Cartão Crédito,149.32
+3436,Xarope,Antibiótico,34.08,1,Cartão Débito,34.08
+3437,Ibuprofeno,Analgésico,63.15,1,Cartão Débito,63.15
+3438,Paracetamol,Analgésico,57.7,2,Cartão Débito,115.4
+3439,Dipirona,Antibiótico,67.46,2,Dinheiro,134.92
+3440,Dipirona,Outros,22.41,4,Cartão Débito,89.64
+3441,Xarope,Analgésico,74.54,2,Cartão Crédito,149.08
+3442,Antialérgico,Antialérgico,19.72,3,Cartão Débito,59.16
+3443,Dipirona,Antibiótico,64.78,1,Pix,64.78
+3444,Ibuprofeno,Analgésico,18.75,1,Cartão Débito,18.75
+3445,Antialérgico,Vitamina,17.56,3,Cartão Crédito,52.67999999999999
+3446,Xarope,Antibiótico,55.15,4,Dinheiro,220.6
+3447,Xarope,Analgésico,,3,Pix,38.58
+3448,Ibuprofeno,Antialérgico,50.6,4,Cartão Crédito,202.4
+3449,Antialérgico,Antibiótico,45.19,1,Dinheiro,45.19
+3450,Ibuprofeno,Vitamina,15.03,2,Cartão Crédito,30.06
+3451,Xarope,Vitamina,64.11,3,Dinheiro,192.32999999999998
+3452,Antialérgico,Antialérgico,40.33,1,Pix,40.33
+3453,Dipirona,Vitamina,58.05,1,Pix,58.05
+3454,Antialérgico,Antibiótico,,4,Cartão Débito,193.2
+3455,Vitamina C,Outros,39.31,4,Cartão Crédito,157.24
+3456,Vitamina C,Vitamina,42.7,2,Cartão Débito,85.4
+3457,Paracetamol,Antialérgico,65.62,4,Dinheiro,262.48
+3458,Xarope,Antialérgico,37.18,4,Pix,148.72
+3459,Ibuprofeno,Vitamina,39.5,3,Pix,118.5
+3460,Paracetamol,Antialérgico,38.28,1,Cartão Débito,38.28
