@@ -1,0 +1,501 @@
+id_funcionario,setor,idade,genero,tempo_empresa_anos,escolaridade,situacao
+7001,Administrativo,38,Masculino,2.7,Superior,Ativo
+7002,TI,19,Feminino,2.8,Ensino Médio,Desligado
+7003,Administrativo,22,Masculino,2.9,Superior,Desligado
+7004,Operações,11,Masculino,0.5,Ensino Médio,Ativo
+7005,Operações,38,Feminino,5.0,Superior,Desligado
+7006,Vendas,51,Masculino,9.8,Superior,Ativo
+7007,Vendas,35,Feminino,3.1,Ensino Médio,Ativo
+7008,Operações,33,Masculino,3.0,Ensino Médio,Ativo
+7009,Administrativo,39,Masculino,4.7,Superior,Desligado
+7010,Vendas,45,Feminino,7.0,Pós-graduação,Ativo
+7011,Operações,39,Masculino,2.6,Superior,Desligado
+7012,Operações,41,Masculino,4.9,Superior,Ativo
+7013,Administrativo,46,Feminino,6.8,Ensino Médio,Ativo
+7014,Vendas,44,Masculino,3.1,Pós-graduação,Ativo
+7015,Operações,46,Feminino,5.9,Ensino Médio,Ativo
+7016,TI,43,Feminino,5.8,Superior,Ativo
+7017,RH,30,Masculino,6.4,Pós-graduação,Ativo
+7018,Operações,35,Outro,3.6,Ensino Médio,Ativo
+7019,Vendas,47,Feminino,8.2,Superior,Ativo
+7020,Operações,38,,3.4,Superior,Desligado
+7021,RH,38,Feminino,7.6,Ensino Médio,Ativo
+7022,TI,25,Masculino,6.0,Superior,Ativo
+7023,RH,37,Feminino,2.5,Pós-graduação,Ativo
+7024,Operações,19,Feminino,6.2,Ensino Médio,Ativo
+7025,TI,32,Feminino,3.5,Ensino Médio,Ativo
+7026,Administrativo,31,Masculino,5.3,Superior,Ativo
+7027,Administrativo,34,Masculino,7.0,Pós-graduação,Ativo
+7028,Operações,32,Feminino,1.8,Superior,Ativo
+7029,Administrativo,44,Feminino,4.8,Superior,Ativo
+7030,Operações,31,Feminino,4.8,Superior,Ativo
+7031,Operações,33,Feminino,4.2,Superior,Ativo
+7032,TI,46,Feminino,8.6,Superior,Desligado
+7033,Administrativo,28,Outro,10.5,Superior,Ativo
+7034,TI,31,Feminino,4.1,Ensino Médio,Ativo
+7035,Operações,33,Feminino,4.9,Superior,Ativo
+7036,Administrativo,41,Masculino,3.4,Ensino Médio,Ativo
+7037,TI,28,Masculino,1.7,Superior,Ativo
+7038,Administrativo,40,Masculino,3.0,Superior,Ativo
+7039,TI,30,Feminino,4.0,Ensino Médio,Ativo
+7040,Vendas,25,Feminino,5.6,Ensino Médio,Ativo
+7041,RH,33,Masculino,9.1,Pós-graduação,Desligado
+7042,Administrativo,40,Feminino,4.6,Ensino Médio,Ativo
+7043,TI,42,Masculino,3.1,Superior,Ativo
+7044,Operações,24,Masculino,6.7,Superior,Ativo
+7045,Operações,36,Feminino,3.6,Superior,Ativo
+7046,Operações,23,Masculino,4.1,Superior,Ativo
+7047,Operações,22,Feminino,3.8,Superior,Ativo
+7048,Operações,28,Masculino,3.7,Ensino Médio,Ativo
+7049,Vendas,32,Feminino,0.8,Superior,Ativo
+7050,Administrativo,25,Masculino,6.8,Superior,Ativo
+7051,Vendas,41,Feminino,2.7,Pós-graduação,Ativo
+7052,Administrativo,36,Masculino,3.8,Superior,Ativo
+7053,Administrativo,41,Feminino,6.0,Superior,Ativo
+7054,Vendas,46,,4.6,Ensino Médio,Ativo
+7055,RH,28,Feminino,2.6,Superior,Ativo
+7056,TI,38,Masculino,5.3,Ensino Médio,Desligado
+7057,Administrativo,26,Feminino,0.5,Superior,Ativo
+7058,Vendas,33,Feminino,6.2,Superior,Desligado
+7059,RH,35,Feminino,3.3,Superior,Desligado
+7060,Vendas,41,Feminino,4.3,Ensino Médio,Ativo
+7061,Vendas,29,Feminino,2.4,Superior,Ativo
+7062,Vendas,37,Feminino,5.5,Pós-graduação,Ativo
+7063,TI,42,Feminino,1.6,Superior,Desligado
+7064,Vendas,27,Feminino,3.2,Ensino Médio,Ativo
+7065,RH,30,Masculino,3.1,Superior,Ativo
+7066,Administrativo,47,Masculino,3.2,Superior,Ativo
+7067,RH,36,Masculino,5.0,Ensino Médio,Ativo
+7068,RH,31,Masculino,5.2,Ensino Médio,Ativo
+7069,Vendas,39,Masculino,1.9,Ensino Médio,Ativo
+7070,TI,25,Masculino,1.0,Superior,Ativo
+7071,RH,52,Masculino,3.2,Ensino Médio,Ativo
+7072,Operações,32,Feminino,5.6,Superior,Ativo
+7073,Operações,20,Masculino,2.1,Ensino Médio,Ativo
+7074,Vendas,21,Feminino,2.3,Pós-graduação,Ativo
+7075,RH,32,Feminino,3.8,Superior,Desligado
+7076,Vendas,18,Masculino,2.8,Superior,Ativo
+7077,Vendas,20,,2.5,Ensino Médio,Ativo
+7078,Operações,35,Feminino,5.1,Ensino Médio,Ativo
+7079,RH,28,Masculino,7.5,Pós-graduação,Desligado
+7080,TI,72,Feminino,7.5,Ensino Médio,Ativo
+7081,Administrativo,25,Masculino,7.6,Superior,Desligado
+7082,RH,28,Outro,5.0,Superior,Ativo
+7083,TI,35,Masculino,5.2,Superior,Ativo
+7084,TI,27,Feminino,2.3,Superior,Ativo
+7085,Administrativo,33,Feminino,4.8,Superior,Desligado
+7086,Administrativo,28,Masculino,5.4,Superior,Ativo
+7087,Administrativo,25,Masculino,7.5,Ensino Médio,Ativo
+7088,Operações,29,Feminino,5.5,Superior,Ativo
+7089,RH,28,Masculino,,Superior,Ativo
+7090,RH,26,Outro,2.5,Pós-graduação,Desligado
+7091,TI,43,Masculino,8.0,Ensino Médio,Ativo
+7092,Operações,24,Masculino,4.5,Ensino Médio,Ativo
+7093,Vendas,43,Masculino,7.1,Ensino Médio,Ativo
+7094,Administrativo,47,Outro,3.9,Pós-graduação,Ativo
+7095,RH,22,Feminino,4.2,Superior,Desligado
+7096,Operações,51,Feminino,5.0,Ensino Médio,Ativo
+7097,RH,54,Feminino,3.0,Ensino Médio,Ativo
+7098,TI,36,Feminino,2.9,Ensino Médio,Ativo
+7099,TI,46,Masculino,4.6,Ensino Médio,Ativo
+7100,Administrativo,40,Masculino,0.7,Superior,Ativo
+7101,Administrativo,40,Masculino,,Superior,Ativo
+7102,Operações,42,Feminino,3.1,Superior,Ativo
+7103,Administrativo,36,Masculino,4.0,Superior,Ativo
+7104,RH,37,Outro,4.8,Ensino Médio,Desligado
+7105,RH,27,Masculino,4.6,Ensino Médio,Ativo
+7106,Operações,39,Masculino,3.7,Ensino Médio,Ativo
+7107,Vendas,38,Feminino,5.0,Superior,Ativo
+7108,RH,31,Masculino,2.1,Superior,Ativo
+7109,Operações,26,Outro,3.2,Ensino Médio,Ativo
+7110,Operações,31,Masculino,4.0,Pós-graduação,Ativo
+7111,Administrativo,48,Masculino,5.0,Superior,Ativo
+7112,Administrativo,27,Feminino,4.0,Superior,Ativo
+7113,RH,29,Masculino,5.2,Pós-graduação,Ativo
+7114,TI,38,Feminino,5.7,Superior,Ativo
+7115,RH,31,Feminino,1.1,Superior,Ativo
+7116,Operações,32,Feminino,4.1,Superior,Ativo
+7117,TI,39,Masculino,5.7,Pós-graduação,Desligado
+7118,RH,19,Masculino,1.8,Ensino Médio,Desligado
+7119,Vendas,29,,3.2,Ensino Médio,Ativo
+7120,TI,19,Masculino,3.4,Ensino Médio,Ativo
+7121,Operações,27,Masculino,2.6,Superior,Ativo
+7122,Vendas,39,Masculino,2.9,Pós-graduação,Ativo
+7123,TI,22,Outro,1.5,Superior,Ativo
+7124,Vendas,27,Feminino,4.2,Ensino Médio,Desligado
+7125,Operações,33,Masculino,4.1,Superior,Ativo
+7126,Vendas,44,Masculino,1.2,Pós-graduação,Ativo
+7127,Vendas,37,Feminino,4.9,Superior,Ativo
+7128,Operações,53,Feminino,8.7,Pós-graduação,Desligado
+7129,RH,37,Feminino,1.1,Ensino Médio,Ativo
+7130,RH,51,Feminino,7.5,Pós-graduação,Ativo
+7131,Administrativo,25,Masculino,4.3,Ensino Médio,Ativo
+7132,Operações,44,Masculino,,Ensino Médio,Desligado
+7133,Vendas,35,Feminino,2.6,Ensino Médio,Ativo
+7134,Operações,35,Masculino,,Ensino Médio,Ativo
+7135,Vendas,42,Masculino,3.1,Ensino Médio,Ativo
+7136,TI,34,Masculino,0.6,Ensino Médio,Ativo
+7137,TI,26,Masculino,3.1,Ensino Médio,Ativo
+7138,Administrativo,25,Masculino,2.2,Superior,Ativo
+7139,Operações,34,Outro,2.5,Pós-graduação,Desligado
+7140,Operações,33,,3.3,Superior,Ativo
+7141,TI,54,Masculino,3.8,Superior,Desligado
+7142,TI,28,Masculino,4.9,Superior,Desligado
+7143,TI,19,Feminino,2.4,Superior,Ativo
+7144,Operações,21,Feminino,6.0,Ensino Médio,Ativo
+7145,TI,35,,1.8,Superior,Ativo
+7146,Vendas,27,Masculino,4.4,Ensino Médio,Ativo
+7147,TI,12,Feminino,3.5,Superior,Ativo
+7148,TI,23,Masculino,5.0,Superior,Ativo
+7149,TI,34,Feminino,6.1,Superior,Ativo
+7150,Vendas,25,Feminino,2.4,Ensino Médio,Ativo
+7151,TI,24,Masculino,4.2,Ensino Médio,Desligado
+7152,RH,30,Outro,7.4,Ensino Médio,Ativo
+7153,RH,28,Feminino,3.4,Superior,Desligado
+7154,Operações,32,Feminino,2.7,Superior,Ativo
+7155,Vendas,50,Outro,5.7,Ensino Médio,Ativo
+7156,RH,34,Masculino,2.5,Ensino Médio,Ativo
+7157,RH,25,Masculino,1.5,Superior,Desligado
+7158,Operações,35,Feminino,2.7,Ensino Médio,Ativo
+7159,Operações,41,Masculino,4.5,Ensino Médio,Ativo
+7160,RH,32,Masculino,4.5,Ensino Médio,Ativo
+7161,RH,29,Masculino,5.8,Superior,Ativo
+7162,Operações,36,Masculino,6.1,Superior,Ativo
+7163,Operações,22,Feminino,1.7,Superior,Ativo
+7164,RH,27,Feminino,5.8,Ensino Médio,Ativo
+7165,Vendas,33,,7.2,Superior,Ativo
+7166,Vendas,28,Masculino,4.6,Superior,Ativo
+7167,Operações,25,Feminino,4.9,Pós-graduação,Ativo
+7168,Vendas,30,Outro,2.2,Superior,Ativo
+7169,Operações,32,Feminino,8.3,Pós-graduação,Ativo
+7170,Operações,28,Masculino,6.0,Ensino Médio,Ativo
+7171,Administrativo,20,Feminino,5.4,Superior,Ativo
+7172,TI,35,,2.2,Superior,Ativo
+7173,Administrativo,45,Masculino,3.9,Pós-graduação,Ativo
+7174,TI,51,Masculino,5.4,Ensino Médio,Ativo
+7175,Operações,39,Feminino,1.5,Pós-graduação,Ativo
+7176,RH,41,Masculino,2.2,Pós-graduação,Ativo
+7177,TI,36,Masculino,3.4,Ensino Médio,Ativo
+7178,Administrativo,37,Feminino,0.0,Superior,Ativo
+7179,Vendas,22,Masculino,5.1,Ensino Médio,Ativo
+7180,TI,34,Feminino,0.4,Superior,Ativo
+7181,Administrativo,38,Masculino,3.3,Ensino Médio,Ativo
+7182,Operações,57,Masculino,3.4,Ensino Médio,Ativo
+7183,Administrativo,37,Feminino,2.3,Ensino Médio,Ativo
+7184,Operações,35,Masculino,0.4,Superior,Ativo
+7185,TI,37,Feminino,5.0,Superior,Ativo
+7186,Administrativo,47,Masculino,4.4,Superior,Ativo
+7187,Administrativo,24,Feminino,3.5,Superior,Ativo
+7188,RH,30,Feminino,4.6,Superior,Ativo
+7189,Vendas,16,Feminino,2.1,Ensino Médio,Desligado
+7190,RH,22,Feminino,,Superior,Ativo
+7191,RH,44,Masculino,5.0,Superior,Ativo
+7192,TI,22,Feminino,4.8,Ensino Médio,Ativo
+7193,Operações,36,Masculino,4.5,Superior,Ativo
+7194,Administrativo,34,,6.7,Superior,Ativo
+7195,Vendas,27,Masculino,5.5,Superior,Ativo
+7196,TI,23,Masculino,5.9,Ensino Médio,Ativo
+7197,TI,14,Feminino,5.5,Superior,Ativo
+7198,Operações,46,Masculino,2.4,Ensino Médio,Ativo
+7199,TI,29,Feminino,4.1,Ensino Médio,Ativo
+7200,Administrativo,45,Feminino,3.8,Ensino Médio,Ativo
+7201,Administrativo,22,Masculino,,Pós-graduação,Desligado
+7202,RH,33,Feminino,4.1,Pós-graduação,Ativo
+7203,Vendas,23,Masculino,3.0,Superior,Ativo
+7204,Administrativo,45,Feminino,0.5,Ensino Médio,Ativo
+7205,Operações,53,Feminino,4.4,Superior,Ativo
+7206,Vendas,41,Feminino,5.3,Superior,Ativo
+7207,Administrativo,52,Feminino,0.9,Pós-graduação,Ativo
+7208,TI,46,Masculino,7.3,Ensino Médio,Ativo
+7209,Administrativo,32,,5.1,Pós-graduação,Ativo
+7210,Operações,36,Masculino,0.1,Superior,Ativo
+7211,Administrativo,16,Masculino,4.5,Superior,Ativo
+7212,RH,20,Feminino,4.1,Superior,Ativo
+7213,Operações,30,Feminino,7.6,Superior,Ativo
+7214,Administrativo,25,,4.5,Superior,Ativo
+7215,RH,26,Feminino,2.5,Ensino Médio,Ativo
+7216,Administrativo,42,Masculino,1.5,Superior,Ativo
+7217,RH,29,Masculino,4.4,Ensino Médio,Ativo
+7218,Operações,23,Masculino,0.8,Pós-graduação,Ativo
+7219,TI,20,Masculino,2.7,Superior,Ativo
+7220,Vendas,33,Feminino,4.2,Pós-graduação,Ativo
+7221,Vendas,27,Outro,5.3,Pós-graduação,Ativo
+7222,Administrativo,24,Feminino,1.0,Superior,Ativo
+7223,Vendas,38,Feminino,2.6,Ensino Médio,Ativo
+7224,Administrativo,19,Feminino,3.7,Pós-graduação,Ativo
+7225,RH,37,Masculino,5.2,Superior,Ativo
+7226,Operações,35,Masculino,2.7,Ensino Médio,Ativo
+7227,Vendas,54,Feminino,6.4,Superior,Ativo
+7228,Administrativo,42,Feminino,3.3,Superior,Ativo
+7229,TI,43,Masculino,3.0,Superior,Ativo
+7230,RH,32,Feminino,4.6,Ensino Médio,Ativo
+7231,Vendas,33,Feminino,5.0,Superior,Ativo
+7232,Administrativo,32,Masculino,4.5,Ensino Médio,Ativo
+7233,TI,32,,5.2,Superior,Desligado
+7234,RH,22,Masculino,2.5,Ensino Médio,Ativo
+7235,Operações,47,Masculino,8.7,Pós-graduação,Desligado
+7236,Operações,46,Masculino,3.0,Superior,Ativo
+7237,Vendas,47,Masculino,4.7,Superior,Desligado
+7238,TI,46,Masculino,4.5,Ensino Médio,Ativo
+7239,TI,33,Feminino,6.4,Superior,Ativo
+7240,Operações,61,Masculino,6.4,Ensino Médio,Ativo
+7241,TI,38,Masculino,1.3,Ensino Médio,Desligado
+7242,Vendas,53,Masculino,2.6,Superior,Ativo
+7243,Vendas,37,Feminino,3.4,Ensino Médio,Desligado
+7244,Operações,34,Feminino,3.5,Ensino Médio,Ativo
+7245,Operações,42,Masculino,3.3,Superior,Ativo
+7246,TI,25,Feminino,2.5,Superior,Ativo
+7247,Administrativo,30,Feminino,1.3,Ensino Médio,Desligado
+7248,TI,32,Masculino,6.1,Superior,Ativo
+7249,RH,43,Outro,4.3,Pós-graduação,Desligado
+7250,Administrativo,27,Masculino,5.3,Pós-graduação,Ativo
+7251,Operações,17,Feminino,4.6,Ensino Médio,Ativo
+7252,Operações,33,Feminino,3.9,Ensino Médio,Ativo
+7253,RH,28,Feminino,8.1,Superior,Desligado
+7254,Vendas,34,Feminino,1.9,Ensino Médio,Ativo
+7255,TI,20,Feminino,3.3,Pós-graduação,Ativo
+7256,Operações,27,Feminino,,Superior,Ativo
+7257,Operações,46,Feminino,4.4,Ensino Médio,Ativo
+7258,TI,36,Masculino,2.7,Ensino Médio,Ativo
+7259,RH,24,Outro,2.8,Ensino Médio,Ativo
+7260,Vendas,25,Outro,6.4,Superior,Ativo
+7261,Vendas,34,Feminino,2.9,Superior,Desligado
+7262,Operações,25,Feminino,4.8,Ensino Médio,Ativo
+7263,RH,44,Feminino,1.3,Superior,Ativo
+7264,Vendas,32,Feminino,6.0,Superior,Desligado
+7265,Operações,33,Masculino,3.5,Superior,Ativo
+7266,Operações,35,Masculino,5.7,Pós-graduação,Desligado
+7267,Administrativo,9,Masculino,2.2,Ensino Médio,Desligado
+7268,RH,40,Masculino,1.3,Pós-graduação,Ativo
+7269,Vendas,30,Masculino,6.0,Pós-graduação,Ativo
+7270,Operações,25,Feminino,2.5,Superior,Desligado
+7271,Administrativo,26,Feminino,7.0,Superior,Ativo
+7272,Vendas,30,Masculino,3.5,Ensino Médio,Ativo
+7273,Administrativo,24,Masculino,0.3,Ensino Médio,Ativo
+7274,Vendas,50,Feminino,6.8,Ensino Médio,Desligado
+7275,Vendas,33,Masculino,,Pós-graduação,Ativo
+7276,TI,49,Masculino,3.1,Superior,Ativo
+7277,Vendas,34,Masculino,6.9,Pós-graduação,Desligado
+7278,Operações,36,Masculino,7.9,Superior,Desligado
+7279,Administrativo,22,Masculino,4.6,Superior,Ativo
+7280,RH,48,Masculino,4.4,Ensino Médio,Ativo
+7281,TI,24,Masculino,3.4,Ensino Médio,Desligado
+7282,RH,39,Feminino,3.9,Ensino Médio,Desligado
+7283,Vendas,36,Masculino,3.0,Pós-graduação,Ativo
+7284,Vendas,35,Masculino,1.7,Superior,Ativo
+7285,Administrativo,27,Feminino,4.0,Superior,Desligado
+7286,RH,54,Feminino,3.3,Superior,Ativo
+7287,TI,29,Feminino,6.7,Superior,Ativo
+7288,Vendas,28,Masculino,4.5,Pós-graduação,Desligado
+7289,TI,31,Masculino,3.3,Superior,Ativo
+7290,Operações,20,Masculino,2.4,Ensino Médio,Ativo
+7291,Vendas,59,Feminino,2.9,Pós-graduação,Ativo
+7292,Vendas,37,Feminino,5.3,Superior,Ativo
+7293,TI,42,Feminino,1.8,Superior,Ativo
+7294,TI,27,Feminino,6.0,Superior,Ativo
+7295,Vendas,44,Masculino,1.8,Superior,Ativo
+7296,TI,22,Masculino,7.6,Superior,Ativo
+7297,RH,39,Masculino,0.7,Ensino Médio,Desligado
+7298,TI,30,Outro,7.4,Pós-graduação,Desligado
+7299,Administrativo,39,Feminino,2.2,Pós-graduação,Ativo
+7300,Operações,28,Masculino,3.5,Superior,Ativo
+7301,Administrativo,48,Masculino,3.6,Ensino Médio,Ativo
+7302,Operações,41,Feminino,2.1,Pós-graduação,Desligado
+7303,TI,31,Feminino,5.3,Ensino Médio,Ativo
+7304,Vendas,46,Masculino,1.6,Superior,Ativo
+7305,TI,28,Masculino,0.5,Superior,Ativo
+7306,Vendas,34,Feminino,4.7,Ensino Médio,Ativo
+7307,Vendas,37,Feminino,4.0,Pós-graduação,Ativo
+7308,TI,26,Masculino,4.4,Superior,Desligado
+7309,RH,55,Masculino,1.7,Superior,Ativo
+7310,Operações,34,Masculino,2.2,Superior,Ativo
+7311,RH,26,Masculino,5.7,Superior,Ativo
+7312,Vendas,40,Feminino,1.6,Pós-graduação,Ativo
+7313,Vendas,49,Feminino,5.9,Ensino Médio,Desligado
+7314,Administrativo,39,Masculino,3.1,Ensino Médio,Ativo
+7315,RH,39,Feminino,5.1,Superior,Desligado
+7316,TI,55,Feminino,9.3,Superior,Ativo
+7317,Administrativo,33,Masculino,4.4,Pós-graduação,Ativo
+7318,Administrativo,52,Feminino,4.9,Pós-graduação,Ativo
+7319,Operações,43,Feminino,3.6,Superior,Ativo
+7320,Administrativo,45,Masculino,4.3,Superior,Ativo
+7321,Operações,24,Feminino,4.1,Pós-graduação,Ativo
+7322,Administrativo,26,Masculino,3.0,Superior,Ativo
+7323,Vendas,31,Feminino,4.2,Pós-graduação,Ativo
+7324,RH,44,Feminino,6.9,Ensino Médio,Ativo
+7325,TI,25,Masculino,3.0,Ensino Médio,Ativo
+7326,Vendas,46,Masculino,6.7,Superior,Ativo
+7327,Administrativo,44,Masculino,4.9,Superior,Ativo
+7328,RH,32,Outro,3.2,Ensino Médio,Desligado
+7329,Operações,37,Masculino,6.9,Superior,Ativo
+7330,Vendas,34,Masculino,4.0,Pós-graduação,Ativo
+7331,Administrativo,48,Masculino,1.2,Superior,Ativo
+7332,Administrativo,31,Masculino,5.5,Pós-graduação,Desligado
+7333,RH,36,Masculino,,Ensino Médio,Ativo
+7334,Vendas,26,Feminino,5.8,Ensino Médio,Ativo
+7335,RH,63,Masculino,7.8,Pós-graduação,Ativo
+7336,RH,37,Masculino,5.5,Superior,Ativo
+7337,RH,40,Masculino,3.6,Pós-graduação,Ativo
+7338,Operações,25,Feminino,6.2,Ensino Médio,Ativo
+7339,RH,44,Feminino,7.1,Pós-graduação,Ativo
+7340,Vendas,47,Masculino,5.6,Ensino Médio,Ativo
+7341,TI,27,Feminino,4.8,Ensino Médio,Ativo
+7342,RH,46,Feminino,6.7,Superior,Ativo
+7343,Vendas,37,Masculino,3.5,Ensino Médio,Ativo
+7344,Administrativo,36,Masculino,,Ensino Médio,Ativo
+7345,Vendas,37,Masculino,1.9,Ensino Médio,Ativo
+7346,TI,67,Outro,4.5,Superior,Ativo
+7347,Administrativo,41,Feminino,4.7,Superior,Desligado
+7348,TI,38,Feminino,3.7,Superior,Ativo
+7349,Operações,46,Feminino,2.8,Superior,Desligado
+7350,Vendas,44,Masculino,4.2,Superior,Ativo
+7351,Operações,48,Masculino,4.7,Ensino Médio,Ativo
+7352,Vendas,38,Outro,4.5,Superior,Desligado
+7353,TI,31,Feminino,6.0,Ensino Médio,Ativo
+7354,Administrativo,20,Feminino,8.3,Superior,Ativo
+7355,Operações,31,Masculino,2.3,Superior,Ativo
+7356,TI,47,Feminino,3.6,Superior,Ativo
+7357,Administrativo,29,Feminino,7.4,Ensino Médio,Ativo
+7358,Administrativo,26,Feminino,3.1,Ensino Médio,Ativo
+7359,TI,45,Masculino,1.7,Superior,Ativo
+7360,Operações,43,Masculino,,Pós-graduação,Ativo
+7361,Administrativo,36,Outro,1.4,Ensino Médio,Ativo
+7362,Administrativo,30,Feminino,2.6,Ensino Médio,Desligado
+7363,TI,32,Feminino,6.6,Superior,Ativo
+7364,TI,27,Outro,7.2,Pós-graduação,Ativo
+7365,Operações,55,Feminino,4.9,Ensino Médio,Ativo
+7366,Operações,43,Feminino,4.2,Pós-graduação,Ativo
+7367,Operações,33,Masculino,4.0,Superior,Ativo
+7368,Vendas,21,Masculino,3.3,Ensino Médio,Desligado
+7369,TI,32,Masculino,4.1,Ensino Médio,Ativo
+7370,TI,34,Masculino,4.6,Superior,Ativo
+7371,TI,32,Masculino,7.3,Ensino Médio,Ativo
+7372,Administrativo,44,Feminino,5.5,Pós-graduação,Ativo
+7373,Administrativo,50,Masculino,2.3,Pós-graduação,Desligado
+7374,Administrativo,38,Masculino,3.7,Superior,Ativo
+7375,TI,37,Masculino,1.7,Superior,Ativo
+7376,Operações,48,Masculino,4.6,Superior,Ativo
+7377,Operações,26,Feminino,1.3,Ensino Médio,Desligado
+7378,TI,36,Masculino,,Ensino Médio,Ativo
+7379,RH,51,Outro,,Superior,Ativo
+7380,Vendas,38,Feminino,7.6,Superior,Ativo
+7381,RH,42,Masculino,1.0,Superior,Ativo
+7382,TI,48,Feminino,3.8,Superior,Ativo
+7383,Vendas,37,Masculino,3.8,Ensino Médio,Ativo
+7384,Administrativo,38,Feminino,4.3,Superior,Desligado
+7385,TI,37,Feminino,4.8,Superior,Ativo
+7386,TI,40,Masculino,2.1,Superior,Ativo
+7387,Administrativo,43,Feminino,2.4,Superior,Ativo
+7388,Operações,34,Outro,1.9,Pós-graduação,Ativo
+7389,Operações,39,Masculino,4.5,Superior,Desligado
+7390,RH,38,,5.3,Ensino Médio,Desligado
+7391,TI,57,Feminino,3.5,Ensino Médio,Ativo
+7392,Vendas,37,Feminino,3.1,Superior,Ativo
+7393,RH,47,Feminino,4.8,Pós-graduação,Ativo
+7394,Operações,37,Feminino,4.7,Ensino Médio,Ativo
+7395,TI,30,Masculino,3.3,Ensino Médio,Desligado
+7396,Administrativo,66,Feminino,,Pós-graduação,Ativo
+7397,TI,13,Feminino,3.3,Ensino Médio,Ativo
+7398,Administrativo,32,Outro,4.7,Pós-graduação,Ativo
+7399,Vendas,48,Masculino,1.8,Superior,Ativo
+7400,RH,27,Feminino,6.7,Ensino Médio,Ativo
+7401,RH,38,Outro,6.3,Pós-graduação,Ativo
+7402,RH,18,Masculino,6.4,Ensino Médio,Ativo
+7403,Operações,24,Feminino,3.6,Ensino Médio,Desligado
+7404,Administrativo,43,Masculino,2.9,Ensino Médio,Desligado
+7405,TI,40,Feminino,1.6,Superior,Ativo
+7406,Administrativo,35,Masculino,,Pós-graduação,Desligado
+7407,TI,47,Masculino,2.3,Superior,Ativo
+7408,Operações,49,Feminino,6.2,Pós-graduação,Ativo
+7409,Operações,37,Feminino,,Pós-graduação,Ativo
+7410,Administrativo,25,Feminino,0.4,Ensino Médio,Desligado
+7411,TI,34,Masculino,3.3,Superior,Ativo
+7412,Administrativo,45,Masculino,6.1,Superior,Ativo
+7413,Administrativo,33,Feminino,5.4,Superior,Ativo
+7414,TI,45,Masculino,3.5,Superior,Ativo
+7415,Vendas,42,Feminino,2.5,Superior,Ativo
+7416,Vendas,57,Masculino,1.6,Superior,Ativo
+7417,Administrativo,41,Feminino,1.9,Pós-graduação,Desligado
+7418,Administrativo,37,Feminino,4.2,Ensino Médio,Ativo
+7419,Administrativo,40,Masculino,3.2,Pós-graduação,Ativo
+7420,Administrativo,26,Masculino,3.0,Superior,Desligado
+7421,TI,25,Feminino,3.2,Ensino Médio,Ativo
+7422,RH,37,Masculino,4.3,Superior,Ativo
+7423,Administrativo,26,Feminino,0.6,Ensino Médio,Desligado
+7424,Vendas,43,Feminino,3.9,Ensino Médio,Ativo
+7425,Operações,55,Outro,5.0,Pós-graduação,Ativo
+7426,TI,14,Masculino,3.3,Pós-graduação,Ativo
+7427,TI,37,Feminino,5.2,Pós-graduação,Ativo
+7428,RH,45,Masculino,5.3,Ensino Médio,Desligado
+7429,TI,45,Feminino,4.1,Ensino Médio,Ativo
+7430,Administrativo,33,Masculino,2.7,Pós-graduação,Ativo
+7431,Vendas,32,Feminino,3.5,Ensino Médio,Ativo
+7432,Vendas,43,Feminino,6.6,Superior,Ativo
+7433,RH,25,Masculino,4.0,Ensino Médio,Ativo
+7434,TI,40,Feminino,6.2,Ensino Médio,Ativo
+7435,Operações,35,Feminino,7.1,Superior,Ativo
+7436,Operações,42,Feminino,2.4,Superior,Ativo
+7437,Operações,21,Masculino,5.7,Superior,Ativo
+7438,Administrativo,28,Feminino,4.4,Pós-graduação,Ativo
+7439,Vendas,37,Masculino,5.3,Ensino Médio,Ativo
+7440,Administrativo,17,Feminino,1.6,Ensino Médio,Ativo
+7441,Administrativo,28,Feminino,4.6,Superior,Ativo
+7442,Administrativo,30,,2.1,Superior,Ativo
+7443,Operações,37,Feminino,6.0,Ensino Médio,Ativo
+7444,Operações,35,Masculino,0.4,Superior,Ativo
+7445,Operações,43,Feminino,,Ensino Médio,Ativo
+7446,TI,39,Masculino,5.9,Ensino Médio,Ativo
+7447,TI,48,Feminino,8.9,Ensino Médio,Ativo
+7448,TI,53,Masculino,4.0,Ensino Médio,Ativo
+7449,Administrativo,25,Feminino,3.1,Pós-graduação,Ativo
+7450,RH,46,Feminino,3.3,Ensino Médio,Ativo
+7451,Operações,33,Feminino,5.0,Superior,Ativo
+7452,Vendas,47,Feminino,4.0,Superior,Desligado
+7453,TI,46,Masculino,5.6,Ensino Médio,Ativo
+7454,Vendas,43,Feminino,,Pós-graduação,Ativo
+7455,TI,26,Masculino,4.1,Superior,Ativo
+7456,Administrativo,28,Feminino,3.2,Superior,Ativo
+7457,Administrativo,47,Masculino,1.9,Superior,Ativo
+7458,Operações,20,Feminino,6.9,Superior,Ativo
+7459,Vendas,53,Feminino,0.8,Superior,Ativo
+7460,TI,34,Masculino,8.4,Superior,Ativo
+7461,Operações,43,Masculino,,Ensino Médio,Ativo
+7462,TI,23,Masculino,4.5,Ensino Médio,Ativo
+7463,Operações,30,Masculino,3.9,Ensino Médio,Desligado
+7464,Administrativo,29,Feminino,4.6,Superior,Desligado
+7465,Administrativo,35,Masculino,2.8,Superior,Ativo
+7466,Administrativo,19,Feminino,5.0,Superior,Ativo
+7467,RH,15,Feminino,5.1,Superior,Ativo
+7468,RH,47,Feminino,5.2,Ensino Médio,Ativo
+7469,Operações,29,,5.8,Ensino Médio,Desligado
+7470,Operações,28,Outro,,Pós-graduação,Ativo
+7471,Operações,55,,6.7,Ensino Médio,Desligado
+7472,Vendas,18,Feminino,4.5,Ensino Médio,Ativo
+7473,Administrativo,25,Masculino,4.1,Superior,Ativo
+7474,Administrativo,31,Feminino,4.5,Pós-graduação,Ativo
+7475,Operações,16,Feminino,4.9,Superior,Ativo
+7476,Operações,45,Masculino,3.3,Ensino Médio,Ativo
+7477,Vendas,34,Feminino,2.7,Superior,Ativo
+7478,Vendas,39,Feminino,4.7,Pós-graduação,Ativo
+7479,Administrativo,47,,9.7,Ensino Médio,Desligado
+7480,Vendas,28,Masculino,2.3,Ensino Médio,Ativo
+7481,Operações,42,Feminino,4.2,Superior,Desligado
+7482,RH,50,Masculino,1.4,Superior,Ativo
+7483,Operações,47,Feminino,2.0,Pós-graduação,Desligado
+7484,RH,50,Masculino,1.3,Ensino Médio,Ativo
+7485,Operações,35,Feminino,5.2,Superior,Ativo
+7486,Vendas,28,Feminino,5.4,Ensino Médio,Ativo
+7487,TI,42,,3.7,Pós-graduação,Ativo
+7488,TI,25,,4.3,Superior,Ativo
+7489,TI,24,Masculino,1.7,Superior,Desligado
+7490,RH,26,Feminino,4.1,Ensino Médio,Ativo
+7491,TI,36,Masculino,4.1,Superior,Ativo
+7492,RH,41,,5.8,Ensino Médio,Ativo
+7493,Vendas,45,Feminino,5.3,Pós-graduação,Desligado
+7494,Operações,32,Masculino,6.7,Superior,Ativo
+7495,Vendas,37,Feminino,2.9,Superior,Ativo
+7496,TI,26,Masculino,2.1,Superior,Ativo
+7497,Administrativo,44,Masculino,1.5,Superior,Ativo
+7498,Vendas,20,Feminino,4.6,Superior,Desligado
+7499,RH,23,Masculino,3.9,Superior,Desligado
+7500,Vendas,33,Masculino,4.3,Ensino Médio,Desligado
