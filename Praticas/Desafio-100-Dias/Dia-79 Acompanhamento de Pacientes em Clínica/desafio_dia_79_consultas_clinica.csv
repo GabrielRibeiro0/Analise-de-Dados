@@ -1,0 +1,501 @@
+id_consulta,especialidade,genero,idade,dias_espera,status_consulta
+8001,Ortopedia,Masculino,48,8.0,Compareceu
+8002,Pediatria,Masculino,45,29.0,Cancelou
+8003,Dermatologia,Feminino,48,17.0,Compareceu
+8004,Clínico Geral,Masculino,36,13.0,Compareceu
+8005,Ortopedia,Feminino,54,1.0,Compareceu
+8006,Clínico Geral,Feminino,56,8.0,Compareceu
+8007,Cardiologia,Feminino,36,16.0,Compareceu
+8008,Cardiologia,Feminino,44,25.0,Compareceu
+8009,Ortopedia,Masculino,39,14.0,Compareceu
+8010,Pediatria,Feminino,55,7.0,Compareceu
+8011,Ortopedia,Masculino,39,24.0,Faltou
+8012,Ortopedia,Masculino,61,17.0,Cancelou
+8013,Dermatologia,Feminino,32,11.0,Compareceu
+8014,Cardiologia,Feminino,22,20.0,Compareceu
+8015,Ortopedia,Feminino,40,29.0,Compareceu
+8016,Dermatologia,Masculino,29,5.0,Compareceu
+8017,Ortopedia,Feminino,42,27.0,Cancelou
+8018,Dermatologia,Feminino,38,21.0,Compareceu
+8019,Pediatria,Masculino,46,17.0,Compareceu
+8020,Dermatologia,Feminino,36,28.0,Compareceu
+8021,Dermatologia,Feminino,45,10.0,Cancelou
+8022,Pediatria,Feminino,32,17.0,Compareceu
+8023,Clínico Geral,Feminino,37,8.0,Cancelou
+8024,Dermatologia,Masculino,51,25.0,Compareceu
+8025,Pediatria,Feminino,12,6.0,Compareceu
+8026,Pediatria,Masculino,45,7.0,Cancelou
+8027,Dermatologia,Masculino,24,17.0,Cancelou
+8028,Clínico Geral,Feminino,21,13.0,Compareceu
+8029,Ortopedia,Feminino,60,24.0,Compareceu
+8030,Ortopedia,Feminino,7,10.0,Cancelou
+8031,Cardiologia,Masculino,42,10.0,Cancelou
+8032,Dermatologia,Feminino,39,1.0,Compareceu
+8033,Ortopedia,Feminino,24,19.0,Compareceu
+8034,Clínico Geral,Feminino,36,13.0,Cancelou
+8035,Dermatologia,Masculino,39,23.0,Faltou
+8036,Clínico Geral,Masculino,49,3.0,Compareceu
+8037,Dermatologia,Feminino,36,4.0,Faltou
+8038,Dermatologia,Masculino,59,13.0,Compareceu
+8039,Dermatologia,Masculino,52,0.0,Cancelou
+8040,Ortopedia,Masculino,37,14.0,Compareceu
+8041,Pediatria,Feminino,25,16.0,Cancelou
+8042,Cardiologia,Masculino,5,28.0,Compareceu
+8043,Cardiologia,Feminino,31,,Cancelou
+8044,Ortopedia,Masculino,35,27.0,Compareceu
+8045,Pediatria,Feminino,26,10.0,Compareceu
+8046,Pediatria,Feminino,55,21.0,Faltou
+8047,Cardiologia,Masculino,40,5.0,Cancelou
+8048,Cardiologia,Masculino,38,8.0,Compareceu
+8049,Clínico Geral,Feminino,12,7.0,Compareceu
+8050,Pediatria,Feminino,36,8.0,Faltou
+8051,Ortopedia,Feminino,27,21.0,Compareceu
+8052,Clínico Geral,Masculino,45,15.0,Cancelou
+8053,Pediatria,Masculino,49,11.0,Cancelou
+8054,Dermatologia,Masculino,46,25.0,Compareceu
+8055,Cardiologia,Masculino,41,0.0,Compareceu
+8056,Ortopedia,Feminino,66,23.0,Faltou
+8057,Ortopedia,Masculino,28,10.0,Compareceu
+8058,Pediatria,Feminino,57,,Cancelou
+8059,Clínico Geral,Feminino,19,4.0,Compareceu
+8060,Clínico Geral,Feminino,43,0.0,Compareceu
+8061,Cardiologia,Masculino,46,10.0,Compareceu
+8062,Ortopedia,Feminino,18,22.0,Compareceu
+8063,Ortopedia,Masculino,23,21.0,Cancelou
+8064,Pediatria,Feminino,59,2.0,Compareceu
+8065,Ortopedia,Masculino,41,20.0,Compareceu
+8066,Dermatologia,Masculino,57,3.0,Compareceu
+8067,Ortopedia,Feminino,37,20.0,Compareceu
+8068,Pediatria,Masculino,44,28.0,Compareceu
+8069,Clínico Geral,Masculino,47,13.0,Compareceu
+8070,Pediatria,Masculino,54,11.0,Compareceu
+8071,Pediatria,Masculino,52,5.0,Compareceu
+8072,Pediatria,Feminino,46,,Cancelou
+8073,Dermatologia,Feminino,17,,Compareceu
+8074,Clínico Geral,Masculino,58,2.0,Compareceu
+8075,Clínico Geral,Feminino,22,,Compareceu
+8076,Ortopedia,Feminino,33,4.0,Cancelou
+8077,Clínico Geral,Feminino,36,3.0,Cancelou
+8078,Dermatologia,Feminino,29,2.0,Compareceu
+8079,Dermatologia,Masculino,41,17.0,Compareceu
+8080,Clínico Geral,Masculino,48,0.0,Compareceu
+8081,Dermatologia,Masculino,44,26.0,Faltou
+8082,Pediatria,Feminino,46,29.0,Compareceu
+8083,Pediatria,Feminino,39,2.0,Compareceu
+8084,Clínico Geral,Masculino,34,21.0,Compareceu
+8085,Ortopedia,Masculino,24,24.0,Compareceu
+8086,Cardiologia,Masculino,54,18.0,Cancelou
+8087,Cardiologia,Feminino,42,1.0,Cancelou
+8088,Ortopedia,Masculino,48,1.0,Compareceu
+8089,Pediatria,Feminino,58,12.0,Compareceu
+8090,Dermatologia,Feminino,33,26.0,Compareceu
+8091,Pediatria,Masculino,1,5.0,Faltou
+8092,Cardiologia,Masculino,34,13.0,Compareceu
+8093,Ortopedia,Feminino,37,25.0,Compareceu
+8094,Cardiologia,Masculino,22,5.0,Compareceu
+8095,Pediatria,Masculino,49,26.0,Cancelou
+8096,Cardiologia,Feminino,29,15.0,Cancelou
+8097,Clínico Geral,Feminino,42,20.0,Compareceu
+8098,Dermatologia,Masculino,52,25.0,Compareceu
+8099,Clínico Geral,Masculino,42,12.0,Compareceu
+8100,Dermatologia,Feminino,55,26.0,Cancelou
+8101,Dermatologia,Masculino,16,4.0,Compareceu
+8102,Clínico Geral,Masculino,11,21.0,Compareceu
+8103,Pediatria,Feminino,41,14.0,Compareceu
+8104,Ortopedia,Masculino,34,21.0,Cancelou
+8105,Clínico Geral,Masculino,49,29.0,Compareceu
+8106,Cardiologia,Masculino,51,13.0,Compareceu
+8107,Dermatologia,Feminino,17,18.0,Compareceu
+8108,Dermatologia,Feminino,49,24.0,Compareceu
+8109,Ortopedia,Masculino,41,19.0,Compareceu
+8110,Dermatologia,Masculino,19,24.0,Cancelou
+8111,Pediatria,Feminino,14,22.0,Cancelou
+8112,Pediatria,Masculino,37,2.0,Compareceu
+8113,Ortopedia,Feminino,21,6.0,Compareceu
+8114,Dermatologia,Feminino,55,7.0,Compareceu
+8115,Cardiologia,Masculino,40,19.0,Compareceu
+8116,Ortopedia,Feminino,32,27.0,Compareceu
+8117,Clínico Geral,Masculino,26,9.0,Faltou
+8118,Cardiologia,Masculino,45,21.0,Faltou
+8119,Pediatria,Masculino,49,21.0,Cancelou
+8120,Clínico Geral,Feminino,33,25.0,Compareceu
+8121,Cardiologia,Feminino,70,2.0,Compareceu
+8122,Dermatologia,Feminino,26,10.0,Compareceu
+8123,Dermatologia,Feminino,50,5.0,Compareceu
+8124,Clínico Geral,Masculino,48,3.0,Compareceu
+8125,Clínico Geral,Feminino,45,4.0,Compareceu
+8126,Clínico Geral,Feminino,68,27.0,Compareceu
+8127,Clínico Geral,Feminino,48,8.0,Compareceu
+8128,Dermatologia,Masculino,43,24.0,Compareceu
+8129,Pediatria,,46,5.0,Compareceu
+8130,Ortopedia,Feminino,48,11.0,Compareceu
+8131,Cardiologia,Feminino,50,10.0,Compareceu
+8132,Clínico Geral,Feminino,35,5.0,Compareceu
+8133,Ortopedia,Masculino,55,24.0,Compareceu
+8134,Cardiologia,Feminino,28,23.0,Compareceu
+8135,Ortopedia,Feminino,38,22.0,Compareceu
+8136,Ortopedia,Masculino,62,16.0,Compareceu
+8137,Cardiologia,Feminino,55,20.0,Compareceu
+8138,Pediatria,Feminino,19,13.0,Compareceu
+8139,Cardiologia,Masculino,36,27.0,Compareceu
+8140,Cardiologia,Masculino,39,16.0,Compareceu
+8141,Pediatria,Feminino,16,1.0,Compareceu
+8142,Clínico Geral,Masculino,56,26.0,Compareceu
+8143,Clínico Geral,Feminino,20,14.0,Compareceu
+8144,Pediatria,Masculino,48,9.0,Compareceu
+8145,Dermatologia,Masculino,23,22.0,Cancelou
+8146,Dermatologia,Masculino,17,3.0,Compareceu
+8147,Ortopedia,Feminino,28,23.0,Cancelou
+8148,Ortopedia,Feminino,59,17.0,Compareceu
+8149,Clínico Geral,Masculino,36,14.0,Compareceu
+8150,Pediatria,Masculino,43,13.0,Faltou
+8151,Cardiologia,Feminino,12,18.0,Faltou
+8152,Ortopedia,,40,10.0,Cancelou
+8153,Cardiologia,Masculino,52,11.0,Compareceu
+8154,Dermatologia,Feminino,67,7.0,Compareceu
+8155,Cardiologia,Feminino,63,11.0,Cancelou
+8156,Dermatologia,Feminino,34,2.0,Compareceu
+8157,Pediatria,Masculino,48,7.0,Compareceu
+8158,Dermatologia,Feminino,38,3.0,Compareceu
+8159,Pediatria,Masculino,37,2.0,Compareceu
+8160,Clínico Geral,Feminino,33,0.0,Cancelou
+8161,Pediatria,Masculino,22,29.0,Faltou
+8162,Cardiologia,Masculino,46,28.0,Compareceu
+8163,Pediatria,Feminino,33,25.0,Compareceu
+8164,Dermatologia,Feminino,60,19.0,Compareceu
+8165,Cardiologia,Feminino,33,5.0,Compareceu
+8166,Clínico Geral,Masculino,56,16.0,Faltou
+8167,Pediatria,Feminino,39,17.0,Compareceu
+8168,Clínico Geral,Feminino,53,2.0,Cancelou
+8169,Ortopedia,Masculino,13,6.0,Compareceu
+8170,Dermatologia,Masculino,39,16.0,Compareceu
+8171,Ortopedia,Feminino,54,13.0,Compareceu
+8172,Cardiologia,Masculino,37,20.0,Compareceu
+8173,Pediatria,Masculino,64,13.0,Faltou
+8174,Pediatria,Feminino,48,,Faltou
+8175,Clínico Geral,Masculino,37,28.0,Compareceu
+8176,Cardiologia,Masculino,34,21.0,Compareceu
+8177,Ortopedia,Feminino,27,10.0,Cancelou
+8178,Clínico Geral,Feminino,35,10.0,Compareceu
+8179,Cardiologia,Masculino,40,15.0,Compareceu
+8180,Pediatria,Feminino,0,3.0,Compareceu
+8181,Ortopedia,Masculino,24,18.0,Compareceu
+8182,Clínico Geral,Masculino,68,6.0,Compareceu
+8183,Cardiologia,Masculino,65,8.0,Compareceu
+8184,Pediatria,Masculino,6,15.0,Cancelou
+8185,Cardiologia,,34,7.0,Compareceu
+8186,Clínico Geral,Feminino,50,22.0,Compareceu
+8187,Clínico Geral,,31,24.0,Compareceu
+8188,Pediatria,Feminino,51,29.0,Compareceu
+8189,Clínico Geral,Feminino,51,17.0,Compareceu
+8190,Ortopedia,Feminino,60,14.0,Compareceu
+8191,Cardiologia,Feminino,27,2.0,Compareceu
+8192,Clínico Geral,Masculino,49,15.0,Faltou
+8193,Dermatologia,Feminino,68,20.0,Compareceu
+8194,Clínico Geral,Feminino,59,10.0,Compareceu
+8195,Ortopedia,Feminino,46,20.0,Compareceu
+8196,Cardiologia,Masculino,30,29.0,Faltou
+8197,Clínico Geral,Masculino,38,,Compareceu
+8198,Cardiologia,Masculino,38,20.0,Cancelou
+8199,Pediatria,,41,19.0,Compareceu
+8200,Clínico Geral,Feminino,18,6.0,Cancelou
+8201,Cardiologia,Feminino,33,21.0,Compareceu
+8202,Clínico Geral,Masculino,35,28.0,Cancelou
+8203,Ortopedia,Masculino,38,0.0,Faltou
+8204,Ortopedia,Masculino,42,6.0,Compareceu
+8205,Ortopedia,Feminino,44,7.0,Compareceu
+8206,Ortopedia,Masculino,37,19.0,Faltou
+8207,Dermatologia,,6,29.0,Compareceu
+8208,Dermatologia,Feminino,68,23.0,Compareceu
+8209,Dermatologia,Masculino,6,29.0,Cancelou
+8210,Clínico Geral,Feminino,52,1.0,Compareceu
+8211,Ortopedia,Feminino,20,22.0,Compareceu
+8212,Cardiologia,Feminino,35,21.0,Compareceu
+8213,Ortopedia,Masculino,44,23.0,Cancelou
+8214,Ortopedia,Masculino,47,19.0,Compareceu
+8215,Clínico Geral,Feminino,56,9.0,Compareceu
+8216,Dermatologia,Feminino,40,25.0,Faltou
+8217,Dermatologia,Feminino,32,8.0,Compareceu
+8218,Clínico Geral,Feminino,15,11.0,Compareceu
+8219,Ortopedia,Feminino,38,14.0,Faltou
+8220,Clínico Geral,Feminino,33,15.0,Compareceu
+8221,Clínico Geral,Feminino,38,,Compareceu
+8222,Dermatologia,Feminino,28,6.0,Compareceu
+8223,Clínico Geral,Masculino,44,19.0,Compareceu
+8224,Pediatria,Feminino,14,22.0,Compareceu
+8225,Clínico Geral,Feminino,53,9.0,Compareceu
+8226,Cardiologia,Masculino,53,23.0,Compareceu
+8227,Clínico Geral,Feminino,59,,Compareceu
+8228,Ortopedia,Feminino,20,28.0,Compareceu
+8229,Cardiologia,Feminino,47,25.0,Compareceu
+8230,Clínico Geral,Feminino,40,26.0,Compareceu
+8231,Cardiologia,Feminino,47,27.0,Compareceu
+8232,Dermatologia,Masculino,46,22.0,Compareceu
+8233,Ortopedia,Masculino,28,21.0,Compareceu
+8234,Clínico Geral,Masculino,15,25.0,Cancelou
+8235,Dermatologia,Masculino,53,19.0,Compareceu
+8236,Dermatologia,Masculino,41,1.0,Compareceu
+8237,Cardiologia,Masculino,28,17.0,Compareceu
+8238,Dermatologia,Feminino,82,10.0,Compareceu
+8239,Clínico Geral,Feminino,54,13.0,Compareceu
+8240,Dermatologia,Feminino,27,10.0,Cancelou
+8241,Cardiologia,Masculino,38,12.0,Compareceu
+8242,Clínico Geral,Feminino,32,21.0,Compareceu
+8243,Pediatria,Feminino,54,7.0,Compareceu
+8244,Cardiologia,Feminino,39,10.0,Compareceu
+8245,Clínico Geral,Masculino,46,2.0,Faltou
+8246,Dermatologia,Feminino,33,17.0,Compareceu
+8247,Cardiologia,Masculino,57,23.0,Compareceu
+8248,Clínico Geral,Feminino,33,17.0,Compareceu
+8249,Pediatria,Feminino,29,18.0,Compareceu
+8250,Cardiologia,Feminino,47,18.0,Compareceu
+8251,Clínico Geral,Feminino,54,19.0,Faltou
+8252,Ortopedia,Masculino,39,25.0,Compareceu
+8253,Ortopedia,Feminino,69,3.0,Compareceu
+8254,Dermatologia,Feminino,39,16.0,Compareceu
+8255,Ortopedia,Masculino,49,16.0,Compareceu
+8256,Ortopedia,Feminino,32,13.0,Compareceu
+8257,Cardiologia,Feminino,58,25.0,Compareceu
+8258,Cardiologia,Feminino,57,12.0,Cancelou
+8259,Dermatologia,Masculino,29,17.0,Faltou
+8260,Pediatria,Feminino,32,20.0,Cancelou
+8261,Ortopedia,Masculino,29,17.0,Compareceu
+8262,Cardiologia,Feminino,39,7.0,Compareceu
+8263,Pediatria,Masculino,56,0.0,Compareceu
+8264,Dermatologia,Feminino,60,7.0,Compareceu
+8265,Ortopedia,Feminino,32,11.0,Faltou
+8266,Dermatologia,Masculino,27,13.0,Cancelou
+8267,Pediatria,Masculino,41,4.0,Cancelou
+8268,Ortopedia,Masculino,60,,Compareceu
+8269,Pediatria,Masculino,36,6.0,Compareceu
+8270,Clínico Geral,Masculino,36,27.0,Faltou
+8271,Ortopedia,Feminino,69,0.0,Compareceu
+8272,Clínico Geral,Masculino,50,11.0,Compareceu
+8273,Pediatria,Masculino,42,11.0,Compareceu
+8274,Pediatria,Feminino,55,24.0,Compareceu
+8275,Clínico Geral,Feminino,41,18.0,Compareceu
+8276,Dermatologia,Masculino,30,3.0,Compareceu
+8277,Ortopedia,Masculino,27,14.0,Compareceu
+8278,Pediatria,Masculino,48,9.0,Faltou
+8279,Dermatologia,Masculino,36,24.0,Faltou
+8280,Dermatologia,Masculino,33,22.0,Cancelou
+8281,Cardiologia,Masculino,34,14.0,Compareceu
+8282,Pediatria,Masculino,54,26.0,Compareceu
+8283,Cardiologia,Feminino,44,15.0,Faltou
+8284,Clínico Geral,Feminino,65,4.0,Compareceu
+8285,Clínico Geral,Masculino,25,9.0,Compareceu
+8286,Ortopedia,Masculino,45,28.0,Cancelou
+8287,Cardiologia,Feminino,31,7.0,Faltou
+8288,Clínico Geral,Feminino,38,29.0,Compareceu
+8289,Cardiologia,Masculino,61,25.0,Compareceu
+8290,Cardiologia,Masculino,65,13.0,Faltou
+8291,Cardiologia,Feminino,39,7.0,Compareceu
+8292,Dermatologia,Masculino,33,22.0,Cancelou
+8293,Dermatologia,Masculino,65,0.0,Faltou
+8294,Ortopedia,Masculino,35,21.0,Compareceu
+8295,Cardiologia,Feminino,50,4.0,Compareceu
+8296,Cardiologia,Masculino,68,2.0,Compareceu
+8297,Cardiologia,Masculino,63,27.0,Compareceu
+8298,Ortopedia,Feminino,41,23.0,Compareceu
+8299,Ortopedia,Feminino,39,29.0,Compareceu
+8300,Dermatologia,Masculino,69,4.0,Cancelou
+8301,Ortopedia,Masculino,10,3.0,Compareceu
+8302,Pediatria,Masculino,59,15.0,Cancelou
+8303,Cardiologia,Feminino,79,9.0,Compareceu
+8304,Clínico Geral,Feminino,24,23.0,Compareceu
+8305,Cardiologia,Masculino,37,18.0,Compareceu
+8306,Ortopedia,Masculino,38,21.0,Compareceu
+8307,Pediatria,,51,20.0,Faltou
+8308,Ortopedia,Masculino,72,27.0,Compareceu
+8309,Ortopedia,Feminino,44,24.0,Compareceu
+8310,Dermatologia,Masculino,48,1.0,Faltou
+8311,Pediatria,Feminino,30,16.0,Compareceu
+8312,Clínico Geral,Masculino,56,5.0,Compareceu
+8313,Clínico Geral,,48,21.0,Compareceu
+8314,Ortopedia,Feminino,19,8.0,Compareceu
+8315,Ortopedia,Masculino,31,20.0,Compareceu
+8316,Dermatologia,Masculino,49,0.0,Compareceu
+8317,Dermatologia,Feminino,23,13.0,Compareceu
+8318,Cardiologia,Masculino,19,17.0,Compareceu
+8319,Pediatria,Masculino,45,21.0,Compareceu
+8320,Ortopedia,,37,1.0,Compareceu
+8321,Cardiologia,Feminino,38,19.0,Compareceu
+8322,Ortopedia,Masculino,38,6.0,Compareceu
+8323,Clínico Geral,Masculino,24,6.0,Compareceu
+8324,Pediatria,Feminino,53,,Cancelou
+8325,Cardiologia,Masculino,47,15.0,Compareceu
+8326,Pediatria,Feminino,43,0.0,Compareceu
+8327,Pediatria,Feminino,11,8.0,Compareceu
+8328,Clínico Geral,Masculino,26,6.0,Compareceu
+8329,Pediatria,Masculino,13,11.0,Compareceu
+8330,Ortopedia,Masculino,48,6.0,Faltou
+8331,Pediatria,Masculino,43,17.0,Cancelou
+8332,Ortopedia,,20,5.0,Compareceu
+8333,Cardiologia,Masculino,52,1.0,Compareceu
+8334,Cardiologia,Feminino,41,0.0,Compareceu
+8335,Dermatologia,Feminino,30,23.0,Compareceu
+8336,Ortopedia,Masculino,36,26.0,Cancelou
+8337,Ortopedia,Masculino,44,,Compareceu
+8338,Clínico Geral,Feminino,26,25.0,Compareceu
+8339,Clínico Geral,Masculino,33,0.0,Compareceu
+8340,Cardiologia,Feminino,27,17.0,Compareceu
+8341,Pediatria,Feminino,24,10.0,Faltou
+8342,Dermatologia,Masculino,49,18.0,Compareceu
+8343,Clínico Geral,Masculino,35,15.0,Compareceu
+8344,Dermatologia,Masculino,42,20.0,Compareceu
+8345,Cardiologia,Feminino,29,22.0,Compareceu
+8346,Ortopedia,Masculino,45,24.0,Compareceu
+8347,Ortopedia,Masculino,46,24.0,Compareceu
+8348,Clínico Geral,Feminino,52,13.0,Compareceu
+8349,Dermatologia,Masculino,46,9.0,Cancelou
+8350,Dermatologia,Feminino,74,24.0,Compareceu
+8351,Dermatologia,,47,29.0,Compareceu
+8352,Pediatria,Masculino,41,20.0,Compareceu
+8353,Clínico Geral,Feminino,63,8.0,Compareceu
+8354,Pediatria,Feminino,12,27.0,Compareceu
+8355,Dermatologia,Feminino,43,16.0,Cancelou
+8356,Dermatologia,Feminino,33,2.0,Compareceu
+8357,Cardiologia,Feminino,29,5.0,Compareceu
+8358,Pediatria,Masculino,50,4.0,Compareceu
+8359,Pediatria,Feminino,36,2.0,Compareceu
+8360,Ortopedia,Masculino,45,17.0,Compareceu
+8361,Cardiologia,Feminino,15,2.0,Compareceu
+8362,Clínico Geral,Masculino,46,19.0,Compareceu
+8363,Ortopedia,Feminino,35,13.0,Faltou
+8364,Clínico Geral,Masculino,29,22.0,Compareceu
+8365,Pediatria,Feminino,38,23.0,Compareceu
+8366,Pediatria,Feminino,18,20.0,Compareceu
+8367,Pediatria,Feminino,28,1.0,Compareceu
+8368,Dermatologia,Feminino,34,3.0,Compareceu
+8369,Clínico Geral,Masculino,62,12.0,Compareceu
+8370,Dermatologia,Masculino,50,4.0,Compareceu
+8371,Pediatria,Feminino,45,29.0,Compareceu
+8372,Dermatologia,Feminino,16,23.0,Cancelou
+8373,Clínico Geral,Masculino,36,4.0,Cancelou
+8374,Cardiologia,Masculino,67,5.0,Compareceu
+8375,Dermatologia,Masculino,65,25.0,Compareceu
+8376,Cardiologia,Feminino,51,27.0,Cancelou
+8377,Ortopedia,,22,19.0,Faltou
+8378,Pediatria,Feminino,43,6.0,Faltou
+8379,Dermatologia,Masculino,50,22.0,Compareceu
+8380,Ortopedia,Feminino,49,17.0,Compareceu
+8381,Cardiologia,Masculino,18,20.0,Compareceu
+8382,Dermatologia,Masculino,24,8.0,Compareceu
+8383,Cardiologia,Masculino,23,12.0,Compareceu
+8384,Pediatria,Masculino,54,5.0,Compareceu
+8385,Clínico Geral,Masculino,41,29.0,Compareceu
+8386,Cardiologia,Masculino,16,6.0,Cancelou
+8387,Dermatologia,Masculino,49,19.0,Compareceu
+8388,Clínico Geral,Masculino,38,24.0,Compareceu
+8389,Pediatria,Masculino,38,21.0,Compareceu
+8390,Ortopedia,Masculino,19,3.0,Cancelou
+8391,Pediatria,Feminino,56,26.0,Faltou
+8392,Clínico Geral,Feminino,16,13.0,Compareceu
+8393,Cardiologia,Masculino,40,0.0,Compareceu
+8394,Cardiologia,Feminino,42,23.0,Faltou
+8395,Cardiologia,Masculino,33,0.0,Compareceu
+8396,Pediatria,Feminino,43,13.0,Cancelou
+8397,Dermatologia,,9,4.0,Compareceu
+8398,Ortopedia,Feminino,23,27.0,Compareceu
+8399,Cardiologia,Feminino,63,21.0,Compareceu
+8400,Clínico Geral,Masculino,38,10.0,Compareceu
+8401,Clínico Geral,Masculino,66,6.0,Compareceu
+8402,Pediatria,Feminino,31,18.0,Cancelou
+8403,Clínico Geral,Feminino,27,21.0,Compareceu
+8404,Clínico Geral,Masculino,34,1.0,Faltou
+8405,Clínico Geral,Feminino,47,9.0,Compareceu
+8406,Dermatologia,Masculino,55,27.0,Compareceu
+8407,Ortopedia,Masculino,57,3.0,Compareceu
+8408,Cardiologia,Masculino,28,24.0,Compareceu
+8409,Dermatologia,Feminino,61,16.0,Compareceu
+8410,Ortopedia,Feminino,47,13.0,Compareceu
+8411,Pediatria,Masculino,17,,Compareceu
+8412,Cardiologia,Masculino,36,27.0,Compareceu
+8413,Clínico Geral,Feminino,31,19.0,Compareceu
+8414,Pediatria,Feminino,42,7.0,Cancelou
+8415,Ortopedia,Feminino,42,28.0,Compareceu
+8416,Ortopedia,Masculino,45,26.0,Faltou
+8417,Pediatria,Feminino,73,3.0,Compareceu
+8418,Clínico Geral,Masculino,48,19.0,Compareceu
+8419,Pediatria,Feminino,36,27.0,Compareceu
+8420,Cardiologia,Masculino,19,2.0,Compareceu
+8421,Cardiologia,Masculino,28,24.0,Compareceu
+8422,Clínico Geral,Feminino,70,20.0,Faltou
+8423,Clínico Geral,Feminino,36,20.0,Compareceu
+8424,Pediatria,Masculino,53,22.0,Compareceu
+8425,Pediatria,Feminino,39,14.0,Cancelou
+8426,Ortopedia,Masculino,13,28.0,Compareceu
+8427,Clínico Geral,Feminino,32,29.0,Cancelou
+8428,Cardiologia,Feminino,40,3.0,Cancelou
+8429,Cardiologia,Masculino,58,1.0,Compareceu
+8430,Ortopedia,Masculino,11,3.0,Compareceu
+8431,Pediatria,Feminino,41,15.0,Compareceu
+8432,Dermatologia,Feminino,37,22.0,Compareceu
+8433,Pediatria,Masculino,56,17.0,Compareceu
+8434,Clínico Geral,Feminino,29,1.0,Faltou
+8435,Clínico Geral,Feminino,45,25.0,Faltou
+8436,Dermatologia,Feminino,40,0.0,Compareceu
+8437,Cardiologia,Masculino,33,22.0,Compareceu
+8438,Ortopedia,Masculino,25,22.0,Compareceu
+8439,Ortopedia,Masculino,55,2.0,Compareceu
+8440,Pediatria,Feminino,0,,Cancelou
+8441,Pediatria,Feminino,52,17.0,Cancelou
+8442,Ortopedia,Feminino,21,17.0,Compareceu
+8443,Pediatria,Masculino,60,22.0,Compareceu
+8444,Ortopedia,Masculino,27,12.0,Compareceu
+8445,Ortopedia,Feminino,37,20.0,Cancelou
+8446,Pediatria,Masculino,22,28.0,Compareceu
+8447,Dermatologia,Masculino,21,14.0,Compareceu
+8448,Clínico Geral,Feminino,23,2.0,Cancelou
+8449,Ortopedia,Feminino,22,11.0,Compareceu
+8450,Ortopedia,,59,15.0,Compareceu
+8451,Pediatria,Masculino,72,13.0,Faltou
+8452,Pediatria,Masculino,36,7.0,Faltou
+8453,Ortopedia,Feminino,47,17.0,Compareceu
+8454,Pediatria,Feminino,16,0.0,Compareceu
+8455,Pediatria,Feminino,43,19.0,Faltou
+8456,Dermatologia,Masculino,67,26.0,Cancelou
+8457,Cardiologia,Feminino,53,9.0,Compareceu
+8458,Dermatologia,Feminino,54,,Compareceu
+8459,Pediatria,Feminino,21,5.0,Compareceu
+8460,Ortopedia,Feminino,19,2.0,Faltou
+8461,Clínico Geral,Masculino,46,27.0,Cancelou
+8462,Ortopedia,Masculino,12,29.0,Faltou
+8463,Clínico Geral,Masculino,42,5.0,Compareceu
+8464,Ortopedia,Feminino,44,14.0,Compareceu
+8465,Cardiologia,Masculino,16,27.0,Compareceu
+8466,Clínico Geral,Masculino,25,10.0,Compareceu
+8467,Ortopedia,Feminino,44,3.0,Compareceu
+8468,Cardiologia,Masculino,66,20.0,Compareceu
+8469,Ortopedia,,43,13.0,Faltou
+8470,Pediatria,Masculino,23,0.0,Faltou
+8471,Ortopedia,Masculino,20,27.0,Faltou
+8472,Clínico Geral,Masculino,38,0.0,Compareceu
+8473,Cardiologia,Masculino,1,4.0,Cancelou
+8474,Cardiologia,Feminino,37,1.0,Compareceu
+8475,Pediatria,Masculino,28,19.0,Compareceu
+8476,Ortopedia,Masculino,27,26.0,Compareceu
+8477,Cardiologia,Feminino,33,20.0,Compareceu
+8478,Clínico Geral,Masculino,55,3.0,Compareceu
+8479,Ortopedia,Masculino,33,8.0,Compareceu
+8480,Pediatria,Feminino,23,0.0,Compareceu
+8481,Ortopedia,Masculino,43,5.0,Compareceu
+8482,Clínico Geral,Feminino,47,6.0,Compareceu
+8483,Dermatologia,Feminino,36,2.0,Compareceu
+8484,Dermatologia,Feminino,52,14.0,Cancelou
+8485,Clínico Geral,Feminino,22,17.0,Cancelou
+8486,Pediatria,Masculino,54,2.0,Compareceu
+8487,Pediatria,Masculino,24,13.0,Faltou
+8488,Pediatria,Feminino,56,9.0,Compareceu
+8489,Cardiologia,Feminino,52,0.0,Compareceu
+8490,Ortopedia,Masculino,67,16.0,Compareceu
+8491,Ortopedia,Feminino,52,5.0,Cancelou
+8492,Dermatologia,Masculino,43,6.0,Compareceu
+8493,Clínico Geral,Feminino,57,2.0,Cancelou
+8494,Cardiologia,Feminino,26,11.0,Compareceu
+8495,Dermatologia,Masculino,42,23.0,Cancelou
+8496,Cardiologia,Masculino,31,26.0,Compareceu
+8497,Dermatologia,Masculino,39,13.0,Compareceu
+8498,Clínico Geral,Masculino,28,5.0,Compareceu
+8499,Dermatologia,Feminino,43,27.0,Compareceu
+8500,Clínico Geral,Feminino,27,21.0,Compareceu
