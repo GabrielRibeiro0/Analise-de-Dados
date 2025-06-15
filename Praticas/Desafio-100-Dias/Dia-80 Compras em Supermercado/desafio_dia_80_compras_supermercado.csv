@@ -1,0 +1,501 @@
+id_compra,dia_semana,categoria,valor,forma_pagamento
+9001,Sexta,Limpeza,28.03,Cartão Débito
+9002,Domingo,Bebidas,37.9,Cartão Crédito
+9003,Quinta,Pet,15.23,Cartão Débito
+9004,Quarta,Outros,34.07,Cartão Débito
+9005,Quarta,Bebidas,75.31,Cartão Débito
+9006,Quinta,Limpeza,22.48,Cartão Crédito
+9007,Domingo,Alimentos,41.37,Cartão Débito
+9008,Quinta,Pet,65.58,Pix
+9009,Terça,Limpeza,80.9,Cartão Crédito
+9010,Sábado,Outros,15.88,Cartão Crédito
+9011,Quarta,Bebidas,8.81,Cartão Débito
+9012,Sexta,Higiene,9.59,Cartão Crédito
+9013,Segunda,Limpeza,27.27,Cartão Crédito
+9014,Terça,Bebidas,28.76,Dinheiro
+9015,Terça,Limpeza,7.34,Cartão Crédito
+9016,Sexta,Limpeza,47.21,Pix
+9017,Domingo,Higiene,33.21,Cartão Crédito
+9018,Quarta,Higiene,38.97,Cartão Crédito
+9019,Sexta,Bebidas,42.6,Cartão Débito
+9020,Quinta,Bebidas,28.13,Dinheiro
+9021,Sexta,Alimentos,23.4,Cartão Crédito
+9022,Sábado,Alimentos,65.11,Cartão Crédito
+9023,Quarta,Higiene,32.45,Cartão Débito
+9024,Sexta,Alimentos,65.55,Cartão Débito
+9025,Quinta,Higiene,15.83,Pix
+9026,Domingo,Higiene,26.89,
+9027,Terça,Bebidas,70.3,Cartão Crédito
+9028,Segunda,Limpeza,11.69,Cartão Crédito
+9029,Sábado,Higiene,6.81,Cartão Crédito
+9030,Segunda,Bebidas,17.06,Cartão Crédito
+9031,Segunda,Higiene,29.15,Cartão Débito
+9032,Quinta,Outros,88.01,Cartão Débito
+9033,Domingo,Limpeza,60.03,
+9034,Quinta,Alimentos,33.07,Cartão Crédito
+9035,Domingo,Alimentos,16.19,Cartão Débito
+9036,Quarta,Higiene,2.78,Cartão Débito
+9037,Segunda,Pet,31.74,Cartão Crédito
+9038,Quinta,Higiene,77.54,Cartão Crédito
+9039,Sábado,Limpeza,35.74,Cartão Crédito
+9040,Quarta,Bebidas,34.49,Cartão Débito
+9041,Quarta,Outros,122.19,Cartão Crédito
+9042,Domingo,Bebidas,111.04,Cartão Crédito
+9043,Terça,Bebidas,16.64,Cartão Crédito
+9044,Segunda,Bebidas,38.51,Dinheiro
+9045,Domingo,Limpeza,20.0,Cartão Crédito
+9046,Sexta,Alimentos,38.42,
+9047,Segunda,Outros,15.25,Cartão Débito
+9048,Terça,Pet,35.25,Cartão Crédito
+9049,Segunda,Alimentos,7.78,Dinheiro
+9050,Sexta,Higiene,3.72,Cartão Crédito
+9051,Terça,Higiene,48.75,Cartão Crédito
+9052,Domingo,Outros,92.87,Dinheiro
+9053,Sábado,Alimentos,49.32,Cartão Débito
+9054,Terça,Bebidas,5.19,Cartão Débito
+9055,Domingo,Higiene,8.35,Dinheiro
+9056,Terça,Outros,38.25,Cartão Débito
+9057,Segunda,Outros,20.45,Cartão Crédito
+9058,Terça,Higiene,,Cartão Crédito
+9059,Sexta,Outros,37.54,Cartão Débito
+9060,Segunda,Higiene,,Dinheiro
+9061,Quinta,Alimentos,30.98,Pix
+9062,Segunda,Higiene,14.41,Cartão Débito
+9063,Quinta,Bebidas,11.55,Cartão Débito
+9064,Domingo,Alimentos,26.39,Dinheiro
+9065,Quinta,Limpeza,61.56,Cartão Crédito
+9066,Quarta,Alimentos,105.18,
+9067,Sábado,Bebidas,75.13,Dinheiro
+9068,Segunda,Pet,,Dinheiro
+9069,Quinta,Alimentos,,Cartão Crédito
+9070,Quinta,Limpeza,86.78,Dinheiro
+9071,Quinta,Higiene,24.87,Cartão Débito
+9072,Segunda,Bebidas,35.07,Pix
+9073,Domingo,Higiene,79.15,Dinheiro
+9074,Sábado,Outros,14.19,Dinheiro
+9075,Sexta,Limpeza,53.21,Cartão Débito
+9076,Domingo,Limpeza,63.61,Cartão Débito
+9077,Quinta,Alimentos,14.5,Pix
+9078,Quinta,Bebidas,60.81,Cartão Crédito
+9079,Sexta,Alimentos,15.16,Cartão Crédito
+9080,Segunda,Pet,135.15,Dinheiro
+9081,Quinta,Bebidas,5.83,Cartão Débito
+9082,Terça,Alimentos,32.72,Cartão Crédito
+9083,Segunda,Pet,11.37,Pix
+9084,Segunda,Outros,113.45,Dinheiro
+9085,Domingo,Bebidas,136.66,Dinheiro
+9086,Sexta,Pet,,Cartão Crédito
+9087,Sexta,Bebidas,60.68,Dinheiro
+9088,Segunda,Pet,29.99,Cartão Débito
+9089,Sábado,Higiene,45.77,Dinheiro
+9090,Segunda,Bebidas,49.04,Cartão Crédito
+9091,Domingo,Alimentos,81.54,Pix
+9092,Quinta,Higiene,35.21,Pix
+9093,Segunda,Pet,21.25,Cartão Débito
+9094,Domingo,Alimentos,37.36,Pix
+9095,Sexta,Higiene,31.73,Cartão Débito
+9096,Domingo,Outros,19.17,Cartão Crédito
+9097,Terça,Pet,10.5,Pix
+9098,Segunda,Bebidas,30.04,Pix
+9099,Sábado,Pet,11.81,Dinheiro
+9100,Terça,Bebidas,25.13,Cartão Crédito
+9101,Sábado,Outros,34.71,Dinheiro
+9102,Quarta,Higiene,73.16,Pix
+9103,Sexta,Bebidas,35.03,Dinheiro
+9104,Quinta,Higiene,46.08,Cartão Crédito
+9105,Domingo,Pet,42.55,Cartão Crédito
+9106,Quinta,Outros,92.68,Cartão Crédito
+9107,Quinta,Limpeza,84.27,Cartão Crédito
+9108,Sábado,Limpeza,75.5,Cartão Crédito
+9109,Quinta,Outros,10.78,Cartão Débito
+9110,Quarta,Limpeza,12.45,Cartão Débito
+9111,Sábado,Bebidas,23.4,Pix
+9112,Sexta,Higiene,29.27,Cartão Crédito
+9113,Quarta,Outros,28.69,Cartão Crédito
+9114,Segunda,Outros,36.16,Dinheiro
+9115,Sábado,Alimentos,21.52,Cartão Débito
+9116,Sábado,Bebidas,14.56,Cartão Crédito
+9117,Sexta,Higiene,19.17,Cartão Débito
+9118,Segunda,Higiene,57.43,Cartão Débito
+9119,Domingo,Outros,50.15,Pix
+9120,Quarta,Limpeza,53.96,Cartão Débito
+9121,Domingo,Pet,27.43,Dinheiro
+9122,Quinta,Limpeza,27.27,Cartão Débito
+9123,Quarta,Higiene,12.86,Cartão Débito
+9124,Domingo,Pet,8.38,Cartão Débito
+9125,Sexta,Higiene,29.44,Dinheiro
+9126,Domingo,Limpeza,19.45,Dinheiro
+9127,Sábado,Limpeza,18.22,Cartão Crédito
+9128,Sábado,Higiene,53.47,Cartão Crédito
+9129,Terça,Limpeza,50.88,Cartão Crédito
+9130,Sexta,Higiene,34.28,Cartão Crédito
+9131,Segunda,Bebidas,22.41,Cartão Crédito
+9132,Terça,Limpeza,22.58,Dinheiro
+9133,Quinta,Alimentos,12.81,Cartão Crédito
+9134,Terça,Limpeza,56.67,Dinheiro
+9135,Terça,Bebidas,46.88,Cartão Crédito
+9136,Quarta,Pet,22.94,Cartão Crédito
+9137,Segunda,Outros,67.81,Cartão Crédito
+9138,Quinta,Bebidas,39.81,Cartão Débito
+9139,Sexta,Outros,16.97,Cartão Débito
+9140,Segunda,Pet,15.36,Cartão Crédito
+9141,Segunda,Outros,54.26,Cartão Crédito
+9142,Quinta,Pet,27.24,Cartão Crédito
+9143,Terça,Higiene,20.22,Cartão Crédito
+9144,Terça,Pet,76.15,Cartão Débito
+9145,Terça,Bebidas,,Dinheiro
+9146,Quinta,Outros,74.57,Cartão Débito
+9147,Quinta,Outros,75.29,Cartão Débito
+9148,Segunda,Bebidas,42.06,
+9149,Quinta,Bebidas,48.1,Cartão Crédito
+9150,Sábado,Alimentos,37.09,Pix
+9151,Quarta,Outros,31.51,Dinheiro
+9152,Sexta,Pet,9.73,Cartão Crédito
+9153,Quinta,Outros,74.58,Cartão Crédito
+9154,Segunda,Outros,35.31,Dinheiro
+9155,Quinta,Alimentos,20.77,Cartão Crédito
+9156,Quinta,Pet,12.72,Dinheiro
+9157,Quinta,Bebidas,28.81,Cartão Crédito
+9158,Domingo,Outros,27.36,Cartão Crédito
+9159,Quarta,Bebidas,18.06,Cartão Crédito
+9160,Quinta,Limpeza,64.1,
+9161,Quarta,Limpeza,71.86,Dinheiro
+9162,Quarta,Higiene,52.9,Cartão Crédito
+9163,Domingo,Alimentos,54.63,Cartão Crédito
+9164,Sexta,Higiene,22.71,Dinheiro
+9165,Quinta,Higiene,27.86,Cartão Crédito
+9166,Terça,Bebidas,38.3,Cartão Crédito
+9167,Quarta,Limpeza,122.99,Cartão Crédito
+9168,Terça,Higiene,16.25,Cartão Débito
+9169,Quinta,Bebidas,,Dinheiro
+9170,Domingo,Limpeza,24.24,Pix
+9171,Quinta,Limpeza,26.53,Dinheiro
+9172,Quarta,Higiene,45.32,Pix
+9173,Terça,Limpeza,56.18,Cartão Débito
+9174,Terça,Pet,2.48,Dinheiro
+9175,Terça,Bebidas,24.38,Dinheiro
+9176,Quarta,Higiene,37.89,Cartão Crédito
+9177,Quinta,Bebidas,3.0,Cartão Débito
+9178,Sábado,Alimentos,30.88,Cartão Débito
+9179,Quarta,Outros,19.68,Cartão Crédito
+9180,Terça,Limpeza,46.04,Cartão Débito
+9181,Quarta,Pet,90.71,Cartão Crédito
+9182,Quinta,Bebidas,34.56,Dinheiro
+9183,Terça,Bebidas,15.71,Cartão Crédito
+9184,Sábado,Pet,44.11,Cartão Débito
+9185,Quarta,Alimentos,26.09,
+9186,Terça,Limpeza,12.82,Dinheiro
+9187,Sexta,Outros,26.8,Cartão Débito
+9188,Sexta,Bebidas,44.47,Cartão Crédito
+9189,Terça,Limpeza,20.34,Cartão Crédito
+9190,Domingo,Pet,77.66,Pix
+9191,Quinta,Bebidas,48.12,Cartão Crédito
+9192,Sexta,Outros,7.8,Cartão Crédito
+9193,Domingo,Pet,51.79,Dinheiro
+9194,Quinta,Alimentos,28.68,Dinheiro
+9195,Quinta,Bebidas,109.85,Cartão Débito
+9196,Quarta,Pet,22.09,Cartão Débito
+9197,Terça,Bebidas,20.66,Cartão Crédito
+9198,Quarta,Alimentos,13.77,Cartão Débito
+9199,Sexta,Higiene,39.52,Dinheiro
+9200,Quinta,Limpeza,14.02,Cartão Crédito
+9201,Segunda,Limpeza,26.36,Cartão Crédito
+9202,Quinta,Higiene,27.0,Cartão Crédito
+9203,Sexta,Limpeza,15.78,Cartão Débito
+9204,Terça,Higiene,31.93,Pix
+9205,Sexta,Limpeza,,Cartão Crédito
+9206,Sexta,Limpeza,56.2,Cartão Débito
+9207,Quarta,Higiene,82.54,Dinheiro
+9208,Terça,Higiene,42.42,Cartão Crédito
+9209,Sábado,Higiene,32.45,Cartão Crédito
+9210,Quarta,Higiene,40.13,Dinheiro
+9211,Domingo,Outros,75.28,Cartão Crédito
+9212,Quinta,Limpeza,17.79,Dinheiro
+9213,Quarta,Pet,19.18,Cartão Débito
+9214,Quarta,Limpeza,7.48,Cartão Crédito
+9215,Sexta,Pet,42.31,Cartão Débito
+9216,Sexta,Outros,35.02,Cartão Crédito
+9217,Segunda,Outros,28.41,Cartão Crédito
+9218,Quinta,Alimentos,28.29,Cartão Débito
+9219,Quarta,Alimentos,31.0,Pix
+9220,Domingo,Pet,38.73,Cartão Crédito
+9221,Segunda,Outros,21.05,Cartão Crédito
+9222,Terça,Limpeza,18.99,Pix
+9223,Segunda,Alimentos,110.25,Dinheiro
+9224,Segunda,Higiene,21.05,Cartão Débito
+9225,Domingo,Limpeza,81.63,Dinheiro
+9226,Quinta,Alimentos,12.93,Cartão Débito
+9227,Sábado,Outros,69.12,Cartão Débito
+9228,Sexta,Alimentos,10.34,Dinheiro
+9229,Sexta,Alimentos,16.28,Cartão Débito
+9230,Quarta,Alimentos,22.19,Cartão Crédito
+9231,Quarta,Higiene,23.31,Cartão Crédito
+9232,Quarta,Limpeza,106.71,Cartão Crédito
+9233,Terça,Bebidas,49.58,Cartão Crédito
+9234,Sábado,Limpeza,134.55,
+9235,Terça,Higiene,53.68,Cartão Débito
+9236,Sexta,Alimentos,115.66,Cartão Crédito
+9237,Quarta,Higiene,89.32,Cartão Crédito
+9238,Quarta,Bebidas,,Cartão Crédito
+9239,Quinta,Pet,53.88,Pix
+9240,Quarta,Pet,61.31,Cartão Débito
+9241,Sábado,Outros,61.74,Cartão Crédito
+9242,Terça,Bebidas,1.74,Cartão Crédito
+9243,Quarta,Alimentos,24.62,Cartão Débito
+9244,Sábado,Limpeza,89.08,Cartão Crédito
+9245,Sexta,Higiene,94.39,Dinheiro
+9246,Sexta,Outros,56.32,Dinheiro
+9247,Quinta,Alimentos,10.96,Cartão Débito
+9248,Sábado,Higiene,74.46,Dinheiro
+9249,Sexta,Pet,68.47,
+9250,Quinta,Higiene,29.9,Cartão Débito
+9251,Terça,Higiene,27.81,Cartão Débito
+9252,Terça,Limpeza,,Cartão Débito
+9253,Sexta,Higiene,13.91,Cartão Crédito
+9254,Terça,Higiene,22.53,Dinheiro
+9255,Sábado,Higiene,55.05,Cartão Crédito
+9256,Quarta,Bebidas,81.0,Cartão Crédito
+9257,Sábado,Higiene,13.64,Cartão Crédito
+9258,Domingo,Pet,124.79,Cartão Débito
+9259,Sábado,Limpeza,12.2,Dinheiro
+9260,Sexta,Pet,33.16,Pix
+9261,Sábado,Higiene,66.5,Dinheiro
+9262,Sexta,Bebidas,23.13,Cartão Débito
+9263,Segunda,Pet,8.12,
+9264,Terça,Higiene,4.98,Cartão Crédito
+9265,Sexta,Higiene,95.49,Cartão Débito
+9266,Terça,Bebidas,60.1,Dinheiro
+9267,Segunda,Alimentos,31.32,Pix
+9268,Domingo,Limpeza,117.31,Cartão Débito
+9269,Quarta,Limpeza,50.9,Pix
+9270,Sexta,Alimentos,33.94,Pix
+9271,Sexta,Bebidas,12.16,Cartão Crédito
+9272,Sexta,Bebidas,14.7,Cartão Crédito
+9273,Sexta,Limpeza,32.68,Cartão Débito
+9274,Sábado,Alimentos,43.41,Dinheiro
+9275,Quinta,Higiene,28.56,Cartão Crédito
+9276,Domingo,Bebidas,39.78,Cartão Crédito
+9277,Domingo,Bebidas,99.08,Dinheiro
+9278,Domingo,Alimentos,,Cartão Débito
+9279,Terça,Outros,57.06,Cartão Crédito
+9280,Sábado,Limpeza,51.85,Cartão Crédito
+9281,Domingo,Limpeza,98.38,Dinheiro
+9282,Segunda,Bebidas,57.87,Dinheiro
+9283,Domingo,Limpeza,71.96,Cartão Débito
+9284,Domingo,Alimentos,27.92,Dinheiro
+9285,Sábado,Bebidas,86.43,Dinheiro
+9286,Quinta,Limpeza,27.04,Cartão Crédito
+9287,Segunda,Higiene,62.24,Cartão Débito
+9288,Quinta,Higiene,16.22,Dinheiro
+9289,Sábado,Higiene,35.9,Dinheiro
+9290,Segunda,Pet,46.91,Cartão Débito
+9291,Quinta,Pet,50.61,Cartão Crédito
+9292,Segunda,Pet,7.99,Cartão Crédito
+9293,Quarta,Pet,19.81,Cartão Débito
+9294,Segunda,Limpeza,34.85,Cartão Débito
+9295,Sexta,Limpeza,,Cartão Crédito
+9296,Sábado,Bebidas,6.05,Pix
+9297,Segunda,Pet,78.91,Pix
+9298,Sábado,Bebidas,109.94,Dinheiro
+9299,Quinta,Alimentos,88.99,Dinheiro
+9300,Quinta,Limpeza,18.47,Dinheiro
+9301,Sexta,Bebidas,36.85,Cartão Débito
+9302,Quinta,Alimentos,65.92,Cartão Crédito
+9303,Terça,Alimentos,49.85,Cartão Débito
+9304,Sábado,Higiene,36.95,Cartão Crédito
+9305,Quinta,Alimentos,13.18,Cartão Débito
+9306,Terça,Bebidas,16.93,Pix
+9307,Quinta,Alimentos,4.84,Cartão Débito
+9308,Quinta,Limpeza,30.2,Cartão Débito
+9309,Sexta,Limpeza,19.27,Cartão Débito
+9310,Segunda,Higiene,30.09,Cartão Débito
+9311,Segunda,Outros,24.78,Dinheiro
+9312,Terça,Alimentos,31.73,Pix
+9313,Quarta,Bebidas,82.48,Cartão Débito
+9314,Domingo,Outros,189.86,Pix
+9315,Terça,Alimentos,74.47,Pix
+9316,Terça,Pet,17.85,Cartão Débito
+9317,Segunda,Limpeza,16.06,Cartão Crédito
+9318,Quinta,Limpeza,32.56,Dinheiro
+9319,Sábado,Bebidas,13.38,Pix
+9320,Terça,Higiene,13.58,Cartão Crédito
+9321,Quarta,Outros,39.05,Dinheiro
+9322,Sexta,Outros,,Cartão Débito
+9323,Segunda,Limpeza,28.37,Cartão Crédito
+9324,Sábado,Higiene,21.21,Pix
+9325,Domingo,Pet,58.82,
+9326,Quarta,Pet,53.54,Cartão Crédito
+9327,Segunda,Limpeza,70.66,Cartão Crédito
+9328,Quinta,Alimentos,19.1,Cartão Crédito
+9329,Sexta,Pet,10.53,Cartão Débito
+9330,Quarta,Limpeza,73.27,Cartão Crédito
+9331,Segunda,Bebidas,40.98,Cartão Crédito
+9332,Quinta,Limpeza,9.42,Cartão Crédito
+9333,Segunda,Limpeza,,Dinheiro
+9334,Sexta,Bebidas,25.27,Cartão Débito
+9335,Segunda,Higiene,42.44,Dinheiro
+9336,Quinta,Outros,11.73,Cartão Débito
+9337,Terça,Limpeza,83.93,Dinheiro
+9338,Segunda,Alimentos,31.26,Dinheiro
+9339,Quarta,Bebidas,73.65,Cartão Débito
+9340,Quarta,Pet,11.34,Cartão Crédito
+9341,Segunda,Pet,94.75,Cartão Crédito
+9342,Sábado,Pet,,Cartão Débito
+9343,Quarta,Limpeza,74.89,Cartão Débito
+9344,Quarta,Bebidas,71.06,Dinheiro
+9345,Sexta,Higiene,23.04,Pix
+9346,Sábado,Higiene,34.67,Cartão Débito
+9347,Sábado,Pet,15.61,Cartão Crédito
+9348,Domingo,Pet,9.42,Cartão Débito
+9349,Quarta,Alimentos,53.01,Pix
+9350,Domingo,Higiene,11.57,Cartão Débito
+9351,Domingo,Pet,46.4,Pix
+9352,Sábado,Limpeza,21.33,Cartão Crédito
+9353,Segunda,Pet,4.38,Cartão Débito
+9354,Segunda,Pet,33.52,Dinheiro
+9355,Sexta,Pet,77.92,
+9356,Sexta,Bebidas,27.02,Cartão Crédito
+9357,Sexta,Pet,3.94,Cartão Crédito
+9358,Sexta,Alimentos,16.77,
+9359,Domingo,Higiene,48.04,Dinheiro
+9360,Sábado,Pet,24.58,Cartão Crédito
+9361,Quinta,Pet,46.76,Pix
+9362,Domingo,Pet,24.49,Cartão Débito
+9363,Sexta,Pet,22.31,
+9364,Segunda,Bebidas,39.8,Cartão Crédito
+9365,Terça,Higiene,10.11,Dinheiro
+9366,Terça,Alimentos,18.54,Cartão Crédito
+9367,Sexta,Higiene,46.8,Dinheiro
+9368,Sexta,Limpeza,,Cartão Débito
+9369,Quinta,Outros,7.82,Cartão Crédito
+9370,Domingo,Limpeza,71.58,Dinheiro
+9371,Sábado,Alimentos,84.56,Cartão Crédito
+9372,Sábado,Pet,19.67,Cartão Crédito
+9373,Terça,Outros,70.86,Dinheiro
+9374,Sexta,Higiene,95.41,Cartão Crédito
+9375,Sexta,Bebidas,36.82,Cartão Débito
+9376,Sexta,Outros,101.23,Cartão Crédito
+9377,Domingo,Limpeza,38.1,Cartão Crédito
+9378,Sábado,Higiene,80.68,Cartão Débito
+9379,Sábado,Limpeza,45.85,Pix
+9380,Sábado,Limpeza,89.0,Pix
+9381,Quinta,Outros,78.45,Cartão Crédito
+9382,Domingo,Higiene,33.7,Cartão Débito
+9383,Sábado,Higiene,75.17,Pix
+9384,Sexta,Bebidas,32.7,Cartão Crédito
+9385,Terça,Outros,22.83,Cartão Crédito
+9386,Quarta,Alimentos,28.02,Cartão Débito
+9387,Quarta,Limpeza,41.25,Pix
+9388,Quinta,Outros,35.16,Cartão Crédito
+9389,Sexta,Pet,30.62,Cartão Crédito
+9390,Sexta,Higiene,48.76,Dinheiro
+9391,Quarta,Alimentos,,Pix
+9392,Terça,Limpeza,20.05,Cartão Crédito
+9393,Segunda,Outros,28.63,Cartão Débito
+9394,Quarta,Alimentos,16.91,Cartão Débito
+9395,Quarta,Bebidas,8.58,Cartão Débito
+9396,Sexta,Higiene,24.87,Pix
+9397,Sexta,Pet,1.74,Cartão Crédito
+9398,Domingo,Outros,76.72,Cartão Débito
+9399,Quinta,Pet,53.4,Cartão Crédito
+9400,Quarta,Outros,15.22,Dinheiro
+9401,Sexta,Pet,29.73,Cartão Débito
+9402,Quinta,Limpeza,33.3,Cartão Crédito
+9403,Sábado,Bebidas,129.93,Dinheiro
+9404,Domingo,Pet,79.42,Dinheiro
+9405,Quinta,Higiene,15.86,Cartão Crédito
+9406,Segunda,Pet,14.72,Cartão Débito
+9407,Quinta,Bebidas,42.34,Cartão Crédito
+9408,Terça,Pet,7.32,Cartão Crédito
+9409,Domingo,Limpeza,26.94,Cartão Débito
+9410,Sábado,Limpeza,25.43,
+9411,Terça,Alimentos,32.54,Cartão Débito
+9412,Terça,Pet,11.9,Dinheiro
+9413,Quinta,Pet,22.04,
+9414,Quinta,Limpeza,,Dinheiro
+9415,Sexta,Limpeza,62.35,Cartão Crédito
+9416,Sexta,Limpeza,29.87,Cartão Crédito
+9417,Sexta,Limpeza,,Cartão Crédito
+9418,Terça,Outros,26.38,Cartão Crédito
+9419,Terça,Higiene,40.19,
+9420,Quinta,Pet,41.28,
+9421,Sábado,Pet,29.56,Cartão Débito
+9422,Segunda,Outros,39.43,Cartão Débito
+9423,Sexta,Higiene,22.44,Dinheiro
+9424,Sábado,Outros,57.34,Cartão Crédito
+9425,Sexta,Pet,37.58,Dinheiro
+9426,Sábado,Higiene,23.76,Cartão Débito
+9427,Sexta,Pet,50.16,Cartão Crédito
+9428,Sábado,Bebidas,39.03,Cartão Crédito
+9429,Sábado,Bebidas,74.23,Pix
+9430,Segunda,Bebidas,25.19,Cartão Crédito
+9431,Sábado,Higiene,91.5,Cartão Crédito
+9432,Sexta,Outros,35.18,Cartão Débito
+9433,Sexta,Pet,63.49,Cartão Crédito
+9434,Quarta,Higiene,8.34,Cartão Débito
+9435,Segunda,Limpeza,29.49,Cartão Crédito
+9436,Quarta,Higiene,31.75,Cartão Crédito
+9437,Quinta,Outros,13.67,Cartão Crédito
+9438,Quinta,Pet,34.67,Cartão Crédito
+9439,Quarta,Outros,7.47,Cartão Débito
+9440,Terça,Pet,26.81,Cartão Débito
+9441,Sexta,Outros,22.2,Cartão Crédito
+9442,Sexta,Higiene,46.18,Dinheiro
+9443,Segunda,Alimentos,19.6,Cartão Débito
+9444,Domingo,Outros,31.88,Cartão Débito
+9445,Sábado,Higiene,15.84,Cartão Crédito
+9446,Quarta,Pet,67.64,Dinheiro
+9447,Sábado,Alimentos,34.27,Dinheiro
+9448,Domingo,Bebidas,50.1,Cartão Débito
+9449,Quarta,Alimentos,33.43,Cartão Débito
+9450,Quarta,Outros,27.07,Pix
+9451,Domingo,Outros,30.79,Cartão Crédito
+9452,Quarta,Outros,79.07,Cartão Crédito
+9453,Terça,Limpeza,102.94,Cartão Crédito
+9454,Quinta,Outros,35.47,Cartão Débito
+9455,Terça,Pet,33.91,Cartão Crédito
+9456,Domingo,Alimentos,59.95,Dinheiro
+9457,Quinta,Higiene,57.49,Cartão Crédito
+9458,Sábado,Higiene,17.0,Cartão Crédito
+9459,Domingo,Bebidas,32.36,
+9460,Quarta,Outros,14.08,Cartão Crédito
+9461,Sábado,Alimentos,9.84,Cartão Crédito
+9462,Quinta,Bebidas,53.01,Dinheiro
+9463,Quarta,Outros,41.6,Dinheiro
+9464,Sexta,Pet,5.95,Cartão Crédito
+9465,Quarta,Higiene,79.65,Pix
+9466,Segunda,Higiene,2.83,Dinheiro
+9467,Terça,Limpeza,18.72,Cartão Crédito
+9468,Segunda,Alimentos,58.81,Cartão Débito
+9469,Domingo,Limpeza,6.56,Cartão Débito
+9470,Quarta,Alimentos,134.65,Dinheiro
+9471,Segunda,Outros,31.85,Cartão Crédito
+9472,Domingo,Alimentos,25.6,Cartão Crédito
+9473,Quinta,Pet,90.19,Cartão Crédito
+9474,Quarta,Bebidas,19.36,Dinheiro
+9475,Sábado,Bebidas,65.56,Cartão Débito
+9476,Terça,Higiene,17.6,Dinheiro
+9477,Quinta,Pet,33.41,Cartão Débito
+9478,Domingo,Limpeza,10.24,Cartão Crédito
+9479,Segunda,Limpeza,7.64,Cartão Crédito
+9480,Quinta,Higiene,7.81,Cartão Crédito
+9481,Quarta,Higiene,51.77,Dinheiro
+9482,Sexta,Outros,39.65,Cartão Crédito
+9483,Terça,Limpeza,,Cartão Crédito
+9484,Quarta,Alimentos,21.28,Cartão Débito
+9485,Sexta,Limpeza,23.91,Cartão Crédito
+9486,Quinta,Bebidas,35.15,Cartão Crédito
+9487,Segunda,Limpeza,30.94,Pix
+9488,Domingo,Outros,77.17,
+9489,Segunda,Higiene,40.13,Pix
+9490,Quinta,Bebidas,26.67,Cartão Crédito
+9491,Terça,Outros,3.58,Cartão Débito
+9492,Domingo,Alimentos,12.25,Cartão Crédito
+9493,Quinta,Alimentos,1.87,Cartão Crédito
+9494,Sábado,Bebidas,21.97,Cartão Crédito
+9495,Domingo,Limpeza,13.3,Cartão Crédito
+9496,Terça,Higiene,51.12,Cartão Débito
+9497,Sábado,Pet,33.57,Dinheiro
+9498,Sexta,Limpeza,17.09,Cartão Débito
+9499,Terça,Limpeza,10.13,Pix
+9500,Terça,Bebidas,29.47,Cartão Débito
