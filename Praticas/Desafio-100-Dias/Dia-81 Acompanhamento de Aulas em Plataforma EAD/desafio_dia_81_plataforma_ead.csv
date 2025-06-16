@@ -1,0 +1,501 @@
+id_aluno,modulo,tempo_total_min,status_aula,avaliacao
+1068,Matemática,46.9,Pendente,5.0
+1066,Matemática,74.9,Em andamento,4.0
+1057,História,56.8,Concluída,2.0
+1047,Matemática,,Em andamento,4.0
+1076,Português,80.5,Em andamento,4.0
+1076,Matemática,61.1,Em andamento,4.0
+1068,Química,46.7,Em andamento,2.0
+1050,Física,69.2,Concluída,2.0
+1043,Química,66.9,Pendente,3.0
+1034,Português,61.9,Pendente,3.0
+1004,Química,50.2,Em andamento,1.0
+1084,História,52.3,Em andamento,4.0
+1057,Química,,Concluída,1.0
+1043,Inglês,77.9,Pendente,3.0
+1011,História,30.2,Concluída,5.0
+1053,Matemática,,Concluída,4.0
+1046,Química,68.6,Concluída,3.0
+1066,Inglês,39.2,Concluída,3.0
+1049,Física,58.7,Concluída,4.0
+1092,Português,54.0,Em andamento,3.0
+1096,Química,58.3,Em andamento,5.0
+1016,Matemática,52.4,Concluída,3.0
+1078,Português,75.7,Concluída,4.0
+1002,Inglês,43.9,Concluída,3.0
+1095,Português,59.7,Em andamento,
+1035,Química,54.8,Em andamento,5.0
+1095,Química,54.9,Concluída,4.0
+1005,Inglês,81.2,Concluída,4.0
+1028,Química,51.5,Concluída,5.0
+1034,Matemática,74.2,Concluída,1.0
+1013,Inglês,74.5,Concluída,3.0
+1045,Português,71.3,Concluída,2.0
+1060,Inglês,61.9,Em andamento,4.0
+1044,Português,68.2,Concluída,4.0
+1060,Física,40.5,Concluída,4.0
+1001,Matemática,64.7,Pendente,1.0
+1093,Física,54.1,Pendente,3.0
+1061,História,51.6,Pendente,4.0
+1026,História,75.4,Concluída,2.0
+1098,Matemática,40.3,Pendente,3.0
+1055,Física,65.5,Pendente,4.0
+1084,Física,31.6,Em andamento,3.0
+1030,Química,46.5,Concluída,1.0
+1062,Física,70.5,Pendente,5.0
+1093,Inglês,33.5,Pendente,4.0
+1071,Português,66.9,Em andamento,5.0
+1010,Inglês,93.4,Pendente,4.0
+1067,Português,67.2,Concluída,3.0
+1093,Química,64.5,Pendente,3.0
+1098,História,46.7,Concluída,3.0
+1065,Inglês,53.6,Concluída,2.0
+1049,Química,,Concluída,5.0
+1085,História,,Em andamento,5.0
+1030,Física,36.1,Em andamento,5.0
+1075,Inglês,90.2,Em andamento,3.0
+1044,Matemática,69.7,Em andamento,3.0
+1023,Química,54.6,Concluída,1.0
+1098,Matemática,58.4,Concluída,3.0
+1067,Português,57.5,Concluída,3.0
+1020,Química,56.2,Em andamento,4.0
+1057,Matemática,72.7,Pendente,4.0
+1037,Física,89.3,Concluída,3.0
+1058,Física,55.7,Concluída,3.0
+1032,Português,37.7,Concluída,3.0
+1067,Português,49.8,Concluída,4.0
+1064,Matemática,81.5,Concluída,3.0
+1071,Física,62.6,Concluída,4.0
+1001,Inglês,82.6,Concluída,5.0
+1064,Química,62.6,Em andamento,3.0
+1032,História,60.6,Concluída,5.0
+1050,Português,57.5,Pendente,4.0
+1044,Matemática,64.4,Concluída,4.0
+1005,Matemática,60.2,Pendente,5.0
+1037,História,64.7,Concluída,5.0
+1083,Matemática,46.6,Concluída,3.0
+1099,Inglês,66.2,Pendente,5.0
+1046,História,65.9,Em andamento,3.0
+1024,Português,67.8,Concluída,2.0
+1032,Inglês,42.4,Pendente,5.0
+1095,História,74.9,Concluída,4.0
+1016,Matemática,67.0,Pendente,5.0
+1049,Física,37.5,Em andamento,4.0
+1096,Matemática,60.9,Em andamento,4.0
+1060,História,75.0,Pendente,2.0
+1003,Física,70.0,Concluída,4.0
+1030,Física,78.8,Concluída,4.0
+1039,História,80.3,Concluída,4.0
+1086,História,60.0,Pendente,3.0
+1018,Matemática,71.5,Concluída,3.0
+1079,Português,39.2,Concluída,5.0
+1062,Inglês,55.3,Concluída,2.0
+1072,Química,91.2,Concluída,5.0
+1081,História,34.7,Pendente,5.0
+1070,Química,60.4,Concluída,4.0
+1009,Português,53.8,Concluída,4.0
+1039,Português,73.0,Em andamento,3.0
+1021,Química,67.7,Concluída,4.0
+1078,Matemática,,Concluída,4.0
+1098,Inglês,85.1,Concluída,3.0
+1043,Matemática,49.4,Pendente,4.0
+1082,Inglês,56.6,Concluída,3.0
+1065,Matemática,54.4,Pendente,3.0
+1066,Química,47.2,Concluída,3.0
+1077,Física,,Concluída,4.0
+1056,Matemática,74.4,Pendente,3.0
+1007,Português,62.8,Concluída,
+1068,História,81.5,Pendente,3.0
+1005,Inglês,57.4,Concluída,2.0
+1066,Português,41.3,Concluída,1.0
+1035,Química,45.9,Concluída,5.0
+1053,Física,63.3,Concluída,5.0
+1063,História,60.7,Concluída,3.0
+1019,Física,90.1,Concluída,2.0
+1058,Português,83.0,Pendente,5.0
+1016,História,52.2,Em andamento,4.0
+1011,Inglês,60.3,Concluída,2.0
+1003,Inglês,63.9,Concluída,
+1073,Química,,Pendente,3.0
+1077,Matemática,78.5,Em andamento,
+1094,Física,55.4,Concluída,4.0
+1037,História,48.7,Pendente,3.0
+1017,História,,Concluída,1.0
+1029,Matemática,58.5,Em andamento,4.0
+1060,Português,78.8,Pendente,4.0
+1019,Matemática,73.8,Concluída,3.0
+1005,Português,60.7,Em andamento,3.0
+1020,Química,46.5,Concluída,4.0
+1056,Inglês,73.1,Em andamento,4.0
+1064,História,71.6,Pendente,5.0
+1012,Química,78.7,Concluída,5.0
+1042,Química,68.8,Em andamento,3.0
+1063,História,65.9,Pendente,3.0
+1002,Inglês,41.9,Em andamento,3.0
+1059,Química,52.4,Concluída,4.0
+1049,Português,82.1,Concluída,3.0
+1067,Física,50.4,Concluída,3.0
+1068,Matemática,60.7,Concluída,2.0
+1051,Inglês,41.9,Pendente,4.0
+1003,Matemática,,Pendente,1.0
+1004,História,69.0,Em andamento,4.0
+1031,Inglês,51.9,Pendente,
+1018,Matemática,57.4,Concluída,2.0
+1032,Português,64.7,Concluída,2.0
+1004,História,78.7,Concluída,4.0
+1029,Português,60.5,Em andamento,2.0
+1020,Química,49.7,Concluída,2.0
+1080,Português,81.0,Concluída,1.0
+1032,Matemática,65.8,Concluída,5.0
+1085,Português,58.5,Concluída,
+1055,Física,73.6,Concluída,5.0
+1092,Química,51.1,Pendente,3.0
+1072,Física,47.7,Concluída,4.0
+1073,Química,67.4,Em andamento,4.0
+1011,História,75.6,Em andamento,3.0
+1028,Física,41.2,Concluída,2.0
+1030,Química,61.0,Em andamento,3.0
+1049,Inglês,43.9,Pendente,4.0
+1067,Matemática,51.8,Em andamento,3.0
+1089,História,38.9,Pendente,4.0
+1090,Português,38.0,Em andamento,3.0
+1056,Inglês,,Concluída,3.0
+1074,Química,55.5,Concluída,5.0
+1099,Inglês,49.0,Pendente,3.0
+1093,Física,46.5,Concluída,4.0
+1091,Matemática,59.9,Concluída,3.0
+1054,Português,53.4,Concluída,5.0
+1055,Matemática,73.3,Concluída,5.0
+1048,Matemática,55.7,Em andamento,3.0
+1088,Matemática,72.6,Pendente,1.0
+1010,História,60.7,Concluída,5.0
+1043,História,45.9,Concluída,3.0
+1009,História,74.8,Pendente,3.0
+1079,História,72.3,Concluída,3.0
+1005,Química,61.4,Pendente,2.0
+1023,História,71.1,Concluída,5.0
+1075,Matemática,29.0,Concluída,4.0
+1075,Inglês,71.1,Concluída,4.0
+1031,Matemática,62.1,Em andamento,5.0
+1049,Química,91.6,Concluída,4.0
+1065,Química,53.7,Em andamento,4.0
+1079,Física,44.3,Concluída,4.0
+1058,Física,26.7,Concluída,4.0
+1057,Química,54.4,Pendente,5.0
+1004,Química,48.4,Concluída,3.0
+1047,Inglês,48.7,Concluída,2.0
+1069,Matemática,52.3,Concluída,3.0
+1067,Matemática,48.7,Pendente,4.0
+1046,Matemática,58.1,Concluída,2.0
+1076,Química,65.6,Em andamento,5.0
+1072,História,56.1,Concluída,3.0
+1071,Física,52.4,Concluída,4.0
+1064,Inglês,54.3,Concluída,3.0
+1083,Português,60.7,Concluída,3.0
+1045,Física,98.3,Concluída,1.0
+1056,Matemática,68.8,Pendente,3.0
+1025,Inglês,62.7,Concluída,2.0
+1094,Inglês,77.3,Concluída,4.0
+1016,Matemática,84.0,Concluída,3.0
+1010,Inglês,66.1,Concluída,1.0
+1057,Português,74.6,Concluída,2.0
+1043,Matemática,78.0,Em andamento,4.0
+1033,Matemática,66.1,Concluída,3.0
+1053,Matemática,60.6,Concluída,3.0
+1082,Física,67.9,Pendente,
+1098,História,58.3,Concluída,3.0
+1033,Matemática,42.4,Concluída,3.0
+1071,Química,57.2,Concluída,2.0
+1048,Português,49.2,Em andamento,2.0
+1013,Inglês,73.3,Concluída,4.0
+1005,Inglês,70.6,Concluída,4.0
+1063,História,59.0,Concluída,5.0
+1049,Matemática,62.5,Concluída,2.0
+1008,Português,61.0,Concluída,4.0
+1050,Inglês,78.8,Concluída,4.0
+1026,Física,71.5,Concluída,2.0
+1052,Física,67.3,Pendente,4.0
+1053,Matemática,53.1,Concluída,2.0
+1006,História,71.0,Concluída,3.0
+1080,Inglês,65.1,Concluída,5.0
+1076,História,59.2,Pendente,5.0
+1033,Química,68.9,Concluída,5.0
+1059,Matemática,55.2,Concluída,4.0
+1089,Química,77.9,Concluída,5.0
+1017,Português,52.7,Pendente,3.0
+1009,Português,43.2,Em andamento,3.0
+1005,Português,70.4,Em andamento,5.0
+1040,Português,59.4,Pendente,3.0
+1073,Física,60.3,Pendente,3.0
+1078,Matemática,74.6,Concluída,5.0
+1012,Inglês,43.0,Concluída,4.0
+1045,Química,85.9,Concluída,4.0
+1085,Física,56.4,Concluída,4.0
+1090,História,68.0,Concluída,3.0
+1097,Química,65.0,Pendente,5.0
+1054,Química,46.0,Concluída,2.0
+1072,Física,73.5,Concluída,4.0
+1074,Física,44.2,Concluída,3.0
+1085,Matemática,40.0,Concluída,3.0
+1016,Matemática,64.0,Concluída,4.0
+1090,História,69.1,Concluída,1.0
+1053,Inglês,66.5,Em andamento,4.0
+1012,Português,72.2,Pendente,3.0
+1092,Química,35.5,Concluída,5.0
+1007,Física,68.7,Concluída,2.0
+1067,Física,56.7,Em andamento,3.0
+1021,História,52.4,Concluída,3.0
+1043,Inglês,74.7,Concluída,4.0
+1064,Física,48.2,Em andamento,3.0
+1068,Matemática,59.0,Em andamento,2.0
+1049,Inglês,39.0,Concluída,4.0
+1053,História,49.8,Concluída,4.0
+1060,Português,51.7,Concluída,3.0
+1027,Português,72.4,Pendente,5.0
+1001,Química,73.4,Concluída,5.0
+1059,Português,75.1,Pendente,1.0
+1086,Química,84.2,Concluída,4.0
+1082,Matemática,67.5,Pendente,4.0
+1033,História,65.1,Concluída,3.0
+1004,História,54.4,Concluída,
+1078,Português,69.7,Concluída,3.0
+1087,Inglês,41.5,Pendente,5.0
+1064,História,73.6,Concluída,3.0
+1032,Inglês,96.1,Pendente,5.0
+1092,Português,86.4,Concluída,3.0
+1046,História,63.9,Concluída,
+1051,Português,,Concluída,3.0
+1066,Português,41.7,Concluída,4.0
+1022,Química,74.1,Concluída,2.0
+1063,Português,50.0,Concluída,
+1076,Matemática,72.8,Concluída,1.0
+1068,Inglês,38.2,Pendente,4.0
+1062,Português,,Concluída,4.0
+1057,Matemática,79.6,Pendente,5.0
+1015,Inglês,69.9,Pendente,3.0
+1065,Física,78.5,Pendente,3.0
+1031,Matemática,60.9,Concluída,4.0
+1028,Matemática,44.4,Concluída,4.0
+1051,Física,74.0,Concluída,3.0
+1048,Física,89.6,Concluída,4.0
+1019,Física,55.1,Concluída,2.0
+1026,Química,77.9,Em andamento,3.0
+1032,Português,86.9,Em andamento,3.0
+1011,Física,56.0,Pendente,3.0
+1016,Física,72.7,Concluída,3.0
+1079,História,80.0,Em andamento,3.0
+1085,Física,88.6,Concluída,4.0
+1083,Matemática,46.6,Concluída,3.0
+1052,História,61.5,Concluída,4.0
+1022,História,59.8,Concluída,5.0
+1023,Física,77.9,Concluída,4.0
+1088,Química,77.4,Concluída,3.0
+1067,Matemática,78.8,Concluída,3.0
+1010,Física,69.1,Concluída,4.0
+1093,História,71.9,Em andamento,4.0
+1084,Química,73.1,Em andamento,4.0
+1055,Inglês,47.8,Concluída,2.0
+1073,Português,44.6,Em andamento,3.0
+1076,Inglês,50.3,Pendente,3.0
+1041,Português,60.2,Concluída,1.0
+1094,Português,77.9,Concluída,3.0
+1064,Matemática,78.3,Concluída,3.0
+1048,Inglês,83.1,Concluída,4.0
+1093,Inglês,78.2,Pendente,1.0
+1008,Química,46.2,Em andamento,3.0
+1037,Matemática,64.5,Concluída,5.0
+1082,Inglês,34.0,Concluída,3.0
+1033,Inglês,26.8,Concluída,4.0
+1040,Matemática,51.7,Concluída,3.0
+1054,Inglês,72.2,Em andamento,5.0
+1009,Português,63.0,Concluída,5.0
+1046,Inglês,,Concluída,4.0
+1017,Matemática,39.3,Concluída,4.0
+1051,História,48.5,Concluída,3.0
+1099,Matemática,16.2,Em andamento,4.0
+1019,Inglês,52.5,Pendente,3.0
+1056,Inglês,54.8,Concluída,4.0
+1024,Português,,Concluída,5.0
+1049,Química,,Concluída,5.0
+1071,Química,61.9,Concluída,5.0
+1046,História,71.1,Em andamento,3.0
+1067,História,86.8,Em andamento,3.0
+1085,Química,48.2,Concluída,3.0
+1038,Matemática,57.1,Concluída,4.0
+1056,Português,88.7,Concluída,2.0
+1029,Física,41.4,Concluída,5.0
+1033,Inglês,,Concluída,
+1070,História,43.5,Pendente,4.0
+1001,Inglês,62.6,Concluída,4.0
+1079,Inglês,41.9,Em andamento,3.0
+1047,Química,51.1,Concluída,4.0
+1042,Química,45.7,Em andamento,2.0
+1070,Química,76.5,Concluída,3.0
+1003,História,57.5,Em andamento,4.0
+1063,História,55.1,Concluída,3.0
+1066,Inglês,63.6,Em andamento,5.0
+1076,Química,31.7,Concluída,4.0
+1034,Inglês,48.5,Concluída,1.0
+1008,História,43.9,Concluída,3.0
+1011,Física,81.4,Em andamento,3.0
+1003,Física,64.3,Concluída,2.0
+1025,Matemática,72.9,Concluída,3.0
+1022,Matemática,59.9,Concluída,2.0
+1022,Português,63.5,Concluída,4.0
+1011,Química,31.1,Pendente,3.0
+1093,História,42.5,Concluída,4.0
+1070,Física,79.2,Concluída,2.0
+1058,Química,60.9,Em andamento,3.0
+1079,Inglês,38.0,Concluída,4.0
+1053,Inglês,46.4,Pendente,2.0
+1048,Inglês,62.1,Concluída,4.0
+1047,Química,76.7,Concluída,3.0
+1059,Inglês,66.5,Em andamento,3.0
+1011,Português,55.5,Em andamento,4.0
+1099,Física,46.3,Concluída,3.0
+1042,Matemática,48.4,Concluída,3.0
+1033,Física,77.6,Concluída,3.0
+1025,Matemática,36.4,Concluída,4.0
+1039,Química,52.8,Concluída,5.0
+1010,Português,55.4,Concluída,
+1099,Matemática,64.3,Concluída,5.0
+1004,História,52.8,Concluída,4.0
+1044,Matemática,83.8,Concluída,4.0
+1084,Física,42.3,Em andamento,3.0
+1089,Física,68.2,Pendente,4.0
+1048,Português,63.5,Em andamento,3.0
+1089,História,32.3,Pendente,4.0
+1034,História,69.3,Em andamento,3.0
+1095,Português,49.0,Pendente,5.0
+1081,Inglês,52.4,Em andamento,4.0
+1077,Física,43.9,Concluída,
+1013,Matemática,45.9,Pendente,4.0
+1035,Química,58.1,Em andamento,4.0
+1089,Inglês,77.5,Concluída,4.0
+1004,Química,66.0,Concluída,3.0
+1030,História,98.4,Concluída,4.0
+1085,Inglês,93.5,Em andamento,5.0
+1084,Física,46.6,Concluída,
+1093,Química,58.7,Em andamento,5.0
+1063,Português,76.3,Concluída,
+1013,Química,65.8,Concluída,5.0
+1031,História,61.5,Concluída,4.0
+1026,Matemática,50.2,Concluída,4.0
+1040,Português,82.0,Em andamento,3.0
+1070,Física,74.2,Em andamento,5.0
+1037,Inglês,57.6,Em andamento,3.0
+1080,Física,57.0,Concluída,
+1072,Química,49.2,Concluída,3.0
+1012,Inglês,50.2,Em andamento,4.0
+1053,Matemática,61.1,Concluída,3.0
+1044,Português,47.2,Concluída,3.0
+1015,Matemática,56.7,Em andamento,5.0
+1003,Inglês,56.5,Concluída,4.0
+1087,História,75.8,Concluída,5.0
+1055,Português,44.5,Concluída,4.0
+1055,Inglês,62.4,Em andamento,2.0
+1057,História,73.6,Concluída,3.0
+1010,Química,55.8,Concluída,4.0
+1058,Matemática,79.6,Pendente,4.0
+1093,Matemática,38.6,Concluída,4.0
+1059,Física,22.0,Pendente,4.0
+1042,Matemática,43.7,Concluída,4.0
+1074,Física,81.7,Pendente,4.0
+1032,História,48.9,Pendente,3.0
+1064,Inglês,44.5,Concluída,3.0
+1035,Química,56.8,Em andamento,3.0
+1083,Matemática,23.5,Concluída,1.0
+1070,Matemática,46.8,Concluída,4.0
+1022,Matemática,73.2,Em andamento,2.0
+1049,Português,37.4,Em andamento,3.0
+1053,Física,61.9,Concluída,4.0
+1033,Inglês,64.6,Concluída,5.0
+1054,Português,62.6,Concluída,5.0
+1079,Matemática,70.5,Pendente,4.0
+1099,Português,32.6,Concluída,5.0
+1094,História,67.8,Concluída,5.0
+1024,História,43.3,Concluída,
+1047,Física,44.6,Concluída,3.0
+1023,Química,64.5,Pendente,3.0
+1081,Português,58.9,Concluída,3.0
+1093,Química,31.4,Concluída,1.0
+1046,Português,48.3,Pendente,3.0
+1038,Matemática,83.8,Em andamento,3.0
+1074,Inglês,73.5,Concluída,
+1029,Português,41.7,Concluída,4.0
+1088,Química,25.8,Concluída,2.0
+1098,Química,,Concluída,5.0
+1036,História,54.4,Concluída,4.0
+1009,Inglês,65.8,Pendente,2.0
+1018,Física,49.1,Em andamento,3.0
+1015,Física,38.4,Concluída,2.0
+1005,Física,,Concluída,3.0
+1079,Português,13.7,Concluída,4.0
+1077,Português,59.6,Em andamento,4.0
+1088,Inglês,60.0,Pendente,5.0
+1009,Química,54.0,Pendente,4.0
+1001,Inglês,65.8,Concluída,4.0
+1002,Português,,Pendente,5.0
+1043,História,,Pendente,4.0
+1051,Física,77.2,Em andamento,4.0
+1008,Português,80.8,Concluída,3.0
+1097,Física,40.1,Concluída,5.0
+1067,Química,,Pendente,5.0
+1021,Português,48.9,Concluída,3.0
+1044,Português,55.8,Em andamento,2.0
+1095,Português,64.9,Pendente,2.0
+1055,Química,105.8,Concluída,4.0
+1077,Química,63.7,Concluída,3.0
+1027,Matemática,38.5,Concluída,4.0
+1069,Matemática,65.5,Concluída,3.0
+1037,Inglês,73.9,Em andamento,3.0
+1034,História,50.1,Concluída,2.0
+1077,Português,61.9,Concluída,4.0
+1078,Português,56.5,Concluída,4.0
+1006,História,65.6,Em andamento,
+1015,Matemática,,Concluída,5.0
+1045,Inglês,55.1,Concluída,2.0
+1032,Física,,Pendente,3.0
+1039,Química,74.1,Em andamento,4.0
+1065,Português,32.6,Concluída,4.0
+1035,Química,60.6,Concluída,2.0
+1077,Português,47.8,Pendente,4.0
+1008,História,77.8,Em andamento,4.0
+1013,Inglês,64.9,Concluída,3.0
+1080,Matemática,44.7,Concluída,3.0
+1070,História,56.5,Concluída,3.0
+1045,Matemática,54.4,Pendente,5.0
+1073,Matemática,54.3,Em andamento,4.0
+1040,Inglês,29.9,Concluída,4.0
+1032,Matemática,70.5,Concluída,4.0
+1009,Português,74.2,Pendente,4.0
+1072,Inglês,58.8,Em andamento,
+1025,História,63.9,Em andamento,3.0
+1081,Matemática,31.7,Pendente,3.0
+1038,História,62.3,Concluída,4.0
+1035,Física,68.6,Em andamento,4.0
+1085,História,53.5,Em andamento,4.0
+1073,Português,53.3,Concluída,3.0
+1097,Português,57.4,Concluída,4.0
+1050,História,45.5,Pendente,5.0
+1096,Português,,Concluída,3.0
+1004,Química,40.4,Concluída,4.0
+1051,Inglês,57.1,Concluída,4.0
+1095,Inglês,60.9,Concluída,3.0
+1070,Português,46.5,Concluída,4.0
+1080,História,74.8,Concluída,5.0
+1034,Física,47.7,Concluída,5.0
+1025,História,73.4,Em andamento,4.0
+1048,Inglês,61.0,Pendente,5.0
+1096,Matemática,45.4,Concluída,3.0
+1032,Português,38.8,Concluída,4.0
+1018,História,74.9,Pendente,3.0
+1077,Português,70.1,Em andamento,4.0
+1095,História,65.7,Concluída,3.0
+1018,Química,44.6,Pendente,3.0
+1067,História,51.6,Concluída,5.0
+1046,Português,50.7,Concluída,4.0
+1065,Português,44.7,Pendente,4.0
+1055,Inglês,68.2,Em andamento,5.0
+1057,Inglês,80.8,Pendente,5.0
+1035,Inglês,53.9,Concluída,4.0
