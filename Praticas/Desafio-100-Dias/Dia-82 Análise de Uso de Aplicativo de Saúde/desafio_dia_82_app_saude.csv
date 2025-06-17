@@ -1,0 +1,501 @@
+id_usuario,faixa_etaria,objetivo,frequencia_uso,tempo_uso_min_semana,avaliacao_app
+2132,26-35,Saúde geral,1-2x/semana,110.7,3.0
+2451,18-25,Manutenção,Diária,137.2,4.0
+2132,26-35,Perda de peso,Diária,164.6,1.0
+2412,26-35,Saúde geral,1-2x/semana,145.6,3.0
+2974,18-25,Saúde geral,1-2x/semana,213.3,5.0
+2350,36-45,Saúde geral,Diária,81.8,4.0
+2983,18-25,Perda de peso,3-4x/semana,87.1,2.0
+2544,46-60,Perda de peso,1-2x/semana,126.2,2.0
+2483,26-35,Ganho de massa,Diária,157.0,4.0
+2623,46-60,Ganho de massa,Raramente,123.3,4.0
+2081,46-60,Ganho de massa,Diária,99.3,5.0
+2975,46-60,Saúde geral,Diária,115.7,3.0
+2299,18-25,Ganho de massa,3-4x/semana,71.2,3.0
+2610,18-25,Manutenção,Raramente,137.3,4.0
+2798,26-35,Perda de peso,1-2x/semana,112.1,
+2349,36-45,Perda de peso,Diária,198.0,4.0
+2114,46-60,Ganho de massa,Diária,94.6,4.0
+2940,46-60,Ganho de massa,1-2x/semana,187.2,4.0
+2452,18-25,Manutenção,Diária,,3.0
+2500,60+,Perda de peso,3-4x/semana,,4.0
+2282,26-35,Perda de peso,1-2x/semana,92.2,2.0
+2838,46-60,Perda de peso,3-4x/semana,191.5,5.0
+2933,60+,Ganho de massa,Diária,87.6,3.0
+2401,60+,Perda de peso,3-4x/semana,86.8,4.0
+2066,60+,Perda de peso,Diária,32.6,
+2506,36-45,Saúde geral,1-2x/semana,136.1,1.0
+2360,46-60,Saúde geral,3-4x/semana,40.8,3.0
+2927,18-25,Ganho de massa,3-4x/semana,127.9,2.0
+2756,18-25,Saúde geral,Diária,145.0,4.0
+2309,26-35,Saúde geral,Diária,102.0,4.0
+2137,36-45,Ganho de massa,1-2x/semana,158.0,4.0
+2857,18-25,Ganho de massa,Diária,124.0,4.0
+2010,36-45,Saúde geral,1-2x/semana,129.1,3.0
+2542,26-35,Perda de peso,Diária,105.8,4.0
+2020,18-25,Perda de peso,3-4x/semana,,4.0
+2805,60+,Saúde geral,Raramente,57.4,4.0
+2401,26-35,Perda de peso,Diária,167.4,5.0
+2241,36-45,Saúde geral,3-4x/semana,198.0,4.0
+2904,36-45,Perda de peso,Diária,112.6,4.0
+2564,36-45,Saúde geral,Diária,134.6,1.0
+2610,36-45,Perda de peso,1-2x/semana,63.1,4.0
+2303,26-35,Saúde geral,1-2x/semana,86.0,3.0
+2044,36-45,Perda de peso,3-4x/semana,193.5,3.0
+2260,46-60,Ganho de massa,Diária,105.6,5.0
+2239,46-60,Perda de peso,3-4x/semana,164.2,5.0
+2017,60+,Saúde geral,3-4x/semana,120.6,4.0
+2069,36-45,Manutenção,1-2x/semana,176.2,5.0
+2510,26-35,Ganho de massa,1-2x/semana,85.9,4.0
+2071,26-35,Perda de peso,Raramente,167.6,3.0
+2237,60+,Saúde geral,3-4x/semana,188.6,5.0
+2071,36-45,Perda de peso,Diária,191.3,1.0
+2867,26-35,Ganho de massa,1-2x/semana,87.0,4.0
+2382,26-35,Perda de peso,3-4x/semana,158.1,2.0
+2442,60+,Perda de peso,1-2x/semana,85.0,2.0
+2990,36-45,Ganho de massa,Diária,111.3,5.0
+2638,26-35,Ganho de massa,Raramente,164.9,4.0
+2831,36-45,Perda de peso,1-2x/semana,196.5,5.0
+2933,46-60,Manutenção,3-4x/semana,86.7,3.0
+2186,18-25,Saúde geral,Diária,133.2,1.0
+2046,60+,Perda de peso,3-4x/semana,105.9,4.0
+2981,18-25,Ganho de massa,1-2x/semana,105.3,
+2893,60+,Perda de peso,Diária,38.3,4.0
+2475,60+,Manutenção,1-2x/semana,154.4,4.0
+2837,36-45,Saúde geral,3-4x/semana,123.4,4.0
+2198,18-25,Manutenção,3-4x/semana,172.2,3.0
+2934,60+,Saúde geral,3-4x/semana,89.1,2.0
+2913,60+,Saúde geral,Raramente,113.4,1.0
+2559,60+,Perda de peso,3-4x/semana,147.9,4.0
+2458,18-25,Perda de peso,Diária,152.6,3.0
+2578,18-25,Manutenção,Raramente,77.0,4.0
+2606,60+,Perda de peso,Raramente,,5.0
+2658,18-25,Perda de peso,3-4x/semana,87.6,2.0
+2102,18-25,Ganho de massa,Diária,,
+2862,18-25,Ganho de massa,Diária,98.1,4.0
+2009,26-35,Ganho de massa,Raramente,64.2,4.0
+2475,46-60,Ganho de massa,1-2x/semana,86.5,4.0
+2011,26-35,Perda de peso,Diária,130.0,5.0
+2470,36-45,Ganho de massa,Diária,214.5,5.0
+2065,46-60,Manutenção,Diária,158.7,3.0
+2111,26-35,Manutenção,3-4x/semana,93.9,4.0
+2332,26-35,Ganho de massa,3-4x/semana,190.2,5.0
+2213,60+,Perda de peso,Raramente,113.5,4.0
+2434,60+,Ganho de massa,1-2x/semana,154.6,4.0
+2025,36-45,Ganho de massa,Diária,89.7,4.0
+2109,60+,Saúde geral,Raramente,99.0,4.0
+2406,36-45,Ganho de massa,Diária,80.0,3.0
+2530,60+,Perda de peso,1-2x/semana,113.4,4.0
+2463,46-60,Perda de peso,Diária,146.3,3.0
+2566,60+,Saúde geral,Raramente,135.9,5.0
+2090,46-60,Manutenção,1-2x/semana,,4.0
+2714,46-60,Perda de peso,1-2x/semana,161.7,3.0
+2198,26-35,Saúde geral,3-4x/semana,58.4,4.0
+2523,60+,Perda de peso,Diária,51.6,3.0
+2902,60+,Ganho de massa,Diária,155.9,4.0
+2951,18-25,Perda de peso,Diária,134.9,2.0
+2572,46-60,Ganho de massa,3-4x/semana,106.6,3.0
+2930,18-25,Saúde geral,3-4x/semana,97.9,4.0
+2204,46-60,Saúde geral,Raramente,58.4,4.0
+2686,46-60,Saúde geral,3-4x/semana,128.4,3.0
+2489,26-35,Manutenção,1-2x/semana,37.8,4.0
+2642,36-45,Manutenção,1-2x/semana,127.9,3.0
+2823,46-60,Perda de peso,Diária,183.1,5.0
+2807,46-60,Saúde geral,1-2x/semana,42.8,4.0
+2580,18-25,Manutenção,Diária,76.0,4.0
+2962,18-25,Manutenção,Diária,111.2,3.0
+2055,46-60,Ganho de massa,3-4x/semana,82.3,3.0
+2158,60+,Perda de peso,3-4x/semana,156.2,1.0
+2888,26-35,Manutenção,1-2x/semana,250.3,5.0
+2582,46-60,Ganho de massa,3-4x/semana,220.4,3.0
+2334,60+,Manutenção,Diária,74.0,4.0
+2879,26-35,Ganho de massa,Raramente,108.4,3.0
+2183,26-35,Ganho de massa,Diária,106.5,5.0
+2890,18-25,Ganho de massa,Raramente,163.3,3.0
+2013,60+,Perda de peso,Diária,92.1,4.0
+2768,18-25,Ganho de massa,Raramente,168.7,5.0
+2210,46-60,Ganho de massa,3-4x/semana,114.1,3.0
+2135,18-25,Perda de peso,1-2x/semana,232.0,2.0
+2141,18-25,Ganho de massa,Diária,68.0,4.0
+2020,46-60,Saúde geral,Raramente,84.1,4.0
+2630,46-60,Saúde geral,Diária,83.9,3.0
+2732,18-25,Manutenção,1-2x/semana,144.2,4.0
+2135,46-60,Saúde geral,3-4x/semana,60.9,4.0
+2170,26-35,Perda de peso,Diária,196.5,3.0
+2423,18-25,Ganho de massa,1-2x/semana,16.1,3.0
+2639,60+,Manutenção,Diária,40.3,4.0
+2441,60+,Saúde geral,Diária,108.6,5.0
+2369,46-60,Manutenção,Diária,89.8,4.0
+2535,46-60,Saúde geral,3-4x/semana,222.0,2.0
+2069,46-60,Ganho de massa,1-2x/semana,175.4,4.0
+2591,26-35,Manutenção,3-4x/semana,25.9,3.0
+2524,46-60,Ganho de massa,Diária,109.4,3.0
+2798,60+,Manutenção,1-2x/semana,45.5,3.0
+2572,36-45,Manutenção,Diária,49.4,5.0
+2562,36-45,Ganho de massa,Diária,,3.0
+2382,60+,Perda de peso,3-4x/semana,91.8,3.0
+2866,18-25,Perda de peso,Diária,143.1,5.0
+2111,46-60,Ganho de massa,Diária,69.8,3.0
+2276,46-60,Saúde geral,Diária,69.2,4.0
+2614,60+,Manutenção,1-2x/semana,177.4,4.0
+2692,36-45,Ganho de massa,1-2x/semana,136.8,4.0
+2777,18-25,Saúde geral,Diária,116.2,5.0
+2344,60+,Perda de peso,Diária,72.6,3.0
+2914,46-60,Perda de peso,1-2x/semana,91.3,1.0
+2394,36-45,Manutenção,Raramente,40.3,3.0
+2843,46-60,Manutenção,Raramente,147.5,2.0
+2089,46-60,Perda de peso,Raramente,42.0,4.0
+2424,36-45,Perda de peso,3-4x/semana,108.5,
+2069,60+,Perda de peso,Diária,159.2,
+2304,36-45,Saúde geral,Raramente,126.2,4.0
+2720,36-45,Perda de peso,3-4x/semana,100.0,3.0
+2285,26-35,Manutenção,3-4x/semana,143.2,5.0
+2808,46-60,Ganho de massa,1-2x/semana,80.2,3.0
+2300,18-25,Manutenção,Diária,79.3,4.0
+2991,46-60,Saúde geral,Diária,136.9,5.0
+2672,18-25,Perda de peso,3-4x/semana,108.2,5.0
+2703,46-60,Perda de peso,Diária,107.7,4.0
+2047,26-35,Manutenção,Raramente,189.9,3.0
+2410,36-45,Perda de peso,Raramente,44.8,4.0
+2935,60+,Ganho de massa,3-4x/semana,166.6,3.0
+2833,36-45,Manutenção,3-4x/semana,95.4,5.0
+2337,36-45,Manutenção,Diária,107.3,3.0
+2857,18-25,Saúde geral,Diária,169.0,3.0
+2422,60+,Perda de peso,Diária,143.4,3.0
+2957,46-60,Ganho de massa,3-4x/semana,139.8,5.0
+2244,26-35,Manutenção,Raramente,188.8,5.0
+2587,26-35,Ganho de massa,1-2x/semana,176.5,2.0
+2844,46-60,Perda de peso,1-2x/semana,91.6,4.0
+2490,18-25,Perda de peso,1-2x/semana,,5.0
+2242,26-35,Perda de peso,Raramente,102.3,4.0
+2051,36-45,Ganho de massa,1-2x/semana,109.2,4.0
+2709,18-25,Ganho de massa,Diária,86.0,3.0
+2029,26-35,Perda de peso,Diária,172.8,3.0
+2874,46-60,Ganho de massa,Diária,109.6,4.0
+2869,18-25,Manutenção,Diária,133.5,3.0
+2344,18-25,Manutenção,3-4x/semana,56.6,5.0
+2593,18-25,Ganho de massa,1-2x/semana,83.9,2.0
+2313,26-35,Saúde geral,Raramente,166.5,3.0
+2364,18-25,Perda de peso,Diária,71.8,2.0
+2208,60+,Perda de peso,3-4x/semana,44.3,3.0
+2382,18-25,Ganho de massa,3-4x/semana,106.8,4.0
+2216,18-25,Manutenção,Diária,32.5,4.0
+2778,46-60,Saúde geral,Diária,71.6,4.0
+2796,36-45,Perda de peso,3-4x/semana,6.7,4.0
+2598,60+,Ganho de massa,1-2x/semana,69.5,2.0
+2477,60+,Ganho de massa,Diária,71.4,4.0
+2266,26-35,Manutenção,Diária,150.9,4.0
+2045,26-35,Saúde geral,Diária,53.2,3.0
+2518,60+,Saúde geral,Diária,205.4,3.0
+2120,26-35,Saúde geral,Diária,69.4,3.0
+2650,18-25,Perda de peso,1-2x/semana,181.1,4.0
+2600,18-25,Manutenção,Diária,186.6,1.0
+2775,18-25,Perda de peso,Raramente,95.7,2.0
+2448,60+,Manutenção,3-4x/semana,73.4,3.0
+2855,36-45,Ganho de massa,3-4x/semana,154.2,5.0
+2690,46-60,Ganho de massa,Raramente,147.9,5.0
+2370,60+,Saúde geral,3-4x/semana,35.4,4.0
+2079,18-25,Ganho de massa,Diária,,5.0
+2825,36-45,Perda de peso,Raramente,242.7,4.0
+2876,36-45,Manutenção,1-2x/semana,196.0,4.0
+2925,18-25,Perda de peso,3-4x/semana,141.6,4.0
+2785,60+,Perda de peso,Raramente,73.3,2.0
+2836,36-45,Perda de peso,3-4x/semana,124.4,5.0
+2291,26-35,Manutenção,Diária,78.3,5.0
+2258,46-60,Saúde geral,3-4x/semana,109.9,4.0
+2767,60+,Ganho de massa,Diária,215.9,4.0
+2090,18-25,Saúde geral,3-4x/semana,175.3,4.0
+2229,18-25,Perda de peso,1-2x/semana,81.5,2.0
+2448,46-60,Perda de peso,1-2x/semana,92.1,4.0
+2561,46-60,Saúde geral,1-2x/semana,198.9,3.0
+2758,26-35,Ganho de massa,1-2x/semana,,5.0
+2563,36-45,Ganho de massa,1-2x/semana,133.5,3.0
+2982,60+,Saúde geral,3-4x/semana,138.0,4.0
+2942,18-25,Saúde geral,1-2x/semana,84.8,4.0
+2451,60+,Manutenção,Diária,134.1,3.0
+2456,46-60,Ganho de massa,1-2x/semana,143.2,4.0
+2437,18-25,Saúde geral,Diária,144.9,5.0
+2086,18-25,Saúde geral,Raramente,92.6,4.0
+2159,36-45,Manutenção,3-4x/semana,88.4,5.0
+2267,46-60,Manutenção,3-4x/semana,42.0,1.0
+2078,36-45,Ganho de massa,3-4x/semana,128.4,5.0
+2300,18-25,Ganho de massa,Diária,147.3,3.0
+2601,26-35,Perda de peso,Diária,6.3,4.0
+2551,36-45,Perda de peso,Diária,64.4,2.0
+2932,26-35,Manutenção,3-4x/semana,63.0,4.0
+2581,26-35,Perda de peso,Diária,146.3,2.0
+2035,18-25,Ganho de massa,Raramente,114.5,3.0
+2983,46-60,Manutenção,Diária,,3.0
+2821,60+,Saúde geral,3-4x/semana,90.0,5.0
+2100,46-60,Ganho de massa,Diária,162.6,3.0
+2641,46-60,Ganho de massa,3-4x/semana,144.7,4.0
+2107,36-45,Saúde geral,Raramente,118.8,4.0
+2702,60+,Manutenção,1-2x/semana,,4.0
+2719,60+,Perda de peso,3-4x/semana,57.4,
+2228,60+,Manutenção,3-4x/semana,156.2,
+2349,60+,Saúde geral,Diária,92.1,1.0
+2466,46-60,Manutenção,Raramente,179.3,3.0
+2523,36-45,Ganho de massa,Diária,18.3,5.0
+2757,36-45,Ganho de massa,1-2x/semana,127.1,3.0
+2852,36-45,Ganho de massa,Diária,127.3,3.0
+2418,36-45,Manutenção,1-2x/semana,99.3,4.0
+2625,26-35,Ganho de massa,1-2x/semana,141.0,4.0
+2700,46-60,Ganho de massa,Diária,67.2,5.0
+2937,46-60,Perda de peso,Diária,91.4,4.0
+2567,26-35,Ganho de massa,Diária,163.2,3.0
+2297,36-45,Ganho de massa,Diária,-51.1,4.0
+2169,18-25,Perda de peso,Diária,87.6,3.0
+2237,26-35,Saúde geral,3-4x/semana,80.3,3.0
+2397,60+,Ganho de massa,1-2x/semana,157.3,5.0
+2761,18-25,Ganho de massa,1-2x/semana,110.0,5.0
+2576,36-45,Manutenção,3-4x/semana,118.0,4.0
+2509,26-35,Saúde geral,Raramente,83.9,4.0
+2315,46-60,Manutenção,Diária,72.7,4.0
+2432,26-35,Saúde geral,3-4x/semana,90.1,5.0
+2495,46-60,Saúde geral,1-2x/semana,62.3,3.0
+2477,46-60,Ganho de massa,Diária,64.4,2.0
+2428,26-35,Ganho de massa,3-4x/semana,116.9,2.0
+2989,46-60,Saúde geral,3-4x/semana,195.8,5.0
+2497,18-25,Manutenção,Raramente,78.2,4.0
+2178,18-25,Ganho de massa,1-2x/semana,155.2,3.0
+2285,18-25,Perda de peso,3-4x/semana,195.9,4.0
+2677,60+,Perda de peso,3-4x/semana,166.0,
+2385,36-45,Saúde geral,Diária,72.4,2.0
+2139,26-35,Manutenção,3-4x/semana,124.3,5.0
+2756,46-60,Manutenção,3-4x/semana,228.1,4.0
+2517,18-25,Saúde geral,1-2x/semana,146.6,3.0
+2562,60+,Ganho de massa,1-2x/semana,39.1,5.0
+2093,60+,Perda de peso,Raramente,19.3,5.0
+2877,36-45,Ganho de massa,Diária,73.9,
+2663,36-45,Perda de peso,1-2x/semana,175.5,4.0
+2594,36-45,Perda de peso,Diária,151.8,3.0
+2329,26-35,Perda de peso,1-2x/semana,93.2,1.0
+2031,46-60,Manutenção,1-2x/semana,156.6,
+2888,18-25,Perda de peso,3-4x/semana,104.1,4.0
+2826,36-45,Manutenção,Raramente,228.1,3.0
+2693,18-25,Perda de peso,Raramente,80.0,4.0
+2267,60+,Saúde geral,Diária,-45.2,4.0
+2262,36-45,Manutenção,3-4x/semana,73.1,3.0
+2598,60+,Saúde geral,1-2x/semana,138.4,4.0
+2683,18-25,Manutenção,1-2x/semana,,4.0
+2924,18-25,Manutenção,1-2x/semana,91.4,3.0
+2981,26-35,Manutenção,Diária,127.2,2.0
+2581,60+,Manutenção,3-4x/semana,84.0,3.0
+2208,60+,Perda de peso,1-2x/semana,138.8,5.0
+2327,18-25,Manutenção,Diária,157.8,5.0
+2662,60+,Manutenção,Diária,143.5,2.0
+2476,46-60,Perda de peso,1-2x/semana,125.6,4.0
+2370,36-45,Perda de peso,1-2x/semana,115.2,4.0
+2708,46-60,Saúde geral,Diária,232.3,2.0
+2944,60+,Manutenção,Diária,44.1,5.0
+2268,46-60,Manutenção,Diária,63.3,4.0
+2422,60+,Manutenção,Diária,121.9,4.0
+2646,26-35,Manutenção,Raramente,210.3,4.0
+2134,36-45,Ganho de massa,1-2x/semana,88.3,5.0
+2336,36-45,Perda de peso,Diária,173.8,4.0
+2376,18-25,Saúde geral,3-4x/semana,102.5,4.0
+2215,36-45,Ganho de massa,Raramente,193.8,3.0
+2650,26-35,Perda de peso,Diária,56.7,4.0
+2005,26-35,Manutenção,Diária,126.0,4.0
+2112,36-45,Manutenção,1-2x/semana,110.2,3.0
+2537,60+,Manutenção,Diária,141.1,4.0
+2618,60+,Perda de peso,Diária,192.3,4.0
+2919,60+,Perda de peso,1-2x/semana,89.1,3.0
+2560,26-35,Saúde geral,Diária,126.1,4.0
+2142,18-25,Ganho de massa,Diária,172.1,2.0
+2997,26-35,Saúde geral,1-2x/semana,80.3,4.0
+2177,46-60,Manutenção,Diária,160.9,2.0
+2876,18-25,Perda de peso,3-4x/semana,106.7,3.0
+2495,36-45,Perda de peso,Diária,118.8,5.0
+2446,46-60,Manutenção,Diária,133.8,3.0
+2964,46-60,Ganho de massa,Diária,162.8,3.0
+2834,18-25,Manutenção,Raramente,42.5,3.0
+2851,36-45,Ganho de massa,1-2x/semana,124.7,5.0
+2352,26-35,Manutenção,Diária,95.7,4.0
+2518,26-35,Ganho de massa,1-2x/semana,30.9,3.0
+2256,60+,Perda de peso,3-4x/semana,109.1,4.0
+2978,46-60,Perda de peso,Raramente,147.7,3.0
+2241,46-60,Ganho de massa,3-4x/semana,43.8,3.0
+2886,60+,Saúde geral,3-4x/semana,192.8,4.0
+2668,36-45,Perda de peso,Diária,46.9,4.0
+2992,36-45,Saúde geral,Diária,126.9,3.0
+2282,26-35,Perda de peso,Diária,147.0,2.0
+2324,46-60,Saúde geral,1-2x/semana,126.3,5.0
+2528,36-45,Manutenção,Diária,116.5,4.0
+2908,36-45,Saúde geral,Diária,95.4,4.0
+2412,46-60,Manutenção,Diária,,4.0
+2975,18-25,Ganho de massa,Diária,153.2,4.0
+2190,18-25,Ganho de massa,Raramente,84.4,5.0
+2203,36-45,Ganho de massa,1-2x/semana,236.0,4.0
+2892,18-25,Perda de peso,3-4x/semana,77.4,3.0
+2119,60+,Manutenção,3-4x/semana,56.5,3.0
+2924,36-45,Ganho de massa,Diária,88.4,2.0
+2797,18-25,Perda de peso,3-4x/semana,151.0,3.0
+2861,36-45,Ganho de massa,1-2x/semana,5.9,1.0
+2946,60+,Manutenção,Raramente,140.6,3.0
+2755,26-35,Ganho de massa,Diária,,3.0
+2177,46-60,Manutenção,3-4x/semana,53.7,4.0
+2930,18-25,Manutenção,Raramente,163.9,3.0
+2669,46-60,Manutenção,3-4x/semana,153.6,4.0
+2716,18-25,Ganho de massa,3-4x/semana,118.9,3.0
+2522,18-25,Perda de peso,3-4x/semana,42.9,4.0
+2437,36-45,Manutenção,3-4x/semana,106.9,
+2456,46-60,Manutenção,Diária,,3.0
+2554,60+,Saúde geral,Diária,133.3,5.0
+2485,26-35,Manutenção,Diária,92.7,4.0
+2002,60+,Saúde geral,1-2x/semana,144.0,4.0
+2314,60+,Ganho de massa,3-4x/semana,,4.0
+2220,36-45,Perda de peso,1-2x/semana,76.8,
+2870,18-25,Perda de peso,3-4x/semana,146.0,4.0
+2900,60+,Manutenção,Diária,141.8,4.0
+2292,46-60,Ganho de massa,Raramente,80.3,1.0
+2485,18-25,Ganho de massa,Raramente,118.2,3.0
+2838,36-45,Ganho de massa,Diária,110.2,5.0
+2650,36-45,Ganho de massa,Raramente,88.4,3.0
+2804,18-25,Manutenção,3-4x/semana,78.2,3.0
+2416,46-60,Saúde geral,Diária,167.4,4.0
+2901,36-45,Ganho de massa,1-2x/semana,120.5,5.0
+2249,18-25,Perda de peso,Diária,,5.0
+2080,36-45,Manutenção,1-2x/semana,144.3,4.0
+2311,26-35,Perda de peso,3-4x/semana,184.6,4.0
+2623,26-35,Saúde geral,1-2x/semana,118.3,4.0
+2613,60+,Saúde geral,3-4x/semana,,4.0
+2881,46-60,Perda de peso,1-2x/semana,182.3,
+2483,26-35,Perda de peso,3-4x/semana,204.0,4.0
+2722,36-45,Perda de peso,Diária,60.8,4.0
+2707,18-25,Saúde geral,Diária,161.2,4.0
+2931,18-25,Ganho de massa,Diária,44.6,5.0
+2374,36-45,Saúde geral,1-2x/semana,108.9,5.0
+2926,18-25,Ganho de massa,3-4x/semana,165.0,3.0
+2782,36-45,Manutenção,1-2x/semana,77.8,3.0
+2178,46-60,Ganho de massa,3-4x/semana,138.0,1.0
+2563,60+,Perda de peso,1-2x/semana,164.2,4.0
+2451,18-25,Saúde geral,3-4x/semana,246.3,4.0
+2101,26-35,Perda de peso,1-2x/semana,161.4,3.0
+2065,36-45,Saúde geral,3-4x/semana,85.3,4.0
+2405,60+,Manutenção,1-2x/semana,169.6,3.0
+2548,36-45,Manutenção,Raramente,163.3,5.0
+2545,26-35,Saúde geral,3-4x/semana,94.0,3.0
+2094,60+,Saúde geral,Diária,158.3,4.0
+2292,60+,Saúde geral,Diária,141.1,4.0
+2764,60+,Perda de peso,3-4x/semana,96.2,4.0
+2487,26-35,Ganho de massa,Diária,,4.0
+2873,46-60,Saúde geral,Raramente,188.3,4.0
+2944,26-35,Perda de peso,3-4x/semana,150.3,1.0
+2346,46-60,Manutenção,Diária,191.9,5.0
+2215,36-45,Saúde geral,Diária,100.6,4.0
+2661,26-35,Ganho de massa,1-2x/semana,46.1,3.0
+2329,26-35,Manutenção,3-4x/semana,119.1,1.0
+2265,36-45,Perda de peso,1-2x/semana,,3.0
+2863,18-25,Manutenção,Diária,63.5,3.0
+2567,26-35,Ganho de massa,1-2x/semana,146.4,3.0
+2381,46-60,Saúde geral,1-2x/semana,156.0,3.0
+2427,18-25,Saúde geral,1-2x/semana,132.7,4.0
+2084,26-35,Saúde geral,3-4x/semana,136.6,1.0
+2869,36-45,Manutenção,Raramente,88.7,4.0
+2427,46-60,Saúde geral,3-4x/semana,185.8,4.0
+2553,36-45,Perda de peso,1-2x/semana,194.7,1.0
+2784,46-60,Manutenção,1-2x/semana,159.2,5.0
+2871,26-35,Ganho de massa,Diária,129.6,5.0
+2384,26-35,Ganho de massa,1-2x/semana,170.3,1.0
+2630,36-45,Perda de peso,3-4x/semana,129.3,3.0
+2048,18-25,Perda de peso,Diária,135.2,4.0
+2730,46-60,Saúde geral,1-2x/semana,197.2,4.0
+2976,46-60,Saúde geral,3-4x/semana,57.6,3.0
+2732,26-35,Manutenção,3-4x/semana,97.6,5.0
+2760,18-25,Ganho de massa,3-4x/semana,16.0,1.0
+2615,60+,Manutenção,3-4x/semana,89.5,4.0
+2592,26-35,Manutenção,Diária,182.3,1.0
+2684,18-25,Manutenção,Diária,77.0,4.0
+2339,26-35,Ganho de massa,3-4x/semana,141.1,2.0
+2071,26-35,Saúde geral,Diária,78.7,4.0
+2817,36-45,Manutenção,3-4x/semana,164.1,5.0
+2232,18-25,Ganho de massa,3-4x/semana,160.4,5.0
+2066,18-25,Perda de peso,3-4x/semana,197.8,3.0
+2748,46-60,Perda de peso,1-2x/semana,167.4,
+2893,46-60,Ganho de massa,3-4x/semana,148.3,3.0
+2325,60+,Manutenção,3-4x/semana,95.0,2.0
+2052,46-60,Saúde geral,Diária,62.0,4.0
+2786,26-35,Manutenção,Diária,105.7,4.0
+2573,36-45,Saúde geral,Diária,91.7,3.0
+2773,60+,Saúde geral,1-2x/semana,11.9,2.0
+2786,60+,Ganho de massa,Diária,243.4,4.0
+2862,46-60,Ganho de massa,Diária,,3.0
+2914,46-60,Saúde geral,Diária,92.3,5.0
+2811,46-60,Perda de peso,3-4x/semana,58.0,4.0
+2055,18-25,Ganho de massa,Diária,3.4,3.0
+2831,46-60,Ganho de massa,3-4x/semana,179.9,5.0
+2573,36-45,Manutenção,Diária,155.5,3.0
+2975,60+,Ganho de massa,3-4x/semana,161.3,1.0
+2247,36-45,Ganho de massa,3-4x/semana,179.8,2.0
+2771,26-35,Saúde geral,1-2x/semana,90.9,3.0
+2034,26-35,Perda de peso,Raramente,221.6,3.0
+2245,26-35,Saúde geral,3-4x/semana,220.5,4.0
+2805,36-45,Saúde geral,3-4x/semana,126.1,3.0
+2935,26-35,Saúde geral,Diária,59.6,2.0
+2748,36-45,Perda de peso,1-2x/semana,95.7,3.0
+2938,18-25,Saúde geral,1-2x/semana,71.1,4.0
+2995,60+,Manutenção,Diária,62.2,4.0
+2006,18-25,Ganho de massa,3-4x/semana,148.9,4.0
+2716,60+,Manutenção,Diária,184.2,2.0
+2836,46-60,Perda de peso,3-4x/semana,127.4,4.0
+2934,26-35,Saúde geral,Diária,119.8,5.0
+2665,36-45,Ganho de massa,1-2x/semana,192.0,5.0
+2030,36-45,Saúde geral,Diária,87.8,1.0
+2926,18-25,Ganho de massa,Diária,88.0,4.0
+2698,60+,Perda de peso,Diária,36.0,3.0
+2540,26-35,Ganho de massa,3-4x/semana,,3.0
+2800,36-45,Manutenção,3-4x/semana,142.7,1.0
+2283,36-45,Ganho de massa,3-4x/semana,121.4,2.0
+2769,60+,Ganho de massa,1-2x/semana,196.8,3.0
+2371,36-45,Ganho de massa,3-4x/semana,103.1,4.0
+2267,26-35,Saúde geral,Diária,124.1,4.0
+2795,36-45,Saúde geral,Diária,108.9,4.0
+2615,46-60,Saúde geral,3-4x/semana,168.6,4.0
+2137,26-35,Ganho de massa,Raramente,136.5,4.0
+2357,46-60,Ganho de massa,Diária,50.5,3.0
+2585,26-35,Saúde geral,3-4x/semana,101.6,3.0
+2938,26-35,Saúde geral,Diária,188.4,4.0
+2656,60+,Ganho de massa,1-2x/semana,148.9,3.0
+2332,46-60,Perda de peso,3-4x/semana,102.9,4.0
+2711,26-35,Saúde geral,Diária,92.2,1.0
+2180,60+,Manutenção,Diária,105.5,5.0
+2121,46-60,Perda de peso,Diária,86.6,3.0
+2592,60+,Manutenção,3-4x/semana,152.6,3.0
+2033,36-45,Saúde geral,3-4x/semana,71.9,2.0
+2071,26-35,Ganho de massa,Diária,168.3,4.0
+2634,18-25,Saúde geral,Diária,217.6,5.0
+2850,36-45,Ganho de massa,Diária,152.4,3.0
+2343,26-35,Perda de peso,3-4x/semana,93.3,4.0
+2664,60+,Ganho de massa,1-2x/semana,100.9,5.0
+2472,18-25,Ganho de massa,Diária,193.6,5.0
+2529,46-60,Ganho de massa,3-4x/semana,151.6,2.0
+2769,36-45,Ganho de massa,Diária,54.0,2.0
+2998,36-45,Saúde geral,3-4x/semana,51.9,4.0
+2591,46-60,Saúde geral,3-4x/semana,94.0,4.0
+2059,36-45,Saúde geral,Diária,,4.0
+2470,46-60,Ganho de massa,3-4x/semana,165.8,4.0
+2541,60+,Ganho de massa,3-4x/semana,184.2,4.0
+2908,18-25,Perda de peso,3-4x/semana,130.4,4.0
+2457,18-25,Ganho de massa,Diária,142.7,4.0
+2895,26-35,Saúde geral,1-2x/semana,123.5,4.0
+2163,46-60,Ganho de massa,Diária,-3.6,4.0
+2598,60+,Ganho de massa,3-4x/semana,97.6,4.0
+2596,36-45,Saúde geral,Diária,209.0,4.0
+2955,46-60,Ganho de massa,1-2x/semana,145.1,5.0
+2775,36-45,Ganho de massa,1-2x/semana,158.2,3.0
+2942,18-25,Perda de peso,Diária,77.1,2.0
+2906,60+,Manutenção,3-4x/semana,85.3,5.0
+2380,26-35,Perda de peso,Raramente,41.2,4.0
+2598,60+,Saúde geral,Raramente,84.7,4.0
+2108,18-25,Ganho de massa,Diária,93.2,2.0
+2101,36-45,Ganho de massa,Diária,143.8,3.0
+2497,46-60,Manutenção,Raramente,142.1,1.0
+2105,18-25,Manutenção,Diária,125.8,4.0
+2085,26-35,Manutenção,3-4x/semana,197.6,5.0
+2763,36-45,Saúde geral,Raramente,,2.0
+2730,46-60,Manutenção,3-4x/semana,138.4,1.0
+2821,36-45,Ganho de massa,1-2x/semana,-56.8,5.0
+2957,36-45,Perda de peso,Diária,146.6,4.0
+2696,26-35,Ganho de massa,3-4x/semana,131.7,2.0
+2957,26-35,Manutenção,3-4x/semana,171.9,5.0
