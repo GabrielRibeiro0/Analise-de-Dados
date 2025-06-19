@@ -1,0 +1,501 @@
+id_pedido,categoria_produto,transportadora,dias_entrega,status_entrega
+10001,Casa,Motoboy,,Entregue
+10002,Moda,Correios,1.9,Entregue
+10003,Moda,Correios,4.8,Atrasada
+10004,Eletrônicos,Correios,3.6,Entregue
+10005,Esportes,Motoboy,2.8,Entregue
+10006,Beleza,Transportadora X,5.0,Entregue
+10007,Esportes,Correios,6.9,Entregue
+10008,Eletrônicos,Loggi,5.9,Atrasada
+10009,Moda,Correios,,Cancelada
+10010,Casa,Transportadora X,,Entregue
+10011,Casa,Loggi,7.2,Entregue
+10012,Beleza,Correios,5.8,Entregue
+10013,Moda,Transportadora X,4.3,Entregue
+10014,Moda,Transportadora X,4.0,Entregue
+10015,Esportes,Correios,2.6,Entregue
+10016,Casa,Loggi,1.2,Cancelada
+10017,Esportes,Correios,5.9,Atrasada
+10018,Moda,Loggi,,Entregue
+10019,Beleza,Correios,3.8,Entregue
+10020,Eletrônicos,Correios,2.4,Entregue
+10021,Eletrônicos,Loggi,4.5,Entregue
+10022,Esportes,Loggi,7.5,Entregue
+10023,Eletrônicos,Loggi,7.4,Entregue
+10024,Esportes,Loggi,4.0,Entregue
+10025,Beleza,Correios,4.8,Atrasada
+10026,Beleza,Correios,4.7,Entregue
+10027,Beleza,Transportadora X,5.1,Entregue
+10028,Casa,Transportadora X,5.3,Entregue
+10029,Casa,Correios,11.5,Entregue
+10030,Eletrônicos,Correios,4.5,Atrasada
+10031,Livros,Loggi,3.9,Entregue
+10032,Beleza,Correios,4.5,Atrasada
+10033,Casa,Correios,,Entregue
+10034,Beleza,Transportadora X,2.9,Atrasada
+10035,Casa,Transportadora X,3.8,Entregue
+10036,Moda,Correios,7.8,Entregue
+10037,Eletrônicos,Correios,6.1,Entregue
+10038,Casa,Loggi,7.4,Atrasada
+10039,Moda,Correios,2.2,Entregue
+10040,Esportes,Transportadora X,4.1,Entregue
+10041,Esportes,Loggi,,Entregue
+10042,Moda,Transportadora X,2.6,Entregue
+10043,Moda,Loggi,3.6,Entregue
+10044,Eletrônicos,Correios,6.5,Cancelada
+10045,Casa,Correios,6.9,Entregue
+10046,Eletrônicos,Transportadora X,6.6,Entregue
+10047,Livros,Correios,6.7,Entregue
+10048,Livros,Motoboy,7.0,Atrasada
+10049,Livros,Transportadora X,3.4,Entregue
+10050,Beleza,Transportadora X,6.5,Entregue
+10051,Esportes,Loggi,8.2,Entregue
+10052,Moda,Correios,2.8,Entregue
+10053,Esportes,Correios,7.8,Entregue
+10054,Eletrônicos,Correios,6.1,Entregue
+10055,Livros,Correios,6.0,Entregue
+10056,Beleza,Correios,4.2,Atrasada
+10057,Livros,Correios,8.7,Entregue
+10058,Eletrônicos,Transportadora X,4.9,Entregue
+10059,Beleza,Transportadora X,7.1,Atrasada
+10060,Casa,Transportadora X,5.8,Entregue
+10061,Moda,Loggi,4.6,Cancelada
+10062,Casa,Transportadora X,6.1,Entregue
+10063,Esportes,Correios,5.5,Entregue
+10064,Casa,Correios,5.9,Entregue
+10065,Beleza,Motoboy,7.6,Entregue
+10066,Esportes,Correios,4.1,Entregue
+10067,Moda,Correios,6.5,Entregue
+10068,Moda,Correios,7.8,Entregue
+10069,Esportes,Loggi,5.9,Entregue
+10070,Casa,Loggi,6.7,Entregue
+10071,Moda,Correios,5.3,Cancelada
+10072,Esportes,Transportadora X,8.6,Entregue
+10073,Casa,Correios,4.5,Entregue
+10074,Moda,Transportadora X,4.8,Entregue
+10075,Beleza,Motoboy,6.7,Entregue
+10076,Moda,Transportadora X,6.2,Atrasada
+10077,Eletrônicos,Loggi,6.0,Cancelada
+10078,Casa,Correios,5.6,Entregue
+10079,Esportes,Loggi,0.6,Entregue
+10080,Casa,Correios,6.8,Entregue
+10081,Beleza,Transportadora X,0.3,Entregue
+10082,Beleza,Correios,5.3,Entregue
+10083,Moda,Correios,,Entregue
+10084,Livros,Transportadora X,6.0,Atrasada
+10085,Esportes,Correios,9.2,Entregue
+10086,Casa,Correios,0.4,Entregue
+10087,Casa,Loggi,5.2,Atrasada
+10088,Casa,Correios,8.3,Entregue
+10089,Beleza,Transportadora X,4.6,Atrasada
+10090,Casa,Correios,3.4,Entregue
+10091,Beleza,Correios,10.4,Entregue
+10092,Beleza,Correios,2.1,Cancelada
+10093,Esportes,Motoboy,9.9,Atrasada
+10094,Eletrônicos,Loggi,3.6,Entregue
+10095,Moda,Transportadora X,4.6,Atrasada
+10096,Livros,Loggi,5.8,Entregue
+10097,Esportes,Loggi,3.2,Entregue
+10098,Livros,Transportadora X,8.7,Entregue
+10099,Beleza,Correios,2.6,Entregue
+10100,Livros,Correios,4.7,Entregue
+10101,Esportes,Correios,2.8,Entregue
+10102,Livros,Correios,8.5,Entregue
+10103,Beleza,Motoboy,4.3,Entregue
+10104,Beleza,Transportadora X,5.4,Entregue
+10105,Eletrônicos,Correios,7.5,Entregue
+10106,Eletrônicos,Correios,2.9,Entregue
+10107,Livros,Loggi,3.8,Entregue
+10108,Eletrônicos,Correios,5.4,Entregue
+10109,Moda,Transportadora X,3.8,Entregue
+10110,Beleza,Loggi,4.3,Entregue
+10111,Esportes,Correios,7.4,Entregue
+10112,Moda,Loggi,4.3,Entregue
+10113,Livros,Correios,4.3,Entregue
+10114,Livros,Loggi,11.1,Atrasada
+10115,Esportes,Correios,0.8,Atrasada
+10116,Beleza,Transportadora X,5.3,Entregue
+10117,Moda,Transportadora X,7.8,Entregue
+10118,Casa,Motoboy,,Entregue
+10119,Eletrônicos,Loggi,,Entregue
+10120,Livros,Correios,5.4,Atrasada
+10121,Moda,Transportadora X,7.9,Atrasada
+10122,Moda,Transportadora X,,Atrasada
+10123,Esportes,Transportadora X,5.1,Entregue
+10124,Eletrônicos,Loggi,4.4,Atrasada
+10125,Casa,Correios,7.2,Entregue
+10126,Casa,Transportadora X,6.5,Entregue
+10127,Esportes,Correios,2.0,Entregue
+10128,Eletrônicos,Transportadora X,5.5,Entregue
+10129,Moda,Loggi,4.8,Entregue
+10130,Eletrônicos,Loggi,4.9,Entregue
+10131,Livros,Correios,1.6,Entregue
+10132,Moda,Motoboy,5.4,Entregue
+10133,Livros,Correios,3.7,Entregue
+10134,Livros,Transportadora X,4.7,Entregue
+10135,Eletrônicos,Loggi,7.5,Entregue
+10136,Esportes,Correios,7.2,Atrasada
+10137,Esportes,Motoboy,4.5,Entregue
+10138,Moda,Motoboy,10.2,Entregue
+10139,Esportes,Transportadora X,7.4,Entregue
+10140,Esportes,Correios,1.0,Cancelada
+10141,Moda,Motoboy,4.8,Entregue
+10142,Casa,Correios,7.3,Entregue
+10143,Livros,Transportadora X,,Entregue
+10144,Livros,Correios,6.7,Atrasada
+10145,Esportes,Correios,7.1,Atrasada
+10146,Casa,Correios,8.5,Entregue
+10147,Beleza,Correios,6.9,Entregue
+10148,Moda,Correios,7.7,Entregue
+10149,Beleza,Loggi,5.9,Atrasada
+10150,Livros,Correios,1.5,Entregue
+10151,Casa,Loggi,8.0,Entregue
+10152,Moda,Transportadora X,2.1,Entregue
+10153,Casa,Correios,9.2,Entregue
+10154,Casa,Correios,1.5,Entregue
+10155,Esportes,Motoboy,3.5,Entregue
+10156,Livros,Transportadora X,7.6,Entregue
+10157,Beleza,Loggi,8.1,Cancelada
+10158,Eletrônicos,Loggi,6.5,Entregue
+10159,Eletrônicos,Motoboy,5.6,Entregue
+10160,Moda,Correios,0.2,Entregue
+10161,Moda,Correios,9.5,Entregue
+10162,Beleza,Correios,7.9,Entregue
+10163,Moda,Transportadora X,3.4,Atrasada
+10164,Esportes,Transportadora X,4.4,Entregue
+10165,Beleza,Correios,0.5,Entregue
+10166,Eletrônicos,Correios,8.8,Entregue
+10167,Livros,Correios,4.1,Entregue
+10168,Casa,Correios,3.3,Atrasada
+10169,Casa,Loggi,6.0,Entregue
+10170,Esportes,Correios,,Entregue
+10171,Esportes,Correios,6.4,Entregue
+10172,Eletrônicos,Correios,,Entregue
+10173,Esportes,Motoboy,4.5,Entregue
+10174,Eletrônicos,Transportadora X,3.6,Atrasada
+10175,Eletrônicos,Transportadora X,3.4,Entregue
+10176,Eletrônicos,Transportadora X,2.6,Cancelada
+10177,Eletrônicos,Motoboy,7.1,Atrasada
+10178,Casa,Correios,4.5,Entregue
+10179,Eletrônicos,Correios,4.6,Atrasada
+10180,Casa,Loggi,4.9,Atrasada
+10181,Eletrônicos,Transportadora X,3.9,Entregue
+10182,Eletrônicos,Motoboy,4.7,Entregue
+10183,Beleza,Loggi,7.9,Entregue
+10184,Livros,Correios,4.2,Entregue
+10185,Beleza,Transportadora X,7.2,Entregue
+10186,Moda,Loggi,2.2,Atrasada
+10187,Casa,Correios,7.2,Entregue
+10188,Esportes,Loggi,8.0,Atrasada
+10189,Eletrônicos,Correios,4.8,Entregue
+10190,Livros,Motoboy,4.8,Entregue
+10191,Moda,Motoboy,4.9,Entregue
+10192,Moda,Correios,3.9,Entregue
+10193,Casa,Correios,0.9,Entregue
+10194,Eletrônicos,Correios,6.7,Entregue
+10195,Eletrônicos,Transportadora X,6.2,Entregue
+10196,Livros,Loggi,6.2,Entregue
+10197,Eletrônicos,Correios,5.2,Entregue
+10198,Esportes,Correios,9.7,Entregue
+10199,Casa,Transportadora X,6.6,Entregue
+10200,Beleza,Loggi,0.6,Entregue
+10201,Livros,Transportadora X,6.8,Entregue
+10202,Esportes,Correios,3.8,Entregue
+10203,Moda,Correios,6.6,Atrasada
+10204,Moda,Correios,7.0,Entregue
+10205,Eletrônicos,Loggi,6.6,Entregue
+10206,Esportes,Loggi,2.2,Entregue
+10207,Beleza,Loggi,4.2,Atrasada
+10208,Casa,Transportadora X,3.8,Entregue
+10209,Livros,Motoboy,7.3,Entregue
+10210,Esportes,Correios,6.0,Entregue
+10211,Moda,Correios,3.0,Entregue
+10212,Livros,Correios,6.9,Atrasada
+10213,Casa,Loggi,5.2,Entregue
+10214,Casa,Transportadora X,2.8,Entregue
+10215,Livros,Correios,7.0,Cancelada
+10216,Beleza,Correios,5.1,Atrasada
+10217,Eletrônicos,Correios,6.3,Atrasada
+10218,Eletrônicos,Correios,5.2,Entregue
+10219,Casa,Transportadora X,4.6,Cancelada
+10220,Livros,Loggi,5.0,Entregue
+10221,Moda,Loggi,6.2,Entregue
+10222,Eletrônicos,Loggi,5.1,Cancelada
+10223,Casa,Loggi,5.3,Entregue
+10224,Moda,Correios,7.6,Entregue
+10225,Esportes,Correios,7.0,Atrasada
+10226,Esportes,Correios,7.0,Cancelada
+10227,Casa,Transportadora X,4.6,Entregue
+10228,Beleza,Transportadora X,5.9,Entregue
+10229,Beleza,Correios,6.7,Entregue
+10230,Esportes,Transportadora X,1.2,Entregue
+10231,Beleza,Correios,5.7,Entregue
+10232,Casa,Loggi,3.2,Cancelada
+10233,Moda,Correios,7.4,Entregue
+10234,Livros,Transportadora X,,Entregue
+10235,Eletrônicos,Loggi,2.7,Entregue
+10236,Esportes,Correios,7.8,Entregue
+10237,Beleza,Correios,3.8,Entregue
+10238,Eletrônicos,Correios,3.9,Entregue
+10239,Moda,Transportadora X,3.5,Entregue
+10240,Eletrônicos,Correios,3.0,Atrasada
+10241,Esportes,Correios,5.8,Atrasada
+10242,Casa,Correios,3.3,Entregue
+10243,Eletrônicos,Correios,2.1,Entregue
+10244,Beleza,Loggi,,Entregue
+10245,Esportes,Correios,6.1,Entregue
+10246,Moda,Loggi,3.6,Atrasada
+10247,Beleza,Transportadora X,2.5,Entregue
+10248,Eletrônicos,Motoboy,2.4,Atrasada
+10249,Eletrônicos,Loggi,6.8,Atrasada
+10250,Casa,Correios,4.7,Entregue
+10251,Esportes,Transportadora X,3.0,Entregue
+10252,Eletrônicos,Correios,5.3,Entregue
+10253,Eletrônicos,Correios,1.0,Atrasada
+10254,Beleza,Correios,4.6,Entregue
+10255,Eletrônicos,Loggi,7.5,Atrasada
+10256,Livros,Transportadora X,3.4,Entregue
+10257,Esportes,Correios,2.3,Entregue
+10258,Livros,Correios,6.9,Atrasada
+10259,Moda,Correios,3.0,Entregue
+10260,Moda,Loggi,1.7,Entregue
+10261,Eletrônicos,Loggi,1.5,Entregue
+10262,Eletrônicos,Motoboy,9.2,Entregue
+10263,Esportes,Correios,1.8,Entregue
+10264,Beleza,Correios,3.0,Entregue
+10265,Eletrônicos,Loggi,8.4,Entregue
+10266,Eletrônicos,Correios,8.8,Atrasada
+10267,Casa,Correios,3.7,Cancelada
+10268,Esportes,Loggi,5.6,Cancelada
+10269,Casa,Correios,2.4,Entregue
+10270,Casa,Loggi,1.6,Entregue
+10271,Moda,Correios,6.0,Entregue
+10272,Esportes,Transportadora X,5.3,Cancelada
+10273,Beleza,Correios,3.8,Entregue
+10274,Esportes,Transportadora X,5.4,Entregue
+10275,Livros,Correios,2.5,Entregue
+10276,Esportes,Motoboy,7.0,Entregue
+10277,Esportes,Transportadora X,5.6,Entregue
+10278,Livros,Correios,2.7,Entregue
+10279,Esportes,Transportadora X,1.8,Atrasada
+10280,Livros,Loggi,0.8,Entregue
+10281,Beleza,Correios,8.0,Atrasada
+10282,Beleza,Correios,6.2,Entregue
+10283,Moda,Loggi,3.9,Entregue
+10284,Esportes,Loggi,5.3,Entregue
+10285,Eletrônicos,Transportadora X,3.6,Entregue
+10286,Livros,Loggi,3.2,Entregue
+10287,Esportes,Motoboy,,Entregue
+10288,Livros,Correios,6.0,Entregue
+10289,Moda,Correios,3.3,Entregue
+10290,Moda,Transportadora X,2.7,Atrasada
+10291,Casa,Correios,4.6,Atrasada
+10292,Livros,Correios,3.9,Entregue
+10293,Esportes,Transportadora X,6.9,Entregue
+10294,Casa,Motoboy,4.8,Entregue
+10295,Moda,Correios,4.5,Entregue
+10296,Moda,Transportadora X,5.1,Entregue
+10297,Moda,Correios,6.5,Atrasada
+10298,Moda,Correios,,Entregue
+10299,Casa,Transportadora X,1.9,Cancelada
+10300,Livros,Correios,5.2,Entregue
+10301,Eletrônicos,Loggi,3.9,Entregue
+10302,Beleza,Motoboy,9.4,Entregue
+10303,Eletrônicos,Transportadora X,4.4,Entregue
+10304,Moda,Correios,8.3,Entregue
+10305,Esportes,Loggi,8.2,Entregue
+10306,Eletrônicos,Transportadora X,2.6,Entregue
+10307,Livros,Correios,7.6,Entregue
+10308,Eletrônicos,Correios,8.1,Entregue
+10309,Moda,Transportadora X,5.7,Entregue
+10310,Eletrônicos,Loggi,5.6,Entregue
+10311,Eletrônicos,Motoboy,6.2,Entregue
+10312,Moda,Transportadora X,9.4,Entregue
+10313,Esportes,Motoboy,0.6,Entregue
+10314,Casa,Correios,2.7,Entregue
+10315,Beleza,Loggi,,Entregue
+10316,Moda,Motoboy,3.6,Entregue
+10317,Moda,Correios,8.7,Cancelada
+10318,Eletrônicos,Correios,9.8,Entregue
+10319,Livros,Correios,3.6,Entregue
+10320,Beleza,Correios,5.7,Entregue
+10321,Moda,Motoboy,6.1,Entregue
+10322,Eletrônicos,Transportadora X,5.0,Entregue
+10323,Beleza,Transportadora X,7.2,Entregue
+10324,Eletrônicos,Correios,4.0,Entregue
+10325,Eletrônicos,Correios,4.7,Entregue
+10326,Esportes,Loggi,4.0,Entregue
+10327,Moda,Correios,3.8,Entregue
+10328,Casa,Transportadora X,3.8,Entregue
+10329,Eletrônicos,Transportadora X,4.4,Atrasada
+10330,Moda,Loggi,3.9,Entregue
+10331,Casa,Loggi,9.4,Entregue
+10332,Moda,Correios,8.0,Entregue
+10333,Esportes,Transportadora X,1.6,Entregue
+10334,Beleza,Transportadora X,6.5,Entregue
+10335,Eletrônicos,Loggi,3.2,Entregue
+10336,Livros,Correios,6.4,Entregue
+10337,Livros,Transportadora X,5.9,Entregue
+10338,Beleza,Transportadora X,3.8,Entregue
+10339,Beleza,Transportadora X,6.9,Entregue
+10340,Livros,Transportadora X,8.1,Entregue
+10341,Casa,Loggi,5.1,Atrasada
+10342,Esportes,Loggi,6.4,Entregue
+10343,Esportes,Transportadora X,4.4,Entregue
+10344,Beleza,Transportadora X,1.4,Entregue
+10345,Livros,Correios,6.8,Atrasada
+10346,Beleza,Correios,3.7,Entregue
+10347,Eletrônicos,Loggi,2.8,Entregue
+10348,Eletrônicos,Correios,2.6,Entregue
+10349,Eletrônicos,Correios,3.0,Atrasada
+10350,Casa,Loggi,3.2,Entregue
+10351,Beleza,Transportadora X,7.3,Entregue
+10352,Beleza,Motoboy,1.6,Entregue
+10353,Eletrônicos,Correios,,Atrasada
+10354,Casa,Loggi,4.1,Entregue
+10355,Livros,Transportadora X,3.5,Entregue
+10356,Beleza,Correios,3.3,Entregue
+10357,Moda,Loggi,6.5,Atrasada
+10358,Moda,Loggi,4.2,Entregue
+10359,Moda,Transportadora X,5.2,Atrasada
+10360,Eletrônicos,Transportadora X,7.3,Entregue
+10361,Casa,Correios,6.0,Entregue
+10362,Beleza,Motoboy,2.5,Entregue
+10363,Eletrônicos,Transportadora X,8.2,Entregue
+10364,Beleza,Correios,5.1,Entregue
+10365,Moda,Correios,1.5,Entregue
+10366,Esportes,Transportadora X,4.7,Entregue
+10367,Esportes,Motoboy,2.9,Entregue
+10368,Livros,Loggi,5.6,Entregue
+10369,Casa,Loggi,0.3,Entregue
+10370,Beleza,Loggi,6.7,Cancelada
+10371,Moda,Correios,5.3,Entregue
+10372,Esportes,Transportadora X,9.0,Entregue
+10373,Moda,Loggi,5.5,Atrasada
+10374,Eletrônicos,Correios,6.6,Entregue
+10375,Eletrônicos,Motoboy,7.0,Entregue
+10376,Casa,Correios,2.1,Entregue
+10377,Eletrônicos,Correios,4.3,Entregue
+10378,Casa,Correios,3.6,Entregue
+10379,Livros,Motoboy,6.2,Entregue
+10380,Esportes,Correios,7.3,Entregue
+10381,Esportes,Transportadora X,5.7,Entregue
+10382,Livros,Correios,5.4,Entregue
+10383,Beleza,Loggi,3.9,Entregue
+10384,Moda,Correios,,Entregue
+10385,Beleza,Correios,2.4,Entregue
+10386,Moda,Transportadora X,3.7,Entregue
+10387,Casa,Correios,4.1,Entregue
+10388,Eletrônicos,Loggi,5.0,Entregue
+10389,Esportes,Correios,7.9,Entregue
+10390,Moda,Transportadora X,5.9,Entregue
+10391,Esportes,Correios,2.4,Entregue
+10392,Esportes,Loggi,3.7,Atrasada
+10393,Moda,Loggi,3.3,Entregue
+10394,Eletrônicos,Motoboy,5.6,Entregue
+10395,Esportes,Transportadora X,7.3,Entregue
+10396,Moda,Correios,5.3,Entregue
+10397,Casa,Transportadora X,8.6,Entregue
+10398,Eletrônicos,Loggi,6.7,Entregue
+10399,Esportes,Correios,4.1,Entregue
+10400,Casa,Correios,1.8,Entregue
+10401,Beleza,Correios,3.5,Entregue
+10402,Moda,Correios,3.2,Entregue
+10403,Beleza,Transportadora X,9.4,Atrasada
+10404,Eletrônicos,Correios,6.2,Entregue
+10405,Eletrônicos,Transportadora X,8.1,Entregue
+10406,Esportes,Correios,6.1,Entregue
+10407,Livros,Transportadora X,6.2,Atrasada
+10408,Esportes,Correios,4.9,Entregue
+10409,Esportes,Motoboy,1.5,Entregue
+10410,Eletrônicos,Correios,4.3,Cancelada
+10411,Livros,Correios,4.2,Entregue
+10412,Moda,Transportadora X,1.3,Entregue
+10413,Esportes,Loggi,4.4,Entregue
+10414,Livros,Correios,5.7,Entregue
+10415,Esportes,Motoboy,4.8,Entregue
+10416,Eletrônicos,Correios,0.7,Entregue
+10417,Casa,Motoboy,3.2,Entregue
+10418,Eletrônicos,Loggi,4.1,Entregue
+10419,Beleza,Correios,4.3,Atrasada
+10420,Casa,Correios,0.2,Entregue
+10421,Livros,Correios,4.3,Entregue
+10422,Beleza,Loggi,6.0,Entregue
+10423,Eletrônicos,Correios,4.7,Entregue
+10424,Eletrônicos,Correios,5.8,Entregue
+10425,Beleza,Transportadora X,3.7,Entregue
+10426,Livros,Transportadora X,4.6,Entregue
+10427,Beleza,Correios,4.0,Entregue
+10428,Casa,Correios,4.4,Entregue
+10429,Moda,Correios,3.6,Entregue
+10430,Esportes,Correios,7.4,Entregue
+10431,Casa,Loggi,3.8,Entregue
+10432,Moda,Transportadora X,6.0,Entregue
+10433,Esportes,Motoboy,2.7,Entregue
+10434,Livros,Correios,8.1,Atrasada
+10435,Moda,Correios,4.7,Entregue
+10436,Esportes,Loggi,7.9,Cancelada
+10437,Moda,Correios,2.6,Entregue
+10438,Livros,Motoboy,3.9,Entregue
+10439,Moda,Correios,4.6,Cancelada
+10440,Eletrônicos,Transportadora X,3.9,Entregue
+10441,Beleza,Correios,4.3,Entregue
+10442,Eletrônicos,Correios,6.6,Entregue
+10443,Moda,Loggi,7.3,Entregue
+10444,Moda,Correios,3.5,Entregue
+10445,Casa,Correios,3.2,Entregue
+10446,Beleza,Correios,3.7,Entregue
+10447,Eletrônicos,Motoboy,4.9,Entregue
+10448,Beleza,Loggi,8.6,Entregue
+10449,Moda,Transportadora X,4.2,Entregue
+10450,Beleza,Loggi,5.5,Entregue
+10451,Livros,Correios,4.3,Entregue
+10452,Eletrônicos,Correios,10.6,Cancelada
+10453,Livros,Loggi,6.0,Atrasada
+10454,Beleza,Loggi,3.3,Entregue
+10455,Esportes,Transportadora X,8.0,Entregue
+10456,Esportes,Motoboy,6.4,Atrasada
+10457,Casa,Loggi,7.9,Entregue
+10458,Beleza,Correios,7.1,Entregue
+10459,Livros,Correios,4.3,Entregue
+10460,Esportes,Correios,3.5,Entregue
+10461,Casa,Transportadora X,3.1,Atrasada
+10462,Eletrônicos,Motoboy,5.8,Entregue
+10463,Livros,Correios,7.2,Entregue
+10464,Moda,Transportadora X,6.8,Entregue
+10465,Moda,Correios,6.1,Entregue
+10466,Beleza,Correios,4.8,Entregue
+10467,Moda,Correios,5.5,Entregue
+10468,Esportes,Correios,7.7,Entregue
+10469,Beleza,Motoboy,6.7,Atrasada
+10470,Esportes,Motoboy,3.9,Entregue
+10471,Casa,Correios,4.8,Entregue
+10472,Livros,Correios,5.6,Entregue
+10473,Esportes,Transportadora X,6.2,Entregue
+10474,Moda,Loggi,7.8,Entregue
+10475,Beleza,Transportadora X,4.3,Entregue
+10476,Livros,Motoboy,8.2,Entregue
+10477,Beleza,Loggi,7.3,Entregue
+10478,Beleza,Correios,3.0,Entregue
+10479,Beleza,Correios,3.0,Entregue
+10480,Eletrônicos,Correios,3.1,Entregue
+10481,Casa,Correios,5.9,Atrasada
+10482,Livros,Correios,3.6,Atrasada
+10483,Moda,Correios,3.6,Entregue
+10484,Eletrônicos,Correios,5.5,Entregue
+10485,Eletrônicos,Correios,5.2,Atrasada
+10486,Moda,Loggi,9.0,Entregue
+10487,Casa,Transportadora X,6.0,Entregue
+10488,Livros,Correios,7.1,Entregue
+10489,Casa,Correios,6.0,Entregue
+10490,Beleza,Loggi,2.5,Atrasada
+10491,Beleza,Transportadora X,5.0,Entregue
+10492,Livros,Motoboy,7.8,Cancelada
+10493,Esportes,Loggi,5.3,Cancelada
+10494,Esportes,Correios,3.5,Entregue
+10495,Casa,Correios,3.0,Entregue
+10496,Esportes,Loggi,8.7,Entregue
+10497,Livros,Correios,0.5,Entregue
+10498,Moda,Transportadora X,6.3,Entregue
+10499,Casa,Correios,5.5,Entregue
+10500,Eletrônicos,Correios,4.7,Entregue
