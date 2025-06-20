@@ -1,0 +1,501 @@
+id_usuario,dispositivo,plano_internet,periodo_uso,consumo_gb_mes,satisfacao
+1148,Smartphone,Intermediário,Madrugada,69.0,
+1864,Smart TV,Avançado,Manhã,55.8,3.0
+1428,Notebook,Básico,Madrugada,137.0,5.0
+1796,Desktop,Intermediário,Tarde,53.2,4.0
+1099,Tablet,Intermediário,Noite,85.6,1.0
+1680,Tablet,Básico,Manhã,69.1,4.0
+1649,Tablet,Básico,Madrugada,71.3,5.0
+1027,Tablet,Básico,Madrugada,79.6,5.0
+1588,Smart TV,Intermediário,Madrugada,54.7,4.0
+1670,Smartphone,Básico,Manhã,86.2,4.0
+1953,Smart TV,Básico,Manhã,51.8,3.0
+1685,Smart TV,Intermediário,Noite,109.0,3.0
+1273,Tablet,Básico,Noite,,2.0
+1634,Smartphone,Avançado,Madrugada,82.0,2.0
+1781,Desktop,Intermediário,Manhã,46.3,4.0
+1375,Smartphone,Básico,Noite,62.4,3.0
+1888,Smart TV,Básico,Madrugada,81.0,3.0
+1809,Smart TV,Básico,Madrugada,80.0,3.0
+1556,Smartphone,Intermediário,Tarde,117.4,4.0
+1892,Smart TV,Básico,Manhã,90.3,5.0
+1029,Smart TV,Básico,Madrugada,,3.0
+1910,Desktop,Intermediário,Manhã,50.2,5.0
+1772,Desktop,Básico,Manhã,96.8,3.0
+1846,Smartphone,Avançado,Tarde,111.2,3.0
+1954,Smartphone,Avançado,Noite,74.2,4.0
+1628,Notebook,Básico,Noite,94.3,3.0
+1689,Smartphone,Básico,Noite,75.2,3.0
+1320,Tablet,Básico,Madrugada,41.0,5.0
+1663,Smartphone,Básico,Tarde,73.5,4.0
+1109,Smart TV,Intermediário,Manhã,49.6,3.0
+1784,Smartphone,Intermediário,Madrugada,69.9,5.0
+1127,Smartphone,Básico,Tarde,81.1,1.0
+1869,Tablet,Básico,Manhã,52.1,1.0
+1024,Notebook,Avançado,Madrugada,84.8,3.0
+1816,Tablet,Básico,Manhã,42.7,5.0
+1963,Desktop,Básico,Tarde,62.1,5.0
+1450,Desktop,Avançado,Noite,60.8,4.0
+1406,Notebook,Intermediário,Noite,102.1,5.0
+1770,Notebook,Intermediário,Madrugada,62.6,5.0
+1169,Desktop,Intermediário,Manhã,71.7,4.0
+1939,Tablet,Básico,Manhã,64.9,4.0
+1755,Smartphone,Intermediário,Noite,58.3,4.0
+1561,Tablet,Básico,Noite,54.3,4.0
+1140,Tablet,Intermediário,Manhã,44.0,
+1154,Smartphone,Básico,Madrugada,123.3,1.0
+1653,Smartphone,Básico,Tarde,49.9,2.0
+1517,Notebook,Básico,Madrugada,53.9,5.0
+1927,Desktop,Básico,Madrugada,,4.0
+1795,Smart TV,Básico,Madrugada,70.7,4.0
+1246,Desktop,Intermediário,Noite,8.6,3.0
+1321,Smart TV,Básico,Tarde,64.2,4.0
+1221,Tablet,Básico,Madrugada,82.2,4.0
+1765,Smartphone,Intermediário,Noite,67.1,4.0
+1441,Desktop,Intermediário,Manhã,73.3,3.0
+1270,Desktop,Intermediário,Tarde,37.5,3.0
+1166,Tablet,Básico,Noite,69.5,4.0
+1962,Notebook,Básico,Madrugada,108.4,4.0
+1561,Notebook,Intermediário,Madrugada,80.2,3.0
+1743,Notebook,Básico,Noite,125.5,4.0
+1092,Desktop,Intermediário,Madrugada,56.0,2.0
+1174,Notebook,Básico,Noite,71.8,4.0
+1407,Notebook,Intermediário,Madrugada,94.3,4.0
+1550,Tablet,Intermediário,Noite,49.6,4.0
+1365,Smart TV,Intermediário,Tarde,,4.0
+1322,Desktop,Básico,Noite,,4.0
+1402,Smart TV,Intermediário,Noite,27.9,4.0
+1650,Smartphone,Avançado,Noite,73.6,1.0
+1302,Smartphone,Básico,Noite,88.7,5.0
+1828,Smartphone,Básico,Noite,19.0,5.0
+1824,Notebook,Avançado,Tarde,111.1,2.0
+1796,Desktop,Avançado,Tarde,101.1,1.0
+1615,Tablet,Básico,Tarde,80.4,2.0
+1619,Tablet,Intermediário,Manhã,91.2,
+1922,Notebook,Intermediário,Noite,75.5,1.0
+1201,Tablet,Intermediário,Noite,63.3,4.0
+1426,Desktop,Avançado,Manhã,94.0,3.0
+1984,Smart TV,Intermediário,Tarde,79.2,5.0
+1058,Tablet,Intermediário,Manhã,97.3,4.0
+1477,Smart TV,Intermediário,Noite,41.4,3.0
+1292,Smartphone,Intermediário,Manhã,63.3,4.0
+1902,Smart TV,Intermediário,Madrugada,58.1,4.0
+1568,Tablet,Básico,Tarde,99.1,4.0
+1068,Smart TV,Avançado,Noite,86.1,4.0
+1417,Smartphone,Básico,Madrugada,66.4,5.0
+1599,Notebook,Intermediário,Madrugada,54.1,4.0
+1506,Smart TV,Intermediário,Tarde,44.4,4.0
+1103,Notebook,Básico,Madrugada,63.8,5.0
+1454,Smartphone,Intermediário,Noite,122.0,4.0
+1880,Desktop,Intermediário,Manhã,81.5,4.0
+1752,Desktop,Intermediário,Noite,50.7,4.0
+1854,Smartphone,Básico,Manhã,102.3,4.0
+1587,Notebook,Avançado,Noite,,1.0
+1868,Smart TV,Básico,Tarde,64.4,4.0
+1249,Smartphone,Intermediário,Tarde,32.2,2.0
+1848,Smart TV,Intermediário,Manhã,69.1,3.0
+1564,Desktop,Básico,Noite,28.2,4.0
+1063,Smart TV,Básico,Madrugada,,4.0
+1885,Smart TV,Intermediário,Noite,53.1,5.0
+1007,Desktop,Intermediário,Tarde,75.6,4.0
+1266,Tablet,Básico,Manhã,83.3,4.0
+1345,Tablet,Intermediário,Madrugada,66.2,4.0
+1942,Smart TV,Intermediário,Noite,65.5,4.0
+1613,Smart TV,Básico,Tarde,81.3,5.0
+1545,Smartphone,Básico,Tarde,101.1,4.0
+1655,Desktop,Básico,Noite,85.3,4.0
+1244,Notebook,Básico,Madrugada,121.5,4.0
+1190,Tablet,Avançado,Madrugada,78.8,2.0
+1364,Smart TV,Básico,Manhã,70.5,3.0
+1098,Notebook,Básico,Madrugada,117.6,4.0
+1402,Tablet,Avançado,Madrugada,89.8,4.0
+1473,Smartphone,Avançado,Noite,128.8,1.0
+1387,Smart TV,Avançado,Madrugada,55.0,5.0
+1941,Tablet,Básico,Tarde,83.3,4.0
+1463,Tablet,Básico,Noite,41.9,2.0
+1779,Notebook,Intermediário,Noite,63.7,4.0
+1504,Smart TV,Intermediário,Manhã,73.5,5.0
+1441,Smart TV,Avançado,Tarde,66.8,3.0
+1150,Notebook,Básico,Manhã,83.7,4.0
+1000,Smart TV,Básico,Manhã,39.1,4.0
+1560,Smartphone,Básico,Manhã,86.3,4.0
+1658,Smart TV,Básico,Madrugada,62.0,3.0
+1526,Desktop,Intermediário,Tarde,50.3,4.0
+1305,Notebook,Básico,Manhã,70.4,1.0
+1221,Notebook,Básico,Manhã,51.1,3.0
+1052,Desktop,Intermediário,Madrugada,100.9,3.0
+1223,Smart TV,Avançado,Noite,63.2,3.0
+1401,Smart TV,Básico,Madrugada,46.8,4.0
+1395,Notebook,Avançado,Madrugada,51.0,1.0
+1219,Desktop,Avançado,Tarde,71.6,1.0
+1021,Tablet,Básico,Madrugada,58.2,3.0
+1484,Smart TV,Básico,Noite,85.8,4.0
+1047,Smart TV,Básico,Noite,43.3,4.0
+1058,Tablet,Básico,Noite,115.6,3.0
+1280,Smartphone,Avançado,Noite,77.6,4.0
+1020,Smart TV,Intermediário,Noite,43.0,2.0
+1795,Smartphone,Intermediário,Tarde,12.7,4.0
+1105,Desktop,Básico,Manhã,81.9,4.0
+1327,Notebook,Básico,Tarde,55.6,5.0
+1729,Notebook,Básico,Tarde,94.1,3.0
+1647,Tablet,Básico,Tarde,45.8,4.0
+1581,Smart TV,Básico,Tarde,82.3,3.0
+1975,Smartphone,Avançado,Manhã,81.1,4.0
+1237,Tablet,Básico,Tarde,62.1,2.0
+1860,Smart TV,Intermediário,Manhã,56.9,1.0
+1821,Desktop,Básico,Madrugada,92.4,5.0
+1752,Smartphone,Avançado,Tarde,34.4,5.0
+1669,Tablet,Básico,Tarde,105.5,5.0
+1847,Smartphone,Intermediário,Manhã,42.5,4.0
+1006,Tablet,Avançado,Manhã,111.9,5.0
+1388,Desktop,Básico,Madrugada,77.9,5.0
+1186,Desktop,Intermediário,Madrugada,51.5,
+1086,Notebook,Avançado,Tarde,74.7,3.0
+1251,Smartphone,Avançado,Madrugada,60.1,4.0
+1939,Notebook,Básico,Tarde,127.9,4.0
+1152,Smartphone,Básico,Madrugada,36.2,4.0
+1643,Smartphone,Avançado,Tarde,99.9,1.0
+1900,Smart TV,Avançado,Manhã,91.1,3.0
+1316,Desktop,Básico,Madrugada,67.1,3.0
+1156,Tablet,Intermediário,Madrugada,41.3,4.0
+1221,Smart TV,Básico,Tarde,75.2,1.0
+1983,Desktop,Avançado,Madrugada,112.8,4.0
+1292,Desktop,Intermediário,Noite,97.0,3.0
+1005,Desktop,Intermediário,Tarde,81.0,4.0
+1772,Smart TV,Avançado,Manhã,67.8,2.0
+1184,Notebook,Básico,Tarde,61.2,4.0
+1216,Smart TV,Intermediário,Tarde,80.9,3.0
+1120,Notebook,Intermediário,Manhã,115.8,5.0
+1588,Smartphone,Intermediário,Manhã,71.1,5.0
+1163,Notebook,Avançado,Manhã,67.0,2.0
+1326,Desktop,Intermediário,Manhã,70.0,5.0
+1851,Tablet,Básico,Manhã,102.8,3.0
+1010,Smart TV,Avançado,Tarde,90.7,4.0
+1605,Desktop,Básico,Madrugada,36.5,2.0
+1777,Tablet,Avançado,Noite,83.3,4.0
+1472,Tablet,Intermediário,Noite,73.1,3.0
+1566,Desktop,Básico,Noite,85.5,3.0
+1830,Desktop,Básico,Noite,63.3,5.0
+1480,Tablet,Intermediário,Madrugada,74.3,3.0
+1934,Smartphone,Intermediário,Manhã,67.3,4.0
+1727,Smart TV,Intermediário,Tarde,46.3,4.0
+1254,Smart TV,Básico,Madrugada,102.0,4.0
+1327,Desktop,Intermediário,Tarde,95.9,4.0
+1146,Smartphone,Intermediário,Noite,75.4,2.0
+1253,Desktop,Avançado,Tarde,71.4,4.0
+1944,Tablet,Básico,Manhã,81.8,4.0
+1632,Smartphone,Básico,Manhã,51.5,3.0
+1371,Desktop,Intermediário,Noite,110.2,4.0
+1406,Desktop,Avançado,Noite,135.4,4.0
+1347,Notebook,Básico,Noite,137.3,3.0
+1440,Smart TV,Intermediário,Manhã,86.5,4.0
+1188,Smart TV,Intermediário,Noite,35.8,3.0
+1953,Smart TV,Avançado,Tarde,62.2,4.0
+1036,Notebook,Intermediário,Madrugada,119.7,3.0
+1455,Smart TV,Básico,Tarde,79.8,3.0
+1035,Tablet,Intermediário,Manhã,-4.3,1.0
+1835,Smart TV,Básico,Madrugada,33.0,5.0
+1450,Notebook,Básico,Manhã,105.3,
+1746,Tablet,Básico,Tarde,66.4,5.0
+1534,Smart TV,Intermediário,Manhã,48.4,5.0
+1829,Tablet,Intermediário,Madrugada,,
+1724,Desktop,Intermediário,Madrugada,72.8,5.0
+1534,Desktop,Intermediário,Madrugada,47.2,4.0
+1941,Tablet,Básico,Manhã,67.8,4.0
+1365,Tablet,Avançado,Tarde,40.5,3.0
+1665,Smartphone,Avançado,Manhã,94.1,2.0
+1337,Smart TV,Intermediário,Noite,82.9,2.0
+1060,Desktop,Intermediário,Madrugada,48.8,1.0
+1996,Notebook,Básico,Tarde,108.0,4.0
+1623,Tablet,Básico,Madrugada,92.3,3.0
+1279,Smart TV,Básico,Noite,70.0,4.0
+1470,Notebook,Básico,Noite,113.4,4.0
+1234,Smart TV,Básico,Noite,114.9,4.0
+1488,Notebook,Básico,Tarde,80.5,4.0
+1107,Desktop,Intermediário,Madrugada,25.3,2.0
+1120,Notebook,Avançado,Tarde,82.6,5.0
+1251,Smart TV,Básico,Tarde,114.6,3.0
+1559,Desktop,Avançado,Tarde,,4.0
+1611,Smart TV,Básico,Manhã,107.2,2.0
+1642,Tablet,Avançado,Manhã,86.6,4.0
+1382,Smartphone,Básico,Noite,70.6,4.0
+1006,Smartphone,Básico,Noite,61.7,5.0
+1433,Notebook,Básico,Noite,70.1,4.0
+1128,Smartphone,Básico,Noite,64.4,3.0
+1116,Smart TV,Intermediário,Noite,44.0,5.0
+1258,Smart TV,Básico,Manhã,45.3,3.0
+1363,Desktop,Básico,Tarde,70.6,5.0
+1545,Smartphone,Intermediário,Manhã,70.5,4.0
+1169,Smartphone,Básico,Manhã,13.8,3.0
+1586,Desktop,Avançado,Manhã,60.5,4.0
+1007,Tablet,Básico,Tarde,64.2,2.0
+1729,Smart TV,Intermediário,Manhã,64.4,3.0
+1413,Tablet,Intermediário,Tarde,,5.0
+1386,Notebook,Básico,Manhã,111.5,3.0
+1992,Tablet,Avançado,Madrugada,80.1,5.0
+1246,Notebook,Básico,Noite,76.4,4.0
+1893,Notebook,Avançado,Madrugada,113.9,4.0
+1997,Smartphone,Intermediário,Tarde,64.0,5.0
+1243,Desktop,Intermediário,Madrugada,40.6,2.0
+1483,Smart TV,Intermediário,Manhã,76.7,2.0
+1761,Smartphone,Intermediário,Noite,100.4,2.0
+1904,Smartphone,Avançado,Madrugada,58.4,5.0
+1747,Smartphone,Intermediário,Noite,109.1,1.0
+1473,Notebook,Básico,Manhã,52.7,5.0
+1517,Tablet,Intermediário,Tarde,85.8,4.0
+1625,Desktop,Básico,Manhã,113.4,3.0
+1902,Smart TV,Intermediário,Madrugada,10.8,4.0
+1617,Tablet,Avançado,Noite,86.2,3.0
+1519,Smart TV,Avançado,Madrugada,84.6,3.0
+1941,Desktop,Intermediário,Manhã,36.2,4.0
+1205,Tablet,Avançado,Tarde,58.7,3.0
+1528,Tablet,Básico,Tarde,79.0,5.0
+1954,Smartphone,Intermediário,Madrugada,65.7,4.0
+1325,Tablet,Intermediário,Tarde,40.7,3.0
+1821,Tablet,Intermediário,Noite,58.1,4.0
+1277,Desktop,Intermediário,Tarde,137.5,4.0
+1038,Tablet,Básico,Manhã,81.8,4.0
+1624,Smart TV,Básico,Manhã,71.2,3.0
+1081,Notebook,Avançado,Noite,76.0,3.0
+1665,Tablet,Básico,Tarde,65.7,3.0
+1286,Smart TV,Intermediário,Noite,84.5,4.0
+1750,Tablet,Básico,Noite,51.7,3.0
+1668,Smartphone,Básico,Tarde,101.2,5.0
+1890,Smartphone,Intermediário,Noite,61.8,4.0
+1886,Smart TV,Básico,Madrugada,92.9,2.0
+1034,Notebook,Básico,Noite,65.2,5.0
+1665,Desktop,Avançado,Manhã,100.6,5.0
+1729,Tablet,Intermediário,Noite,54.6,3.0
+1400,Desktop,Intermediário,Noite,77.1,3.0
+1576,Desktop,Básico,Madrugada,138.6,3.0
+1337,Smart TV,Avançado,Manhã,105.7,
+1706,Smart TV,Intermediário,Madrugada,53.8,4.0
+1251,Notebook,Intermediário,Noite,130.2,4.0
+1926,Notebook,Básico,Noite,77.9,5.0
+1063,Desktop,Avançado,Manhã,62.1,4.0
+1318,Desktop,Básico,Noite,65.3,
+1849,Smartphone,Básico,Tarde,100.7,4.0
+1260,Smartphone,Intermediário,Tarde,32.4,4.0
+1539,Desktop,Básico,Madrugada,67.5,4.0
+1284,Notebook,Intermediário,Madrugada,51.3,4.0
+1772,Tablet,Básico,Noite,108.7,3.0
+1229,Desktop,Avançado,Tarde,107.5,5.0
+1688,Notebook,Básico,Tarde,87.0,3.0
+1510,Notebook,Intermediário,Tarde,55.9,4.0
+1712,Desktop,Básico,Noite,57.6,2.0
+1908,Desktop,Básico,Manhã,99.2,4.0
+1927,Tablet,Intermediário,Noite,60.0,1.0
+1320,Desktop,Básico,Madrugada,27.3,3.0
+1545,Notebook,Básico,Tarde,95.4,4.0
+1826,Smartphone,Básico,Manhã,106.8,4.0
+1487,Tablet,Avançado,Madrugada,66.3,4.0
+1217,Desktop,Intermediário,Manhã,68.3,4.0
+1730,Notebook,Básico,Tarde,97.1,5.0
+1992,Smartphone,Avançado,Madrugada,3.0,4.0
+1979,Tablet,Básico,Madrugada,66.8,4.0
+1403,Smart TV,Básico,Noite,59.9,4.0
+1748,Desktop,Intermediário,Madrugada,63.5,4.0
+1311,Notebook,Intermediário,Madrugada,60.1,4.0
+1536,Tablet,Básico,Noite,89.1,4.0
+1025,Smart TV,Intermediário,Noite,78.7,3.0
+1776,Tablet,Intermediário,Tarde,71.4,4.0
+1535,Tablet,Básico,Noite,20.1,4.0
+1609,Desktop,Avançado,Tarde,,5.0
+1512,Notebook,Básico,Madrugada,62.1,5.0
+1812,Smartphone,Intermediário,Noite,91.0,4.0
+1740,Tablet,Básico,Tarde,57.7,4.0
+1343,Smartphone,Básico,Noite,72.0,3.0
+1539,Notebook,Avançado,Manhã,71.2,5.0
+1759,Tablet,Básico,Madrugada,63.9,4.0
+1079,Smartphone,Básico,Manhã,35.5,3.0
+1625,Tablet,Intermediário,Manhã,72.4,5.0
+1018,Smartphone,Avançado,Manhã,91.5,1.0
+1143,Tablet,Básico,Manhã,46.9,
+1449,Notebook,Intermediário,Noite,52.6,4.0
+1841,Smart TV,Básico,Manhã,92.0,5.0
+1158,Smart TV,Intermediário,Tarde,43.3,2.0
+1078,Notebook,Avançado,Noite,52.8,3.0
+1439,Smart TV,Intermediário,Manhã,10.8,5.0
+1594,Desktop,Básico,Noite,111.5,4.0
+1193,Tablet,Avançado,Noite,110.0,5.0
+1594,Tablet,Básico,Noite,56.7,2.0
+1052,Smart TV,Avançado,Madrugada,58.3,4.0
+1913,Notebook,Avançado,Noite,82.4,1.0
+1782,Smartphone,Básico,Noite,75.8,2.0
+1454,Smartphone,Básico,Madrugada,99.2,3.0
+1523,Notebook,Básico,Tarde,112.2,2.0
+1726,Smart TV,Básico,Madrugada,,3.0
+1635,Notebook,Básico,Madrugada,48.1,
+1158,Desktop,Avançado,Manhã,40.2,5.0
+1126,Desktop,Intermediário,Manhã,97.1,4.0
+1652,Desktop,Básico,Tarde,65.3,5.0
+1433,Smartphone,Avançado,Noite,88.0,3.0
+1157,Smartphone,Básico,Madrugada,106.2,4.0
+1311,Desktop,Avançado,Tarde,,4.0
+1621,Notebook,Intermediário,Manhã,65.6,3.0
+1654,Smart TV,Avançado,Madrugada,45.3,5.0
+1337,Tablet,Intermediário,Madrugada,73.4,4.0
+1317,Notebook,Intermediário,Tarde,79.8,5.0
+1909,Desktop,Avançado,Noite,75.7,3.0
+1692,Notebook,Básico,Madrugada,61.9,4.0
+1543,Tablet,Intermediário,Manhã,50.4,3.0
+1469,Desktop,Básico,Noite,63.6,4.0
+1808,Smart TV,Avançado,Tarde,87.5,3.0
+1592,Smartphone,Básico,Noite,161.3,4.0
+1385,Tablet,Avançado,Tarde,67.7,5.0
+1786,Notebook,Intermediário,Tarde,74.7,4.0
+1542,Desktop,Intermediário,Manhã,76.9,1.0
+1839,Desktop,Básico,Madrugada,68.2,3.0
+1479,Tablet,Avançado,Noite,20.7,4.0
+1487,Desktop,Intermediário,Madrugada,81.3,5.0
+1554,Smart TV,Intermediário,Tarde,76.8,2.0
+1321,Smart TV,Intermediário,Madrugada,72.2,1.0
+1912,Notebook,Intermediário,Manhã,60.4,4.0
+1197,Tablet,Básico,Tarde,11.3,3.0
+1119,Tablet,Básico,Manhã,70.8,3.0
+1303,Notebook,Avançado,Madrugada,84.3,5.0
+1622,Smartphone,Básico,Noite,48.3,4.0
+1832,Notebook,Básico,Madrugada,83.7,5.0
+1869,Smart TV,Intermediário,Noite,,4.0
+1078,Desktop,Intermediário,Noite,112.4,4.0
+1099,Smart TV,Básico,Tarde,59.2,4.0
+1801,Smart TV,Intermediário,Tarde,102.7,3.0
+1993,Desktop,Intermediário,Noite,62.9,4.0
+1729,Notebook,Intermediário,Manhã,,2.0
+1201,Notebook,Intermediário,Tarde,58.0,4.0
+1543,Tablet,Básico,Tarde,85.6,5.0
+1153,Notebook,Básico,Manhã,45.6,4.0
+1925,Smart TV,Básico,Madrugada,45.8,3.0
+1316,Smartphone,Intermediário,Madrugada,24.4,3.0
+1339,Desktop,Intermediário,Madrugada,72.8,3.0
+1856,Smart TV,Básico,Madrugada,87.6,1.0
+1307,Notebook,Avançado,Madrugada,84.0,4.0
+1094,Smart TV,Básico,Manhã,4.8,1.0
+1676,Desktop,Intermediário,Noite,36.9,5.0
+1072,Smartphone,Básico,Noite,109.6,2.0
+1850,Smart TV,Básico,Noite,83.3,4.0
+1538,Smart TV,Intermediário,Madrugada,64.8,4.0
+1559,Smartphone,Intermediário,Noite,82.8,4.0
+1415,Tablet,Intermediário,Tarde,82.6,3.0
+1827,Notebook,Intermediário,Manhã,,4.0
+1463,Smart TV,Básico,Noite,75.5,5.0
+1698,Desktop,Intermediário,Madrugada,90.5,4.0
+1968,Desktop,Básico,Manhã,94.3,4.0
+1157,Notebook,Intermediário,Noite,95.0,3.0
+1794,Notebook,Básico,Manhã,114.1,3.0
+1536,Smart TV,Avançado,Tarde,86.2,4.0
+1754,Smartphone,Intermediário,Manhã,99.7,1.0
+1332,Smart TV,Básico,Manhã,104.0,4.0
+1202,Smartphone,Avançado,Manhã,106.9,3.0
+1685,Desktop,Avançado,Manhã,92.4,5.0
+1544,Notebook,Básico,Manhã,76.1,4.0
+1120,Smart TV,Básico,Madrugada,72.8,5.0
+1114,Smart TV,Básico,Noite,131.9,2.0
+1915,Notebook,Intermediário,Madrugada,82.7,1.0
+1569,Tablet,Intermediário,Noite,92.9,4.0
+1686,Smart TV,Intermediário,Tarde,85.5,4.0
+1547,Smartphone,Básico,Madrugada,81.8,4.0
+1296,Notebook,Intermediário,Noite,69.5,2.0
+1650,Desktop,Intermediário,Manhã,71.6,4.0
+1302,Smartphone,Intermediário,Tarde,114.1,4.0
+1830,Tablet,Básico,Noite,125.5,5.0
+1953,Smartphone,Básico,Noite,36.0,4.0
+1972,Notebook,Avançado,Manhã,114.3,3.0
+1786,Smart TV,Intermediário,Tarde,33.6,4.0
+1265,Notebook,Intermediário,Noite,81.6,5.0
+1434,Smartphone,Avançado,Madrugada,93.7,2.0
+1455,Desktop,Básico,Tarde,70.5,1.0
+1975,Smart TV,Intermediário,Tarde,102.5,
+1116,Tablet,Intermediário,Manhã,,4.0
+1074,Smart TV,Avançado,Madrugada,78.0,3.0
+1936,Notebook,Básico,Noite,78.3,3.0
+1193,Desktop,Avançado,Manhã,109.3,4.0
+1422,Smart TV,Avançado,Madrugada,101.4,5.0
+1583,Tablet,Básico,Madrugada,57.5,4.0
+1011,Tablet,Intermediário,Madrugada,76.6,5.0
+1956,Smartphone,Intermediário,Manhã,34.8,4.0
+1740,Smartphone,Avançado,Madrugada,108.8,3.0
+1968,Smartphone,Básico,Manhã,79.6,3.0
+1445,Tablet,Básico,Noite,81.1,4.0
+1941,Notebook,Básico,Tarde,75.2,3.0
+1738,Smartphone,Intermediário,Noite,69.0,4.0
+1981,Smart TV,Intermediário,Manhã,113.4,3.0
+1171,Desktop,Avançado,Noite,119.2,4.0
+1193,Tablet,Básico,Manhã,78.8,5.0
+1733,Smart TV,Básico,Noite,106.4,3.0
+1234,Smart TV,Básico,Tarde,45.2,5.0
+1422,Tablet,Intermediário,Manhã,54.7,4.0
+1669,Desktop,Intermediário,Manhã,66.6,2.0
+1905,Notebook,Avançado,Tarde,,5.0
+1939,Tablet,Intermediário,Manhã,109.0,1.0
+1619,Tablet,Básico,Noite,,4.0
+1864,Notebook,Básico,Manhã,80.9,4.0
+1608,Smart TV,Avançado,Madrugada,81.4,2.0
+1497,Smart TV,Avançado,Manhã,88.5,3.0
+1775,Desktop,Básico,Manhã,67.0,4.0
+1928,Smart TV,Básico,Tarde,99.0,4.0
+1700,Smart TV,Básico,Noite,122.3,4.0
+1958,Tablet,Avançado,Madrugada,89.9,4.0
+1934,Desktop,Avançado,Tarde,55.0,4.0
+1527,Smart TV,Avançado,Noite,68.0,1.0
+1640,Desktop,Intermediário,Tarde,78.4,
+1677,Tablet,Intermediário,Noite,65.1,4.0
+1114,Tablet,Básico,Noite,98.7,2.0
+1940,Smartphone,Intermediário,Madrugada,127.5,3.0
+1447,Notebook,Intermediário,Madrugada,,4.0
+1322,Smartphone,Avançado,Madrugada,114.1,4.0
+1426,Smartphone,Avançado,Madrugada,115.2,5.0
+1656,Tablet,Básico,Noite,101.6,4.0
+1296,Smartphone,Intermediário,Madrugada,73.0,4.0
+1284,Desktop,Intermediário,Manhã,98.4,
+1200,Smart TV,Intermediário,Tarde,64.2,5.0
+1198,Desktop,Intermediário,Tarde,66.7,5.0
+1302,Desktop,Básico,Manhã,94.5,2.0
+1065,Smartphone,Intermediário,Noite,59.5,1.0
+1122,Notebook,Avançado,Tarde,109.4,5.0
+1788,Smartphone,Intermediário,Noite,49.7,4.0
+1382,Notebook,Básico,Noite,55.4,3.0
+1726,Notebook,Intermediário,Manhã,81.3,2.0
+1528,Smartphone,Avançado,Noite,99.3,3.0
+1046,Notebook,Básico,Tarde,100.2,
+1338,Smartphone,Básico,Tarde,84.2,3.0
+1575,Desktop,Intermediário,Noite,84.6,3.0
+1847,Smartphone,Intermediário,Tarde,39.5,5.0
+1742,Tablet,Intermediário,Tarde,59.5,4.0
+1837,Tablet,Básico,Noite,85.7,4.0
+1465,Smart TV,Avançado,Manhã,35.5,5.0
+1021,Notebook,Básico,Madrugada,56.4,4.0
+1428,Notebook,Intermediário,Madrugada,74.0,4.0
+1763,Notebook,Intermediário,Tarde,91.7,4.0
+1227,Notebook,Intermediário,Madrugada,89.9,3.0
+1331,Smartphone,Avançado,Madrugada,68.1,4.0
+1670,Tablet,Básico,Manhã,80.2,4.0
+1768,Tablet,Avançado,Tarde,72.3,4.0
+1063,Desktop,Intermediário,Madrugada,73.7,5.0
+1183,Notebook,Avançado,Tarde,75.5,5.0
+1648,Smart TV,Básico,Tarde,104.0,4.0
+1293,Notebook,Básico,Noite,70.0,3.0
+1495,Smart TV,Básico,Tarde,73.0,4.0
+1503,Desktop,Básico,Manhã,85.1,4.0
+1283,Tablet,Básico,Manhã,26.9,4.0
+1904,Notebook,Intermediário,Manhã,75.0,2.0
+1880,Desktop,Básico,Tarde,62.4,2.0
+1667,Notebook,Intermediário,Madrugada,54.8,3.0
+1085,Tablet,Básico,Noite,51.0,4.0
+1205,Desktop,Avançado,Noite,62.3,4.0
+1998,Tablet,Básico,Tarde,80.6,4.0
+1020,Smart TV,Básico,Tarde,68.8,4.0
+1098,Desktop,Intermediário,Manhã,70.2,
+1929,Desktop,Intermediário,Tarde,97.9,4.0
+1819,Notebook,Intermediário,Noite,57.7,3.0
+1686,Smartphone,Básico,Noite,82.8,5.0
+1589,Desktop,Intermediário,Tarde,129.1,4.0
+1351,Notebook,Básico,Madrugada,98.4,3.0
+1935,Desktop,Avançado,Manhã,75.0,4.0
+1078,Smartphone,Intermediário,Noite,113.9,5.0
+1871,Smart TV,Avançado,Madrugada,36.8,5.0
+1045,Notebook,Intermediário,Tarde,103.2,1.0
+1914,Desktop,Básico,Noite,82.8,5.0
+1753,Tablet,Intermediário,Tarde,94.4,5.0
+1681,Notebook,Básico,Madrugada,85.4,3.0
+1173,Smart TV,Intermediário,Noite,91.0,1.0
