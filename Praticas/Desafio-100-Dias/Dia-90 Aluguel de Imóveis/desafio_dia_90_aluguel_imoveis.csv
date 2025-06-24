@@ -1,0 +1,501 @@
+id_imovel,cidade,tipo_imovel,mobilhado,area_m2,preco_aluguel
+3000,Curitiba,Kitnet,Não,49.5,2403.0
+3001,Porto Alegre,Casa,Não,80.8,1352.58
+3002,Belo Horizonte,Studio,Não,64.4,2931.24
+3003,Curitiba,Kitnet,Não,70.0,1786.92
+3004,Recife,Apartamento,Não,52.0,
+3005,Belo Horizonte,Kitnet,Sim,37.9,1927.88
+3006,Porto Alegre,Apartamento,Não,89.1,2699.8
+3007,Belo Horizonte,Studio,Sim,61.5,1373.57
+3008,Belo Horizonte,Casa,Sim,75.1,2398.75
+3009,São Paulo,Casa,Não,76.6,3324.99
+3010,Curitiba,Kitnet,Sim,75.8,
+3011,Curitiba,Kitnet,Não,64.5,2608.31
+3012,São Paulo,Studio,Sim,68.4,1582.86
+3013,Belo Horizonte,Casa,Não,52.8,3035.04
+3014,Porto Alegre,Studio,Não,65.4,2315.43
+3015,Belo Horizonte,Studio,Não,96.0,3207.47
+3016,Rio de Janeiro,Casa,Não,70.7,3219.22
+3017,São Paulo,Kitnet,Não,34.4,3980.78
+3018,São Paulo,Casa,Não,44.9,2497.2
+3019,Belo Horizonte,Studio,Sim,79.6,3681.6
+3020,São Paulo,Casa,Não,49.6,2123.79
+3021,São Paulo,Apartamento,Não,108.3,3421.69
+3022,Curitiba,Casa,Não,56.0,1155.04
+3023,Recife,Apartamento,Sim,112.4,2272.93
+3024,Recife,Studio,Não,69.4,2119.47
+3025,Belo Horizonte,Studio,Sim,81.6,2649.03
+3026,Rio de Janeiro,Kitnet,Não,103.8,2013.96
+3027,São Paulo,Studio,Não,52.5,3088.02
+3028,Curitiba,Kitnet,Sim,48.3,1648.45
+3029,São Paulo,Kitnet,Não,75.7,2222.87
+3030,Rio de Janeiro,Kitnet,Sim,59.5,2119.07
+3031,Belo Horizonte,Casa,Não,77.1,1304.68
+3032,Belo Horizonte,Kitnet,Não,48.0,1343.3
+3033,Rio de Janeiro,Casa,Não,49.6,1501.08
+3034,São Paulo,Kitnet,Não,95.7,3018.42
+3035,Porto Alegre,Apartamento,Não,87.9,2470.82
+3036,Belo Horizonte,Kitnet,Sim,100.9,
+3037,Recife,Casa,Não,77.3,2897.38
+3038,Belo Horizonte,Kitnet,Não,29.5,2770.21
+3039,São Paulo,Apartamento,Sim,36.7,2293.22
+3040,Belo Horizonte,Studio,Sim,52.7,2496.42
+3041,Belo Horizonte,Apartamento,Não,101.3,2227.49
+3042,Rio de Janeiro,Studio,Não,109.1,1806.11
+3043,São Paulo,Studio,Não,66.7,1135.76
+3044,São Paulo,Studio,Não,76.7,3714.59
+3045,Recife,Apartamento,Não,90.7,2122.07
+3046,Porto Alegre,Casa,Não,47.7,2593.25
+3047,Belo Horizonte,Casa,Não,39.8,3692.03
+3048,Curitiba,Casa,Sim,90.9,
+3049,Rio de Janeiro,Kitnet,Sim,25.0,1548.79
+3050,Porto Alegre,Apartamento,Não,96.1,3158.63
+3051,Rio de Janeiro,Kitnet,Sim,52.7,3232.25
+3052,Porto Alegre,Apartamento,Não,64.7,2730.41
+3053,Recife,Apartamento,Não,63.5,2077.39
+3054,Curitiba,Casa,Sim,76.8,1475.18
+3055,São Paulo,Kitnet,Sim,54.3,3564.86
+3056,Rio de Janeiro,Apartamento,Sim,67.2,2783.06
+3057,Rio de Janeiro,Studio,Não,43.2,2072.67
+3058,Recife,Apartamento,Não,70.7,2089.03
+3059,Curitiba,Apartamento,Não,46.9,1768.56
+3060,Curitiba,Casa,Sim,66.4,2970.28
+3061,Belo Horizonte,Casa,Não,105.6,2086.1
+3062,Curitiba,Casa,Não,44.7,1999.15
+3063,Rio de Janeiro,Kitnet,Sim,91.8,1794.34
+3064,Belo Horizonte,Apartamento,Não,71.7,3251.42
+3065,Belo Horizonte,Studio,Não,109.0,2767.18
+3066,São Paulo,Apartamento,Não,,2296.67
+3067,Recife,Apartamento,Não,46.9,3652.85
+3068,Belo Horizonte,Casa,Não,75.1,2920.07
+3069,Curitiba,Apartamento,Não,62.5,1561.31
+3070,Porto Alegre,Studio,Sim,85.5,1155.61
+3071,Curitiba,Kitnet,Sim,13.9,1238.54
+3072,São Paulo,Casa,Não,29.4,4095.89
+3073,Rio de Janeiro,Kitnet,Sim,80.4,1911.89
+3074,Curitiba,Apartamento,Sim,71.1,2111.05
+3075,Recife,Kitnet,Não,58.4,1947.99
+3076,Curitiba,Studio,Não,62.0,1346.49
+3077,Curitiba,Apartamento,Não,,2803.19
+3078,Curitiba,Kitnet,Não,37.9,1508.11
+3079,Rio de Janeiro,Kitnet,Não,,1901.46
+3080,Belo Horizonte,Studio,Não,120.2,1976.37
+3081,Porto Alegre,Studio,Não,44.6,1803.99
+3082,Belo Horizonte,Apartamento,Não,,2109.01
+3083,São Paulo,Kitnet,Sim,42.6,1301.53
+3084,São Paulo,Casa,Não,43.2,2183.87
+3085,Curitiba,Casa,Não,85.4,902.91
+3086,Recife,Apartamento,Não,72.0,1418.63
+3087,Porto Alegre,Kitnet,Não,46.0,1383.72
+3088,Porto Alegre,Kitnet,Sim,32.7,2265.68
+3089,Rio de Janeiro,Apartamento,Sim,88.2,1624.08
+3090,Rio de Janeiro,Casa,Sim,52.0,2286.43
+3091,Belo Horizonte,Apartamento,Sim,39.9,3647.29
+3092,Recife,Kitnet,Não,56.5,2840.96
+3093,Rio de Janeiro,Apartamento,Não,57.5,1549.52
+3094,São Paulo,Apartamento,Sim,60.8,4633.1
+3095,Rio de Janeiro,Casa,Sim,16.4,2460.41
+3096,Recife,Studio,Sim,67.6,955.01
+3097,Porto Alegre,Studio,Não,37.2,1322.08
+3098,Porto Alegre,Apartamento,Sim,73.7,1449.59
+3099,Porto Alegre,Casa,Não,59.0,1674.31
+3100,São Paulo,Studio,Não,58.5,1573.09
+3101,Curitiba,Studio,Não,80.3,2654.1
+3102,São Paulo,Casa,Não,74.0,2107.86
+3103,São Paulo,Kitnet,Não,79.0,1405.02
+3104,Belo Horizonte,Apartamento,Não,82.6,2628.42
+3105,Porto Alegre,Apartamento,Não,56.8,2087.76
+3106,Curitiba,Casa,Sim,84.9,2415.35
+3107,Curitiba,Studio,Não,38.0,792.52
+3108,São Paulo,Casa,Não,37.7,
+3109,Belo Horizonte,Casa,Não,56.0,2478.42
+3110,Recife,Studio,Não,52.4,1715.94
+3111,Rio de Janeiro,Apartamento,Não,41.5,1591.0
+3112,Porto Alegre,Casa,Sim,89.3,1744.47
+3113,Belo Horizonte,Apartamento,Não,50.8,2789.69
+3114,Belo Horizonte,Kitnet,Não,57.7,2046.62
+3115,Belo Horizonte,Casa,Sim,45.7,3834.38
+3116,Recife,Casa,Não,57.9,3335.86
+3117,São Paulo,Studio,Não,48.1,1045.2
+3118,São Paulo,Studio,Não,77.0,1797.0
+3119,Belo Horizonte,Kitnet,Não,,2903.35
+3120,Recife,Kitnet,Não,43.3,2352.94
+3121,Porto Alegre,Studio,Sim,62.1,966.08
+3122,Recife,Kitnet,Não,65.0,2581.25
+3123,Belo Horizonte,Kitnet,Não,53.6,2575.2
+3124,Curitiba,Apartamento,Sim,77.8,2002.25
+3125,Curitiba,Kitnet,Não,32.6,2970.5
+3126,Recife,Casa,Sim,49.8,2976.8
+3127,Rio de Janeiro,Kitnet,Não,72.3,1734.28
+3128,São Paulo,Studio,Não,65.2,1860.23
+3129,Rio de Janeiro,Kitnet,Sim,69.3,1448.51
+3130,São Paulo,Studio,Sim,63.6,889.19
+3131,Porto Alegre,Studio,Não,47.7,2226.23
+3132,Rio de Janeiro,Apartamento,Não,48.0,1916.06
+3133,Porto Alegre,Studio,Não,69.9,2347.7
+3134,São Paulo,Apartamento,Não,64.3,1146.82
+3135,Porto Alegre,Casa,Não,75.2,1989.59
+3136,Porto Alegre,Apartamento,Sim,,2841.34
+3137,São Paulo,Kitnet,Não,76.6,2087.18
+3138,Belo Horizonte,Apartamento,Sim,78.9,3608.83
+3139,Belo Horizonte,Apartamento,Sim,64.4,4321.43
+3140,Rio de Janeiro,Kitnet,Sim,74.5,2554.45
+3141,São Paulo,Casa,Não,88.4,1598.47
+3142,Porto Alegre,Kitnet,Não,59.5,408.59
+3143,Recife,Apartamento,Não,86.7,1441.46
+3144,São Paulo,Casa,Não,90.9,2674.84
+3145,Rio de Janeiro,Kitnet,Não,72.1,1374.42
+3146,Curitiba,Kitnet,Não,36.4,3085.27
+3147,São Paulo,Kitnet,Não,78.2,2581.32
+3148,Curitiba,Casa,Sim,59.5,3266.31
+3149,Porto Alegre,Apartamento,Sim,54.5,1582.43
+3150,São Paulo,Studio,Não,31.1,2076.4
+3151,Curitiba,Studio,Não,84.4,
+3152,Rio de Janeiro,Casa,Sim,79.0,1083.21
+3153,Recife,Casa,Não,51.9,658.11
+3154,Belo Horizonte,Studio,Não,,1943.68
+3155,Curitiba,Apartamento,Sim,43.4,2888.79
+3156,Porto Alegre,Kitnet,Sim,105.8,1056.09
+3157,São Paulo,Apartamento,Não,26.9,2112.0
+3158,São Paulo,Casa,Não,80.2,2524.83
+3159,Rio de Janeiro,Studio,Não,102.3,3818.21
+3160,Recife,Casa,Sim,28.6,2778.2
+3161,Recife,Apartamento,Não,63.7,2665.97
+3162,Curitiba,Kitnet,Sim,54.5,1659.17
+3163,São Paulo,Kitnet,Não,83.2,3147.69
+3164,Curitiba,Studio,Não,48.6,2842.75
+3165,Rio de Janeiro,Studio,Não,93.1,2957.13
+3166,São Paulo,Studio,Não,63.0,1542.91
+3167,Rio de Janeiro,Apartamento,Não,55.7,2164.61
+3168,Rio de Janeiro,Apartamento,Não,52.4,1713.11
+3169,Curitiba,Kitnet,Sim,37.1,1297.13
+3170,Belo Horizonte,Casa,Não,85.1,2061.79
+3171,Curitiba,Studio,Não,66.9,2418.52
+3172,Porto Alegre,Kitnet,Não,70.3,1291.14
+3173,Rio de Janeiro,Studio,Sim,39.7,
+3174,Belo Horizonte,Apartamento,Não,66.2,3235.94
+3175,Recife,Kitnet,Sim,80.9,3469.25
+3176,Recife,Casa,Não,101.4,1591.22
+3177,São Paulo,Studio,Não,36.2,3179.88
+3178,Recife,Kitnet,Não,111.4,2537.98
+3179,São Paulo,Kitnet,Não,54.6,2951.62
+3180,Rio de Janeiro,Studio,Não,73.1,2916.05
+3181,Curitiba,Apartamento,Sim,42.0,2588.95
+3182,Recife,Kitnet,Sim,75.1,2520.95
+3183,Curitiba,Apartamento,Sim,69.5,3164.53
+3184,Curitiba,Apartamento,Sim,57.3,1778.87
+3185,Porto Alegre,Studio,Sim,96.9,1699.77
+3186,Porto Alegre,Casa,Não,95.6,1881.53
+3187,Belo Horizonte,Casa,Não,39.4,2400.35
+3188,Curitiba,Apartamento,Não,37.4,3100.63
+3189,Belo Horizonte,Kitnet,Não,103.4,1684.02
+3190,Curitiba,Casa,Não,75.0,
+3191,Belo Horizonte,Studio,Sim,60.4,1370.42
+3192,Recife,Kitnet,Não,69.6,2767.97
+3193,São Paulo,Kitnet,Sim,83.8,3348.58
+3194,São Paulo,Kitnet,Sim,37.8,2998.0
+3195,Porto Alegre,Apartamento,Sim,48.9,796.57
+3196,Porto Alegre,Casa,Não,85.0,
+3197,Belo Horizonte,Studio,Sim,39.0,1699.4
+3198,Rio de Janeiro,Studio,Sim,51.9,2026.53
+3199,Recife,Kitnet,Não,78.2,3992.04
+3200,Recife,Studio,Não,84.2,3771.78
+3201,Belo Horizonte,Studio,Não,48.3,2894.81
+3202,Recife,Studio,Não,61.3,3279.51
+3203,Recife,Studio,Sim,49.4,2970.77
+3204,Rio de Janeiro,Kitnet,Sim,50.0,2381.56
+3205,São Paulo,Casa,Não,84.4,3579.8
+3206,Curitiba,Casa,Sim,44.6,3571.01
+3207,Rio de Janeiro,Casa,Sim,44.1,2749.64
+3208,Rio de Janeiro,Apartamento,Sim,60.6,3219.75
+3209,Recife,Casa,Sim,53.6,1713.26
+3210,Belo Horizonte,Studio,Não,114.4,3200.38
+3211,Rio de Janeiro,Studio,Não,69.5,2769.99
+3212,São Paulo,Studio,Não,,3355.76
+3213,Belo Horizonte,Studio,Não,33.4,1380.71
+3214,Porto Alegre,Studio,Não,67.0,1015.37
+3215,Recife,Studio,Não,57.0,1231.04
+3216,Belo Horizonte,Studio,Não,67.9,2543.4
+3217,Belo Horizonte,Studio,Não,32.0,2632.57
+3218,Recife,Apartamento,Não,66.7,3305.04
+3219,São Paulo,Apartamento,Não,79.7,3318.35
+3220,São Paulo,Studio,Não,60.5,2802.08
+3221,Porto Alegre,Casa,Não,57.6,1459.56
+3222,Belo Horizonte,Studio,Sim,63.8,1901.28
+3223,Porto Alegre,Kitnet,Não,56.7,2802.0
+3224,São Paulo,Kitnet,Não,81.4,3885.75
+3225,Curitiba,Casa,Não,84.6,1469.73
+3226,Belo Horizonte,Casa,Não,84.6,1747.61
+3227,São Paulo,Casa,Não,51.8,2037.91
+3228,Belo Horizonte,Kitnet,Não,,2673.45
+3229,Porto Alegre,Apartamento,Sim,29.7,2462.78
+3230,Porto Alegre,Casa,Não,95.7,1241.52
+3231,Rio de Janeiro,Kitnet,Sim,31.8,2326.53
+3232,Porto Alegre,Casa,Não,30.0,2492.66
+3233,Recife,Studio,Não,48.5,3621.5
+3234,Porto Alegre,Kitnet,Não,73.9,3063.88
+3235,Porto Alegre,Apartamento,Não,51.5,1037.19
+3236,Curitiba,Apartamento,Não,34.9,4471.91
+3237,São Paulo,Apartamento,Não,43.3,3433.11
+3238,São Paulo,Kitnet,Não,78.3,3557.16
+3239,Curitiba,Casa,Não,101.6,1751.94
+3240,Belo Horizonte,Studio,Não,55.4,429.78
+3241,Belo Horizonte,Studio,Sim,69.8,3075.34
+3242,Belo Horizonte,Kitnet,Não,108.9,2242.7
+3243,Recife,Studio,Não,,2739.4
+3244,Belo Horizonte,Studio,Sim,59.9,1765.53
+3245,Recife,Casa,Não,84.2,3077.39
+3246,Rio de Janeiro,Kitnet,Não,,2088.04
+3247,Rio de Janeiro,Studio,Não,75.5,1645.3
+3248,Belo Horizonte,Kitnet,Não,70.6,2200.76
+3249,Porto Alegre,Casa,Não,58.6,3211.39
+3250,Rio de Janeiro,Casa,Não,51.2,3233.72
+3251,São Paulo,Casa,Não,44.1,1520.28
+3252,São Paulo,Apartamento,Não,76.3,2855.0
+3253,Belo Horizonte,Casa,Sim,72.5,1677.39
+3254,Belo Horizonte,Apartamento,Não,78.8,1907.7
+3255,Porto Alegre,Casa,Sim,60.3,2427.42
+3256,Belo Horizonte,Casa,Não,53.8,2755.01
+3257,Porto Alegre,Studio,Sim,,1978.93
+3258,Porto Alegre,Kitnet,Sim,77.7,3721.39
+3259,Rio de Janeiro,Apartamento,Sim,94.3,2457.22
+3260,Rio de Janeiro,Apartamento,Não,48.6,3577.8
+3261,Rio de Janeiro,Studio,Não,55.3,1761.88
+3262,Recife,Kitnet,Não,24.7,1838.32
+3263,Recife,Kitnet,Não,76.2,3551.89
+3264,Porto Alegre,Apartamento,Sim,41.2,1822.01
+3265,Curitiba,Apartamento,Não,46.7,3025.6
+3266,Rio de Janeiro,Apartamento,Sim,,1540.7
+3267,Belo Horizonte,Apartamento,Sim,68.8,1517.59
+3268,Curitiba,Apartamento,Não,70.8,1986.85
+3269,Curitiba,Kitnet,Não,93.4,2216.77
+3270,Rio de Janeiro,Apartamento,Não,47.2,2151.54
+3271,Belo Horizonte,Kitnet,Sim,81.1,2289.44
+3272,Rio de Janeiro,Studio,Sim,58.3,1576.26
+3273,Curitiba,Casa,Não,49.5,2591.89
+3274,Belo Horizonte,Kitnet,Sim,90.8,1074.5
+3275,Belo Horizonte,Casa,Não,37.7,2961.0
+3276,Curitiba,Casa,Não,71.1,3050.25
+3277,Recife,Kitnet,Não,39.4,1526.39
+3278,Rio de Janeiro,Casa,Sim,90.0,2530.37
+3279,Curitiba,Casa,Sim,39.3,2856.01
+3280,Belo Horizonte,Kitnet,Não,99.3,1676.77
+3281,São Paulo,Casa,Não,43.6,1595.84
+3282,Rio de Janeiro,Casa,Sim,67.2,641.72
+3283,Porto Alegre,Apartamento,Não,86.7,1307.89
+3284,Belo Horizonte,Apartamento,Não,88.8,1251.84
+3285,Porto Alegre,Apartamento,Sim,52.5,1494.94
+3286,Rio de Janeiro,Kitnet,Sim,86.9,2609.73
+3287,Porto Alegre,Kitnet,Sim,76.5,2062.94
+3288,Porto Alegre,Kitnet,Não,57.9,2623.68
+3289,Recife,Casa,Não,94.4,2852.39
+3290,Porto Alegre,Apartamento,Não,73.8,1577.65
+3291,Belo Horizonte,Studio,Não,91.2,1022.13
+3292,Recife,Apartamento,Não,42.5,2939.8
+3293,São Paulo,Apartamento,Não,47.4,2470.24
+3294,São Paulo,Apartamento,Não,59.7,
+3295,Belo Horizonte,Kitnet,Não,96.3,-0.51
+3296,São Paulo,Apartamento,Sim,46.9,2610.9
+3297,Curitiba,Casa,Sim,80.3,219.37
+3298,Porto Alegre,Kitnet,Não,59.8,74.68
+3299,Curitiba,Kitnet,Não,49.0,2146.38
+3300,Porto Alegre,Apartamento,Não,25.7,3029.72
+3301,Porto Alegre,Apartamento,Sim,40.5,1669.65
+3302,Rio de Janeiro,Apartamento,Não,62.9,1240.82
+3303,Recife,Studio,Não,20.6,2987.49
+3304,Rio de Janeiro,Studio,Não,80.4,1757.0
+3305,Belo Horizonte,Casa,Não,62.6,2116.26
+3306,Recife,Apartamento,Não,55.2,3218.32
+3307,Porto Alegre,Kitnet,Não,75.1,2889.06
+3308,São Paulo,Kitnet,Não,86.8,2836.63
+3309,Rio de Janeiro,Kitnet,Sim,31.0,3186.88
+3310,Rio de Janeiro,Apartamento,Sim,38.6,2207.95
+3311,Curitiba,Studio,Não,47.1,3800.0
+3312,Curitiba,Kitnet,Não,80.0,1057.35
+3313,São Paulo,Casa,Não,81.8,1607.54
+3314,Belo Horizonte,Apartamento,Sim,60.2,1030.29
+3315,Rio de Janeiro,Studio,Não,49.7,3308.59
+3316,Recife,Studio,Não,53.2,2124.4
+3317,Curitiba,Kitnet,Não,81.0,2303.51
+3318,Belo Horizonte,Kitnet,Sim,61.5,1590.63
+3319,Recife,Studio,Sim,75.4,1724.93
+3320,Porto Alegre,Kitnet,Sim,61.5,2029.14
+3321,Recife,Casa,Não,54.8,1221.99
+3322,Recife,Apartamento,Não,41.5,3618.55
+3323,São Paulo,Kitnet,Sim,66.3,2174.79
+3324,Curitiba,Casa,Sim,59.2,2395.27
+3325,Rio de Janeiro,Casa,Sim,56.0,3267.44
+3326,Belo Horizonte,Casa,Não,46.3,3164.37
+3327,São Paulo,Apartamento,Não,45.0,2989.61
+3328,Rio de Janeiro,Kitnet,Sim,62.1,2459.85
+3329,Belo Horizonte,Apartamento,Sim,51.2,1095.42
+3330,Curitiba,Kitnet,Não,19.0,1649.13
+3331,Belo Horizonte,Apartamento,Não,40.4,1816.15
+3332,Rio de Janeiro,Studio,Não,28.4,2954.37
+3333,Belo Horizonte,Apartamento,Não,71.2,841.04
+3334,Curitiba,Apartamento,Não,,2137.25
+3335,Porto Alegre,Apartamento,Não,80.7,386.77
+3336,Belo Horizonte,Studio,Não,44.6,1527.88
+3337,São Paulo,Casa,Não,,1113.98
+3338,Curitiba,Casa,Não,68.1,2018.64
+3339,Rio de Janeiro,Apartamento,Sim,,3490.6
+3340,Porto Alegre,Casa,Sim,44.0,1741.8
+3341,Belo Horizonte,Kitnet,Não,88.5,1452.94
+3342,Curitiba,Studio,Não,41.2,158.19
+3343,São Paulo,Casa,Não,55.1,963.8
+3344,Rio de Janeiro,Studio,Sim,23.5,1666.67
+3345,Rio de Janeiro,Casa,Não,50.5,2123.59
+3346,Curitiba,Apartamento,Não,69.7,1380.06
+3347,Rio de Janeiro,Apartamento,Não,54.5,1414.23
+3348,São Paulo,Apartamento,Não,79.4,2395.61
+3349,São Paulo,Kitnet,Não,37.2,452.86
+3350,Porto Alegre,Studio,Sim,51.2,2865.91
+3351,Belo Horizonte,Kitnet,Sim,90.0,3055.71
+3352,Porto Alegre,Apartamento,Sim,41.8,1636.51
+3353,Recife,Casa,Não,42.6,2225.78
+3354,Porto Alegre,Apartamento,Não,70.6,3577.65
+3355,São Paulo,Casa,Não,75.7,2056.2
+3356,Curitiba,Casa,Não,45.3,2342.8
+3357,Rio de Janeiro,Apartamento,Não,,3315.93
+3358,Curitiba,Casa,Não,20.7,2058.68
+3359,São Paulo,Studio,Não,34.6,2399.95
+3360,Recife,Kitnet,Não,37.4,2872.25
+3361,São Paulo,Studio,Não,97.1,2795.85
+3362,Rio de Janeiro,Kitnet,Sim,51.3,2642.06
+3363,Rio de Janeiro,Apartamento,Não,76.9,2030.99
+3364,Belo Horizonte,Studio,Não,90.3,4459.75
+3365,Curitiba,Kitnet,Não,46.4,1982.93
+3366,Rio de Janeiro,Apartamento,Não,97.8,2507.6
+3367,São Paulo,Studio,Não,78.7,2250.86
+3368,Rio de Janeiro,Studio,Não,73.2,1953.57
+3369,São Paulo,Studio,Não,51.8,1625.67
+3370,São Paulo,Kitnet,Sim,51.5,2869.41
+3371,Belo Horizonte,Kitnet,Não,65.7,2813.88
+3372,Belo Horizonte,Kitnet,Não,65.9,1854.07
+3373,Recife,Apartamento,Não,86.0,2525.11
+3374,Porto Alegre,Studio,Não,102.1,2100.46
+3375,Rio de Janeiro,Apartamento,Não,51.8,2383.18
+3376,Belo Horizonte,Casa,Sim,56.1,1026.77
+3377,São Paulo,Casa,Sim,59.7,2373.97
+3378,Belo Horizonte,Apartamento,Não,73.1,1795.23
+3379,Belo Horizonte,Studio,Não,49.4,2433.47
+3380,Rio de Janeiro,Studio,Não,87.7,2461.74
+3381,Recife,Studio,Sim,89.0,2372.58
+3382,Porto Alegre,Apartamento,Sim,71.6,
+3383,Recife,Casa,Não,70.2,1823.01
+3384,Porto Alegre,Casa,Não,13.3,2084.29
+3385,Belo Horizonte,Apartamento,Não,83.4,1911.45
+3386,Rio de Janeiro,Apartamento,Não,73.3,3024.62
+3387,Curitiba,Apartamento,Não,67.1,2625.38
+3388,Porto Alegre,Studio,Não,44.2,838.08
+3389,São Paulo,Apartamento,Não,67.1,3780.6
+3390,Recife,Apartamento,Não,111.3,2749.68
+3391,Curitiba,Casa,Sim,49.9,2393.75
+3392,Belo Horizonte,Kitnet,Sim,107.5,2976.67
+3393,Recife,Studio,Não,64.1,2970.51
+3394,São Paulo,Casa,Não,51.7,
+3395,Recife,Studio,Não,94.4,1582.13
+3396,Rio de Janeiro,Apartamento,Não,20.8,2362.66
+3397,Recife,Apartamento,Sim,34.9,539.46
+3398,Belo Horizonte,Apartamento,Não,72.0,2543.67
+3399,Belo Horizonte,Apartamento,Sim,59.9,2675.99
+3400,Porto Alegre,Apartamento,Sim,43.5,1504.34
+3401,Rio de Janeiro,Apartamento,Não,52.5,747.34
+3402,Belo Horizonte,Studio,Não,70.6,1758.25
+3403,Belo Horizonte,Studio,Não,81.3,1032.38
+3404,Belo Horizonte,Kitnet,Não,59.4,2657.05
+3405,São Paulo,Studio,Sim,90.3,2910.67
+3406,Rio de Janeiro,Studio,Sim,72.4,
+3407,Belo Horizonte,Kitnet,Não,52.9,2207.38
+3408,Porto Alegre,Kitnet,Sim,79.8,3635.38
+3409,Recife,Apartamento,Não,102.1,1517.48
+3410,Belo Horizonte,Apartamento,Não,93.3,1828.25
+3411,Rio de Janeiro,Kitnet,Sim,37.9,2606.66
+3412,Porto Alegre,Kitnet,Não,59.7,
+3413,Rio de Janeiro,Apartamento,Não,73.7,1722.81
+3414,São Paulo,Kitnet,Não,92.5,1953.24
+3415,Recife,Apartamento,Não,95.8,526.42
+3416,Belo Horizonte,Kitnet,Não,52.6,1784.88
+3417,Recife,Kitnet,Não,92.4,2653.74
+3418,Belo Horizonte,Studio,Não,80.3,573.34
+3419,Rio de Janeiro,Studio,Não,42.1,3307.33
+3420,Recife,Kitnet,Sim,29.7,1394.31
+3421,Rio de Janeiro,Casa,Sim,133.1,2576.63
+3422,Belo Horizonte,Studio,Sim,67.6,2805.39
+3423,Porto Alegre,Kitnet,Não,81.0,2022.92
+3424,Belo Horizonte,Kitnet,Não,92.9,2406.36
+3425,Porto Alegre,Apartamento,Não,102.4,3379.54
+3426,São Paulo,Apartamento,Não,43.9,3253.51
+3427,Curitiba,Casa,Não,72.0,1971.43
+3428,Porto Alegre,Casa,Não,21.2,2492.49
+3429,São Paulo,Studio,Não,47.7,2311.24
+3430,Recife,Apartamento,Não,45.5,2672.15
+3431,Porto Alegre,Studio,Não,109.2,2868.08
+3432,Curitiba,Casa,Não,58.1,1403.4
+3433,Curitiba,Kitnet,Não,64.2,1796.15
+3434,São Paulo,Kitnet,Sim,50.4,2842.54
+3435,Porto Alegre,Casa,Não,15.4,1824.89
+3436,Curitiba,Kitnet,Não,78.0,961.05
+3437,Rio de Janeiro,Casa,Não,41.6,1227.82
+3438,Belo Horizonte,Casa,Não,59.5,2036.53
+3439,Curitiba,Kitnet,Não,54.8,1979.54
+3440,São Paulo,Casa,Sim,57.3,1645.41
+3441,São Paulo,Studio,Não,64.1,2784.39
+3442,Curitiba,Casa,Não,66.5,1894.96
+3443,Belo Horizonte,Casa,Não,28.5,676.76
+3444,Curitiba,Kitnet,Não,80.3,2955.42
+3445,Porto Alegre,Apartamento,Não,58.3,2472.44
+3446,Curitiba,Studio,Sim,38.5,865.34
+3447,Belo Horizonte,Studio,Não,105.7,1805.21
+3448,Rio de Janeiro,Casa,Não,44.7,2546.46
+3449,Belo Horizonte,Studio,Não,42.4,1151.25
+3450,Porto Alegre,Kitnet,Não,,2088.57
+3451,Belo Horizonte,Kitnet,Não,42.6,2039.71
+3452,Belo Horizonte,Apartamento,Sim,36.0,2647.36
+3453,Porto Alegre,Apartamento,Sim,54.1,2293.12
+3454,Porto Alegre,Apartamento,Não,79.6,1706.67
+3455,Curitiba,Studio,Não,34.0,1813.64
+3456,São Paulo,Casa,Não,51.3,2628.22
+3457,Porto Alegre,Studio,Sim,69.0,2010.72
+3458,Porto Alegre,Studio,Não,55.4,2841.04
+3459,Rio de Janeiro,Casa,Não,61.5,2457.76
+3460,Curitiba,Kitnet,Não,93.0,2952.65
+3461,São Paulo,Apartamento,Não,58.2,4308.16
+3462,Belo Horizonte,Studio,Sim,,2033.27
+3463,São Paulo,Casa,Não,54.5,3609.49
+3464,Belo Horizonte,Casa,Sim,66.9,1962.04
+3465,Porto Alegre,Apartamento,Não,129.7,1473.52
+3466,Porto Alegre,Casa,Não,78.9,2755.02
+3467,São Paulo,Kitnet,Não,70.3,2914.89
+3468,São Paulo,Studio,Não,96.6,3161.3
+3469,Curitiba,Casa,Sim,43.7,1798.87
+3470,Porto Alegre,Studio,Sim,51.1,4012.91
+3471,Curitiba,Studio,Não,73.2,1498.44
+3472,Recife,Kitnet,Não,48.1,2648.18
+3473,Rio de Janeiro,Kitnet,Sim,93.6,3050.61
+3474,Porto Alegre,Kitnet,Sim,,1952.27
+3475,Porto Alegre,Studio,Não,36.4,2004.82
+3476,São Paulo,Apartamento,Não,85.0,1168.24
+3477,Rio de Janeiro,Studio,Sim,96.9,2806.19
+3478,São Paulo,Apartamento,Sim,94.8,3416.89
+3479,São Paulo,Apartamento,Não,22.4,2173.01
+3480,Curitiba,Apartamento,Não,69.4,2401.85
+3481,Porto Alegre,Studio,Sim,50.8,1692.37
+3482,São Paulo,Casa,Não,32.0,2529.59
+3483,Rio de Janeiro,Studio,Sim,43.2,2571.2
+3484,Porto Alegre,Apartamento,Não,71.8,2843.75
+3485,Rio de Janeiro,Casa,Não,33.4,2205.73
+3486,Porto Alegre,Casa,Não,58.0,3158.15
+3487,Rio de Janeiro,Casa,Não,25.8,2242.49
+3488,Belo Horizonte,Studio,Não,77.7,2826.47
+3489,Porto Alegre,Kitnet,Não,80.4,2777.79
+3490,Recife,Apartamento,Não,58.9,3166.01
+3491,Curitiba,Apartamento,Não,69.7,1791.12
+3492,Rio de Janeiro,Apartamento,Não,68.0,2053.19
+3493,Recife,Kitnet,Não,44.6,3097.33
+3494,Porto Alegre,Apartamento,Não,98.6,692.41
+3495,Porto Alegre,Apartamento,Não,53.6,680.39
+3496,Porto Alegre,Kitnet,Não,38.3,
+3497,Porto Alegre,Casa,Não,106.6,3050.42
+3498,Recife,Casa,Não,63.7,1085.18
+3499,Belo Horizonte,Studio,Não,99.4,2389.29
