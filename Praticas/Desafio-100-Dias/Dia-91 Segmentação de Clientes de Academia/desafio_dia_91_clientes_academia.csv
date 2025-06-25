@@ -1,0 +1,501 @@
+id_cliente,idade,genero,frequencia_semanal,objetivo,tempo_treino_medio
+5000,64,Outro,2,Reabilitação,32.8
+5001,60,Masculino,5,Manter forma,56.1
+5002,36,Feminino,3,Perder peso,83.7
+5003,47,Masculino,6,Perder peso,38.0
+5004,47,Feminino,2,Reabilitação,35.6
+5005,64,Masculino,3,Perder peso,35.9
+5006,54,Outro,6,Ganhar massa,67.5
+5007,55,Feminino,2,Reabilitação,57.4
+5008,20,Outro,6,Perder peso,64.4
+5009,46,Outro,1,Manter forma,38.9
+5010,60,Masculino,3,Reabilitação,69.4
+5011,32,Feminino,4,Reabilitação,52.7
+5012,46,Masculino,1,Ganhar massa,66.2
+5013,35,Outro,1,Ganhar massa,50.1
+5014,35,Masculino,1,Reabilitação,17.8
+5015,42,Masculino,4,Ganhar massa,61.0
+5016,19,Feminino,3,Perder peso,78.3
+5017,36,Feminino,4,Ganhar massa,46.2
+5018,38,Masculino,3,Manter forma,52.8
+5019,58,Masculino,1,Manter forma,68.3
+5020,40,Outro,3,Reabilitação,47.2
+5021,47,Outro,2,Perder peso,52.0
+5022,60,Outro,3,Perder peso,64.5
+5023,38,Masculino,1,Ganhar massa,70.0
+5024,64,Outro,2,Manter forma,40.2
+5025,35,Masculino,5,Perder peso,29.3
+5026,61,Outro,2,Perder peso,74.7
+5027,24,Outro,2,Perder peso,55.4
+5028,32,Feminino,1,Manter forma,50.9
+5029,22,Outro,6,Manter forma,34.9
+5030,52,Outro,3,Reabilitação,79.6
+5031,32,Outro,3,Perder peso,63.6
+5032,32,Masculino,3,Manter forma,55.4
+5033,33,Masculino,6,Perder peso,81.3
+5034,26,Outro,5,Manter forma,
+5035,37,Feminino,6,Manter forma,38.3
+5036,28,Outro,2,Manter forma,67.2
+5037,64,Outro,3,Perder peso,54.4
+5038,30,Masculino,6,Perder peso,54.0
+5039,52,Feminino,5,Manter forma,60.4
+5040,20,Feminino,4,Reabilitação,37.7
+5041,21,Outro,5,Ganhar massa,55.1
+5042,61,Outro,1,Manter forma,57.3
+5043,38,Outro,1,Perder peso,59.5
+5044,53,Outro,4,Perder peso,66.2
+5045,41,Masculino,6,Manter forma,30.4
+5046,35,Feminino,2,Manter forma,75.9
+5047,28,Outro,4,Ganhar massa,44.7
+5048,40,Masculino,1,Ganhar massa,32.8
+5049,18,Masculino,5,Ganhar massa,40.7
+5050,20,Masculino,5,Perder peso,22.4
+5051,57,Outro,1,Ganhar massa,48.8
+5052,46,Masculino,1,Perder peso,33.6
+5053,47,Outro,3,Perder peso,74.0
+5054,50,Masculino,2,Ganhar massa,74.1
+5055,60,Outro,1,Ganhar massa,58.3
+5056,57,Masculino,4,Reabilitação,73.0
+5057,64,Feminino,1,Perder peso,85.1
+5058,18,Outro,6,Manter forma,49.5
+5059,33,Outro,3,Ganhar massa,74.1
+5060,49,Masculino,1,Perder peso,56.7
+5061,33,Feminino,5,Reabilitação,33.1
+5062,53,Feminino,2,Ganhar massa,30.1
+5063,52,Masculino,5,Perder peso,27.8
+5064,26,Masculino,6,Ganhar massa,54.2
+5065,62,Feminino,4,Reabilitação,63.4
+5066,64,Outro,3,Ganhar massa,74.3
+5067,62,Outro,4,Reabilitação,63.4
+5068,56,Outro,1,Ganhar massa,23.1
+5069,41,Masculino,5,Manter forma,73.2
+5070,28,Feminino,2,Ganhar massa,67.7
+5071,26,Feminino,6,Ganhar massa,
+5072,24,Outro,2,Manter forma,40.1
+5073,48,Feminino,6,Perder peso,
+5074,22,Outro,5,Ganhar massa,45.9
+5075,28,Feminino,2,Manter forma,46.1
+5076,45,Feminino,4,Perder peso,77.7
+5077,51,Outro,5,Ganhar massa,48.7
+5078,41,Feminino,1,Manter forma,47.0
+5079,33,Outro,3,Perder peso,40.4
+5080,63,Feminino,5,Perder peso,42.2
+5081,61,Masculino,1,Perder peso,44.9
+5082,23,Feminino,6,Manter forma,51.1
+5083,32,Masculino,4,Perder peso,42.0
+5084,20,Feminino,2,Manter forma,75.6
+5085,62,Outro,6,Perder peso,63.4
+5086,34,Outro,5,Perder peso,43.6
+5087,24,Masculino,6,Manter forma,59.3
+5088,47,Feminino,1,Manter forma,60.7
+5089,19,Feminino,4,Perder peso,
+5090,39,Outro,4,Manter forma,54.2
+5091,27,Masculino,4,Perder peso,47.6
+5092,28,Feminino,1,Manter forma,36.2
+5093,19,Masculino,2,Reabilitação,53.7
+5094,25,Outro,4,Manter forma,
+5095,35,Masculino,6,Manter forma,43.9
+5096,36,Masculino,1,Ganhar massa,65.0
+5097,26,Masculino,3,Ganhar massa,77.5
+5098,48,Feminino,6,Perder peso,41.9
+5099,46,Masculino,5,Manter forma,42.3
+5100,29,Masculino,2,Manter forma,49.6
+5101,43,Outro,4,Reabilitação,76.0
+5102,45,Masculino,3,Manter forma,69.3
+5103,56,Feminino,3,Perder peso,40.6
+5104,31,Masculino,6,Manter forma,40.4
+5105,34,Outro,3,Manter forma,71.3
+5106,40,Masculino,3,Perder peso,72.3
+5107,36,Masculino,5,Ganhar massa,52.8
+5108,25,Feminino,1,Perder peso,45.4
+5109,49,Masculino,6,Reabilitação,53.5
+5110,30,Feminino,1,Perder peso,58.0
+5111,62,Feminino,4,Ganhar massa,33.4
+5112,55,Outro,3,Reabilitação,62.0
+5113,46,Outro,1,Ganhar massa,20.1
+5114,63,Masculino,5,Manter forma,33.0
+5115,43,Feminino,1,Manter forma,71.6
+5116,19,Masculino,2,Reabilitação,54.6
+5117,53,Feminino,2,Ganhar massa,77.7
+5118,20,Outro,6,Manter forma,62.9
+5119,47,Masculino,4,Reabilitação,54.1
+5120,56,Outro,6,Reabilitação,85.3
+5121,39,Outro,3,Ganhar massa,62.6
+5122,39,Feminino,1,Perder peso,52.1
+5123,45,Outro,6,Ganhar massa,54.6
+5124,58,Feminino,2,Reabilitação,62.3
+5125,63,Feminino,2,Reabilitação,60.0
+5126,49,Masculino,6,Manter forma,72.0
+5127,49,Feminino,2,Manter forma,63.8
+5128,49,Outro,2,Manter forma,41.7
+5129,23,Masculino,3,Reabilitação,44.1
+5130,47,Feminino,5,Ganhar massa,59.5
+5131,58,Masculino,4,Ganhar massa,63.8
+5132,52,Masculino,5,Reabilitação,66.1
+5133,60,Feminino,3,Reabilitação,59.4
+5134,54,Outro,5,Ganhar massa,78.9
+5135,59,Feminino,3,Reabilitação,43.4
+5136,54,Outro,5,Ganhar massa,53.2
+5137,24,Feminino,1,Perder peso,20.3
+5138,60,Outro,2,Manter forma,71.4
+5139,37,Feminino,6,Reabilitação,58.2
+5140,64,Masculino,4,Reabilitação,62.8
+5141,59,Feminino,1,Manter forma,71.6
+5142,40,Outro,3,Ganhar massa,64.9
+5143,31,Masculino,6,Reabilitação,48.1
+5144,44,Feminino,5,Manter forma,
+5145,42,Outro,3,Ganhar massa,47.5
+5146,56,Feminino,1,Ganhar massa,53.3
+5147,19,Outro,1,Perder peso,56.3
+5148,53,Masculino,5,Ganhar massa,41.5
+5149,30,Feminino,3,Manter forma,48.1
+5150,62,Feminino,1,Perder peso,61.6
+5151,63,Feminino,4,Ganhar massa,32.7
+5152,25,Feminino,5,Reabilitação,60.6
+5153,31,Feminino,3,Perder peso,69.6
+5154,34,Outro,5,Ganhar massa,58.1
+5155,39,Masculino,5,Perder peso,48.9
+5156,44,Masculino,1,Ganhar massa,52.7
+5157,36,Feminino,2,Perder peso,50.4
+5158,26,Masculino,6,Perder peso,42.6
+5159,35,Masculino,6,Reabilitação,31.6
+5160,60,Masculino,5,Reabilitação,49.4
+5161,63,Feminino,5,Perder peso,59.5
+5162,43,Masculino,1,Manter forma,41.6
+5163,56,Masculino,1,Manter forma,59.5
+5164,20,Outro,6,Ganhar massa,72.4
+5165,30,Feminino,2,Ganhar massa,
+5166,44,Outro,4,Reabilitação,39.7
+5167,53,Outro,4,Ganhar massa,48.7
+5168,30,Outro,2,Reabilitação,41.9
+5169,61,Feminino,2,Perder peso,56.6
+5170,28,Feminino,3,Perder peso,
+5171,18,Outro,3,Ganhar massa,65.4
+5172,33,Outro,6,Manter forma,62.6
+5173,63,Feminino,6,Reabilitação,92.4
+5174,31,Outro,6,Perder peso,49.4
+5175,55,Masculino,4,Reabilitação,60.4
+5176,51,Masculino,3,Reabilitação,74.7
+5177,46,Feminino,3,Ganhar massa,53.4
+5178,57,Outro,4,Ganhar massa,14.1
+5179,60,Feminino,5,Ganhar massa,41.9
+5180,30,Outro,2,Manter forma,72.5
+5181,63,Feminino,2,Perder peso,24.9
+5182,22,Feminino,2,Perder peso,58.1
+5183,32,Feminino,1,Ganhar massa,49.8
+5184,39,Masculino,2,Manter forma,70.3
+5185,60,Outro,2,Reabilitação,80.8
+5186,53,Outro,6,Ganhar massa,46.3
+5187,54,Feminino,1,Manter forma,59.9
+5188,57,Masculino,6,Ganhar massa,70.4
+5189,31,Outro,5,Ganhar massa,47.3
+5190,56,Feminino,6,Reabilitação,44.6
+5191,38,Outro,5,Perder peso,75.4
+5192,38,Feminino,6,Reabilitação,51.7
+5193,35,Feminino,2,Manter forma,51.5
+5194,45,Outro,2,Manter forma,56.2
+5195,28,Masculino,5,Ganhar massa,40.9
+5196,22,Masculino,2,Perder peso,64.9
+5197,18,Masculino,3,Ganhar massa,55.0
+5198,43,Feminino,4,Ganhar massa,68.0
+5199,46,Feminino,6,Manter forma,35.6
+5200,30,Outro,4,Reabilitação,53.7
+5201,50,Masculino,5,Manter forma,59.9
+5202,24,Feminino,6,Manter forma,68.9
+5203,61,Masculino,1,Ganhar massa,47.7
+5204,45,Outro,3,Perder peso,64.1
+5205,59,Outro,6,Manter forma,55.8
+5206,64,Masculino,5,Manter forma,55.9
+5207,18,Masculino,6,Perder peso,54.7
+5208,50,Masculino,5,Ganhar massa,74.8
+5209,40,Feminino,4,Ganhar massa,45.4
+5210,48,Masculino,6,Perder peso,53.1
+5211,58,Masculino,3,Ganhar massa,41.5
+5212,18,Feminino,5,Reabilitação,39.3
+5213,47,Feminino,6,Manter forma,76.1
+5214,34,Feminino,6,Ganhar massa,72.3
+5215,21,Masculino,6,Ganhar massa,64.2
+5216,20,Feminino,2,Perder peso,57.2
+5217,40,Outro,5,Ganhar massa,35.1
+5218,23,Masculino,3,Reabilitação,54.7
+5219,21,Feminino,1,Reabilitação,59.1
+5220,22,Outro,3,Reabilitação,57.8
+5221,64,Masculino,4,Reabilitação,43.0
+5222,44,Outro,3,Perder peso,62.3
+5223,64,Masculino,3,Perder peso,
+5224,54,Masculino,6,Manter forma,33.5
+5225,61,Masculino,2,Manter forma,73.8
+5226,19,Feminino,1,Perder peso,28.0
+5227,43,Feminino,5,Manter forma,44.8
+5228,60,Masculino,6,Manter forma,54.6
+5229,51,Masculino,1,Perder peso,65.1
+5230,40,Masculino,5,Manter forma,
+5231,50,Feminino,3,Ganhar massa,68.4
+5232,50,Feminino,1,Ganhar massa,55.2
+5233,44,Outro,1,Perder peso,41.0
+5234,36,Masculino,5,Ganhar massa,55.1
+5235,20,Masculino,6,Reabilitação,78.3
+5236,30,Feminino,4,Reabilitação,71.5
+5237,44,Feminino,1,Ganhar massa,39.1
+5238,38,Outro,2,Ganhar massa,58.2
+5239,47,Masculino,4,Manter forma,60.9
+5240,19,Outro,3,Reabilitação,75.0
+5241,25,Masculino,6,Manter forma,81.5
+5242,18,Feminino,5,Ganhar massa,48.1
+5243,45,Feminino,2,Perder peso,67.2
+5244,39,Feminino,5,Perder peso,43.6
+5245,37,Outro,5,Perder peso,66.5
+5246,26,Outro,4,Reabilitação,35.9
+5247,61,Feminino,5,Ganhar massa,56.2
+5248,60,Feminino,4,Perder peso,53.1
+5249,30,Masculino,2,Manter forma,68.7
+5250,44,Masculino,6,Ganhar massa,53.9
+5251,40,Masculino,5,Manter forma,53.9
+5252,40,Feminino,6,Reabilitação,68.8
+5253,18,Feminino,3,Ganhar massa,38.5
+5254,34,Feminino,6,Manter forma,39.9
+5255,25,Masculino,6,Ganhar massa,45.6
+5256,25,Feminino,1,Manter forma,60.0
+5257,36,Masculino,5,Manter forma,38.9
+5258,24,Outro,2,Reabilitação,44.7
+5259,58,Feminino,4,Ganhar massa,50.5
+5260,58,Feminino,1,Reabilitação,66.9
+5261,40,Feminino,5,Perder peso,67.6
+5262,49,Outro,1,Ganhar massa,38.6
+5263,32,Outro,4,Ganhar massa,71.1
+5264,34,Masculino,4,Reabilitação,64.3
+5265,54,Masculino,6,Ganhar massa,40.3
+5266,26,Feminino,5,Perder peso,56.2
+5267,60,Feminino,6,Manter forma,50.4
+5268,42,Masculino,5,Reabilitação,58.4
+5269,34,Feminino,2,Reabilitação,67.3
+5270,21,Outro,6,Reabilitação,39.3
+5271,28,Masculino,2,Reabilitação,28.4
+5272,18,Feminino,4,Reabilitação,78.2
+5273,19,Masculino,5,Perder peso,61.7
+5274,57,Masculino,5,Reabilitação,29.6
+5275,31,Outro,5,Perder peso,57.6
+5276,30,Outro,6,Reabilitação,32.6
+5277,43,Masculino,4,Ganhar massa,18.0
+5278,36,Feminino,3,Ganhar massa,84.1
+5279,34,Masculino,5,Manter forma,66.2
+5280,23,Masculino,2,Ganhar massa,66.2
+5281,28,Feminino,1,Manter forma,76.7
+5282,59,Outro,1,Ganhar massa,55.5
+5283,40,Feminino,3,Manter forma,49.3
+5284,37,Feminino,1,Perder peso,42.0
+5285,23,Feminino,3,Manter forma,78.7
+5286,34,Outro,1,Manter forma,
+5287,52,Outro,4,Perder peso,81.2
+5288,57,Masculino,1,Manter forma,76.7
+5289,60,Masculino,6,Perder peso,38.7
+5290,50,Feminino,5,Reabilitação,63.7
+5291,54,Feminino,5,Manter forma,47.6
+5292,48,Feminino,3,Ganhar massa,63.7
+5293,60,Outro,2,Perder peso,68.9
+5294,46,Feminino,2,Reabilitação,54.8
+5295,45,Outro,3,Perder peso,52.4
+5296,51,Outro,6,Reabilitação,40.7
+5297,23,Outro,5,Ganhar massa,
+5298,47,Masculino,5,Ganhar massa,50.9
+5299,30,Masculino,6,Ganhar massa,70.6
+5300,52,Feminino,4,Reabilitação,67.2
+5301,42,Outro,6,Reabilitação,60.6
+5302,36,Feminino,1,Ganhar massa,20.2
+5303,30,Masculino,1,Perder peso,24.0
+5304,31,Masculino,5,Manter forma,
+5305,53,Outro,3,Ganhar massa,57.8
+5306,40,Feminino,6,Manter forma,32.8
+5307,55,Outro,2,Manter forma,65.7
+5308,48,Feminino,1,Reabilitação,61.3
+5309,62,Feminino,5,Reabilitação,53.4
+5310,60,Masculino,1,Perder peso,95.2
+5311,27,Masculino,1,Manter forma,83.1
+5312,62,Outro,4,Ganhar massa,41.1
+5313,51,Outro,1,Reabilitação,61.7
+5314,46,Masculino,4,Perder peso,25.6
+5315,49,Feminino,5,Ganhar massa,62.4
+5316,44,Outro,4,Perder peso,42.2
+5317,30,Outro,6,Ganhar massa,50.3
+5318,18,Masculino,1,Perder peso,
+5319,45,Outro,5,Reabilitação,36.3
+5320,60,Outro,5,Manter forma,73.4
+5321,56,Outro,4,Ganhar massa,57.6
+5322,64,Outro,4,Ganhar massa,53.0
+5323,58,Feminino,1,Manter forma,45.1
+5324,40,Masculino,1,Manter forma,63.3
+5325,57,Feminino,3,Reabilitação,63.7
+5326,46,Feminino,4,Manter forma,66.1
+5327,45,Feminino,4,Perder peso,66.0
+5328,33,Outro,5,Reabilitação,62.7
+5329,50,Feminino,2,Reabilitação,55.7
+5330,26,Masculino,4,Perder peso,36.6
+5331,35,Outro,1,Reabilitação,33.6
+5332,35,Masculino,6,Reabilitação,56.3
+5333,42,Outro,5,Perder peso,64.2
+5334,38,Masculino,1,Reabilitação,40.8
+5335,56,Outro,6,Perder peso,37.0
+5336,60,Masculino,6,Ganhar massa,44.0
+5337,18,Feminino,3,Manter forma,40.5
+5338,55,Outro,5,Reabilitação,69.2
+5339,44,Outro,3,Manter forma,74.3
+5340,38,Masculino,6,Ganhar massa,39.9
+5341,50,Outro,2,Perder peso,36.7
+5342,46,Feminino,3,Ganhar massa,41.3
+5343,21,Feminino,1,Reabilitação,39.7
+5344,51,Masculino,3,Reabilitação,83.3
+5345,28,Outro,1,Ganhar massa,39.0
+5346,50,Feminino,3,Reabilitação,69.7
+5347,61,Outro,2,Ganhar massa,40.1
+5348,36,Feminino,6,Perder peso,31.2
+5349,52,Feminino,4,Manter forma,89.9
+5350,52,Outro,6,Perder peso,54.2
+5351,28,Outro,4,Manter forma,52.7
+5352,45,Outro,3,Perder peso,70.9
+5353,44,Feminino,2,Manter forma,74.4
+5354,24,Masculino,1,Perder peso,58.4
+5355,47,Feminino,1,Ganhar massa,38.3
+5356,39,Feminino,3,Ganhar massa,58.4
+5357,57,Feminino,3,Perder peso,61.5
+5358,50,Outro,6,Ganhar massa,47.0
+5359,62,Outro,5,Reabilitação,50.1
+5360,41,Feminino,2,Reabilitação,53.1
+5361,42,Feminino,3,Perder peso,68.5
+5362,36,Masculino,2,Manter forma,62.8
+5363,29,Feminino,6,Perder peso,57.6
+5364,34,Masculino,1,Ganhar massa,28.4
+5365,21,Masculino,4,Manter forma,89.0
+5366,49,Feminino,1,Manter forma,62.5
+5367,60,Outro,6,Ganhar massa,55.3
+5368,31,Outro,2,Reabilitação,49.3
+5369,32,Masculino,3,Manter forma,57.1
+5370,24,Masculino,2,Perder peso,46.5
+5371,22,Outro,2,Reabilitação,33.6
+5372,25,Masculino,4,Ganhar massa,55.7
+5373,59,Masculino,1,Ganhar massa,72.7
+5374,35,Masculino,2,Manter forma,41.5
+5375,29,Outro,5,Reabilitação,68.0
+5376,22,Outro,1,Perder peso,39.2
+5377,54,Outro,1,Reabilitação,39.2
+5378,37,Outro,3,Ganhar massa,53.8
+5379,26,Feminino,1,Ganhar massa,65.7
+5380,62,Feminino,3,Manter forma,58.2
+5381,46,Feminino,6,Reabilitação,25.0
+5382,64,Masculino,1,Perder peso,27.3
+5383,29,Feminino,4,Reabilitação,62.5
+5384,44,Masculino,1,Perder peso,54.1
+5385,49,Feminino,1,Ganhar massa,33.5
+5386,59,Feminino,5,Ganhar massa,31.5
+5387,56,Masculino,6,Ganhar massa,46.6
+5388,37,Feminino,4,Perder peso,39.1
+5389,37,Feminino,2,Reabilitação,28.7
+5390,26,Outro,3,Perder peso,47.1
+5391,62,Masculino,4,Ganhar massa,64.0
+5392,24,Feminino,6,Ganhar massa,43.5
+5393,43,Outro,6,Perder peso,62.8
+5394,43,Feminino,6,Perder peso,75.0
+5395,63,Outro,4,Manter forma,86.0
+5396,41,Masculino,4,Ganhar massa,38.6
+5397,54,Feminino,3,Perder peso,60.2
+5398,32,Outro,5,Manter forma,40.2
+5399,29,Masculino,3,Manter forma,62.2
+5400,39,Feminino,3,Manter forma,44.5
+5401,23,Outro,2,Ganhar massa,57.1
+5402,59,Masculino,1,Reabilitação,41.9
+5403,58,Feminino,1,Reabilitação,57.9
+5404,34,Feminino,5,Ganhar massa,62.4
+5405,52,Masculino,1,Reabilitação,50.0
+5406,59,Outro,6,Manter forma,44.0
+5407,43,Feminino,5,Manter forma,52.1
+5408,26,Feminino,6,Ganhar massa,31.0
+5409,45,Outro,1,Reabilitação,74.3
+5410,64,Masculino,2,Ganhar massa,70.4
+5411,33,Masculino,3,Reabilitação,55.5
+5412,32,Feminino,3,Perder peso,46.0
+5413,59,Masculino,3,Reabilitação,65.5
+5414,46,Outro,2,Perder peso,28.0
+5415,29,Feminino,5,Ganhar massa,32.8
+5416,23,Feminino,6,Perder peso,41.5
+5417,50,Feminino,2,Reabilitação,66.1
+5418,33,Feminino,4,Ganhar massa,27.4
+5419,23,Outro,1,Manter forma,50.3
+5420,60,Masculino,4,Ganhar massa,44.2
+5421,42,Feminino,3,Reabilitação,65.3
+5422,24,Outro,5,Manter forma,68.3
+5423,60,Feminino,5,Manter forma,67.6
+5424,49,Masculino,4,Perder peso,42.0
+5425,27,Feminino,5,Reabilitação,63.2
+5426,33,Outro,1,Manter forma,58.2
+5427,44,Outro,5,Perder peso,51.2
+5428,18,Outro,5,Perder peso,59.6
+5429,35,Masculino,1,Manter forma,60.9
+5430,61,Masculino,2,Manter forma,40.3
+5431,26,Outro,6,Reabilitação,44.6
+5432,52,Feminino,6,Reabilitação,51.6
+5433,20,Outro,3,Perder peso,71.2
+5434,64,Masculino,1,Manter forma,40.9
+5435,22,Outro,4,Manter forma,62.2
+5436,51,Outro,5,Perder peso,70.1
+5437,26,Feminino,1,Perder peso,56.2
+5438,38,Masculino,5,Reabilitação,55.8
+5439,36,Outro,3,Perder peso,61.4
+5440,28,Outro,5,Reabilitação,64.2
+5441,33,Outro,3,Reabilitação,56.5
+5442,19,Feminino,2,Manter forma,33.8
+5443,27,Masculino,3,Manter forma,40.9
+5444,30,Feminino,6,Perder peso,39.3
+5445,19,Outro,5,Manter forma,84.1
+5446,29,Feminino,5,Ganhar massa,51.6
+5447,59,Feminino,1,Perder peso,68.4
+5448,36,Masculino,2,Reabilitação,57.0
+5449,19,Outro,3,Ganhar massa,57.4
+5450,36,Feminino,5,Reabilitação,50.7
+5451,31,Feminino,4,Ganhar massa,46.8
+5452,27,Masculino,3,Reabilitação,62.8
+5453,36,Feminino,6,Perder peso,63.2
+5454,25,Masculino,5,Ganhar massa,45.1
+5455,53,Masculino,2,Ganhar massa,54.4
+5456,55,Outro,6,Perder peso,
+5457,53,Outro,3,Ganhar massa,61.3
+5458,25,Outro,6,Reabilitação,57.6
+5459,63,Feminino,4,Manter forma,21.9
+5460,44,Masculino,5,Ganhar massa,60.4
+5461,33,Feminino,1,Manter forma,39.0
+5462,59,Outro,1,Perder peso,51.8
+5463,32,Outro,3,Manter forma,50.9
+5464,29,Masculino,5,Perder peso,44.3
+5465,63,Masculino,3,Manter forma,68.8
+5466,26,Outro,6,Ganhar massa,56.3
+5467,37,Masculino,3,Perder peso,34.7
+5468,23,Outro,6,Reabilitação,41.5
+5469,23,Masculino,4,Reabilitação,58.1
+5470,57,Feminino,2,Reabilitação,52.5
+5471,47,Masculino,2,Reabilitação,48.9
+5472,49,Outro,6,Reabilitação,66.8
+5473,28,Masculino,1,Manter forma,43.4
+5474,60,Outro,5,Reabilitação,51.2
+5475,18,Outro,2,Manter forma,42.2
+5476,59,Outro,6,Manter forma,53.4
+5477,50,Outro,2,Reabilitação,87.3
+5478,31,Feminino,2,Ganhar massa,49.8
+5479,64,Masculino,2,Perder peso,57.6
+5480,62,Masculino,5,Perder peso,64.7
+5481,26,Outro,6,Ganhar massa,25.3
+5482,26,Feminino,6,Reabilitação,72.7
+5483,56,Feminino,1,Ganhar massa,35.7
+5484,39,Outro,5,Perder peso,54.0
+5485,55,Masculino,1,Reabilitação,45.2
+5486,53,Outro,1,Reabilitação,62.7
+5487,39,Outro,1,Manter forma,70.5
+5488,51,Masculino,5,Manter forma,69.4
+5489,59,Outro,1,Reabilitação,37.5
+5490,47,Outro,2,Reabilitação,42.9
+5491,24,Masculino,6,Ganhar massa,37.6
+5492,21,Outro,4,Manter forma,68.0
+5493,36,Masculino,5,Reabilitação,54.4
+5494,29,Masculino,1,Ganhar massa,56.7
+5495,29,Feminino,5,Manter forma,63.4
+5496,18,Masculino,5,Ganhar massa,51.2
+5497,57,Masculino,4,Manter forma,75.1
+5498,20,Outro,2,Manter forma,51.1
+5499,31,Outro,5,Reabilitação,54.1
