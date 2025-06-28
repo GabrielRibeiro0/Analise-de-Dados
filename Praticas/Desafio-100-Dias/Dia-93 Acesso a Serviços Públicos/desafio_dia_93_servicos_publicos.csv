@@ -1,0 +1,501 @@
+id_cidadao,bairro,genero,idade,servico_acessado,avaliacao_servico
+9000,Zona Leste,Masculino,28,Segurança,5.0
+9001,Zona Oeste,Feminino,36,Transporte,5.0
+9002,Centro,Outro,53,Segurança,5.0
+9003,Zona Norte,Masculino,50,Transporte,5.0
+9004,Centro,Feminino,54,Transporte,2.0
+9005,Zona Oeste,Outro,20,Lazer,4.0
+9006,Zona Oeste,Feminino,43,Segurança,4.0
+9007,Zona Norte,Masculino,22,Educação,3.0
+9008,Zona Leste,Feminino,30,Saúde,4.0
+9009,Zona Norte,Masculino,29,Transporte,5.0
+9010,Zona Sul,Outro,55,Educação,3.0
+9011,Zona Norte,Masculino,30,Transporte,4.0
+9012,Centro,Masculino,40,Segurança,3.0
+9013,Centro,Feminino,58,Lazer,3.0
+9014,Centro,Outro,42,Educação,2.0
+9015,Zona Norte,Feminino,60,Educação,1.0
+9016,Zona Leste,Masculino,24,Transporte,3.0
+9017,Zona Oeste,Feminino,35,Lazer,4.0
+9018,Zona Leste,Masculino,48,Educação,5.0
+9019,Zona Norte,Feminino,64,Saúde,4.0
+9020,Zona Norte,Masculino,42,Saúde,4.0
+9021,Zona Sul,Masculino,38,Transporte,3.0
+9022,Centro,Outro,31,Segurança,4.0
+9023,Zona Norte,Feminino,26,Lazer,3.0
+9024,Zona Leste,Feminino,60,Educação,
+9025,Zona Leste,Outro,28,Saúde,3.0
+9026,Zona Oeste,Outro,66,Lazer,3.0
+9027,Zona Sul,Masculino,69,Segurança,2.0
+9028,Zona Norte,Masculino,39,Lazer,2.0
+9029,Zona Leste,Masculino,23,Segurança,1.0
+9030,Zona Norte,Outro,37,Transporte,3.0
+9031,Zona Leste,Feminino,41,Lazer,3.0
+9032,Zona Norte,Outro,61,Saúde,3.0
+9033,Zona Oeste,Outro,64,Saúde,4.0
+9034,Centro,Masculino,64,Educação,3.0
+9035,Zona Norte,Masculino,46,Segurança,5.0
+9036,Zona Norte,Masculino,49,Educação,4.0
+9037,Centro,Outro,30,Educação,3.0
+9038,Zona Sul,Feminino,20,Educação,4.0
+9039,Zona Sul,Outro,57,Lazer,3.0
+9040,Zona Oeste,Feminino,68,Segurança,3.0
+9041,Centro,Feminino,21,Transporte,4.0
+9042,Zona Sul,Outro,45,Lazer,5.0
+9043,Zona Leste,Feminino,32,Lazer,3.0
+9044,Zona Oeste,Outro,44,Lazer,2.0
+9045,Zona Leste,Masculino,43,Segurança,4.0
+9046,Zona Norte,Masculino,40,Transporte,3.0
+9047,Zona Leste,Outro,26,Educação,3.0
+9048,Centro,Outro,22,Segurança,5.0
+9049,Zona Sul,Outro,44,Segurança,4.0
+9050,Zona Norte,Masculino,55,Lazer,3.0
+9051,Centro,Outro,36,Transporte,3.0
+9052,Zona Oeste,Outro,59,Lazer,3.0
+9053,Zona Sul,Outro,21,Saúde,4.0
+9054,Zona Sul,Masculino,30,Lazer,3.0
+9055,Zona Leste,Masculino,37,Educação,3.0
+9056,Zona Leste,Masculino,49,Transporte,3.0
+9057,Zona Leste,Feminino,65,Transporte,2.0
+9058,Centro,Outro,62,Saúde,3.0
+9059,Zona Sul,Masculino,36,Educação,3.0
+9060,Zona Leste,Masculino,69,Educação,2.0
+9061,Centro,Outro,20,Saúde,3.0
+9062,Zona Sul,Feminino,47,Saúde,5.0
+9063,Zona Sul,Masculino,68,Saúde,4.0
+9064,Zona Oeste,Masculino,18,Transporte,3.0
+9065,Centro,Feminino,19,Segurança,4.0
+9066,Zona Sul,Feminino,41,Saúde,3.0
+9067,Zona Sul,Outro,36,Educação,5.0
+9068,Zona Oeste,Masculino,35,Segurança,2.0
+9069,Zona Norte,Feminino,66,Educação,1.0
+9070,Zona Leste,Masculino,54,Educação,4.0
+9071,Zona Leste,Outro,62,Transporte,3.0
+9072,Zona Oeste,Outro,61,Saúde,4.0
+9073,Centro,Masculino,49,Transporte,
+9074,Centro,Masculino,30,Educação,5.0
+9075,Zona Oeste,Outro,42,Saúde,
+9076,Zona Sul,Outro,30,Lazer,
+9077,Zona Sul,Feminino,47,Segurança,4.0
+9078,Centro,Masculino,25,Lazer,4.0
+9079,Zona Sul,Feminino,45,Educação,4.0
+9080,Zona Leste,Feminino,45,Lazer,3.0
+9081,Centro,Masculino,41,Segurança,4.0
+9082,Zona Leste,Outro,28,Saúde,3.0
+9083,Zona Norte,Masculino,66,Saúde,4.0
+9084,Zona Oeste,Outro,33,Transporte,2.0
+9085,Zona Sul,Feminino,28,Segurança,4.0
+9086,Zona Norte,Outro,41,Transporte,3.0
+9087,Zona Oeste,Masculino,64,Saúde,3.0
+9088,Centro,Feminino,18,Transporte,4.0
+9089,Centro,Feminino,57,Lazer,3.0
+9090,Zona Leste,Masculino,49,Educação,4.0
+9091,Zona Norte,Feminino,21,Transporte,3.0
+9092,Zona Sul,Masculino,66,Lazer,4.0
+9093,Centro,Outro,20,Educação,4.0
+9094,Centro,Feminino,22,Lazer,3.0
+9095,Zona Norte,Masculino,41,Transporte,5.0
+9096,Centro,Masculino,46,Saúde,4.0
+9097,Zona Leste,Masculino,26,Educação,5.0
+9098,Centro,Masculino,22,Saúde,4.0
+9099,Zona Oeste,Feminino,33,Saúde,1.0
+9100,Centro,Outro,28,Segurança,2.0
+9101,Zona Oeste,Feminino,47,Segurança,4.0
+9102,Zona Oeste,Outro,23,Saúde,5.0
+9103,Zona Leste,Feminino,19,Transporte,4.0
+9104,Zona Oeste,Feminino,36,Segurança,2.0
+9105,Zona Sul,Feminino,31,Lazer,4.0
+9106,Zona Norte,Masculino,22,Saúde,3.0
+9107,Zona Sul,Masculino,31,Segurança,5.0
+9108,Centro,Feminino,23,Segurança,2.0
+9109,Centro,Outro,55,Segurança,4.0
+9110,Centro,Outro,65,Segurança,1.0
+9111,Zona Norte,Feminino,36,Saúde,5.0
+9112,Zona Oeste,Feminino,48,Educação,2.0
+9113,Zona Sul,Feminino,48,Lazer,5.0
+9114,Zona Norte,Masculino,19,Educação,3.0
+9115,Zona Oeste,Masculino,32,Saúde,4.0
+9116,Zona Norte,Outro,42,Saúde,3.0
+9117,Centro,Masculino,69,Transporte,3.0
+9118,Zona Leste,Outro,55,Lazer,5.0
+9119,Zona Leste,Feminino,26,Saúde,4.0
+9120,Zona Oeste,Feminino,27,Educação,
+9121,Zona Norte,Feminino,49,Educação,5.0
+9122,Zona Sul,Feminino,20,Lazer,4.0
+9123,Zona Leste,Masculino,21,Saúde,1.0
+9124,Zona Leste,Outro,26,Transporte,1.0
+9125,Centro,Feminino,46,Educação,5.0
+9126,Zona Oeste,Masculino,53,Saúde,4.0
+9127,Zona Norte,Feminino,53,Saúde,4.0
+9128,Centro,Feminino,53,Segurança,3.0
+9129,Zona Sul,Masculino,36,Segurança,5.0
+9130,Zona Leste,Masculino,56,Lazer,1.0
+9131,Zona Leste,Masculino,27,Lazer,4.0
+9132,Zona Leste,Feminino,41,Saúde,3.0
+9133,Zona Oeste,Masculino,61,Lazer,4.0
+9134,Zona Leste,Feminino,38,Saúde,4.0
+9135,Zona Oeste,Outro,43,Educação,3.0
+9136,Zona Leste,Outro,59,Saúde,4.0
+9137,Zona Oeste,Masculino,55,Saúde,5.0
+9138,Centro,Masculino,58,Saúde,3.0
+9139,Centro,Feminino,43,Segurança,1.0
+9140,Centro,Outro,59,Lazer,1.0
+9141,Centro,Outro,23,Saúde,3.0
+9142,Zona Sul,Feminino,62,Segurança,5.0
+9143,Zona Leste,Masculino,27,Segurança,4.0
+9144,Zona Sul,Outro,30,Lazer,3.0
+9145,Zona Leste,Masculino,28,Segurança,4.0
+9146,Zona Leste,Feminino,23,Lazer,3.0
+9147,Zona Leste,Feminino,19,Segurança,5.0
+9148,Centro,Feminino,40,Saúde,3.0
+9149,Zona Sul,Feminino,43,Saúde,1.0
+9150,Zona Norte,Outro,62,Segurança,1.0
+9151,Zona Leste,Outro,39,Segurança,4.0
+9152,Zona Leste,Feminino,27,Segurança,3.0
+9153,Zona Norte,Outro,62,Segurança,3.0
+9154,Centro,Outro,34,Saúde,
+9155,Centro,Feminino,55,Transporte,4.0
+9156,Centro,Feminino,22,Saúde,1.0
+9157,Centro,Masculino,49,Segurança,5.0
+9158,Zona Leste,Feminino,28,Transporte,5.0
+9159,Zona Norte,Outro,27,Educação,3.0
+9160,Zona Oeste,Outro,25,Segurança,5.0
+9161,Centro,Feminino,44,Educação,5.0
+9162,Zona Leste,Outro,45,Educação,1.0
+9163,Zona Leste,Feminino,27,Lazer,4.0
+9164,Zona Oeste,Outro,60,Saúde,4.0
+9165,Zona Sul,Feminino,28,Segurança,3.0
+9166,Zona Leste,Feminino,27,Educação,5.0
+9167,Zona Norte,Feminino,55,Lazer,3.0
+9168,Zona Leste,Outro,21,Educação,4.0
+9169,Zona Oeste,Masculino,55,Educação,4.0
+9170,Zona Norte,Outro,61,Segurança,5.0
+9171,Zona Sul,Feminino,26,Segurança,3.0
+9172,Zona Norte,Feminino,61,Transporte,3.0
+9173,Centro,Masculino,63,Transporte,3.0
+9174,Zona Leste,Outro,28,Saúde,2.0
+9175,Centro,Outro,32,Saúde,5.0
+9176,Zona Norte,Outro,29,Saúde,2.0
+9177,Zona Sul,Feminino,39,Transporte,3.0
+9178,Zona Oeste,Masculino,69,Educação,3.0
+9179,Zona Sul,Outro,41,Segurança,4.0
+9180,Zona Norte,Outro,53,Transporte,4.0
+9181,Centro,Outro,30,Educação,2.0
+9182,Zona Sul,Masculino,41,Segurança,4.0
+9183,Centro,Outro,22,Lazer,4.0
+9184,Zona Leste,Feminino,66,Saúde,1.0
+9185,Centro,Feminino,50,Segurança,3.0
+9186,Zona Sul,Masculino,19,Segurança,1.0
+9187,Zona Leste,Feminino,28,Transporte,5.0
+9188,Zona Norte,Outro,39,Transporte,4.0
+9189,Zona Leste,Masculino,62,Transporte,4.0
+9190,Centro,Outro,36,Transporte,3.0
+9191,Zona Norte,Outro,19,Saúde,1.0
+9192,Zona Sul,Masculino,50,Educação,3.0
+9193,Centro,Feminino,27,Transporte,1.0
+9194,Zona Leste,Masculino,23,Saúde,1.0
+9195,Zona Oeste,Outro,38,Transporte,1.0
+9196,Centro,Feminino,37,Saúde,3.0
+9197,Zona Sul,Outro,67,Segurança,
+9198,Centro,Feminino,48,Transporte,
+9199,Zona Leste,Outro,43,Transporte,5.0
+9200,Centro,Feminino,54,Transporte,3.0
+9201,Centro,Feminino,55,Lazer,4.0
+9202,Zona Leste,Outro,29,Lazer,2.0
+9203,Zona Oeste,Masculino,57,Lazer,2.0
+9204,Zona Leste,Feminino,28,Transporte,4.0
+9205,Zona Oeste,Feminino,68,Lazer,2.0
+9206,Zona Sul,Feminino,18,Educação,2.0
+9207,Zona Leste,Feminino,56,Saúde,5.0
+9208,Zona Oeste,Feminino,62,Saúde,2.0
+9209,Zona Sul,Outro,61,Educação,3.0
+9210,Zona Sul,Outro,68,Saúde,1.0
+9211,Zona Sul,Outro,49,Segurança,1.0
+9212,Zona Leste,Feminino,23,Lazer,5.0
+9213,Zona Oeste,Masculino,68,Saúde,4.0
+9214,Zona Leste,Outro,60,Lazer,3.0
+9215,Zona Oeste,Outro,43,Lazer,2.0
+9216,Zona Sul,Outro,29,Saúde,3.0
+9217,Zona Leste,Masculino,44,Segurança,5.0
+9218,Centro,Outro,25,Lazer,1.0
+9219,Zona Norte,Masculino,31,Lazer,5.0
+9220,Zona Sul,Masculino,37,Transporte,4.0
+9221,Zona Sul,Feminino,18,Transporte,5.0
+9222,Zona Oeste,Masculino,31,Segurança,4.0
+9223,Zona Norte,Masculino,18,Transporte,5.0
+9224,Zona Norte,Masculino,30,Educação,4.0
+9225,Zona Norte,Feminino,32,Segurança,4.0
+9226,Centro,Masculino,67,Saúde,3.0
+9227,Zona Oeste,Outro,61,Transporte,4.0
+9228,Zona Sul,Masculino,58,Transporte,5.0
+9229,Zona Oeste,Outro,32,Transporte,4.0
+9230,Zona Leste,Masculino,56,Transporte,1.0
+9231,Zona Sul,Feminino,27,Saúde,4.0
+9232,Centro,Outro,24,Saúde,5.0
+9233,Zona Sul,Masculino,39,Saúde,5.0
+9234,Zona Oeste,Masculino,26,Saúde,1.0
+9235,Zona Sul,Feminino,36,Lazer,4.0
+9236,Zona Norte,Outro,53,Saúde,4.0
+9237,Centro,Masculino,23,Transporte,3.0
+9238,Zona Oeste,Outro,27,Transporte,5.0
+9239,Zona Sul,Feminino,25,Transporte,3.0
+9240,Centro,Masculino,27,Educação,4.0
+9241,Zona Oeste,Feminino,34,Educação,3.0
+9242,Centro,Feminino,62,Transporte,1.0
+9243,Zona Oeste,Outro,47,Saúde,1.0
+9244,Zona Oeste,Feminino,28,Segurança,5.0
+9245,Zona Norte,Masculino,29,Lazer,4.0
+9246,Zona Leste,Outro,42,Lazer,
+9247,Zona Oeste,Masculino,47,Educação,4.0
+9248,Zona Norte,Outro,28,Saúde,5.0
+9249,Zona Sul,Feminino,65,Lazer,4.0
+9250,Zona Leste,Feminino,69,Segurança,4.0
+9251,Zona Oeste,Outro,44,Lazer,5.0
+9252,Centro,Outro,20,Transporte,3.0
+9253,Zona Sul,Outro,26,Educação,
+9254,Zona Oeste,Outro,29,Saúde,4.0
+9255,Zona Leste,Masculino,28,Saúde,5.0
+9256,Zona Sul,Masculino,28,Lazer,5.0
+9257,Centro,Outro,40,Educação,4.0
+9258,Zona Leste,Outro,22,Transporte,
+9259,Zona Norte,Feminino,61,Educação,4.0
+9260,Zona Leste,Outro,43,Lazer,4.0
+9261,Centro,Outro,31,Segurança,4.0
+9262,Centro,Outro,23,Educação,2.0
+9263,Centro,Outro,61,Educação,3.0
+9264,Zona Leste,Masculino,50,Saúde,5.0
+9265,Centro,Feminino,23,Transporte,3.0
+9266,Zona Norte,Feminino,43,Lazer,5.0
+9267,Zona Sul,Outro,66,Lazer,4.0
+9268,Zona Oeste,Masculino,19,Segurança,4.0
+9269,Centro,Masculino,68,Educação,5.0
+9270,Zona Leste,Outro,68,Saúde,1.0
+9271,Zona Leste,Feminino,60,Educação,3.0
+9272,Zona Sul,Outro,39,Lazer,2.0
+9273,Zona Norte,Masculino,63,Segurança,2.0
+9274,Zona Leste,Outro,64,Transporte,3.0
+9275,Zona Sul,Outro,30,Saúde,3.0
+9276,Zona Norte,Masculino,18,Saúde,4.0
+9277,Zona Leste,Feminino,61,Segurança,3.0
+9278,Zona Oeste,Masculino,67,Lazer,1.0
+9279,Zona Oeste,Feminino,24,Educação,3.0
+9280,Zona Oeste,Feminino,19,Segurança,3.0
+9281,Zona Norte,Masculino,54,Lazer,
+9282,Zona Leste,Feminino,43,Segurança,4.0
+9283,Zona Sul,Feminino,67,Educação,5.0
+9284,Centro,Outro,45,Saúde,1.0
+9285,Zona Sul,Outro,47,Lazer,4.0
+9286,Zona Oeste,Feminino,30,Educação,4.0
+9287,Centro,Masculino,30,Transporte,3.0
+9288,Zona Oeste,Feminino,38,Saúde,3.0
+9289,Centro,Feminino,25,Transporte,2.0
+9290,Zona Oeste,Outro,36,Transporte,3.0
+9291,Zona Norte,Outro,37,Transporte,5.0
+9292,Zona Leste,Feminino,26,Educação,4.0
+9293,Zona Leste,Feminino,59,Educação,4.0
+9294,Zona Sul,Feminino,26,Educação,2.0
+9295,Centro,Masculino,68,Transporte,2.0
+9296,Zona Sul,Masculino,20,Lazer,5.0
+9297,Zona Oeste,Outro,40,Lazer,4.0
+9298,Zona Oeste,Masculino,33,Segurança,3.0
+9299,Centro,Masculino,30,Segurança,4.0
+9300,Zona Sul,Feminino,58,Saúde,3.0
+9301,Zona Sul,Masculino,23,Lazer,1.0
+9302,Centro,Outro,63,Educação,2.0
+9303,Zona Leste,Feminino,67,Saúde,5.0
+9304,Centro,Feminino,29,Saúde,2.0
+9305,Centro,Masculino,48,Segurança,3.0
+9306,Zona Norte,Outro,37,Educação,3.0
+9307,Zona Leste,Outro,24,Lazer,5.0
+9308,Zona Leste,Masculino,41,Segurança,5.0
+9309,Centro,Masculino,20,Educação,4.0
+9310,Zona Norte,Masculino,60,Saúde,4.0
+9311,Zona Oeste,Masculino,37,Segurança,3.0
+9312,Zona Oeste,Outro,51,Transporte,3.0
+9313,Zona Sul,Masculino,38,Lazer,1.0
+9314,Zona Sul,Masculino,38,Transporte,3.0
+9315,Zona Leste,Feminino,57,Educação,1.0
+9316,Centro,Masculino,38,Transporte,4.0
+9317,Centro,Masculino,58,Educação,4.0
+9318,Zona Sul,Masculino,57,Saúde,3.0
+9319,Zona Oeste,Feminino,31,Lazer,3.0
+9320,Centro,Masculino,65,Educação,3.0
+9321,Zona Leste,Masculino,45,Educação,4.0
+9322,Zona Oeste,Outro,24,Educação,3.0
+9323,Zona Leste,Masculino,38,Educação,5.0
+9324,Zona Norte,Outro,48,Lazer,1.0
+9325,Centro,Masculino,58,Transporte,4.0
+9326,Zona Sul,Outro,25,Transporte,2.0
+9327,Zona Sul,Masculino,25,Lazer,4.0
+9328,Centro,Outro,45,Lazer,4.0
+9329,Zona Oeste,Masculino,25,Segurança,4.0
+9330,Zona Oeste,Outro,39,Lazer,2.0
+9331,Zona Oeste,Outro,33,Lazer,2.0
+9332,Zona Leste,Feminino,44,Lazer,5.0
+9333,Zona Leste,Feminino,65,Saúde,3.0
+9334,Zona Norte,Feminino,25,Saúde,1.0
+9335,Centro,Feminino,32,Transporte,4.0
+9336,Zona Oeste,Masculino,20,Lazer,2.0
+9337,Zona Sul,Masculino,21,Segurança,3.0
+9338,Zona Norte,Feminino,24,Segurança,5.0
+9339,Zona Oeste,Outro,44,Transporte,3.0
+9340,Zona Oeste,Feminino,28,Segurança,4.0
+9341,Zona Norte,Masculino,48,Transporte,3.0
+9342,Zona Leste,Masculino,67,Educação,5.0
+9343,Zona Leste,Masculino,40,Educação,5.0
+9344,Centro,Feminino,33,Segurança,2.0
+9345,Zona Oeste,Masculino,55,Saúde,4.0
+9346,Zona Sul,Outro,52,Saúde,3.0
+9347,Zona Norte,Masculino,67,Lazer,5.0
+9348,Zona Sul,Outro,36,Lazer,4.0
+9349,Zona Leste,Masculino,36,Lazer,4.0
+9350,Zona Leste,Masculino,69,Educação,4.0
+9351,Zona Norte,Feminino,33,Segurança,3.0
+9352,Zona Sul,Masculino,65,Transporte,4.0
+9353,Zona Oeste,Masculino,58,Saúde,3.0
+9354,Zona Leste,Feminino,56,Transporte,4.0
+9355,Centro,Outro,38,Saúde,4.0
+9356,Centro,Outro,20,Educação,3.0
+9357,Zona Leste,Feminino,22,Segurança,5.0
+9358,Zona Norte,Masculino,23,Educação,3.0
+9359,Zona Oeste,Feminino,49,Educação,5.0
+9360,Centro,Masculino,61,Educação,5.0
+9361,Centro,Outro,59,Saúde,3.0
+9362,Centro,Masculino,51,Saúde,3.0
+9363,Zona Leste,Masculino,55,Saúde,3.0
+9364,Centro,Masculino,40,Transporte,3.0
+9365,Zona Sul,Outro,59,Lazer,3.0
+9366,Centro,Feminino,36,Segurança,5.0
+9367,Zona Sul,Feminino,69,Transporte,1.0
+9368,Centro,Outro,21,Lazer,
+9369,Zona Oeste,Masculino,66,Transporte,4.0
+9370,Zona Leste,Masculino,21,Saúde,4.0
+9371,Centro,Feminino,50,Lazer,5.0
+9372,Zona Oeste,Masculino,30,Segurança,2.0
+9373,Zona Norte,Masculino,22,Educação,5.0
+9374,Zona Norte,Outro,46,Transporte,5.0
+9375,Zona Oeste,Masculino,43,Educação,1.0
+9376,Zona Norte,Outro,58,Saúde,4.0
+9377,Zona Leste,Outro,53,Transporte,4.0
+9378,Zona Sul,Feminino,29,Saúde,1.0
+9379,Zona Leste,Feminino,61,Lazer,2.0
+9380,Zona Oeste,Feminino,61,Segurança,5.0
+9381,Zona Norte,Outro,63,Lazer,4.0
+9382,Centro,Outro,32,Segurança,3.0
+9383,Zona Oeste,Masculino,51,Educação,2.0
+9384,Zona Norte,Masculino,42,Segurança,3.0
+9385,Centro,Masculino,57,Educação,5.0
+9386,Centro,Masculino,67,Educação,1.0
+9387,Zona Leste,Feminino,30,Transporte,3.0
+9388,Zona Leste,Outro,38,Educação,3.0
+9389,Zona Leste,Outro,23,Lazer,3.0
+9390,Zona Norte,Outro,63,Transporte,4.0
+9391,Zona Oeste,Feminino,20,Saúde,
+9392,Zona Leste,Masculino,59,Educação,4.0
+9393,Zona Sul,Feminino,56,Transporte,3.0
+9394,Centro,Masculino,22,Transporte,4.0
+9395,Centro,Outro,44,Saúde,5.0
+9396,Zona Oeste,Outro,58,Saúde,3.0
+9397,Centro,Feminino,21,Lazer,
+9398,Zona Norte,Outro,32,Segurança,2.0
+9399,Zona Norte,Masculino,62,Segurança,1.0
+9400,Zona Leste,Masculino,37,Transporte,3.0
+9401,Zona Norte,Masculino,51,Transporte,
+9402,Zona Oeste,Feminino,21,Saúde,3.0
+9403,Zona Sul,Feminino,28,Lazer,4.0
+9404,Zona Leste,Masculino,67,Transporte,5.0
+9405,Zona Leste,Outro,49,Lazer,2.0
+9406,Zona Oeste,Feminino,69,Saúde,3.0
+9407,Zona Leste,Feminino,52,Educação,4.0
+9408,Zona Norte,Feminino,55,Transporte,5.0
+9409,Zona Norte,Masculino,21,Transporte,3.0
+9410,Zona Leste,Feminino,57,Transporte,3.0
+9411,Centro,Feminino,24,Saúde,3.0
+9412,Zona Sul,Outro,35,Educação,4.0
+9413,Zona Oeste,Masculino,35,Transporte,2.0
+9414,Zona Sul,Masculino,62,Transporte,3.0
+9415,Zona Oeste,Feminino,69,Segurança,5.0
+9416,Centro,Feminino,53,Educação,2.0
+9417,Zona Sul,Feminino,23,Saúde,4.0
+9418,Zona Norte,Masculino,36,Transporte,3.0
+9419,Zona Norte,Masculino,66,Segurança,3.0
+9420,Zona Norte,Outro,59,Transporte,1.0
+9421,Zona Leste,Outro,20,Saúde,4.0
+9422,Zona Sul,Feminino,37,Transporte,3.0
+9423,Zona Norte,Outro,46,Lazer,1.0
+9424,Zona Sul,Outro,61,Segurança,4.0
+9425,Zona Norte,Feminino,36,Segurança,5.0
+9426,Zona Oeste,Outro,23,Segurança,2.0
+9427,Zona Sul,Feminino,53,Segurança,2.0
+9428,Zona Norte,Outro,54,Saúde,4.0
+9429,Zona Sul,Feminino,31,Transporte,5.0
+9430,Centro,Outro,34,Lazer,3.0
+9431,Zona Oeste,Masculino,47,Transporte,4.0
+9432,Zona Leste,Feminino,19,Lazer,3.0
+9433,Zona Norte,Feminino,26,Educação,3.0
+9434,Zona Oeste,Masculino,22,Transporte,5.0
+9435,Zona Oeste,Outro,52,Saúde,3.0
+9436,Centro,Outro,27,Educação,4.0
+9437,Centro,Masculino,36,Segurança,
+9438,Zona Norte,Feminino,45,Segurança,4.0
+9439,Zona Sul,Outro,68,Transporte,5.0
+9440,Zona Leste,Masculino,49,Saúde,5.0
+9441,Zona Oeste,Feminino,20,Transporte,3.0
+9442,Zona Sul,Feminino,57,Transporte,5.0
+9443,Zona Sul,Outro,54,Saúde,3.0
+9444,Centro,Feminino,45,Saúde,3.0
+9445,Zona Oeste,Masculino,53,Transporte,3.0
+9446,Zona Leste,Feminino,63,Lazer,2.0
+9447,Zona Norte,Masculino,52,Transporte,4.0
+9448,Centro,Masculino,40,Educação,3.0
+9449,Centro,Outro,60,Educação,5.0
+9450,Zona Sul,Feminino,58,Segurança,3.0
+9451,Zona Leste,Outro,61,Saúde,4.0
+9452,Centro,Outro,66,Transporte,1.0
+9453,Centro,Outro,24,Educação,3.0
+9454,Zona Sul,Outro,26,Educação,3.0
+9455,Zona Oeste,Masculino,61,Segurança,1.0
+9456,Zona Oeste,Feminino,37,Educação,4.0
+9457,Zona Leste,Feminino,50,Segurança,2.0
+9458,Zona Oeste,Outro,44,Transporte,5.0
+9459,Zona Sul,Outro,67,Segurança,5.0
+9460,Centro,Feminino,24,Saúde,3.0
+9461,Zona Norte,Feminino,61,Transporte,3.0
+9462,Zona Norte,Feminino,34,Lazer,1.0
+9463,Zona Leste,Masculino,46,Segurança,5.0
+9464,Zona Sul,Outro,59,Lazer,
+9465,Zona Sul,Masculino,43,Educação,4.0
+9466,Zona Oeste,Masculino,24,Transporte,
+9467,Zona Norte,Masculino,65,Lazer,3.0
+9468,Zona Sul,Feminino,27,Segurança,4.0
+9469,Centro,Outro,40,Segurança,3.0
+9470,Zona Oeste,Feminino,48,Saúde,3.0
+9471,Zona Sul,Outro,45,Educação,4.0
+9472,Zona Sul,Feminino,54,Educação,4.0
+9473,Zona Leste,Feminino,23,Segurança,5.0
+9474,Zona Sul,Masculino,25,Transporte,4.0
+9475,Centro,Masculino,37,Saúde,4.0
+9476,Zona Oeste,Masculino,36,Saúde,3.0
+9477,Zona Leste,Outro,28,Saúde,4.0
+9478,Zona Norte,Feminino,64,Segurança,2.0
+9479,Centro,Feminino,42,Transporte,5.0
+9480,Zona Leste,Feminino,58,Transporte,3.0
+9481,Centro,Outro,42,Saúde,1.0
+9482,Centro,Feminino,52,Educação,4.0
+9483,Centro,Outro,37,Transporte,3.0
+9484,Zona Sul,Feminino,66,Lazer,3.0
+9485,Zona Oeste,Masculino,44,Saúde,4.0
+9486,Zona Oeste,Masculino,44,Educação,4.0
+9487,Centro,Feminino,57,Segurança,5.0
+9488,Zona Norte,Feminino,51,Saúde,
+9489,Zona Norte,Outro,27,Segurança,3.0
+9490,Zona Norte,Masculino,44,Transporte,3.0
+9491,Zona Oeste,Masculino,54,Segurança,4.0
+9492,Zona Oeste,Masculino,28,Lazer,4.0
+9493,Zona Oeste,Outro,46,Transporte,3.0
+9494,Zona Norte,Outro,51,Lazer,5.0
+9495,Zona Oeste,Masculino,51,Transporte,4.0
+9496,Zona Oeste,Feminino,25,Saúde,2.0
+9497,Zona Sul,Feminino,58,Lazer,3.0
+9498,Zona Norte,Outro,45,Educação,3.0
+9499,Zona Oeste,Outro,60,Lazer,4.0
