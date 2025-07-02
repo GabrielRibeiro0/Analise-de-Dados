@@ -1,0 +1,201 @@
+id_usuario,dia_semana,modo_transporte,tempo_deslocamento_min,distancia_km
+1474,Quarta,Ônibus,43.2,12.3
+1554,Quinta,Bicicleta,30.9,11.0
+1180,Quarta,Metrô,43.6,17.9
+1447,Segunda,Carro,40.2,9.4
+1603,Quarta,A Pé,30.6,15.4
+1985,Quarta,Carro,31.5,20.2
+1065,Segunda,Metrô,40.7,12.7
+1708,Quarta,Ônibus,37.7,14.4
+1071,Quinta,Metrô,40.6,13.2
+1806,Terça,Ônibus,34.7,11.6
+1489,Quarta,Bicicleta,19.5,6.1
+1514,Quinta,Bicicleta,50.2,11.0
+1791,Quinta,Ônibus,44.6,4.5
+1002,Segunda,Bicicleta,27.7,13.3
+1841,Sexta,Ônibus,47.6,13.2
+1329,Quarta,Bicicleta,25.7,8.5
+1917,Terça,Carro,38.5,16.6
+1386,Quarta,Metrô,28.0,16.0
+1986,Terça,A Pé,29.6,4.6
+1873,Sexta,A Pé,21.4,10.7
+1387,Quarta,Bicicleta,42.9,10.4
+1719,Segunda,Bicicleta,40.4,4.1
+1859,Segunda,Ônibus,15.1,5.0
+1999,Quarta,Ônibus,29.7,15.4
+1708,Quinta,Metrô,41.8,13.4
+1774,Terça,Metrô,23.5,14.0
+1340,Terça,Metrô,31.6,8.9
+1201,Terça,A Pé,29.1,11.1
+1914,Sexta,A Pé,43.6,16.0
+1758,Quarta,Ônibus,40.2,8.8
+1009,Sexta,Carro,35.5,16.1
+1661,Quinta,Carro,35.0,9.4
+1213,Segunda,Metrô,,15.8
+1630,Quarta,Metrô,44.4,5.2
+1970,Quarta,Metrô,30.0,17.3
+1542,Sexta,Bicicleta,27.8,18.7
+1648,Sexta,Metrô,47.4,16.7
+1250,Segunda,Metrô,35.8,6.7
+1306,Quinta,Bicicleta,48.6,13.0
+1043,Segunda,Bicicleta,55.8,15.1
+1437,Quarta,Metrô,14.4,13.5
+1537,Quinta,Ônibus,27.4,11.6
+1214,Quarta,Metrô,17.7,11.6
+1232,Segunda,Bicicleta,29.0,12.1
+1337,Terça,Carro,39.0,7.9
+1984,Quinta,Ônibus,42.1,1.1
+1829,Sexta,Carro,28.2,16.1
+1695,Sexta,Carro,38.4,16.9
+1531,Terça,Carro,33.7,16.6
+1828,Terça,Carro,48.1,12.6
+1127,Segunda,Metrô,24.3,12.0
+1035,Sexta,Ônibus,29.4,9.5
+1620,Sexta,Bicicleta,,19.6
+1418,Quarta,Bicicleta,31.1,18.1
+1043,Quinta,Metrô,44.4,8.4
+1810,Quinta,Bicicleta,20.2,13.1
+1275,Quinta,Bicicleta,26.7,16.0
+1507,Quarta,Bicicleta,39.8,15.1
+1199,Segunda,A Pé,34.2,10.9
+1780,Quinta,Ônibus,23.6,13.9
+1364,Segunda,Ônibus,46.1,14.1
+1344,Terça,Metrô,33.0,14.0
+1071,Sexta,A Pé,36.3,15.3
+1207,Terça,Metrô,15.7,15.1
+1451,Segunda,A Pé,18.3,15.4
+1544,Terça,Bicicleta,35.5,8.1
+1424,Terça,Ônibus,31.8,9.1
+1279,Segunda,Ônibus,36.9,3.3
+1209,Segunda,Ônibus,39.5,10.1
+1707,Quinta,Carro,61.0,13.2
+1621,Terça,Bicicleta,40.6,13.9
+1024,Segunda,Carro,48.8,13.4
+1957,Sexta,Ônibus,22.3,14.7
+1619,Quarta,A Pé,47.7,20.2
+1026,Quarta,Metrô,,13.9
+1095,Quarta,Ônibus,39.4,12.5
+1093,Terça,Carro,33.7,19.5
+1192,Quinta,Metrô,46.0,12.5
+1859,Segunda,Bicicleta,44.4,11.3
+1273,Terça,A Pé,55.8,8.0
+1985,Quinta,A Pé,32.1,11.2
+1678,Quinta,Ônibus,21.7,13.6
+1571,Segunda,Bicicleta,34.2,15.6
+1642,Segunda,Ônibus,57.8,14.8
+1705,Quarta,Ônibus,59.8,13.3
+1492,Terça,Carro,41.4,9.1
+1908,Quarta,A Pé,25.9,10.8
+1560,Quarta,Carro,42.9,16.5
+1512,Terça,A Pé,39.7,16.4
+1355,Terça,Ônibus,,12.8
+1700,Segunda,Ônibus,34.8,13.4
+1828,Quinta,Bicicleta,31.0,20.2
+1801,Sexta,Ônibus,27.6,3.2
+1977,Quinta,Metrô,31.9,15.4
+1355,Terça,Ônibus,38.3,15.0
+1675,Quarta,Ônibus,34.9,11.1
+1697,Terça,Ônibus,38.5,3.6
+1467,Quarta,A Pé,,18.0
+1714,Quarta,Metrô,37.8,10.7
+1232,Quarta,Carro,43.7,14.9
+1361,Quinta,Ônibus,30.5,9.9
+1621,Sexta,A Pé,9.8,10.6
+1403,Quarta,Ônibus,,15.0
+1581,Quarta,A Pé,30.0,0.9
+1480,Sexta,Carro,50.5,7.1
+1472,Quinta,Ônibus,43.0,10.4
+1732,Sexta,Carro,32.3,16.2
+1552,Segunda,Carro,30.9,19.7
+1703,Segunda,A Pé,35.9,13.0
+1421,Sexta,Ônibus,16.5,11.2
+1431,Segunda,Bicicleta,30.7,6.5
+1617,Terça,Metrô,27.1,7.1
+1226,Terça,Bicicleta,29.9,21.2
+1079,Terça,Carro,36.4,11.5
+1344,Quarta,Metrô,47.1,16.5
+1492,Segunda,Bicicleta,39.3,20.4
+1548,Terça,A Pé,24.6,22.0
+1682,Quinta,A Pé,37.7,16.4
+1109,Quinta,Metrô,35.2,10.8
+1806,Quarta,Ônibus,41.6,10.1
+1834,Segunda,Metrô,,12.2
+1862,Quarta,Metrô,43.2,12.2
+1464,Quinta,Metrô,36.8,14.7
+1027,Sexta,Carro,29.3,5.9
+1551,Quarta,Carro,10.3,9.1
+1991,Quinta,Ônibus,35.2,12.1
+1276,Sexta,Bicicleta,45.7,11.9
+1652,Sexta,Carro,12.3,10.8
+1912,Quarta,Carro,40.8,14.6
+1643,Sexta,A Pé,33.6,20.2
+1516,Quarta,Ônibus,40.2,12.8
+1661,Quarta,Carro,40.7,12.2
+1288,Terça,Carro,30.0,11.0
+1909,Quinta,Carro,36.9,15.7
+1149,Quinta,A Pé,31.3,9.4
+1685,Segunda,Metrô,21.8,16.8
+1903,Quinta,Bicicleta,33.9,12.1
+1120,Terça,Bicicleta,21.1,15.2
+1620,Segunda,A Pé,29.1,11.9
+1545,Quarta,Ônibus,16.4,16.5
+1957,Quinta,Ônibus,35.0,14.2
+1538,Terça,A Pé,24.2,4.8
+1956,Quarta,Ônibus,30.0,22.9
+1719,Quinta,A Pé,29.7,9.8
+1833,Sexta,Carro,22.1,6.6
+1661,Sexta,Carro,39.1,14.4
+1067,Quinta,Ônibus,41.3,17.3
+1159,Quarta,A Pé,19.5,10.5
+1604,Segunda,Metrô,41.5,14.2
+1087,Quinta,A Pé,41.6,13.4
+1708,Segunda,Carro,49.7,15.6
+1854,Quarta,Carro,34.1,14.5
+1941,Sexta,A Pé,27.7,18.2
+1822,Sexta,A Pé,44.6,13.0
+1975,Quarta,Metrô,16.9,13.1
+1546,Sexta,Metrô,28.1,10.7
+1433,Sexta,Carro,31.3,8.2
+1326,Sexta,A Pé,34.1,20.0
+1603,Segunda,Carro,21.3,9.8
+1822,Terça,Carro,20.7,16.5
+1057,Terça,Ônibus,50.3,13.0
+1000,Quinta,A Pé,21.4,2.4
+1747,Terça,Carro,38.1,12.7
+1414,Terça,Metrô,13.8,15.0
+1137,Terça,Bicicleta,29.3,11.6
+1509,Terça,Carro,46.6,14.1
+1405,Quinta,Metrô,64.5,10.3
+1653,Quarta,Bicicleta,57.6,15.3
+1257,Terça,Carro,26.4,9.5
+1527,Quinta,Carro,14.0,12.6
+1331,Quinta,Bicicleta,30.3,10.3
+1440,Sexta,Metrô,25.2,14.7
+1264,Segunda,Bicicleta,39.4,17.8
+1807,Sexta,Metrô,39.0,10.2
+1917,Terça,Bicicleta,57.0,15.4
+1616,Quinta,Bicicleta,31.0,20.2
+1170,Terça,A Pé,36.7,9.4
+1682,Quarta,Bicicleta,,10.0
+1293,Segunda,Ônibus,14.2,11.7
+1018,Sexta,Carro,17.6,3.2
+1338,Terça,A Pé,31.1,11.5
+1030,Quarta,Metrô,32.1,15.9
+1474,Terça,Carro,41.0,9.7
+1975,Segunda,A Pé,32.9,13.6
+1198,Quinta,Metrô,33.1,4.8
+1707,Terça,Ônibus,45.0,9.3
+1004,Quarta,A Pé,42.4,12.3
+1746,Quarta,Ônibus,61.7,15.7
+1795,Quinta,Bicicleta,22.3,14.0
+1261,Sexta,Carro,,11.7
+1157,Quarta,Ônibus,29.1,10.0
+1542,Quarta,Metrô,26.0,11.0
+1174,Quinta,Carro,,17.0
+1562,Quinta,Bicicleta,37.6,12.5
+1529,Quarta,Ônibus,40.3,14.6
+1769,Terça,Bicicleta,28.9,15.8
+1485,Terça,Bicicleta,29.9,12.2
+1019,Quarta,Carro,26.5,11.9
+1730,Sexta,Metrô,47.7,11.3
+1085,Quinta,A Pé,22.7,10.6
